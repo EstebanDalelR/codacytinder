@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.views.AvatarView android:id="@id/img_avatar" android:layout_width="@dimen/match_frag_avatar_length" android:layout_height="@dimen/match_frag_avatar_length" android:layout_centerVertical="true" app:av_circleDiameter="@dimen/match_frag_avatar_length" app:av_style="round" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/margin_small" android:layout_toStartOf="@id/img_overflow" android:layout_toEndOf="@id/img_avatar">
+        <com.tinder.views.CustomTextView android:textSize="@dimen/match_frag_name_text_size" android:textColor="@color/ab_text_color" android:ellipsize="end" android:id="@id/chat_toolbar_user_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" app:customFontStyle="semi_bold" />
+        <com.tinder.views.BadgeView android:layout_gravity="center" android:id="@id/verified_badge" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_margin="@dimen/margin_xsmall" android:adjustViewBounds="true" />
+    </LinearLayout>
+    <com.tinder.chat.view.CensorOverflowMenu android:id="@id/img_overflow" android:background="@color/transparent" android:paddingLeft="@dimen/padding_med" android:paddingRight="@dimen/padding_med" android:layout_width="wrap_content" android:layout_height="@dimen/ab_icon_height" android:src="@drawable/overflow" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+    <com.tinder.chat.view.ChatOverflowButton android:id="@id/chat_overflow_button" android:background="@color/transparent" android:paddingLeft="@dimen/padding_med" android:paddingRight="@dimen/padding_med" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/ab_icon_height" android:src="@drawable/overflow" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+</RelativeLayout>

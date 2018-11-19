@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_s" android:layout_marginStart="@dimen/space_l" android:layout_marginEnd="@dimen/space_l">
+        <FrameLayout android:paddingBottom="@dimen/space_xxs" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleX="1.4" android:scaleY="1.4">
+            <ImageView android:id="@+id/gold_subscription_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="-4dp" android:src="@drawable/settings_tinder_gold_logo_text" android:scaleType="centerCrop"/>
+            <com.tinder.shimmy.ShimmerFrameLayout android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/settings_tinder_gold_logo_shimmer_text_background" android:scaleType="centerCrop"/>
+                <ImageView android:id="@+id/gold_subscription_logo_shimmer_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/settings_tinder_gold_logo_shimmer_text" android:scaleType="centerCrop" app:layout_shimmers="false"/>
+            </com.tinder.shimmy.ShimmerFrameLayout>
+        </FrameLayout>
+        <Space android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+        <ImageView android:id="@+id/intro_pricing_close_btn" android:background="?attr/selectableItemBackgroundBorderless" android:padding="@dimen/space_xs" android:layout_width="@c9721a/intro_pricing_close" android:layout_height="@c9721a/intro_pricing_close" android:src="@drawable/ic_close"/>
+    </LinearLayout>
+    <com.tinder.shimmy.ShimmerFrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xxs" android:layout_marginStart="@dimen/space_l" android:layout_marginEnd="@dimen/space_l">
+        <View android:background="@color/gold1" android:layout_width="@c9721a/intro_pricing_controlla_gold_line_length" android:layout_height="@dimen/space_xxs"/>
+    </com.tinder.shimmy.ShimmerFrameLayout>
+    <TextView android:textSize="@dimen/text_l" android:textColor="@color/grey_text" android:id="@+id/intro_pricing_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" android:fontFamily="@font/proximanova_extrabold" android:layout_marginStart="@dimen/space_l" android:layout_marginEnd="@dimen/space_l"/>
+    <com.tinder.base.view.IdViewAnimator android:id="@+id/intro_pricing_content_view_animator" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginTop="@dimen/space_xs" android:inAnimation="@anim/slide_in_right" android:outAnimation="@anim/slide_out_left" android:layout_weight="1">
+        <com.tinder.intropricing.paywall.view.info.IntroPricingInfoView android:id="@+id/intro_pricing_info" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.tinder.intropricing.paywall.view.offers.IntroPricingOffersView android:id="@+id/intro_pricing_offers" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </com.tinder.base.view.IdViewAnimator>
+    <com.tinder.gold.TinderGoldButtonView android:id="@+id/intro_pricing_select_continue_btn" android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginBottom="@dimen/space_s" android:layout_marginStart="@dimen/space_xl" android:layout_marginEnd="@dimen/space_xl" app:buttonText="SELECT PACKAGE"/>
+</merge>

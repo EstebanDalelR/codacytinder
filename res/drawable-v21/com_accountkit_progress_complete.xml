@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/com_accountkit_progress_complete_vector"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <target android:name="check_line" android:animation="@anim/com_accountkit_progress_complete_check_anim" />
+    <target android:name="circle_line" android:animation="@anim/com_accountkit_progress_complete_circle_anim" />
+</animated-vector>

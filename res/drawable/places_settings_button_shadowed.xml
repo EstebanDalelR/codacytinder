@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/places_settings_button_shadow" android:bottom="@dimen/places_pin_shadow_offset" />
+    <item android:drawable="@drawable/places_settings_button" />
+</layer-list>

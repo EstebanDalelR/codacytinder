@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.accountkit.ui.ConstrainedLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_marginTop="20dp" android:layout_marginBottom="5dp" android:layoutDirection="ltr" style="@c15385e/AccountKit_Container">
+    <include android:id="@+id/com_accountkit_confirmation_code_1" layout="@layout/com_accountkit_confirmation_code_input"/>
+    <Space android:layout_width="4dp" android:layout_height="match_parent"/>
+    <include android:id="@+id/com_accountkit_confirmation_code_2" layout="@layout/com_accountkit_confirmation_code_input"/>
+    <Space android:layout_width="4dp" android:layout_height="match_parent"/>
+    <include android:id="@+id/com_accountkit_confirmation_code_3" layout="@layout/com_accountkit_confirmation_code_input"/>
+    <Space android:layout_width="4dp" android:layout_height="match_parent"/>
+    <include android:id="@+id/com_accountkit_confirmation_code_4" layout="@layout/com_accountkit_confirmation_code_input"/>
+    <Space android:layout_width="4dp" android:layout_height="match_parent"/>
+    <include android:id="@+id/com_accountkit_confirmation_code_5" layout="@layout/com_accountkit_confirmation_code_input"/>
+    <Space android:layout_width="4dp" android:layout_height="match_parent"/>
+    <include android:id="@+id/com_accountkit_confirmation_code_6" layout="@layout/com_accountkit_confirmation_code_input"/>
+</com.facebook.accountkit.ui.ConstrainedLinearLayout>

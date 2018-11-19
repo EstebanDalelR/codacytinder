@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="rectangle">
+    <gradient android:startColor="@color/gradient_red" android:endColor="@color/gradient_orange" android:angle="45"/>
+    <corners android:topLeftRadius="@c14756b/button_radius" android:topRightRadius="@c14756b/button_radius" android:bottomLeftRadius="@c14756b/button_radius" android:bottomRightRadius="@c14756b/button_radius"/>
+</shape>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:background="@drawable/snap_connect_login_button_background" android:layout_width="wrap_content" android:layout_height="@dimen/snap_connect_login_button_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/snap_connect_login_button_text_size" android:textColor="@android:color/black" android:gravity="center" android:id="@id/snap_connect_login_text_button" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/snap_connect_login_button_text" android:drawablePadding="@dimen/snap_connect_login_button_icon_padding" android:drawableStart="@drawable/snap_connect_login_button_ghost" android:paddingStart="@dimen/snap_connect_login_button_padding_start" android:paddingEnd="@dimen/snap_connect_login_button_padding_end" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/snap_connect_login_loading_icon" android:visibility="gone" android:layout_width="@dimen/snap_connect_login_spinner_size" android:layout_height="@dimen/snap_connect_login_spinner_size" style="@android:style/Widget.Holo.Light.ProgressBar" />
+</FrameLayout>

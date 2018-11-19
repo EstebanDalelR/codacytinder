@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Boost</item>
+        <item>(na) Boost</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Boost</item>
+        <item>(na) Boost</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d Common Connection</item>
+        <item>%1$d (na) Common Connection</item>
+    </plurals>
+    <plurals name="day">
+        <item>araw</item>
+        <item>(na) araw</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>%1$d Araw ang Natitira</item>
+        <item>%1$d (na) Araw ang Natitira</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d km ang layo</item>
+        <item>%1$d (na) km ang layo</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d milya ang layo</item>
+        <item>%1$d (na) milya ang layo</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>araw</item>
+        <item>%1$d (na) araw</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>oras</item>
+        <item>%1$d (na) oras</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>buwan</item>
+        <item>%1$d (na) buwan</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>segundo</item>
+        <item>%1$d (na) segundo</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>linggo</item>
+        <item>%1$d (na) linggo</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Bawat %1$d Bagong Like</item>
+        <item>Bawat %1$d (na) Bagong Like</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d Friend para sa Mga Common Connection</item>
+        <item>%1$d (na) Friend para sa Mga Common Connection</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d Instagram Photo</item>
+        <item>%1$d (na) Instagram Photo</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d Interest</item>
+        <item>%1$d (na) Interest</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>bukas</item>
+        <item>sa %d (na) araw</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>sa 1 oras</item>
+        <item>sa %d (na) oras</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>sa 1 min</item>
+        <item>sa %d (na) minuto</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>sa 1 seg</item>
+        <item>sa %d (na) segundo</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>kahapon</item>
+        <item>%d (na) araw ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 oras ang nakalipas</item>
+        <item>%d (na) oras ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 minuto ang nakalipas</item>
+        <item>%d (na) minuto ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 segundo ang nakalipas</item>
+        <item>%d (na) segundo ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 oras</item>
+        <item>%d (na) oras</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 minuto</item>
+        <item>%d (na) minuto</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 segundo</item>
+        <item>%d (na) segundo</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>bukas</item>
+        <item>sa %d (na) araw</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>sa 1 oras</item>
+        <item>sa %d (na) oras</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>sa 1 minuto</item>
+        <item>sa %d (na) minuto</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>sa 1 segundo</item>
+        <item>sa %d (na) segundo</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>kahapon</item>
+        <item>%d (na) araw ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 oras ang nakalipas</item>
+        <item>%d (na) oras ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 minuto ang nakalipas</item>
+        <item>%d (na) minuto ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 segundo ang nakakalipas</item>
+        <item>%d (na) segundo ang nakalipas</item>
+    </plurals>
+    <plurals name="month">
+        <item>buwan</item>
+        <item>(na) buwan</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d photo</item>
+        <item>%1$d (na) photo</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d Bagong Bumisita</item>
+        <item>%1$d (na) mga Bagong Bumisita</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d ang Bumisita</item>
+        <item>%1$d (na) ang Bumisita</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s Bago</item>
+        <item>%1$s (na) Bago</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>buwan</item>
+        <item>(na) buwan</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>segundo</item>
+        <item>(na) segundo</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>Super Like</item>
+        <item>(na) Super Like</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s bawat %3$s</item>
+        <item>%1$d %2$s bawat %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d free %2$s bawat %3$s)</item>
+        <item>(%1$d (na) free %2$s bawat %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Bigyan mo &apos;ko ng %1$d %2$s bawat %3$s</item>
+        <item>Bigyan mo &apos;ko ng %1$d %2$s bawat %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Makakuha ng %1$d %2$s bawat %3$s at taasan ang chances ng match ng 3 times.</item>
+        <item>Makakuha ng %1$d %2$s bawat %3$s at taasan ang chances ng match ng 3 times.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s Bago</item>
+        <item>%1$s (na) Bago</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Pick</item>
+        <item>(na) Picks</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>%1$d Natitirang Pick</item>
+        <item>%1$d (na) Natitirang Picks</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>%1$dh ang natitira</item>
+        <item>%1$dh ang natitira</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>&lt;%1$dm ang natitira</item>
+        <item>&lt;%1$dm ang natitira</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>%1$dm ang natitira</item>
+        <item>%1$dm ang natitira</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>upgrade</item>
+        <item>(na) mga upgrade</item>
+    </plurals>
+    <plurals name="week">
+        <item>linggo</item>
+        <item>(na) linggo</item>
+    </plurals>
+</resources>

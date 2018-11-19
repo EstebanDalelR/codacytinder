@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <corners android:topLeftRadius="@dimen/rounded_card_radius" android:topRightRadius="@dimen/rounded_card_radius"/>
+    <gradient android:startColor="@color/boost_intro_gradient_start" android:endColor="@color/boost_intro_gradient_end" android:angle="90"/>
+</shape>

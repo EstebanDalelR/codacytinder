@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="@android:color/transparent" android:clipChildren="false" android:layout_width="@dimen/width_dialog" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:layout_gravity="center|top" android:orientation="vertical" android:background="@drawable/rounded_rectangle_white" android:paddingTop="30.0dip" android:focusable="true" android:focusableInTouchMode="true" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/dialog_is_tween_image" android:layout_width="wrap_content" android:layout_height="150.0dip" android:layout_marginLeft="@dimen/padding_small" android:layout_marginRight="@dimen/padding_small" android:layout_marginBottom="10.0dip" android:src="@drawable/is_tinder_tween_main" android:scaleType="centerInside" />
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_xs" android:textColor="@color/text_light" android:textColorLink="@color/tinder_red" android:gravity="center" android:id="@id/dialog_is_tween_body" android:paddingLeft="@dimen/padding_large" android:paddingRight="@dimen/padding_large" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_large" />
+            <LinearLayout android:orientation="vertical" android:id="@id/dialog_is_tween_edit_text_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <View android:background="@color/gray_very_very_light" android:layout_width="fill_parent" android:layout_height="@dimen/line_height_edit_text" />
+                <com.tinder.views.CustomEditText android:scrollbarStyle="outsideOverlay" android:textSize="@dimen/text_xs" android:textColorHint="@color/text_light" android:gravity="center" android:id="@id/dialog_is_tween_edit_text" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxHeight="50.0dip" android:minHeight="50.0dip" android:lines="1" android:singleLine="true" android:inputType="textEmailAddress" android:windowSoftInputMode="adjustResize" android:textCursorDrawable="@color/tinder_red" style="@style/dialog_standard_body" />
+                <View android:background="@color/gray_very_very_light" android:layout_width="fill_parent" android:layout_height="@dimen/line_height_edit_text" />
+            </LinearLayout>
+            <com.tinder.views.CustomButton android:textColor="@color/white" android:gravity="center" android:id="@id/dialog_is_tween_button" android:background="@drawable/rounded_rectangle_selector" android:paddingTop="@dimen/padding_large" android:paddingBottom="@dimen/padding_large" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_larger" android:textAllCaps="true" app:customFontStyle="semi_bold" />
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

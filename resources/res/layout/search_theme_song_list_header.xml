@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:id="@c6248a/no_theme_song_container" android:background="@drawable/rectangle_touch_feedback_white_background" android:padding="@dimen/content_padding" android:layout_width="match_parent" android:layout_height="65dp" android:layout_marginTop="30dp" style="@style/edit_profile_selection">
+        <ImageView android:id="@c6248a/no_song" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/nosong"/>
+        <com.tinder.views.CustomTextView android:textSize="18sp" android:layout_gravity="center_vertical" android:id="@c6248a/no_theme_song" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/content_padding" android:text="@string/no_theme_song" android:fontFamily="semi"/>
+    </LinearLayout>
+    <com.tinder.views.CustomTextView android:textSize="18sp" android:textColor="@color/black" android:id="@c6248a/songs_list_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/content_padding" android:layout_marginTop="30dp" android:layout_marginBottom="@dimen/content_padding" android:fontFamily="semi"/>
+</LinearLayout>

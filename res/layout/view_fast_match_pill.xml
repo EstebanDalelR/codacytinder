@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.shimmy.ShimmerFrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <FrameLayout android:id="@id/fast_match_pill_background" android:background="@drawable/square_fast_match_pill_overlay" android:layout_width="wrap_content" android:layout_height="@dimen/space_xl" android:layout_margin="@dimen/fast_match_pill_bg_circle_width">
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_sm" android:textColor="@color/white" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="@id/shadow_fast_match_pill_count" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="@dimen/space_xl" android:layout_marginLeft="@dimen/margin_larger" android:layout_marginTop="@dimen/space_xxs" android:layout_marginRight="@dimen/margin_larger" android:layout_marginBottom="@dimen/space_xxs" android:maxLines="1" android:layout_marginStart="@dimen/margin_larger" android:layout_marginEnd="@dimen/margin_larger" app:customFontStyle="bold" />
+        </FrameLayout>
+    </com.tinder.shimmy.ShimmerFrameLayout>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_sm" android:textColor="@color/white" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="@id/fast_match_pill_count" android:layout_width="wrap_content" android:layout_height="@dimen/space_xl" android:layout_marginLeft="@dimen/margin_larger" android:layout_marginTop="@dimen/space_xxs" android:layout_marginRight="@dimen/margin_larger" android:layout_marginBottom="@dimen/space_xxs" android:maxLines="1" android:layout_marginStart="@dimen/margin_larger" android:layout_marginEnd="@dimen/margin_larger" app:customFontStyle="bold" />
+</merge>

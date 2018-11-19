@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.tinder.design.tabbedpagelayout.TabbedPageLayout android:id="@+id/main_tabbedpagelayout" android:layout_width="match_parent" android:layout_height="match_parent" app:tpl_tabLayoutID="@+id/main_tablayout" app:tpl_viewPagerId="@+id/main_viewpager">
+        <android.support.v7.widget.Toolbar android:id="@+id/main_toolbar" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="@dimen/actionbar_size" app:contentInsetStart="0dp">
+            <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                <com.tinder.design.tabbedpagelayout.TabLayout android:id="@+id/main_tablayout" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <View android:layout_gravity="bottom" android:background="@color/main_toolbar_border" android:layout_width="match_parent" android:layout_height="1dp"/>
+            </FrameLayout>
+        </android.support.v7.widget.Toolbar>
+        <com.tinder.base.view.LockableViewPager android:id="@+id/main_viewpager" android:layout_width="match_parent" android:layout_height="match_parent" app:lvp_pagingEnabled="false"/>
+    </com.tinder.design.tabbedpagelayout.TabbedPageLayout>
+</merge>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ProgressBar android:layout_gravity="center" android:id="@c6248a/top_picks_gold_progress_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateTint="@color/gold1"/>
+    <FrameLayout android:id="@c6248a/top_picks_grid_container" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.tinder.toppicks.view.TopPicksGridRecsView android:id="@c6248a/recs_grid_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.tinder.toppicks.counter.TopPicksBottomCounterView android:layout_gravity="bottom" android:id="@c6248a/bottom_counter_view" android:paddingTop="@dimen/space_xxs" android:paddingBottom="@dimen/space_xxs" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@c15226b/bottom_bar_min_height"/>
+    </FrameLayout>
+    <com.tinder.toppicks.error.TopPicksErrorView android:id="@c6248a/top_picks_gold_error_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

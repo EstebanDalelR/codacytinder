@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paywall_price_textsize">11.0sp</dimen>
+    <dimen name="paywall_save_textsize">10.0sp</dimen>
+</resources>

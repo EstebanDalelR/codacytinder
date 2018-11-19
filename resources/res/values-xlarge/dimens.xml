@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_dialog_fixed_width_major">50%</dimen>
+    <dimen name="abc_dialog_fixed_width_minor">70%</dimen>
+    <dimen name="abc_dialog_min_width_major">45%</dimen>
+    <dimen name="abc_dialog_min_width_minor">72%</dimen>
+    <dimen name="text_m">30sp</dimen>
+    <dimen name="text_s">24sp</dimen>
+    <dimen name="text_sm">26sp</dimen>
+    <dimen name="text_xs">20sp</dimen>
+    <dimen name="text_xxlarge">50sp</dimen>
+    <dimen name="text_xxxs">15sp</dimen>
+</resources>

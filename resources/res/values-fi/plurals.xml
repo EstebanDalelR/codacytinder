@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Boost</item>
+        <item>Boostia</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Boost</item>
+        <item>Boostit</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d yhteinen yhteys</item>
+        <item>%1$d yhteistä yhteyttä</item>
+    </plurals>
+    <plurals name="day">
+        <item>päivän</item>
+        <item>päivän</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>%1$d päivä jäljellä</item>
+        <item>%1$d päivää jäljellä</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d km päässä</item>
+        <item>%1$d km päässä</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d mailin päässä</item>
+        <item>%1$d mailin päässä</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>päivän</item>
+        <item>%1$d päivän</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>tunnin</item>
+        <item>%1$d tunnin</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>kuukauden</item>
+        <item>%1$d kuukauden</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>sekunnin</item>
+        <item>%1$d sekunnin</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>viikon</item>
+        <item>%1$d viikon</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Uusi tykkäys aina %1$d välein</item>
+        <item>Uusia tykkäyksiä aina %1$d välein</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d kaveri yhteisten yhteyksien vertailua varten</item>
+        <item>%1$d kaveria yhteisten yhteyksien vertailua varten</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d Instagram-valokuva</item>
+        <item>%1$d Instagram-valokuvaa</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d kiinnostuksen kohde</item>
+        <item>%1$d kiinnostuksen kohdetta</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>huomenna</item>
+        <item>%d päivän kuluttua</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>1 tunnin kuluttua</item>
+        <item>%d tunnin kuluttua</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>1 min kuluttua</item>
+        <item>%d min kuluttua</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>1 s kuluttua</item>
+        <item>%d sekunnin kuluttua</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>eilen</item>
+        <item>%d päivää sitten</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 tunti sitten</item>
+        <item>%d tuntia sitten</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 min sitten</item>
+        <item>%d min sitten</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 s sitten</item>
+        <item>%d s sitten</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 tunti</item>
+        <item>%d tuntia</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 minuutti</item>
+        <item>%d minuuttia</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 sekunti</item>
+        <item>%d sekuntia</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>huomenna</item>
+        <item>%d päivän kuluttua</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>1 tunnin kuluttua</item>
+        <item>%d tunnin kuluttua</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>1 minuutin kuluttua</item>
+        <item>%d minuutin kuluttua</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>1 sekunnin kuluttua</item>
+        <item>%d sekunnin kuluttua</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>eilen</item>
+        <item>%d päivää sitten</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 tunti sitten</item>
+        <item>%d tuntia sitten</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 minuutti sitten</item>
+        <item>%d minuuttia sitten</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 sekunti sitten</item>
+        <item>%d sekuntia sitten</item>
+    </plurals>
+    <plurals name="month">
+        <item>kuukauden</item>
+        <item>kuukauden</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d valokuva</item>
+        <item>%1$d valokuva</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d vierailija viime aikoina</item>
+        <item>%1$d vierailijaa viime aikoina</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d vierailija</item>
+        <item>%1$d vierailijaa</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s uusi</item>
+        <item>%1$s uutta</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>kuukausi</item>
+        <item>kuukautta</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>sekunnin</item>
+        <item>sekunnin</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>Super-tykkäys</item>
+        <item>Super-tykkäystä</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s aina %3$s välein</item>
+        <item>%1$d %2$s aina %3$s välein</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d ilmainen %2$s aina %3$s välein)</item>
+        <item>(%1$d ilmaista %2$s aina %3$s välein)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Anna minulle %1$d ilmainen %2$s aina %3$s välein</item>
+        <item>Anna minulle %1$d ilmaista %2$s aina %3$s välein</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Saat %1$d %2$s aina %3$s välein. Osuma voi löytyä 3 kertaa todennäköisemmin.</item>
+        <item>Saat %1$d %2$s aina %3$s välein. Osuma voi löytyä 3 kertaa todennäköisemmin.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s uusi</item>
+        <item>%1$s uutta</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Poiminta</item>
+        <item>Poiminnat</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>%1$d poiminta jäljellä</item>
+        <item>%1$d poimintaa jäljellä</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>%1$d h jäljellä</item>
+        <item>%1$d h jäljellä</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>&lt; %1$d min jäljellä</item>
+        <item>&lt; %1$d min jäljellä</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>%1$d min jäljellä</item>
+        <item>%1$d min jäljellä</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>päivitys</item>
+        <item>päivitystä</item>
+    </plurals>
+    <plurals name="week">
+        <item>viikon</item>
+        <item>viikon</item>
+    </plurals>
+</resources>

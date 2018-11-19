@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.recs.view.RecsView android:id="@id/recs_view_root_container" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.recs.view.DiscoveryOffView android:gravity="center" android:orientation="vertical" android:id="@id/recs_discovery_off" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/recs_content_container" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.tinder.recs.view.GamepadView android:layout_gravity="bottom|center" android:id="@id/recs_gamepad" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="@dimen/recs_bottom_container_height" />
+        <com.tinder.base.view.TouchBlockingFrameLayout android:id="@id/recs_cardstack_container" android:paddingLeft="4.0dip" android:paddingTop="4.0dip" android:paddingRight="4.0dip" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/recs_bottom_container_height">
+            <com.tinder.recs.view.RecsStatusView android:id="@id/recs_status" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <com.tinder.cardstack.view.CardStackLayout android:gravity="center|top" android:layout_gravity="center_horizontal" android:id="@id/recs_cardstack" android:visibility="gone" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </com.tinder.base.view.TouchBlockingFrameLayout>
+    </FrameLayout>
+</com.tinder.recs.view.RecsView>

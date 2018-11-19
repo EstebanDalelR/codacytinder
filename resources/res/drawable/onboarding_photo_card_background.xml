@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="rectangle">
+    <corners android:radius="@dimen/onboarding_add_image_cardview_corner_radius"/>
+    <stroke android:width="1dp" android:color="@color/onboarding_photos_card_outline"/>
+    <gradient android:startColor="@color/gray_very_very_light" android:endColor="@color/white" android:angle="90"/>
+</shape>

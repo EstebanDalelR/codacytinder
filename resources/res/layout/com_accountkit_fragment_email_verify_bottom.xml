@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.accountkit.ui.ConstrainedLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_marginTop="50dp" style="@c15385e/AccountKit_Container">
+    <Button android:enabled="true" android:id="@+id/com_accountkit_check_email_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/com_accountkit_check_email" style="@c15385e/AccountKit_Button"/>
+    <Space android:layout_width="match_parent" android:layout_height="24dp"/>
+    <TextView android:textColor="?attr/com_accountkit_button_border_color" android:gravity="center_horizontal" android:id="@+id/com_accountkit_retry_email_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/com_accountkit_email_not_received" style="@c15385e/AccountKit_Text"/>
+</com.facebook.accountkit.ui.ConstrainedLinearLayout>

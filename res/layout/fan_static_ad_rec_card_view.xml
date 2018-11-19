@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/fan_ad_native_ad_unit" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.tinder.recsads.view.DispatchTouchDownListenerMediaView android:layout_gravity="center" android:id="@id/fan_ad_media_view" android:layout_width="wrap_content" android:layout_height="@dimen/fan_static_media_view_height" />
+        <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fan_ad_info_container" />
+    </LinearLayout>
+    <include layout="@layout/recs_card_stamps_include" />
+</merge>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.feed.view.footer.FeedFooterView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@c6248a/photoViewer" android:layout_marginStart="@dimen/space_xs" android:layout_marginEnd="@dimen/space_xxxxl">
+    <FrameLayout android:id="@c6248a/feedFooterDescriptionContainer" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <com.tinder.views.CustomTextView android:id="@c6248a/feedTimeAgo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" android:layout_marginStart="@dimen/feed_margin_left" style="@style/ActivityFeed.TimeStamp"/>
+</com.tinder.feed.view.footer.FeedFooterView>

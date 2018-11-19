@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:background="?selectableItemBackgroundBorderless"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.constraint.ConstraintLayout android:layout_gravity="center" android:id="@id/containerMediaButton" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <ImageView android:layout_gravity="center" android:id="@id/circularImageBackground" android:background="@drawable/circular_media_camera_button" android:layout_width="@dimen/add_media_icon_size" android:layout_height="@dimen/add_media_icon_size" android:foreground="@drawable/oval_touch_feedback_light" android:scaleType="fitCenter" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <android.support.constraint.Guideline android:orientation="vertical" android:id="@id/guideline" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_percent="0.55" />
+        <ImageView android:id="@id/profilePlusButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_plus_button" app:layout_constraintBottom_toTopOf="@id/circularIconLabel" app:layout_constraintLeft_toLeftOf="@id/guideline" />
+        <com.tinder.views.CustomTextView android:textColor="@color/controlla_light_text" android:gravity="center" android:id="@id/circularIconLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/msg_input_padding" android:text="@string/add_media" android:textAllCaps="true" app:customFontStyle="semi_bold" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/circularImageBackground" />
+    </android.support.constraint.ConstraintLayout>
+</merge>

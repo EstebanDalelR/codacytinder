@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Boost</item>
+        <item>Boosts</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Boost</item>
+        <item>Boosts</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d টি সাধারণ কানেকশন</item>
+        <item>%1$d টি সাধারণ কানেকশন</item>
+    </plurals>
+    <plurals name="day">
+        <item>দিন</item>
+        <item>দিন</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>%1$d দিন বাকি</item>
+        <item>%1$d দিন বাকি</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d কি.মি. দূরে</item>
+        <item>%1$d কি.মি. দূরে</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d মাইল দূরে</item>
+        <item>%1$d মাইল দূরে</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>দিনে</item>
+        <item>%1$d দিনে</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>ঘণ্টায়</item>
+        <item>%1$d ঘণ্টায়</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>মাসে</item>
+        <item>%1$d মাসে</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>সেকেন্ড</item>
+        <item>%1$d সেকেন্ড</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>সপ্তাহে</item>
+        <item>%1$d সপ্তাহে</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>প্রতি %1$dটি নতুন লাইক</item>
+        <item>প্রতি %1$dটি নতুন লাইক</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>সাধারণ কানেকশনের জন্য %1$d জন বন্ধু</item>
+        <item>সাধারণ কানেকশনের জন্য %1$d জন বন্ধু</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d টি Instagram-এর ছবি</item>
+        <item>%1$d টি Instagram-এর ছবি</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>আগ্রহী %1$d</item>
+        <item>আগ্রহী %1$d</item>
+    </plurals>
+    <plurals name="month">
+        <item>মাস</item>
+        <item>মাস</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d টি ছবি</item>
+        <item>%1$d টি ছবি</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d জন সাম্প্রতিক ভিজিটর</item>
+        <item>%1$d জন সাম্প্রতিক ভিজিটর</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d জন ভিজিটর</item>
+        <item>%1$d জন ভিজিটর</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$sটি নতুন</item>
+        <item>%1$sটি নতুন</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>মাস</item>
+        <item>মাস</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>সেকেন্ড</item>
+        <item>সেকেন্ড</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>সুপার লাইক</item>
+        <item>সুপার লাইক</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>প্রতি %3$s-এ %1$d %2$s</item>
+        <item>প্রতি %3$s-এ %1$d %2$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(প্রতি %3$s-এ %1$d টি %2$s ফ্রি)</item>
+        <item>(প্রতি %3$s-এ %1$d টি %2$s ফ্রি)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>আমাকে প্রতি %3$s-এ %1$dটি %2$s দিন</item>
+        <item>আমাকে প্রতি %3$s-এ %1$dটি %2$s দিন</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>প্রতি %3$s-এ %1$d টি %2$s নিন এবং কোনো ম্যাচে আপনার সুযোগ 3 গুণ বাড়ান</item>
+        <item>প্রতি %3$s-এ %1$dটি %2$s নিন এবং কোনো ম্যাচে আপনার সুযোগ 3 গুণ বাড়ান</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$sটি নতুন</item>
+        <item>%1$sটি নতুন</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>বাছাই</item>
+        <item>বাছাই</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>%1$d টি বাছাই বাকি</item>
+        <item>%1$d টি বাছাই বাকি</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>%1$d ঘণ্টা বাকি</item>
+        <item>%1$d ঘণ্টা বাকি</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>&lt;%1$d মিনিট বাকি</item>
+        <item>&lt;%1$d মিনিট বাকি</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>%1$d মিনিট বাকি</item>
+        <item>%1$d মিনিট বাকি</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>আপগ্রেড করুন</item>
+        <item>আপগ্রেড করুন</item>
+    </plurals>
+    <plurals name="week">
+        <item>সপ্তাহ</item>
+        <item>সপ্তাহ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/spotify_top_track_container" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@id/profile_layout_spotify" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true" android:layout_marginStart="@dimen/space_s">
+            <com.tinder.views.CustomTextView android:textColor="@color/text_very_dark" android:id="@id/profile_spotify_top_track_header" android:text="@string/spotify_add_artists" style="@style/spotify_text_header" />
+            <FrameLayout android:id="@id/framelayout_indiactor_spotify" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/profile_spotify_top_track_header" android:layout_alignTop="@id/profile_spotify_top_track_header" android:layout_alignBottom="@id/profile_spotify_top_track_header" android:layout_alignParentRight="true">
+                <com.viewpagerindicator.CirclePageIndicator android:layout_gravity="center|right" android:id="@id/spotify_top_track_indicator" android:paddingLeft="@dimen/padding_small" android:paddingRight="@dimen/z_page_indicator_margin_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/padding_small" android:paddingEnd="@dimen/z_page_indicator_margin_right" app:centered="true" app:fillColor="@color/tinder_accent" app:orientation="horizontal" app:pageColor="@color/z_page_indicator_inactive" app:radius="@dimen/z_page_indicators_radius" app:strokeWidth="@dimen/page_indicators_strokeWidth" />
+            </FrameLayout>
+        </RelativeLayout>
+        <android.support.percent.PercentRelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.tinder.common.view.WrapContentViewPager android:id="@id/spotify_top_track_view_pager_view" android:layout_width="fill_parent" android:layout_marginBottom="@dimen/padding_med" app:layout_aspectRatio="200.0%" />
+        </android.support.percent.PercentRelativeLayout>
+    </LinearLayout>
+</merge>

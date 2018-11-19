@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/in_app_notification_corner_radius" />
+    <gradient android:startColor="@color/ian_background_boost_start" android:endColor="@color/ian_background_boost_end" />
+</shape>

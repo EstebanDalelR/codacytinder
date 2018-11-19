@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:id="@c6248a/menu_places_disabled_survey_cancel" android:visible="true" android:title="@string/cancel" app:showAsAction="ifRoom"/>
+</menu>

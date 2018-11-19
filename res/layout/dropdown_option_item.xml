@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:paddingTop="@dimen/space_s" android:paddingBottom="@dimen/space_s" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@drawable/rectangle_touch_feedback"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/text_s" android:textColor="@color/text_dark" android:layout_gravity="start|center" android:id="@id/option_name" android:paddingTop="@dimen/space_xs" android:paddingBottom="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/space_xl" />
+    <ImageView android:layout_gravity="end|center" android:id="@id/preference_check" android:paddingTop="@dimen/space_xs" android:paddingBottom="@dimen/space_xs" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/passport_checkmark" android:layout_marginEnd="@dimen/space_s" />
+    <View android:layout_gravity="bottom" android:background="@color/gray_light" android:layout_width="fill_parent" android:layout_height="@dimen/space_xxxs" android:layout_marginStart="@dimen/space_xl" />
+</FrameLayout>

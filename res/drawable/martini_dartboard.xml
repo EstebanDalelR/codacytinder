@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:scaleType="fitCenter" android:left="@dimen/fling_dartboard_drawable_spacing" android:top="@dimen/fling_dartboard_drawable_spacing" android:right="@dimen/fling_dartboard_drawable_spacing" android:bottom="@dimen/fling_dartboard_drawable_spacing">
+        <bitmap android:gravity="center" android:src="@drawable/grand_gestures_dartboard" />
+    </item>
+</layer-list>

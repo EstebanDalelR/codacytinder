@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/user_profile_img_bg" />
+    <stroke android:width="2.0dip" android:color="@color/gray_very_light" />
+    <corners android:radius="@dimen/photo_selector_radius" />
+</shape>

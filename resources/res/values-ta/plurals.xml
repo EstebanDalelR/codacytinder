@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>பூஸ்ட்</item>
+        <item>பூஸ்ட்டுகள்</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>பூஸ்ட்</item>
+        <item>பூஸ்ட்டுகள்</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d பொதுவான இணைப்பு</item>
+        <item>%1$d பொதுவான இணைப்புகள்</item>
+    </plurals>
+    <plurals name="day">
+        <item>நாள்</item>
+        <item>நாட்கள்</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>%1$d நாள் மீதமுள்ளது</item>
+        <item>%1$d நாட்கள் மீதமுள்ளன</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d கி.மீ தூரம்</item>
+        <item>%1$d கி.மீ தூரம்</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d மைல் தூரம்</item>
+        <item>%1$d மைல்கள் தூரம்</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>நாளுக்கும்</item>
+        <item>%1$d நாட்களுக்கும்</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>மணிநேரத்திற்கும்</item>
+        <item>%1$d மணிநேரங்களுக்கும்</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>மாதத்திற்கும்</item>
+        <item>%1$d மாதங்களுக்கும்</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>விநாடிக்கும்</item>
+        <item>%1$d விநாடிகளுக்கும்</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>வாரத்திற்கும்</item>
+        <item>%1$d வாரங்களுக்கும்</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>ஒவ்வொரு %1$d க்கும் புதிய லைக்</item>
+        <item>ஒவ்வொரு %1$d க்கும் புதிய லைக்குகள்</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>பொதுவான இணைப்புகளுக்கு %1$d நண்பர்</item>
+        <item>பொதுவான இணைப்புகளுக்கு %1$d நண்பர்கள்</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d இன்ஸ்டாகிராம் புகைப்படம்</item>
+        <item>%1$d இன்ஸ்டாகிராம் புகைப்படங்கள்</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d விருப்பம்</item>
+        <item>%1$d விருப்பங்கள்</item>
+    </plurals>
+    <plurals name="month">
+        <item>மாதம்</item>
+        <item>மாதங்கள்</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d புகைப்படம்</item>
+        <item>%1$d புகைப்படங்கள்</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d சமீபத்தியப் பார்வையாளர்கள்</item>
+        <item>%1$d சமீபத்தியப் பார்வையாளர்கள்</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d பார்வையாளர்கள்</item>
+        <item>%1$d பார்வையாளர்கள்</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s புதிது</item>
+        <item>%1$s புதிது</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>மாதம்</item>
+        <item>மாதங்கள்</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>விநாடி</item>
+        <item>விநாடிகள்</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>சூப்பர் லைக்</item>
+        <item>சூப்பர் லைக்ஸ்</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s ஒவ்வொரு %3$s</item>
+        <item>%1$d %2$s ஒவ்வொரு %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(ஒவ்வொரு %3$s, %1$d இலவச %2$s)</item>
+        <item>(ஒவ்வொரு %3$s, %1$d இலவச %2$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>ஒவ்வொரு %3$s, %1$d %2$s ஐ எனக்கு தரவும்</item>
+        <item>ஒவ்வொரு %3$s, %1$d %2$s ஐ எனக்கு தரவும்</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>ஒவ்வொரு %3$s, %1$d %2$s ஐப் பெற்று, ஒரு இணையைப் பெறுவதில் உங்கள் வாய்ப்பை 3 மடங்கு அதிகரியுங்கள்</item>
+        <item>ஒவ்வொரு %3$s, %1$d %2$s ஐப் பெற்று, ஒரு இணையைப் பெறுவதில் உங்கள் வாய்ப்பை 3 மடங்கு அதிகரியுங்கள்</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s புதிது</item>
+        <item>%1$s புதிது</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>பிக்ஸ்</item>
+        <item>பிக்ஸ்</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>%1$d பிக்ஸ் மீதமுள்ளது</item>
+        <item>%1$d பிக்ஸ் மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>%1$dமணிநேரம் மீதமுள்ளது</item>
+        <item>%1$dமணிநேரம் மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>&lt;%1$dநிமிடம் மீதமுள்ளது</item>
+        <item>&lt;%1$dநிமிடங்கள் மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>%1$dநிமிடம் மீதமுள்ளது</item>
+        <item>%1$dநிமிடங்கள் மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>மேம்படுத்து</item>
+        <item>மேம்படுத்து</item>
+    </plurals>
+    <plurals name="week">
+        <item>வாரம்</item>
+        <item>வாரங்கள்</item>
+    </plurals>
+</resources>

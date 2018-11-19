@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:id="@c6248a/feature_divider" android:background="@color/gray_light" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginBottom="16dp"/>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/feature_title_color" android:gravity="center_vertical" android:id="@c6248a/feature_title" android:paddingLeft="@dimen/padding_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@c6248a/feature_divider" android:layout_alignParentLeft="true" app:customFontStyle="2"/>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_xs" android:textColor="@color/feature_description_color" android:id="@c6248a/feature_description" android:paddingLeft="@dimen/padding_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@c6248a/visual_indicator_container" android:layout_below="@c6248a/feature_title" android:layout_alignParentLeft="true"/>
+    <FrameLayout android:id="@c6248a/visual_indicator_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+        <ImageView android:id="@c6248a/feature_check" android:paddingRight="@dimen/padding_med" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/passport_checkmark"/>
+        <com.tinder.views.CustomSwitch android:id="@c6248a/feature_switch" android:paddingRight="@dimen/margin_small" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textOn="" android:textOff="" style="@c15477g/settings_group_item"/>
+    </FrameLayout>
+</merge>

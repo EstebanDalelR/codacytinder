@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/chat_inbound_bubble_background" />
+    <corners android:topLeftRadius="@dimen/space_l" android:topRightRadius="@dimen/space_l" android:bottomLeftRadius="@dimen/chat_typing_indicator_bubble_bottom_left_radius" android:bottomRightRadius="@dimen/chat_typing_indicator_bubble_bottom_right_radius" />
+</shape>

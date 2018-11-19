@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.tinder.recs.view.tappablecards.TappyTutorialView android:id="@c6248a/tappy_tutorial_view" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <include layout="@layout/recs_card_user_content"/>
+    <include layout="@layout/recs_card_stamps_newnew_include"/>
+    <com.tinder.recs.view.ReferralBannerView android:gravity="center" android:id="@c6248a/recs_card_referral_banner" android:visibility="gone" android:layout_width="match_parent" android:layout_height="48dp"/>
+    <include android:id="@c6248a/recs_card_select_user_banner" android:visibility="gone" android:layout_width="match_parent" android:layout_height="52dp" layout="@layout/recs_select_user_banner_view"/>
+    <com.tinder.recs.view.superlike.SuperLikeOverlayView android:id="@c6248a/recs_card_superlike_animation_overlay" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

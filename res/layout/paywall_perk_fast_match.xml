@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/paywall_perk_background" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v4.widget.Space android:id="@id/dialog_title_space" android:layout_width="fill_parent" android:layout_height="16.0dip" />
+    <com.tinder.common.view.SafeViewFlipper android:layout_gravity="center_horizontal" android:id="@id/paywall_perk_image" android:layout_width="wrap_content" android:layout_height="128.0dip" android:layout_marginTop="@dimen/margin_xsmall">
+        <com.tinder.fastmatch.view.FastMatchPreviewView android:layout_gravity="center" android:id="@id/paywall_perk_fast_match_preview" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.tinder.shimmy.ShimmerFrameLayout android:id="@id/paywall_perk_fast_match_heart" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:id="@id/paywall_perk_image_background" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/perk_fastmatch_icon_background" android:scaleType="fitCenter" app:layout_shimmers="false" />
+            <ImageView android:id="@id/paywall_perk_image_foreground" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/perk_fastmatch_icon_foreground" android:scaleType="fitCenter" />
+        </com.tinder.shimmy.ShimmerFrameLayout>
+    </com.tinder.common.view.SafeViewFlipper>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_m" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/paywall_perk_title" android:paddingLeft="@dimen/space_s" android:paddingRight="@dimen/space_s" android:paddingBottom="@dimen/space_xxs" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lineSpacingExtra="@dimen/space_xxs" app:customFontStyle="bold" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:gravity="center" android:id="@id/paywall_perk_timer_text" android:paddingBottom="@dimen/space_xxs" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" app:customFontStyle="bold" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/z_profile_body_text" android:gravity="center" android:id="@id/paywall_perk_byline" android:layout_width="fill_parent" android:layout_height="wrap_content" app:customFontStyle="light|light_italic" />
+    <android.support.v4.widget.Space android:id="@id/circle_indicator_space" android:layout_width="fill_parent" android:layout_height="32.0dip" />
+</LinearLayout>

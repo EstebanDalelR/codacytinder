@@ -1,0 +1,10 @@
+package com.tinder.data.feed;
+
+import dagger.Module;
+import kotlin.Metadata;
+
+@Metadata(bv = {1, 0, 2}, d1 = {"\u0000J\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\b'\u0018\u00002\u00020\u0001B\u0005¢\u0006\u0002\u0010\u0002J\u0015\u0010\u0003\u001a\u00020\u00042\u0006\u0010\u0005\u001a\u00020\u0006H!¢\u0006\u0002\b\u0007J\u0015\u0010\b\u001a\u00020\t2\u0006\u0010\u0005\u001a\u00020\nH!¢\u0006\u0002\b\u000bJ\u0015\u0010\f\u001a\u00020\r2\u0006\u0010\u0005\u001a\u00020\u000eH!¢\u0006\u0002\b\u000fJ\u0015\u0010\u0010\u001a\u00020\u00112\u0006\u0010\u0005\u001a\u00020\u0012H!¢\u0006\u0002\b\u0013J\u0015\u0010\u0014\u001a\u00020\u00152\u0006\u0010\u0005\u001a\u00020\u0016H!¢\u0006\u0002\b\u0017¨\u0006\u0018"}, d2 = {"Lcom/tinder/data/feed/FeedDataModule;", "", "()V", "provideDraftRepository", "Lcom/tinder/domain/feed/DraftRepository;", "repository", "Lcom/tinder/data/feed/InMemoryDraftRepository;", "provideDraftRepository$data_release", "provideFeedCarouselItemSelectedRepository", "Lcom/tinder/domain/feed/FeedCarouselItemSelectedRepository;", "Lcom/tinder/data/feed/FeedDataCarouselItemSelectedRepository;", "provideFeedCarouselItemSelectedRepository$data_release", "provideFeedRangeRepository", "Lcom/tinder/domain/feed/FeedRangeRepository;", "Lcom/tinder/data/feed/FeedDataRangeRepository;", "provideFeedRangeRepository$data_release", "provideFeedRepository", "Lcom/tinder/domain/feed/FeedRepository;", "Lcom/tinder/data/feed/FeedDataRepository;", "provideFeedRepository$data_release", "provideListItemViewDurationRepository", "Lcom/tinder/domain/tracker/ListItemViewDurationRepository;", "Lcom/tinder/data/tracker/repository/ListItemViewDurationDataRepository;", "provideListItemViewDurationRepository$data_release", "data_release"}, k = 1, mv = {1, 1, 10})
+@Module
+/* renamed from: com.tinder.data.feed.e */
+public abstract class C8654e {
+}

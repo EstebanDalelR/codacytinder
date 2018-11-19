@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.views.ConfigurableScrollingViewPager android:id="@id/paywall_perks_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/gold_paywall_pager_bottom_margin" android:overScrollMode="never" app:csv_friction="0.25" />
+    <com.viewpagerindicator.CirclePageIndicator android:layout_gravity="bottom" android:id="@id/paywall_pager_indicator" android:padding="@dimen/padding_xxsmall" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="40.0dip" app:pageColor="@color/transparent" app:radius="@dimen/intro_indicator_radius" app:snap="false" />
+</merge>

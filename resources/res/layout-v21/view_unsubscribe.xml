@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.settingsemail.email.view.EmailSettingsUnsubscribeView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <android.support.v7.widget.AppCompatButton android:layout_gravity="center" android:id="@+id/email_settings_unsubscribe_button" android:background="@drawable/white_button_selected_no_rounded_corners" android:padding="@dimen/space_s" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/space_xxxs" android:foreground="@drawable/rectangle_touch_feedback" android:elevation="@dimen/space_xxxs" style="@c14920f/SettingsHeading"/>
+</com.tinder.settingsemail.email.view.EmailSettingsUnsubscribeView>

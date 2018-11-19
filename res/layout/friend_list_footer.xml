@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_xxsmall" android:layout_marginTop="16.0dip" android:layout_marginRight="@dimen/margin_xxsmall" android:layout_marginBottom="16.0dip" android:layout_marginStart="@dimen/margin_xxsmall" android:layout_marginEnd="@dimen/margin_xxsmall"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.views.CustomTextView android:textSize="16.0sp" android:textColor="#ff555759" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/friend_footer_dont_see" />
+    <com.tinder.views.CustomTextView android:layout_gravity="center" android:id="@id/friend_foooter_button" android:layout_marginTop="12.0dip" android:layout_marginBottom="16.0dip" android:text="@string/create_group_no_friends_ask_to_unlock" style="@style/Tindered.Social.StrokeButton" />
+    <com.tinder.views.CustomTextView android:textSize="12.0dip" android:textColor="#ffc2c6cc" android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/friend_footer_your_friends_on_tinder_social" />
+</LinearLayout>

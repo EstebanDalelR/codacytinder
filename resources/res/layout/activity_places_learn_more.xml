@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/placesPinIcon" android:layout_width="50dp" android:layout_height="100dp" android:src="@c6253b/ic_places_mark_individual" app:layout_constraintBottom_toTopOf="@+id/headerGuideline" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toTopOf="0"/>
+    <TextView android:textSize="36sp" android:textColor="#000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Learn More" android:fontFamily="@font/proximanova_extrabold" app:layout_constraintBottom_toTopOf="@+id/headerGuideline" app:layout_constraintLeft_toRightOf="@+id/placesPinIcon" app:layout_constraintTop_toTopOf="0"/>
+    <ImageView android:id="@+id/closeButton" android:layout_width="36dp" android:layout_height="36dp" android:layout_margin="16dp" android:src="@c6253b/places_learn_more_close" app:layout_constraintBottom_toTopOf="@+id/headerGuideline" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0"/>
+    <android.support.constraint.Guideline android:orientation="horizontal" android:id="@+id/headerGuideline" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_begin="120dp"/>
+    <ScrollView android:layout_width="0dp" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/headerGuideline">
+        <LinearLayout android:orientation="vertical" android:id="@+id/learnMoreLinearLayout" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

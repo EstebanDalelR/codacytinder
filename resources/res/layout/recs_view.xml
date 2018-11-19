@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.recs.view.RecsView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@c6248a/recs_view_root_container" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.tinder.recs.view.DiscoveryOffView android:gravity="center" android:orientation="vertical" android:id="@c6248a/recs_discovery_off" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <FrameLayout android:id="@c6248a/recs_content_container" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.tinder.recs.view.GamepadView android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@c6248a/recs_gamepad" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="@dimen/recs_bottom_container_height"/>
+        <com.tinder.base.view.TouchBlockingFrameLayout android:id="@c6248a/recs_cardstack_container" android:paddingLeft="4dp" android:paddingTop="4dp" android:paddingRight="4dp" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="@dimen/recs_bottom_container_height">
+            <com.tinder.recs.view.RecsStatusView android:id="@c6248a/recs_status" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <com.tinder.cardstack.view.CardStackLayout android:gravity="top|center_vertical|center_horizontal|center" android:layout_gravity="center_horizontal" android:id="@c6248a/recs_cardstack" android:visibility="gone" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </com.tinder.base.view.TouchBlockingFrameLayout>
+    </FrameLayout>
+</com.tinder.recs.view.RecsView>

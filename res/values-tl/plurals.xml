@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">(na) Boost</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">(na) Boost</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d (na) Common Connection</item>
+        <item quantity="one">%1$d Common Connection</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">(na) araw</item>
+        <item quantity="one">araw</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d (na) Araw ang Natitira</item>
+        <item quantity="one">%1$d Araw ang Natitira</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">%1$d (na) km ang layo</item>
+        <item quantity="one">%1$d km ang layo</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">%1$d (na) milya ang layo</item>
+        <item quantity="one">%1$d milya ang layo</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d (na) araw</item>
+        <item quantity="one">araw</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d (na) oras</item>
+        <item quantity="one">oras</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d (na) buwan</item>
+        <item quantity="one">buwan</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d (na) segundo</item>
+        <item quantity="one">segundo</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d (na) linggo</item>
+        <item quantity="one">linggo</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">Bawat %1$d (na) Bagong Like</item>
+        <item quantity="one">Bawat %1$d Bagong Like</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">%1$d (na) Friend para sa Mga Common Connection</item>
+        <item quantity="one">%1$d Friend para sa Mga Common Connection</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d (na) Instagram Photo</item>
+        <item quantity="one">%1$d Instagram Photo</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d (na) Interest</item>
+        <item quantity="one">%1$d Interest</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">sa %d (na) araw</item>
+        <item quantity="one">bukas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">sa %d (na) oras</item>
+        <item quantity="one">sa 1 oras</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">sa %d (na) minuto</item>
+        <item quantity="one">sa 1 min</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">sa %d (na) segundo</item>
+        <item quantity="one">sa 1 seg</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">%d (na) araw ang nakalipas</item>
+        <item quantity="one">kahapon</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">%d (na) oras ang nakalipas</item>
+        <item quantity="one">1 oras ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">%d (na) minuto ang nakalipas</item>
+        <item quantity="one">1 minuto ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">%d (na) segundo ang nakalipas</item>
+        <item quantity="one">1 segundo ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d (na) oras</item>
+        <item quantity="one">1 oras</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d (na) minuto</item>
+        <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d (na) segundo</item>
+        <item quantity="one">1 segundo</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">sa %d (na) araw</item>
+        <item quantity="one">bukas</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">sa %d (na) oras</item>
+        <item quantity="one">sa 1 oras</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">sa %d (na) minuto</item>
+        <item quantity="one">sa 1 minuto</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">sa %d (na) segundo</item>
+        <item quantity="one">sa 1 segundo</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">%d (na) araw ang nakalipas</item>
+        <item quantity="one">kahapon</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">%d (na) oras ang nakalipas</item>
+        <item quantity="one">1 oras ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">%d (na) minuto ang nakalipas</item>
+        <item quantity="one">1 minuto ang nakalipas</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">%d (na) segundo ang nakalipas</item>
+        <item quantity="one">1 segundo ang nakakalipas</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">(na) buwan</item>
+        <item quantity="one">buwan</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d (na) photo</item>
+        <item quantity="one">%1$d photo</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d (na) mga Bagong Bumisita</item>
+        <item quantity="one">%1$d Bagong Bumisita</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d (na) ang Bumisita</item>
+        <item quantity="one">%1$d ang Bumisita</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">%1$s (na) Bago</item>
+        <item quantity="one">%1$s Bago</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">(na) buwan</item>
+        <item quantity="one">buwan</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">(na) segundo</item>
+        <item quantity="one">segundo</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">(na) Super Like</item>
+        <item quantity="one">Super Like</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">%1$d %2$s bawat %3$s</item>
+        <item quantity="one">%1$d %2$s bawat %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%1$d (na) free %2$s bawat %3$s)</item>
+        <item quantity="one">(%1$d free %2$s bawat %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">"Bigyan mo 'ko ng %1$d %2$s bawat %3$s"</item>
+        <item quantity="one">"Bigyan mo 'ko ng %1$d %2$s bawat %3$s"</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">Makakuha ng %1$d %2$s bawat %3$s at taasan ang chances ng match ng 3 times.</item>
+        <item quantity="one">Makakuha ng %1$d %2$s bawat %3$s at taasan ang chances ng match ng 3 times.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">%1$s (na) Bago</item>
+        <item quantity="one">%1$s Bago</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">(na) Picks</item>
+        <item quantity="one">Pick</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">%1$d (na) Natitirang Picks</item>
+        <item quantity="one">%1$d Natitirang Pick</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">%1$dh ang natitira</item>
+        <item quantity="one">%1$dh ang natitira</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">&lt;%1$dm ang natitira</item>
+        <item quantity="one">&lt;%1$dm ang natitira</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">%1$dm ang natitira</item>
+        <item quantity="one">%1$dm ang natitira</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">(na) mga upgrade</item>
+        <item quantity="one">upgrade</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">(na) linggo</item>
+        <item quantity="one">linggo</item>
+    </plurals>
+</resources>

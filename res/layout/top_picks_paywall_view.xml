@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/paywall_perk_background" android:paddingTop="36.0dip" android:paddingBottom="20.0dip" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.paywall.views.TopPicksPaywallTeaserView android:id="@id/paywall_perk_image" android:layout_width="fill_parent" android:layout_height="112.0dip" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_m" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/paywall_perk_title" android:paddingLeft="@dimen/space_s" android:paddingRight="@dimen/space_s" android:paddingBottom="@dimen/space_xxs" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:lineSpacingExtra="@dimen/space_xxs" app:customFontStyle="bold" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:gravity="center" android:id="@id/paywall_perk_timer_text" android:paddingBottom="@dimen/space_xxs" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" app:customFontStyle="bold" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/z_profile_body_text" android:gravity="center" android:id="@id/paywall_perk_byline" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="32.0dip" app:customFontStyle="light|light_italic" />
+</LinearLayout>

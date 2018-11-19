@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.viewpagerindicator.CirclePageIndicator android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@c6248a/controlla_page_indicator" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/profile_tab_padding_med" app:pageColor="@color/controlla_page_indicator" style="@style/CirclePageIndicator.Profile"/>
+    <com.tinder.views.ConfigurableScrollingViewPager android:layout_gravity="bottom" android:id="@c6248a/controlla_view_pager" android:layout_width="match_parent" android:layout_height="@dimen/profiletab_adpanel_view_pager_height" app:csv_friction="0.25"/>
+</merge>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.shimmy.ShimmerFrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/bold_divider_stroke">
+        <View android:background="@color/gold1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.tinder.shimmy.ShimmerFrameLayout>
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:paddingTop="@dimen/space_xl" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/title_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/upgrade_to_tinder_gold" />
+        <com.tinder.shimmy.ShimmerFrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.tinder.views.CustomTextView android:textSize="@dimen/upgrade_gold_price_size" android:textColor="@color/gold1" android:id="@id/item_price" android:paddingTop="@dimen/space_xs" android:paddingBottom="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" app:customFontStyle="semi_bold" />
+        </com.tinder.shimmy.ShimmerFrameLayout>
+        <View android:background="@color/light_grey1" android:layout_width="fill_parent" android:layout_height="@dimen/default_divider_stroke_width" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/light_grey2" android:id="@id/total_price" android:paddingTop="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</merge>

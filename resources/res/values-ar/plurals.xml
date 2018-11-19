@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Boosts</item>
+        <item>Boost</item>
+        <item>Boosts</item>
+        <item>Boosts</item>
+        <item>Boosts</item>
+        <item>Boosts</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Boosts</item>
+        <item>Boosts</item>
+        <item>Boosts</item>
+        <item>Boosts</item>
+        <item>Boosts</item>
+        <item>Boosts</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d معرفة مشتركة</item>
+        <item>%1$d معارف مشتركين</item>
+        <item>%1$d معارف مشتركين</item>
+        <item>%1$d معارف مشتركين</item>
+        <item>%1$d معارف مشتركين</item>
+        <item>%1$d معارف مشتركين</item>
+    </plurals>
+    <plurals name="day">
+        <item>يوم</item>
+        <item>يوم</item>
+        <item>يوم</item>
+        <item>أيام</item>
+        <item>يوم</item>
+        <item>يوم</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>تبقى %1$d يومًا</item>
+        <item>تبقى %1$d يومًا</item>
+        <item>تبقى %1$d يوم</item>
+        <item>تبقى %1$d أيام</item>
+        <item>تبقى %1$d يوم</item>
+        <item>تبقى %1$d يوم</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d كلم بعيد</item>
+        <item>%1$d كيلو متر بعيد</item>
+        <item>%1$d كلم بعيد</item>
+        <item>%1$d كيلو متر بعيد</item>
+        <item>%1$d كلم بعيد</item>
+        <item>%1$d كلم بعيد</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>على بُعد %1$d ميلاً</item>
+        <item>على بُعد %1$d ميلاً</item>
+        <item>على بُعد %1$d ميلاً</item>
+        <item>على بُعد %1$d ميلاً</item>
+        <item>على بُعد %1$d ميلاً</item>
+        <item>على بُعد %1$d ميلاً</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>يوم</item>
+        <item>يوم</item>
+        <item>%1$d يوم</item>
+        <item>%1$d أيام</item>
+        <item>%1$d يوم</item>
+        <item>%1$d يوم</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>%1$d ساعة</item>
+        <item>%1$d ساعة</item>
+        <item>%1$d ساعة</item>
+        <item>%1$d ساعات</item>
+        <item>%1$d ساعة</item>
+        <item>%1$d ساعة</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>%1$d شهر</item>
+        <item>%1$d شهر</item>
+        <item>%1$d شهر</item>
+        <item>%1$dأشهر</item>
+        <item>%1$d شهر</item>
+        <item>%1$d شهر</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>%1$d ثانية</item>
+        <item>%1$d ثانية</item>
+        <item>%1$d ثانية</item>
+        <item>%1$d ثوانٍ</item>
+        <item>%1$d ثانية</item>
+        <item>%1$d ثانية</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>%1$d أسبوع</item>
+        <item>%1$d أسبوع</item>
+        <item>%1$d أسبوع</item>
+        <item>%1$d أسابيع</item>
+        <item>%1$d أسبوع</item>
+        <item>%1$d أسبوع</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>كل %1$d إعجاب جديد</item>
+        <item>كل %1$d إعجاب جديد</item>
+        <item>كل %1$d إعجاب جديد</item>
+        <item>كل %1$d إعجابات جديدة</item>
+        <item>كل %1$d إعجاب جديد</item>
+        <item>كل %1$d إعجاب جديد</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d صديق للمعارف المشتركين</item>
+        <item>%1$d أصدقاء للمعارف المشتركين</item>
+        <item>%1$d أصدقاء للمعارف المشتركين</item>
+        <item>%1$d أصدقاء للمعارف المشتركين</item>
+        <item>%1$d أصدقاء للمعارف المشتركين</item>
+        <item>%1$d أصدقاء للمعارف المشتركين</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d صورة الإنستغرام</item>
+        <item>%1$d صور الإنستغرام</item>
+        <item>%1$d صور الإنستغرام</item>
+        <item>%1$d صور الإنستغرام</item>
+        <item>%1$d صور الإنستغرام</item>
+        <item>%1$d صور الإنستغرام</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d اهتماماً</item>
+        <item>%1$d اهتمامات</item>
+        <item>%1$d اهتمامات</item>
+        <item>%1$d اهتمامات</item>
+        <item>%1$d اهتمامات</item>
+        <item>%1$d اهتمامات</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>غدًا</item>
+        <item>في %d يوم</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>في ساعة واحدة</item>
+        <item>في %d ساعة</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>في دقيقة واحدة</item>
+        <item>في %d دقيقة</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>في ثانية واحدة</item>
+        <item>في %d ثانية</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>أمس</item>
+        <item>قبل %d يوم</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>قبل ساعة واحدة</item>
+        <item>قبل %d ساعة</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>قبل دقيقة واحدة</item>
+        <item>قبل %d دقيقة</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>قبل ثانية واحدة</item>
+        <item>قبل %d ثانية</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>ساعة واحدة</item>
+        <item>%d من الساعات</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>دقيقة واحدة</item>
+        <item>%d من الدقائق</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>ثانية واحدة</item>
+        <item>%d من الثواني</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>غدًا</item>
+        <item>في %d يوم</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>في ساعة واحدة</item>
+        <item>في %d ساعة</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>في دقيقة واحدة</item>
+        <item>في %d دقيقة</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>في ثانية واحدة</item>
+        <item>في %d ثانية</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>أمس</item>
+        <item>قبل %d يوم</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>قبل ساعة واحدة</item>
+        <item>قبل %d ساعة</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>قبل دقيقة واحدة</item>
+        <item>قبل %d دقيقة</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>قبل ثانية واحدة</item>
+        <item>قبل %d ثانية</item>
+    </plurals>
+    <plurals name="month">
+        <item>شهر</item>
+        <item>شهر</item>
+        <item>شهر</item>
+        <item>أشهر</item>
+        <item>شهر</item>
+        <item>شهر</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d صورة</item>
+        <item>%1$d صورة</item>
+        <item>%1$d صور</item>
+        <item>%1$d صور</item>
+        <item>%1$d صور</item>
+        <item>%1$d صور</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d أحدث الزوّار</item>
+        <item>%1$d أحدث الزوّار</item>
+        <item>%1$d أحدث الزوّار</item>
+        <item>%1$d أحدث الزوّار</item>
+        <item>%1$d أحدث الزوّار</item>
+        <item>%1$d أحدث الزوّار</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d زائر</item>
+        <item>%1$d زائر</item>
+        <item>%1$d زائر</item>
+        <item>%1$d زوار</item>
+        <item>%1$d زائر</item>
+        <item>%1$d زائر</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s جديد</item>
+        <item>%1$s جديد</item>
+        <item>%1$s جديدان</item>
+        <item>%1$s جديدة</item>
+        <item>%1$s جديدة</item>
+        <item>%1$s جديد</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>شهر</item>
+        <item>أشهر</item>
+        <item>أشهر</item>
+        <item>أشهر</item>
+        <item>أشهر</item>
+        <item>أشهر</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>ثانية</item>
+        <item>ثانية</item>
+        <item>ثانية</item>
+        <item>ثواني</item>
+        <item>ثانية</item>
+        <item>ثانية</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>Super Likes</item>
+        <item>Super Like</item>
+        <item>Super Likes</item>
+        <item>Super Likes</item>
+        <item>Super Likes</item>
+        <item>Super Likes</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s كل %3$s</item>
+        <item>%1$d %2$s كل %3$s</item>
+        <item>%1$d %2$s كل %3$s</item>
+        <item>%1$d %2$s كل %3$s</item>
+        <item>%1$d %2$s كل %3$s</item>
+        <item>%1$d %2$s كل %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d مجانًا %2$s كل %3$s)</item>
+        <item>(%1$d مجانًا %2$s كل %3$s)</item>
+        <item>(%1$d مجانًا %2$s كل %3$s)</item>
+        <item>(%1$d مجانًا %2$s كل %3$s)</item>
+        <item>(%1$d مجانًا %2$s كل %3$s)</item>
+        <item>(%1$d مجانًا %2$s كل %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>أعطني %1$d %2$s كل %3$s</item>
+        <item>أعطني %1$d %2$s كل %3$s</item>
+        <item>أعطني %1$d %2$s كل %3$s</item>
+        <item>أعطني %1$d %2$s كل %3$s</item>
+        <item>أعطني %1$d %2$s كل %3$s</item>
+        <item>أعطني %1$d %2$s كل %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>احصل على %1$d %2$s كل %3$s وضاعف فرصك للحصول على معجب بواقع 3 مرات.</item>
+        <item>احصل على %1$d %2$s كل %3$s وضاعف فرصك للحصول على معجب بواقع 3 مرات.</item>
+        <item>احصل على %1$d %2$s كل %3$s وضاعف فرصك للحصول على معجب بواقع 3 مرات.</item>
+        <item>احصل على %1$d %2$s كل %3$s وضاعف فرصك للحصول على معجب بواقع 3 مرات.</item>
+        <item>احصل على %1$d %2$s كل %3$s وضاعف فرصك للحصول على معجب بواقع 3 مرات.</item>
+        <item>احصل على %1$d %2$s كل %3$s وضاعف فرصك للحصول على معجب بواقع 3 مرات.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s جديد</item>
+        <item>%1$s جديد</item>
+        <item>%1$s جديدان</item>
+        <item>%1$s جديدة</item>
+        <item>%1$s جديدة</item>
+        <item>%1$s جديد</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>لقطة</item>
+        <item>لقطة</item>
+        <item>لقطة</item>
+        <item>لقطات</item>
+        <item>لقطة</item>
+        <item>لقطة</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>تبقّى %1$d لقطة</item>
+        <item>تبقّى %1$d لقطة</item>
+        <item>تبقّى %1$d لقطة</item>
+        <item>تبقّى %1$d لقطات</item>
+        <item>تبقّى %1$d لقطة</item>
+        <item>تبقّى %1$d لقطة</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>تبقّى %1$dس</item>
+        <item>تبقّى %1$dس</item>
+        <item>تبقّى %1$dس</item>
+        <item>تبقّى %1$dس</item>
+        <item>تبقّى %1$dس</item>
+        <item>تبقّى %1$dس</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>تبقّى أقل من %1$dد</item>
+        <item>تبقّى أقل من %1$dد</item>
+        <item>تبقّى أقل من %1$dد</item>
+        <item>تبقّى أقل من %1$dد</item>
+        <item>تبقّى أقل من %1$dد</item>
+        <item>تبقّى أقل من %1$dد</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>تبقّى %1$dد</item>
+        <item>تبقّى %1$dد</item>
+        <item>تبقّى %1$dد</item>
+        <item>تبقّى %1$dد</item>
+        <item>تبقّى %1$dد</item>
+        <item>تبقّى %1$dد</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>ترقية</item>
+        <item>ترقية</item>
+        <item>ترقية</item>
+        <item>ترقيات</item>
+        <item>ترقية</item>
+        <item>ترقية</item>
+    </plurals>
+    <plurals name="week">
+        <item>أسبوع</item>
+        <item>أسبوع</item>
+        <item>أسبوع</item>
+        <item>أسابيع</item>
+        <item>أسبوع</item>
+        <item>أسبوع</item>
+    </plurals>
+</resources>

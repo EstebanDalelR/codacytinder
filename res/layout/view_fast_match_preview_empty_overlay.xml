@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/shimmer_frame_layout" android:layout_width="@dimen/fast_match_overlay_width" android:layout_height="@dimen/fast_match_overlay_height" android:layout_alignTop="@id/matches_avatar_container" android:layout_centerHorizontal="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@drawable/oval_fastmatch_preview_empty_overlay" android:layout_width="@dimen/new_match_avatar_size" android:layout_height="@dimen/new_match_avatar_size" />
+</FrameLayout>

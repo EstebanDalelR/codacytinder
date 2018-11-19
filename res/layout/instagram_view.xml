@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.views.CustomTextView android:id="@id/profile_instagram_photo_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_large" style="@style/profile_header" />
+    <FrameLayout android:layout_gravity="right" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.viewpagerindicator.CirclePageIndicator android:layout_gravity="center|right" android:id="@id/instagram_indicator" android:paddingLeft="@dimen/padding_small" android:paddingRight="@dimen/z_page_indicator_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/padding_small" android:paddingEnd="@dimen/z_page_indicator_margin" app:centered="true" app:fillColor="@color/tinder_accent" app:orientation="horizontal" app:pageColor="@color/z_page_indicator_inactive" app:radius="@dimen/z_page_indicators_radius" app:strokeWidth="@dimen/page_indicators_strokeWidth" />
+    </FrameLayout>
+    <android.support.v4.view.ViewPager android:id="@id/instagram_viewpager" android:layout_width="fill_parent" android:layout_height="240.0dip" />
+</merge>

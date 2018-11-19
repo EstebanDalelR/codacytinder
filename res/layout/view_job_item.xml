@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/job_item_stub" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.tinder.profile.view.ProfileItemView android:id="@id/job_item_profile_item" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

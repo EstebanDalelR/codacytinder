@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.tinder.common.view.SafeViewFlipper android:layout_gravity="center" android:id="@c6248a/spotify_player_controls_flipper" android:layout_width="@dimen/icon_settings" android:layout_height="@dimen/icon_settings" android:layout_centerInParent="true" style="@style/imageView_edit_profile">
+        <ProgressBar android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:indeterminate="true"/>
+        <ImageView android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/spotify_player_ic_stop"/>
+        <ImageView android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/spotify_player_ic_play"/>
+    </com.tinder.common.view.SafeViewFlipper>
+    <com.tinder.spotify.views.CircularProgressBar android:layout_gravity="center" android:id="@c6248a/spotify_player_circular_progress" android:layout_width="@dimen/progress_bar_size" android:layout_height="@dimen/progress_bar_size" android:layout_centerInParent="true" app:cpb_progress_color="@c6252a/tinder_accent" app:cpb_strokeWidth="@dimen/progress_bar_stroke_width"/>
+</merge>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.profile.view.ProfileTopArtistsView android:id="@id/profile_top_artist_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_s" android:layout_marginBottom="@dimen/space_xxs"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

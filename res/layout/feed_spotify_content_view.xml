@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.common.feed.view.FeedImageContentView android:id="@id/feedImageContentViewSpotifyTrack" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <View android:background="@drawable/feed_background_image_gradient_no_corner_radius" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.tinder.feed.view.FeedSpotifyTrackPlayerView android:layout_gravity="bottom" android:id="@id/spotifyTrackPlayerActivityFeed" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/space_xl" />
+</merge>

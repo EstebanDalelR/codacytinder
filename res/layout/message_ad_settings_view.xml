@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/manage_ad_message_preferences_title_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/manage_ad_message_preferences_title" style="@style/DialogTitle" />
+    <TextView android:id="@id/manage_ad_message_preferences_secondary_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/manage_ad_message_preferences_secondary_text" style="@style/Subtitle" />
+    <View android:background="@color/sponsored_message_divider_light_grey" android:layout_width="fill_parent" android:layout_height="@dimen/spacer_view_height" />
+    <com.tinder.messageads.view.MessageAdSettingsRecyclerView android:id="@id/message_ad_settings_recycler_view" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <View android:background="@color/sponsored_message_divider_light_grey" android:layout_width="fill_parent" android:layout_height="@dimen/spacer_view_height" />
+    <TextView android:id="@id/manage_ad_message_preferences_cautionary_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/manage_ad_message_preferences_cautionary_text" style="@style/CautionaryText" />
+    <TextView android:id="@id/manage_ad_message_preferences_confirm_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/manage_ad_message_preferences_confirm_button_text" style="@style/ConfirmButton" />
+</LinearLayout>

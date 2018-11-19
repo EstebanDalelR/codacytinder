@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.smsauth.ui.view.ErrorContainerView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/space_xs" android:layout_marginBottom="@dimen/space_xs" android:layout_marginStart="@dimen/space_xl" android:layout_marginEnd="@dimen/space_xl"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/error_container_view" />
+</com.tinder.smsauth.ui.view.ErrorContainerView>

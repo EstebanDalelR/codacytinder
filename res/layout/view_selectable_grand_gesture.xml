@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ToggleButton android:layout_gravity="center|right" android:id="@id/soundToggle" android:background="@drawable/chat_bubble_sound_toggle_button" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="@dimen/chat_bubble_sound_toggle_size" android:layout_height="@dimen/chat_bubble_sound_toggle_size" android:layout_marginRight="30.0dip" android:textOn="@null" android:textOff="@null" />
+    <com.tinder.reactions.gestures.view.GrandGestureSelectorView android:layout_gravity="center" android:id="@id/gestureSelector" android:layout_width="wrap_content" android:layout_height="@dimen/selectable_animation_height" />
+    <com.tinder.reactions.gestures.view.TappableGrandGestureView android:layout_gravity="bottom|center" android:id="@id/gestureActivator" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</merge>

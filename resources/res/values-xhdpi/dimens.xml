@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="game_text_size">20sp</dimen>
+    <dimen name="going_out_avatar_circle_diameter">126dp</dimen>
+    <dimen name="intro_heading_text_size">21dp</dimen>
+    <dimen name="legacy_paywall_pager_height">225dp</dimen>
+    <dimen name="msgs_left_max_width">150dp</dimen>
+    <dimen name="paywall_dialog_width">320dp</dimen>
+    <dimen name="paywall_pager_height">288dp</dimen>
+    <dimen name="photo_container_sides">60dp</dimen>
+    <dimen name="teaser_text_size">16sp</dimen>
+    <dimen name="width_dialog">320dp</dimen>
+</resources>

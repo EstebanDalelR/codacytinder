@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>esok</item>
+        <item>dalam %d hari</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>dalam 1 jam</item>
+        <item>dalam %d jam</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>dalam 1 minit</item>
+        <item>dalam %d minit</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>dalam 1 saat</item>
+        <item>dalam %d saat</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>semalam</item>
+        <item>%d hari yang lalu</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 jam yang lalu</item>
+        <item>%d jam yang lalu</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 minit yang lalu</item>
+        <item>%d minit yang lalu</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 saat yang lalu</item>
+        <item>%d saat yang lalu</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 jam</item>
+        <item>%d jam</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 minit</item>
+        <item>%d minit</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 saat</item>
+        <item>%d saat</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>esok</item>
+        <item>dalam %d hari</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>dalam 1 jam</item>
+        <item>dalam %d jam</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>dalam 1 minit</item>
+        <item>dalam %d minit</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>dalam 1 saat</item>
+        <item>dalam %d saat</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>semalam</item>
+        <item>%d hari yang lalu</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 jam yang lalu</item>
+        <item>%d jam yang lalu</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 minit yang lalu</item>
+        <item>%d minit yang lalu</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 saat yang lalu</item>
+        <item>%d saat yang lalu</item>
+    </plurals>
+</resources>

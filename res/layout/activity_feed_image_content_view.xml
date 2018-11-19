@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.video.view.AspectRatioAwareImageView android:id="@id/feedImage" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+    <View android:id="@id/feedErrorStateImage" android:background="@drawable/ic_error" android:visibility="gone" android:layout_width="@dimen/feed_loading_error_icon_size" android:layout_height="@dimen/feed_loading_error_icon_size" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <com.tinder.views.CustomTextView android:id="@id/feedErrorStateText" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:text="@string/feed_instagram_loading_error_message" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/feedErrorStateImage" />
+    <ProgressBar android:textSize="@dimen/text_xxs" android:id="@id/feedProgressLoader" android:layout_width="@dimen/feed_progress_loader_size" android:layout_height="@dimen/feed_progress_loader_size" android:layout_centerInParent="true" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" />
+</merge>

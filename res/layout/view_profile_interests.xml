@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.views.CustomTextView android:id="@id/profile_interests_title_text" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/profile_header" />
+    <view android:orientation="vertical" android:id="@id/profile_interests_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_med" class="com.tinder.profile.view.ProfileInterestsView$InterestsGrid" />
+</merge>

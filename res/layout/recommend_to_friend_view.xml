@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/recommend_to_friend_text_group" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_m" android:textColor="@color/tinder_accent" android:ellipsize="end" android:gravity="center" android:id="@id/recommend_title" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" app:customFontStyle="semi_bold" app:textAllCaps="true" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_xs" android:textColor="@color/tinder_accent" android:gravity="center" android:id="@id/recommend_subtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" app:customFontStyle="semi_bold" app:textAllCaps="true" />
+    </LinearLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@id/spinner" android:layout_width="24.0dip" android:layout_height="24.0dip" android:indeterminate="true" />
+</merge>

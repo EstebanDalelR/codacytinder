@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:id="@id/onboarding_birthday_view_flipper" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/view_onboarding_birthday_input" />
+    <include layout="@layout/view_onboarding_birthday_stay_tuned" />
+    <include layout="@layout/view_onboarding_birthday_certification" />
+</merge>

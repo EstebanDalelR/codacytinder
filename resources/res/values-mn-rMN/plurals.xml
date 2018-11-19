@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>маргааш</item>
+        <item>%d өдрийн дараа</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>1 цагийн дараа</item>
+        <item>%d цагийн дараа</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>1 мин дараа</item>
+        <item>%d минутын дараа</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>1 сек дараа</item>
+        <item>%d сек дараа</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>өчигдөр</item>
+        <item>%d өдрийн өмнө</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 цагийн өмнө</item>
+        <item>%d цагийн өмнө</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 мин өмнө</item>
+        <item>%d минутын өмнө</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 секундын өмнө</item>
+        <item>%d сек дараа</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 цаг</item>
+        <item>%d цаг</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 минут</item>
+        <item>%d минут</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 секунд</item>
+        <item>%d секунд</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>маргааш</item>
+        <item>%d өдрийн дараа</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>1 цагийн дараа</item>
+        <item>%d цагийн дараа</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>1 минутын дараа</item>
+        <item>%d минутын дараа</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>1 секундын дараа</item>
+        <item>%d секундын дараа</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>өчигдөр</item>
+        <item>%d өдрийн өмнө</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 цагийн өмнө</item>
+        <item>%d цагийн өмнө</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 минутын өмнө</item>
+        <item>%d минутын өмнө</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 секундын өмнө</item>
+        <item>%d секундын өмнө</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/radarView" android:layout_width="@dimen/places_pin_radar_size" android:layout_height="@dimen/places_pin_radar_size" />
+    <android.support.constraint.Guideline android:orientation="horizontal" android:id="@id/pinGuideline" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_percent="0.5" />
+    <ImageView android:id="@id/pinOutline" android:layout_width="@dimen/places_pin_width" android:layout_height="@dimen/places_pin_height" app:layout_constraintBottom_toBottomOf="@id/pinGuideline" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" />
+    <ImageView android:id="@id/pinIcon" android:layout_width="@dimen/places_pin_icon_size" android:layout_height="@dimen/places_pin_icon_size" android:layout_marginTop="6.0dip" android:layout_marginBottom="12.0dip" android:src="@drawable/ian_icon_fastmatch" android:scaleType="fitCenter" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip" app:layout_constraintBottom_toBottomOf="@id/pinOutline" app:layout_constraintEnd_toEndOf="@id/pinOutline" app:layout_constraintStart_toStartOf="@id/pinOutline" app:layout_constraintTop_toTopOf="@id/pinOutline" />
+</merge>

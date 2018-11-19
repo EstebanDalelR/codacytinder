@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient android:startColor="@color/gradient_red" android:endColor="@color/gradient_orange" android:angle="45.0" />
+            <corners android:radius="@dimen/space_xl" />
+            <padding android:left="@dimen/tinder_select_nom_button_padding" android:top="@dimen/space_s" android:right="@dimen/tinder_select_nom_button_padding" android:bottom="@dimen/space_s" />
+        </shape>
+    </item>
+    <item android:gravity="center" android:drawable="@drawable/ic_camera_account" />
+</layer-list>

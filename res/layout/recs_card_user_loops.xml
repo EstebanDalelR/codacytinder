@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.recs.view.TappyUserRecCardView android:layout_width="fill_parent" android:layout_height="fill_parent" app:cardBackgroundColor="@color/recs_card_background"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.recs.view.loops.TappyLoopsCarouselView android:id="@id/recs_card_tappy_carousel" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include layout="@layout/recs_card_user_overlay" />
+</com.tinder.recs.view.TappyUserRecCardView>

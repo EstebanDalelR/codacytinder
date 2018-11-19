@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+package keepalive;
+
+option go_package = "github.com/TinderApp/proto/keepalive";
+option java_package = "com.tinder.proto.keepalive";
+option java_outer_classname = "KeepAliveClientData";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/empty.proto";
+
+import "keepalive/Nudge.proto";
+import "keepalive/Update.proto";
+import "keepalive/TypingIndicator.proto";
+
+// ClientData is the generic wrapper for all client messages passed down the websocket
+message ClientData {
+    Meta meta = 1;
+    Error error = 2;
+
+    oneof payload {
+        Nudge nudge = 3;
+        Update update = 4;
+        google.protobuf.Empty ping = 5; // Ping is used for web since they cannot send a native websocket ping frame
+        google.protobuf.Empty pong = 6; // Pong is used to reply to web Pings
+        TypingIndicator typing_indicator = 7; // used for sending/receiving typing indicator heartbeat
+    }
+}
+
+// Meta contains details unrelated to the payload; mostly stuff for tracking or measurement
+message Meta {
+
+    // Time that the immediate upstream service sent the message to the client
+    google.protobuf.Timestamp upstream_time = 1;
+
+    // Earliest time the message began in the backend
+    google.protobuf.Timestamp start_time = 2;
+}
+
+// Error should be used to notify the client of actionable error states
+message Error {
+    int32 code = 1;
+    string message = 2;
+}

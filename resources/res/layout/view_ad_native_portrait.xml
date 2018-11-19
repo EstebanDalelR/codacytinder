@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/ads_video_container" android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="match_parent">
+    <View android:layout_gravity="bottom" android:id="@+id/portrait_ad_bottom_gradient" android:background="@c14757c/gradient_dfp_portrait_ad" android:layout_width="match_parent" android:layout_height="0dp"/>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@+id/square_video_bottom_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@c14756b/portrait_ads_bottom_container_min_height">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@+id/ads_card_logo_image" android:layout_width="@c14756b/ads_logo_width" android:layout_height="@c14756b/ads_logo_height" android:scaleType="centerInside"/>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:padding="@dimen/padding_small" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/white" android:id="@c6248a/ads_card_click_through_text" android:padding="@dimen/padding_small" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <com.tinder.recs.view.nativevideos.ArrowAnimationDrawableImageView android:layout_width="@c14756b/ads_animated_arrow_width" android:layout_height="@c14756b/ads_animated_arrow_height" android:layout_marginStart="@dimen/margin_xmed" android:layout_marginEnd="@dimen/margin_xmed"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:layout_gravity="bottom|left|center_vertical|center_horizontal|center|start" android:id="@+id/ads_card_ad_icon" android:padding="@dimen/padding_xxmed" android:layout_width="@c14756b/native_ad_controls_button_size" android:layout_height="@c14756b/native_ad_controls_button_size" android:src="@c14757c/ic_ad"/>
+</FrameLayout>

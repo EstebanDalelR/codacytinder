@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:ellipsize="end" android:id="@id/countryName" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:layout_marginStart="@dimen/space_xxl" android:layout_marginEnd="@dimen/space_xs" app:layout_constraintEnd_toStartOf="@id/countryCode" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/Text.CountryCode" />
+    <TextView android:id="@id/countryCode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:textAlignment="viewEnd" android:layout_marginEnd="@dimen/space_xxl" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/Text.CountryCode" />
+</android.support.constraint.ConstraintLayout>

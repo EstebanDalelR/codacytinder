@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/pullAndReleaseGestureBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:adjustViewBounds="true" />
+    <com.tinder.reactions.gestures.view.GrandGestureInstructionTextView android:textSize="@dimen/text_m" android:textColor="@color/grand_gesture_activation_instruction_text" android:layout_gravity="bottom|center" android:id="@id/pullDownInstruction" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/grand_gestures_tabs_height" android:text="@string/pull_reaction_instruction" android:alpha="0.0" />
+    <com.tinder.reactions.gestures.view.PullAndReleaseAnimationView android:layout_gravity="center" android:id="@id/pullAndReleaseAnimation" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/pull_and_release_bottom_margin" android:scaleType="fitCenter" android:foregroundGravity="center" />
+</merge>

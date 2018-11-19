@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:height="@dimen/space_xxl" android:width="@dimen/space_xxl" android:viewportWidth="24" android:viewportHeight="24">
+    <group android:name="background">
+        <path android:name="circle" android:pathData="M12,12m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" android:strokeColor="@c15002a/tinder_flame" android:strokeWidth="1"/>
+    </group>
+    <group android:name="check">
+        <path android:name="tick" android:pathData="M6,11 l0,0 l0,0" android:strokeColor="@c15002a/tinder_flame" android:strokeWidth="2"/>
+    </group>
+</vector>

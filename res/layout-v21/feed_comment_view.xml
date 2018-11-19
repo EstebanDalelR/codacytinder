@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.feed.view.message.FeedCommentView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ViewSwitcher android:id="@id/feedChatAvatarIconSwitcher" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/feed_message_icon_margin" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent">
+        <ImageButton android:layout_gravity="end" android:id="@id/feedSendMessageButton" android:background="@drawable/button_circular_gradient" android:layout_width="@dimen/feed_message_button_size" android:layout_height="@dimen/feed_message_button_size" android:src="@drawable/ic_chat_bubble" android:contentDescription="@string/send" />
+        <com.tinder.views.AvatarView android:id="@id/feedChatAvatar" android:layout_width="@dimen/feed_message_button_size" android:layout_height="@dimen/feed_message_button_size" app:av_borderWidth="@dimen/avatar_border_small_size" app:av_circleDiameter="@dimen/feed_message_button_size" app:av_style="round" />
+    </ViewSwitcher>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/feedChatBubble" android:paddingLeft="@dimen/feed_message_bubble_horizontal_padding" android:paddingTop="@dimen/feed_message_bubble_vertical_padding" android:paddingRight="@dimen/feed_message_bubble_horizontal_padding" android:paddingBottom="@dimen/feed_message_bubble_vertical_padding" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:baselineAligned="false" android:paddingStart="@dimen/feed_message_bubble_horizontal_padding" android:paddingEnd="@dimen/feed_message_bubble_horizontal_padding" android:layout_marginStart="@dimen/feed_message_icon_margin" android:layout_marginEnd="@dimen/feed_message_icon_margin" android:elevation="@dimen/feed_message_elevation" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@id/feedChatAvatarIconSwitcher" app:layout_constraintStart_toStartOf="parent">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="0.0dip" android:layout_weight="1.0">
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/white" android:ellipsize="end" android:id="@id/feedChatMessage" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="3" app:customFontStyle="semi_bold" />
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_xxs" android:id="@id/feedChatTimestamp" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <ViewFlipper android:id="@id/feedChatStatusSwitcher" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ProgressBar android:layout_width="@dimen/space_s" android:layout_height="@dimen/space_s" android:indeterminate="true" />
+            <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/feed_message_arrow" android:contentDescription="@string/sent" />
+            <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_send_message_error" android:contentDescription="@string/sent" />
+        </ViewFlipper>
+    </LinearLayout>
+</com.tinder.feed.view.message.FeedCommentView>

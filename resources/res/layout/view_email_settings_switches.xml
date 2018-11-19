@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.settingsemail.email.view.EmailSettingsSwitchesView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView android:layout_gravity="center" android:id="@+id/email_settings_switches_card_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/settings_email_settings_switches_view_margin_bottom" app:cardBackgroundColor="@android:color/white" app:cardElevation="@dimen/space_xxxxs" app:contentPadding="@dimen/settings_card_content_padding">
+        <LinearLayout android:orientation="vertical" android:id="@+id/email_settings_switches_parent" android:layout_width="match_parent" android:layout_height="wrap_content" android:divider="?android:attr/dividerHorizontal" android:showDividers="middle"/>
+    </android.support.v7.widget.CardView>
+</com.tinder.settingsemail.email.view.EmailSettingsSwitchesView>

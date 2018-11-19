@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.tinder.views.CustomTextView android:id="@c6248a/profile_connections_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/profile_header"/>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/z_profile_body_text" android:id="@c6248a/profile_connections_detail" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_med" android:layout_marginBottom="@dimen/ig_grid_bottom_padding" android:text="@string/common_connections_body"/>
+</merge>

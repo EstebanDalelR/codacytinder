@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gold_paywall_button_margin">8.0dip</dimen>
+    <dimen name="gradient_curve_gradient_height">202.0dip</dimen>
+    <dimen name="profile_tab_button_divider_height">36.0dip</dimen>
+    <dimen name="profile_tab_edit_button_circumference">34.0dip</dimen>
+    <dimen name="profile_tab_name_age">22.0sp</dimen>
+    <dimen name="profile_tab_school_job">14.0dip</dimen>
+    <dimen name="profile_tab_user_avatar">100.0dip</dimen>
+</resources>

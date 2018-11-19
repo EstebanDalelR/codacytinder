@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_accountkit_account_verified">ئەکاونتەکەت سەلمێنرا!</string>
+    <string name="com_accountkit_button_begin">دەست پێ بکە</string>
+    <string name="com_accountkit_button_cancel">هەڵوەشاندنەوە</string>
+    <string name="com_accountkit_button_confirm">تەئیدی بکە</string>
+    <string name="com_accountkit_button_continue">بەردەوام بە</string>
+    <string name="com_accountkit_button_edit">دەستکاری</string>
+    <string name="com_accountkit_button_log_in">چوونەژوورەوە</string>
+    <string name="com_accountkit_button_next">دواتر</string>
+    <string name="com_accountkit_button_ok">باشە</string>
+    <string name="com_accountkit_button_resend_code_in">%1$dی تر دووبارە کورتەنامە بنێرە</string>
+    <string name="com_accountkit_button_resend_sms">جارێکی تر کورتەنامە بنێرە</string>
+    <string name="com_accountkit_button_send">ناردن</string>
+    <string name="com_accountkit_button_send_code_in_call">تەلەفۆنم بۆ بکە</string>
+    <string name="com_accountkit_button_send_code_in_call_details">لە ڕێگەی پەیوەندیەکی تەلەفۆنیەوە کۆدەکە وەربگرە</string>
+    <string name="com_accountkit_button_send_code_in_call_from_facebook_details">لە ڕێگەی پەیوەندیی تەلەفۆنیی فەیسبووکەوە کۆدەکەت وەربگرە</string>
+    <string name="com_accountkit_button_send_code_in_fb">لەسەر فەیسبووک کۆدێک وەربگرە</string>
+    <string name="com_accountkit_button_send_code_in_fb_details">کۆدەکە بە شێوەی ئاگاداریی فەیسبووک بە دەستت دەگات</string>
+    <string name="com_accountkit_button_start">دەستپێکردن</string>
+    <string name="com_accountkit_button_start_over">دووباره‌ هەوڵ بدە</string>
+    <string name="com_accountkit_button_submit">ناردن</string>
+    <string name="com_accountkit_check_email">ئیمەیلەکەت بکەوە</string>
+    <string name="com_accountkit_code_sent_to">ژمارە مۆبایلەکەت بسەلمێنە %1$s</string>
+    <string name="com_accountkit_confirmation_code_agreement">لەسەر %1$s کلیک بکە بۆ ئەوەی &lt;a href=%2$s&gt;مەرجەکان&lt;/a&gt;، &lt;a href=%3$s&gt;سیاسەتی دەیتا&lt;/a&gt; و &lt;a href=%4$s&gt;شێوازی بەکارهێنانی کووکی&lt;/a&gt;ی فەیسبووک قەبووڵ بکەیت.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">لەسەر %1$s کلیک بکە بۆ ئەوەی &lt;a href=%2$s&gt;مەرجەکان&lt;/a&gt;، &lt;a href=%3$s&gt;سیاسەتی دەیتا&lt;/a&gt;، &lt;a href=%4$s&gt;شێوازی بەکارهێنانی کووکی&lt;/a&gt; و &lt;a href=%5$s&gt;سیاسەتی پاراستنی نهێنی&lt;/a&gt;ی %6$s قەبووڵ بکەیت.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">لەسەر %1$s کلیک بکە بۆ ئەوەی &lt;a href=%2$s&gt;مەرجەکان&lt;/a&gt;، &lt;a href=%3$s&gt;سیاسەتی دەیتا&lt;/a&gt;، &lt;a href=%4$s&gt;شێوازی بەکارهێنانی کووکی&lt;/a&gt; و &lt;a href=%5$s&gt;سیاسەتی پاراستنی نهێنی&lt;/a&gt;ی فەیسبووک و هەروەها &lt;a href=%6$s&gt;مەرجەکانی خزمەت&lt;/a&gt;ی %7$s قەبووڵ بکەیت.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">لەسەر %1$s کلیک بکە بۆ ئەوەی &lt;a href=%2$s&gt;مەرجەکان&lt;/a&gt;، &lt;a href=%3$s&gt;سیاسەتی دەیتا&lt;/a&gt;، &lt;a href=%4$s&gt;شێوازی بەکارهێنانی کووکی&lt;/a&gt; و &lt;a href=%5$s&gt;سیاسەتی پاراستنی نهێنی&lt;/a&gt;ی فەیسبووک و هەروەها &lt;a href=%6$s&gt;مەرجەکانی خزمەت&lt;/a&gt;ی %7$s قەبووڵ بکەیت. &lt;a href=%8$s&gt;زۆرتر بزانە&lt;/a&gt; لەبارەی ئەوەی کە ئەکاونتەکەت چۆن سەلمێندرا.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">لەسەر %1$s کلیک بکە بۆ ئەوەی &lt;a href=%2$sمەرجەکان&lt;/a&gt;، &lt;a href=%3$s&gt;سیاسەتی دەیتا&lt;/a&gt;، &lt;a href=%4$s&gt;شێوازی بەکارهێنانی کووکی&lt;/a&gt;ی فەیسبووک و &lt;a href=%5$s&gt;سیاسەتی پاراستنی نهێنی&lt;/a&gt;ی %6$s قەبووڵ بکەیت. &lt;a href=%7$s&gt;زۆرتر بزانە&lt;/a&gt; لەبارەی ئەوەی کە ئەکاونتەکەت چۆن سەلمێندرا.</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">لەسەر %1$s کلیک بکە بۆ ئەوەی &lt;a href=%2$s&gt;مەرجەکان&lt;/a&gt;، &lt;a href=%3$s&gt;سیاسەتی دەیتا&lt;/a&gt; و &lt;a href=%4$s&gt;شێوازی بەکارهێنانی کووکی&lt;/a&gt;ی فەیسبووک قەبووڵ بکەیت. &lt;a href=%5$s&gt;زۆرتر بزانە&lt;/a&gt; لەبارەی ئەوەی کە ئەکاونتەکەت چۆن سەلمێندرا.</string>
+    <string name="com_accountkit_confirmation_code_text">هیچ کۆدێکم بۆ نەهات</string>
+    <string name="com_accountkit_confirmation_code_title">کۆدەکەت داخل بکە</string>
+    <string name="com_accountkit_email_invalid">ئەم ئیمەیلە نادروستە. تکایە دووبارە هەوڵ بدە.</string>
+    <string name="com_accountkit_email_loading_title">خەریکی سەلماندنی ئیمەیلی تۆین...</string>
+    <string name="com_accountkit_email_login_retry_title">ئیمەیلەکەت تەئید بکە</string>
+    <string name="com_accountkit_email_login_text">لەسەر %1$s تەپ بکە بۆ ئەوەی بەرنامەی Account Kitی فەیسبووک ئیمەیلی سەلماندنت بۆ بنێرێت بۆ ئەوەی بتوانیت %2$s بە کار بهێنیت. بۆ بەکارهێنانی ئەم بەرنامەیە پێویست ناکات ئەکاونتی فەسیبووکت هەبێت. &lt;a href=%3$s&gt;بزانە فەیسبووک چۆن زانیاریەکانت بە کار دەهێنێت&lt;/a&gt;.</string>
+    <string name="com_accountkit_email_login_title">ناونیشانی ئیمەیلت داخل بکە</string>
+    <string name="com_accountkit_email_not_received">دووبارە ئیمەیل بنێرە</string>
+    <string name="com_accountkit_email_verify_title">ئیمەیلەکە بکەوە و ناونیشانی ئیمەیلت بسەلمێنە</string>
+    <string name="com_accountkit_enter_code_sent_to">ئەو کۆدەی کە نێردرا بۆ %1$s لێرە داخل بکە</string>
+    <string name="com_accountkit_error_title">کێشەیەک لە سیستەم دا ڕووی دا. تکایە دووبارە هەوڵ بدە.</string>
+    <string name="com_accountkit_facebook_code_entry_title">ئەو کۆدەی کە لە فەیسبووک بە دەستت گەیشت داخل بکە</string>
+    <string name="com_accountkit_logging_in">خەریکە دەچێتە ناوەوە...</string>
+    <string name="com_accountkit_other_ways_to_get_code">ڕێگەکانی تر بۆ وەرگرتنی کۆد:</string>
+    <string name="com_accountkit_phone_error_title">تکایە ژمارە مۆبایلێکی دروست تۆمار بکە</string>
+    <string name="com_accountkit_phone_loading_title">خەریکی سەلماندنی ژمارەکەتە...</string>
+    <string name="com_accountkit_phone_login_retry_title">ژمارە مۆبایلەکەت دووپات بکەوە</string>
+    <string name="com_accountkit_phone_login_text">لەسەر %1$s تەپ بکە بۆ ئەوەی بەرنامەی Account Kitی فەیسبووک ئیمەیلی سەلماندنت بۆ بنێرێت بۆ ئەوەی بتوانیت Account Kit بە کار بهێنیت. بۆ بەکارهێنانی ئەم بەرنامەیە پێویست ناکات ئەکاونتی فەسیبووکت هەبێت. بۆ سەلماندنی ژمارەکەت لەوانەیە کورتەنامەیەکت بۆ بنێردرێت. لەوانەیە نرخی کورتەنامە و دەیتات لێ بسێندرێت. &lt;a href=%2$s&gt;بزانە فەیسبووک چۆن زانیاریەکانت بە کار دەهێنێت&lt;/a&gt;.</string>
+    <string name="com_accountkit_phone_login_title">ژمارە مۆبایلەکەت داخل بکە</string>
+    <string name="com_accountkit_phone_sending_code_on_fb_title">ناردنی کۆد لەڕێگەی فەیسبووکەوە...</string>
+    <string name="com_accountkit_phone_update_title">ژمارە مۆبایلی نوێت تۆمار بکە</string>
+    <string name="com_accountkit_resend_check">ئینبۆکسی کورتەنامەت بپشکنە</string>
+    <string name="com_accountkit_resend_email_text">ئیمەیلی نوێ بنێرە</string>
+    <string name="com_accountkit_resend_title">ئەگەر کۆدەکە بە دەستت نەگەیشتووە:</string>
+    <string name="com_accountkit_return_title">خەریکین تۆ دەبەینەوە سەر %1$s...</string>
+    <string name="com_accountkit_sent_title">نێردرا!</string>
+    <string name="com_accountkit_success_title">سەلمێنرا!</string>
+    <string name="com_accountkit_toolbar_title">بچۆ نێو %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">ئێمە ناتوانین کۆدەکەت تەئید بکەین. تکایە دووبارە هەوڵ بدە:</string>
+    <string name="com_accountkit_verify_title">خەریکی سەلماندنی کۆدەکەتە...</string>
+    <string name="com_accountkit_voice_call_code_entry_title">ئەو کۆدەی کە لە پەیوەندیە تەلەفۆنیەکە دا خوێنرایەوە داخل بکە</string>
+</resources>

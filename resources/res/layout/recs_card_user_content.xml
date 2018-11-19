@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="bottom" android:layout_gravity="bottom" android:orientation="horizontal" android:id="@c6248a/recs_card_user_content_container" android:padding="@dimen/padding_med" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/tappy_tutorial_min_profile_region_height">
+    <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <com.tinder.recs.view.UserRecCardHeadLineView android:gravity="center_vertical" android:id="@c6248a/recs_card_user_headline" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.tinder.views.CustomTextView android:id="@c6248a/recs_card_user_teaser_1" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Recs.Card.EdgelessText.Teaser"/>
+        <com.tinder.views.CustomTextView android:id="@c6248a/recs_card_user_teaser_2" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Recs.Card.EdgelessText.Teaser"/>
+        <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.tinder.shimmy.ShimmerFrameLayout android:id="@c6248a/recs_card_user_fast_match_teaser" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.tinder.views.CustomTextView android:textColor="@color/gold1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/likes_you" style="@style/Recs.Card.EdgelessText.Teaser"/>
+            </com.tinder.shimmy.ShimmerFrameLayout>
+        </FrameLayout>
+    </LinearLayout>
+    <ImageView android:layout_gravity="center_vertical" android:layout_width="@dimen/rec_card_info_icon" android:layout_height="@dimen/rec_card_info_icon" android:layout_marginLeft="@dimen/margin_small" android:src="@drawable/ic_info_white" android:layout_marginStart="@dimen/margin_small"/>
+</LinearLayout>

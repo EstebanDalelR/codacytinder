@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>kesho</item>
+        <item>kati ya siku %d</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>kati ya saa 1</item>
+        <item>katika saa %d</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>baada ya dakika 1</item>
+        <item>kati ya dakika%d</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>kati ya sekunde 1</item>
+        <item>kati ya sekunde %d</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>jana</item>
+        <item>siku %d zilizopita</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>Saa 1 iliyopita</item>
+        <item>Saa %d zilizopita</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>Dakika 1 iliyopita</item>
+        <item>Dakika %d zilizopita</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>Sekunde 1 iliyopita</item>
+        <item>Sekunde %d zilizopita</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>Saa 1</item>
+        <item>Saa %d</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>Dakika 1</item>
+        <item>Dakika %d</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>Sekunde 1</item>
+        <item>Sekunde %d</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>kesho</item>
+        <item>katika siku %d</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>kati ya saa 1</item>
+        <item>kati ya saa %d</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>kati ya dakika  1</item>
+        <item>katika dakika %d</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>kati ya sekunde 1</item>
+        <item>kati ya sekunde %d</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>jana</item>
+        <item>siku %d zilizopita</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>Saa 1 iliyopita</item>
+        <item>Saa %d zilizopita</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>Dakika 1 iliyopita</item>
+        <item>Dakika %d zilizopita</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>Sekunde 1 iliopita</item>
+        <item>sekunde %d zilizopita</item>
+    </plurals>
+</resources>

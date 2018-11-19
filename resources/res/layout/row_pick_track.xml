@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@drawable/rectangle_touch_feedback_white_background" android:layout_width="match_parent" android:layout_height="69dp">
+    <LinearLayout android:orientation="horizontal" android:id="@c6248a/row_track_image_layout" android:background="@drawable/rec_card_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+        <ImageView android:id="@c6248a/row_track_image" android:layout_width="36dp" android:layout_height="36dp" android:layout_marginLeft="@dimen/content_padding" android:src="@drawable/ic_spotify"/>
+    </LinearLayout>
+    <com.tinder.views.CustomTextView android:textSize="18sp" android:textColor="@color/black" android:ellipsize="end" android:id="@c6248a/row_track_artist_name" android:layout_width="200dp" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:text="Whatever the name is" android:lines="1" android:layout_toRightOf="@c6248a/row_track_image_layout" android:layout_centerVertical="true" android:fontFamily="semi"/>
+    <CheckBox android:id="@c6248a/row_track_pick_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/content_padding" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+    <View android:background="@color/gray_light" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginLeft="@dimen/content_padding" android:layout_marginRight="@dimen/content_padding" android:layout_alignParentBottom="true"/>
+</RelativeLayout>

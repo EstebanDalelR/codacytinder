@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>बूस्ट</item>
+        <item>बूस्ट्स</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>बूस्ट</item>
+        <item>बूस्ट्स</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d साझा कनेक्शन</item>
+        <item>%1$d साझे कनेक्शन</item>
+    </plurals>
+    <plurals name="day">
+        <item>दिन</item>
+        <item>दिन</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>%1$d दिन शेष</item>
+        <item>%1$d दिन शेष</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d किमी दूर</item>
+        <item>%1$d किमी दूर</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d मील दूर</item>
+        <item>%1$d मील दूर</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>दिन</item>
+        <item>%1$d दिन</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>घंटा</item>
+        <item>%1$d घंटे</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>माह</item>
+        <item>%1$d माह</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>सेकंड</item>
+        <item>%1$d सेकंड</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>सप्ताह</item>
+        <item>%1$d सप्ताह</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>हर %1$d नया लाइक</item>
+        <item>हर %1$d नए लाइक</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>साझे कनेक्शन के लिए %1$d मित्र</item>
+        <item>साझे कनेक्शनों के लिए %1$d मित्र</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d इन्स्टाग्राम फ़ोटो</item>
+        <item>%1$d इन्स्टाग्राम फ़ोटो</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d रुचि</item>
+        <item>%1$d रुचियाँ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>आने वाला कल</item>
+        <item>%d दिन में</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>1 घंटे में</item>
+        <item>%d घंटे में</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>1 मिनट में</item>
+        <item>%d मिनट में</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>1 सेकंड में</item>
+        <item>%d सेकंड में</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>बीता कल</item>
+        <item>%d दिन पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 घंटे पहले</item>
+        <item>%d घंटे पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 मिनट पहले</item>
+        <item>%d मिनट पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 सेकंड पहले</item>
+        <item>%d सेकंड पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 घंटा</item>
+        <item>%d घंटे</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 मिनट</item>
+        <item>%d मिनट</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 सेकंड</item>
+        <item>%d सेकंड</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>आने वाला कल</item>
+        <item>%d दिन में</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>1 घंटे में</item>
+        <item>%d घंटे में</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>1 मिनट में</item>
+        <item>%d मिनट में</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>1 सेकंड में</item>
+        <item>%d सेकंड में</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>बीता कल</item>
+        <item>%d दिन पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 घंटे पहले</item>
+        <item>%d घंटे पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 मिनट पहले</item>
+        <item>%d मिनट पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 सेकंड पहले</item>
+        <item>%d सेकंड पहले</item>
+    </plurals>
+    <plurals name="month">
+        <item>माह</item>
+        <item>माह</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d फ़ोटो</item>
+        <item>%1$d फ़ोटो</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d हालिया विजिटर</item>
+        <item>%1$d हालिया विजिटर</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d विजिटर</item>
+        <item>%1$d विजिटर</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s नया</item>
+        <item>%1$s नए</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>माह</item>
+        <item>माह</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>सेकंड</item>
+        <item>सेकंड</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>सुपर लाइक</item>
+        <item>सुपर लाइक</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>हर %3$s में %1$d %2$s</item>
+        <item>हर %3$s में %1$d %2$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(हर %3$s %1$d फ्री %2$s)</item>
+        <item>(हर %3$s में %1$d फ्री %2$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>हर %3$s मुझे %1$d %2$s दें</item>
+        <item>हर %3$s मुझे %1$d %2$s दें</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>हर %3$s में %1$d %2$s प्राप्त करें और किसी से मैच पर अपनी संभावना को 3 गुना बढ़ाएँ।</item>
+        <item>हर %3$s में %1$d %2$s प्राप्त करें और किसी से मैच पर अपनी संभावना को 3 गुना बढ़ाएँ।</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s नया</item>
+        <item>%1$s नए</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>पिक्स</item>
+        <item>पिक्स</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>%1$d पिक्स शेष</item>
+        <item>%1$d पिक्स शेष</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>%1$dघं शेष</item>
+        <item>%1$dघं शेष</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>&lt;%1$dमि शेष</item>
+        <item>&lt;%1$dमि शेष</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>%1$dमि शेष</item>
+        <item>%1$dमि शेष</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>अपग्रेड</item>
+        <item>अपग्रेड</item>
+    </plurals>
+    <plurals name="week">
+        <item>सप्ताह</item>
+        <item>सप्ताह</item>
+    </plurals>
+</resources>

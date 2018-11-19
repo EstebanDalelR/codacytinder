@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.views.CustomTextView android:id="@id/recs_card_user_headline_name" app:customFontStyle="semi_bold" style="@style/Recs.Card.EdgelessText.Place.Headline" />
+    <com.tinder.views.CustomTextView android:id="@id/recs_card_user_headline_age" android:visibility="gone" android:layout_marginLeft="@dimen/space_xs" android:layout_marginStart="@dimen/space_xs" app:customFontStyle="light|light_italic" style="@style/Recs.Card.EdgelessText.Place.Headline" />
+    <ImageView android:id="@id/recs_card_user_headline_verified_badge" android:src="@drawable/verification_badge" style="@style/PlaceRecTeaserImage" />
+    <ImageView android:id="@id/recs_card_user_headline_superlike" android:src="@drawable/recs_card_star" style="@style/PlaceRecTeaserImage" />
+    <ImageView android:id="@id/recs_card_user_headline_boost" android:src="@drawable/ic_boost_empty_chat" style="@style/PlaceRecTeaserImage" />
+    <ImageView android:id="@id/recs_card_user_headline_grid" android:src="@drawable/ic_fastmatch_background" style="@style/PlaceRecTeaserImage" />
+    <ImageView android:id="@id/recs_card_user_headline_top_picks" android:src="@drawable/ic_top_picks_small_background" style="@style/PlaceRecTeaserImage" />
+</merge>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.design.widget.AppBarLayout android:theme="@style/Tindered.ActionBar" android:id="@c6248a/appbar" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <android.support.design.widget.CollapsingToolbarLayout android:id="@c6248a/collapsing_toolbar" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?attr/actionBarSize" app:layout_scrollFlags="13">
+            <ImageView android:id="@c6248a/header_image" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/tinder_plus_banner" android:scaleType="centerCrop"/>
+            <ImageView android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="@c6248a/up_icon" android:paddingLeft="@dimen/padding_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/back_arrow"/>
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="#b3b3b3" android:id="@c6248a/toolbar_title" android:paddingTop="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content" app:customFontStyle="3"/>
+            <com.tinder.views.CustomButton android:textSize="@dimen/text_s" android:textColor="@color/white" android:layout_gravity="center" android:id="@c6248a/btn_getplus" android:background="@drawable/selector_oval_tinder_red" android:paddingLeft="28dp" android:paddingRight="28dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/get_tinder_plus" app:customFontStyle="3"/>
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="#b3b3b3" android:id="@c6248a/power_on_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/power_on" app:customFontStyle="1"/>
+        </android.support.design.widget.CollapsingToolbarLayout>
+        <View android:id="@c6248a/appbar_divider" android:background="@color/ab_divider_color" android:visibility="gone" android:layout_width="match_parent" android:layout_height="1dp"/>
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v7.widget.RecyclerView android:id="@c6248a/t_plus_control_recycler_view" android:layout_width="match_parent" android:layout_height="match_parent" android:overScrollMode="never" app:layout_behavior="com.tinder.tinderplus.behavior.GetTPlusHeaderBehavior"/>
+</android.support.design.widget.CoordinatorLayout>

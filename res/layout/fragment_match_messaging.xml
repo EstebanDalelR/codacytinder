@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:visibility="gone" layout="@layout/no_matches_view" />
+    <include layout="@layout/matches_loading_view" />
+    <com.tinder.views.MatchListLayout android:orientation="vertical" android:id="@id/matches_content" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:id="@id/search_frost_overlay" android:background="@color/translucent_gray_light" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:visibility="gone" layout="@layout/matches_no_search_results_view" />
+</FrameLayout>

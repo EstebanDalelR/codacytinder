@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/picture" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@c15232h/top_picks_thumbnail_image" android:alpha="0.5"/>
+    <FrameLayout android:id="@+id/picture_border" android:background="@c15227c/teaser_exhausted_border" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

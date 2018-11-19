@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.AppCompatTextView android:ellipsize="end" android:gravity="start" android:layout_gravity="start|center" android:id="@id/top_picks_count_text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="@dimen/space_m" app:autoSizeMaxTextSize="@dimen/bottom_bar_text_size" app:autoSizeMinTextSize="@dimen/text_m" app:autoSizeStepGranularity="1.0sp" app:autoSizeTextType="uniform" style="@style/TopPicksCounterViewText" />
+    <com.tinder.base.view.IdViewAnimator android:id="@id/bottom_counter_button_container" android:layout_width="wrap_content" android:layout_height="fill_parent" android:inAnimation="@anim/anim_quick_fade_in" android:outAnimation="@anim/anim_quick_fade_out">
+        <com.tinder.gold.TinderGoldButtonView android:layout_gravity="end|center" android:id="@id/get_more_top_picks_button" android:paddingTop="@dimen/bottom_bar_padding" android:paddingBottom="@dimen/bottom_bar_padding" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginEnd="@dimen/space_xs" app:buttonText="@string/get_more_button" app:buttonTextSpacing="0.05" />
+        <ProgressBar android:layout_gravity="center" android:id="@id/bottom_counter_progress_bar" android:padding="@dimen/space_xxs" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/TopPicksProgressBar" />
+    </com.tinder.base.view.IdViewAnimator>
+</merge>

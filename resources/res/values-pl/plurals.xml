@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Boost</item>
+        <item>Boosty</item>
+        <item>Boostów</item>
+        <item>Boosta</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Boost</item>
+        <item>Boosty</item>
+        <item>Boostów</item>
+        <item>Boosta</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d wspólny znajomy</item>
+        <item>%1$d wspólnych znajomych</item>
+        <item>%1$d wspólnych znajomych</item>
+        <item>%1$d wspólnego znajomego</item>
+    </plurals>
+    <plurals name="day">
+        <item>dzień</item>
+        <item>dni</item>
+        <item>dni</item>
+        <item>dnia</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>%1$d dzień</item>
+        <item>%1$d dni</item>
+        <item>%1$d dni</item>
+        <item>%1$d dnia</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d km stąd</item>
+        <item>%1$d km stąd</item>
+        <item>%1$d km stąd</item>
+        <item>%1$d km stąd</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d milę stąd</item>
+        <item>%1$d mile stąd</item>
+        <item>%1$d mil stąd</item>
+        <item>%1$d mili stąd</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>dzień</item>
+        <item>%1$d dni</item>
+        <item>%1$d dni</item>
+        <item>%1$d dnia</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>%1$d godzina</item>
+        <item>%1$d godziny</item>
+        <item>%1$d godzin</item>
+        <item>%1$d godziny</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>%1$d miesiąc</item>
+        <item>%1$d miesiące</item>
+        <item>%1$d miesięcy</item>
+        <item>%1$d miesiąca</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>%1$d sekunda</item>
+        <item>%1$d sekundy</item>
+        <item>%1$d sekund</item>
+        <item>%1$d sekundy</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>%1$d tydzień</item>
+        <item>%1$d tygodnie</item>
+        <item>%1$d tygodni</item>
+        <item>%1$d tygodnia</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Każde %1$d nowe polubienie</item>
+        <item>Każde %1$d nowe polubienia</item>
+        <item>Każde %1$d nowych polubień</item>
+        <item>Każde %1$d nowego polubienia</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d znajomy do wspólnych znajomych</item>
+        <item>%1$d znajomych do wspólnych znajomych</item>
+        <item>%1$d znajomych do wspólnych znajomych</item>
+        <item>%1$d znajomego do wspólnych znajomych</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d zdjęcie na Instagramie</item>
+        <item>%1$d zdjęcia na Instagramie</item>
+        <item>%1$d zdjęć na Instagramie</item>
+        <item>%1$d zdjęcia na Instagramie</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d zainteresowanie</item>
+        <item>%1$d zainteresowania</item>
+        <item>%1$d zainteresowań</item>
+        <item>%1$d zainteresowania</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>jutro</item>
+        <item>za %d dni</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>za godzinę</item>
+        <item>za %d godz.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>za minutę</item>
+        <item>za %d min</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>za sekundę</item>
+        <item>za %d s</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>wczoraj</item>
+        <item>%d dni temu</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>godzinę temu</item>
+        <item>%d godz. temu</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>minutę temu</item>
+        <item>%d min temu</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>sekundę temu</item>
+        <item>%d s temu</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 godzina</item>
+        <item>%d godz.</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 minuta</item>
+        <item>%d min</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 sekunda</item>
+        <item>%d s</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>jutro</item>
+        <item>za %d dni</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>za godzinę</item>
+        <item>za %d godzin</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>za minutę</item>
+        <item>za %d min.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>za sekundę</item>
+        <item>za %d sek.</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>wczoraj</item>
+        <item>%d dni temu</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>godzinę temu</item>
+        <item>%d godzin temu</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 minutę temu</item>
+        <item>%d min. temu</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>sekundę temu</item>
+        <item>%d sek. temu</item>
+    </plurals>
+    <plurals name="month">
+        <item>miesiąc</item>
+        <item>miesiące</item>
+        <item>miesięcy</item>
+        <item>miesiąca</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d zdjęcie</item>
+        <item>%1$d zdjęcia</item>
+        <item>%1$d zdjęć</item>
+        <item>%1$d zdjęcia</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d wcześniejszy Gość</item>
+        <item>%1$d wcześniejszych Gości</item>
+        <item>%1$d wcześniejszych Gości</item>
+        <item>%1$d wcześniejszego Gościa</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d Gość</item>
+        <item>%1$d Gości</item>
+        <item>%1$d Gości</item>
+        <item>%1$d Gościa</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s nowy</item>
+        <item>%1$s nowe</item>
+        <item>%1$s nowych</item>
+        <item>%1$s nowego</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>miesiąc</item>
+        <item>miesiące</item>
+        <item>miesięcy</item>
+        <item>miesiąca</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>sekunda</item>
+        <item>sekundy</item>
+        <item>sekund</item>
+        <item>sekundy</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>superlajk</item>
+        <item>superlajki</item>
+        <item>superlajków</item>
+        <item>superlajka</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s co %3$s</item>
+        <item>%1$d %2$s co %3$s</item>
+        <item>%1$d %2$s co %3$s</item>
+        <item>%1$d %2$s co %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>%1$d darmowy %2$s co %3$s)</item>
+        <item>(%1$d darmowe %2$s co %3$s)</item>
+        <item>(%1$d darmowych %2$s co %3$s)</item>
+        <item>(%1$d darmowego %2$s co %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Daj mi %1$d %2$s co %3$s</item>
+        <item>Daj mi %1$d %2$s co %3$s</item>
+        <item>Daj mi %1$d %2$s co %3$s</item>
+        <item>Daj mi %1$d %2$s co %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Zdobądź %1$d %2$s co %3$s i trzykrotnie zwiększ swoje szanse na znalezienie pary.</item>
+        <item>Zdobądź %1$d %2$s co %3$s i trzykrotnie zwiększ swoje szanse na znalezienie pary.</item>
+        <item>Zdobądź %1$d %2$s co %3$s i trzykrotnie zwiększ swoje szanse na znalezienie pary.</item>
+        <item>Zdobądź %1$d %2$s co %3$s i trzykrotnie zwiększ swoje szanse na znalezienie pary.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s nowy</item>
+        <item>%1$s nowe</item>
+        <item>%1$s nowych</item>
+        <item>%1$s nowego</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Wybór</item>
+        <item>Wybory</item>
+        <item>Wybory</item>
+        <item>Wyboru</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>Pozostał %1$d Wybór</item>
+        <item>Pozostały %1$d Wybory</item>
+        <item>Pozostało %1$d Wyborów</item>
+        <item>Pozostało %1$d Wyboru</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>Pozostała %1$d godz.</item>
+        <item>Pozostały %1$d godz.</item>
+        <item>Pozostało %1$d godz.</item>
+        <item>Pozostało %1$d godz.</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>Pozostało &lt;%1$d min</item>
+        <item>Pozostało &lt;%1$d min</item>
+        <item>Pozostało &lt;%1$d min</item>
+        <item>Pozostało &lt;%1$d min</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>Pozostała %1$d min</item>
+        <item>Pozostały %1$d min</item>
+        <item>Pozostało %1$d min</item>
+        <item>Pozostało %1$d min</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>ulepszona wersja</item>
+        <item>ulepszone wersje</item>
+        <item>ulepszonych wersji</item>
+        <item>ulepszonej wersji</item>
+    </plurals>
+    <plurals name="week">
+        <item>tydzień</item>
+        <item>tygodnie</item>
+        <item>tygodni</item>
+        <item>tygodnia</item>
+    </plurals>
+</resources>

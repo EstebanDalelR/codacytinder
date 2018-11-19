@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ViewStub android:id="@c6248a/no_matches" android:layout="@layout/no_matches_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <include android:id="@c6248a/matches_loading_view" layout="@layout/matches_loading_view"/>
+    <include android:layout_gravity="center" android:id="@c6248a/matches_no_search_results" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/matches_no_search_results_view"/>
+    <android.support.design.widget.CoordinatorLayout android:id="@c6248a/matches_content" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="match_parent">
+        <android.support.v7.widget.RecyclerView android:orientation="vertical" android:id="@c6248a/match_list_recycler" android:background="@android:color/transparent" android:visibility="gone" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:overScrollMode="never" app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+        <View android:id="@c6248a/search_frost_overlay" android:background="@color/translucent_gray_light" android:visibility="gone" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <android.support.design.widget.AppBarLayout android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content" app:elevation="0dp" app:layout_scrollFlags="1">
+            <com.tinder.match.views.MatchesSearchView android:id="@c6248a/matches_search_bar" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_scrollFlags="11"/>
+        </android.support.design.widget.AppBarLayout>
+    </android.support.design.widget.CoordinatorLayout>
+</merge>

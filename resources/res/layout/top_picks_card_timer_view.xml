@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.tinder.shimmy.ShimmerFrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:id="@+id/top_picks_expiration_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@c15233i/Recs_Card_EdgelessText_Headline_TopPicksCardTimer"/>
+    </com.tinder.shimmy.ShimmerFrameLayout>
+</merge>

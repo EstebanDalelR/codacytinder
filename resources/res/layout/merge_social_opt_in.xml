@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.tinder.views.CustomTextView android:text="@string/social_opt_in_enable_tinder_social" style="@style/Tindered.ProfileTab.StateHeader"/>
+        <com.tinder.views.CustomTextView android:text="@string/social_opt_in_text" style="@style/Tindered.ProfileTab.StateText"/>
+        <android.support.v7.widget.SwitchCompat android:layout_gravity="center" android:id="@c6248a/social_opt_in_switch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:checked="false" android:thumb="@drawable/social_opt_in_switch_handle"/>
+        <com.tinder.views.CustomTextView android:textSize="14dp" android:textColor="#bac5da" android:layout_gravity="center" android:id="@c6248a/social_opt_in_learn_more" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/social_opt_in_learn_more" android:textAllCaps="true" app:customFontStyle="3"/>
+    </LinearLayout>
+</merge>

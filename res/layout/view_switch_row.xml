@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.views.CustomTextView android:layout_gravity="start|center" android:id="@id/switch_text_view" android:tag="layout/view_switch_row_0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/space_s" style="@style/SettingsSubHeading" />
+    <com.tinder.views.CustomSwitch android:layout_gravity="end|center" android:id="@id/customSwitch" android:tag="layout/view_switch_row_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/space_xxs" />
+</merge>

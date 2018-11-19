@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.tinder.shimmy.ShimmerFrameLayout android:id="@c6248a/shimmer_frame_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:id="@c6248a/tab_icon" android:layout_width="match_parent" android:layout_height="match_parent" android:tint="@color/gold1" app:layout_shimmers="true"/>
+    </com.tinder.shimmy.ShimmerFrameLayout>
+    <ImageView android:id="@c6248a/non_shimmer_icon" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

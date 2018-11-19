@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="@dimen/snap_connect_bitmoji_search_bar_border_offset" android:top="@dimen/snap_connect_bitmoji_search_bar_border_offset" android:right="@dimen/snap_connect_bitmoji_search_bar_border_offset">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white" />
+            <stroke android:width="@dimen/snap_connect_bitmoji_border_width" android:color="@color/snap_connect_bitmoji_border_color" />
+        </shape>
+    </item>
+</layer-list>

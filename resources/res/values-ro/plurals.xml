@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Boost</item>
+        <item>Boost-uri</item>
+        <item>Boost-uri</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Boost</item>
+        <item>Boost-uri</item>
+        <item>Boost-uri</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d contact comun</item>
+        <item>%1$d contacte comune</item>
+        <item>%1$d contacte comune</item>
+    </plurals>
+    <plurals name="day">
+        <item>zi</item>
+        <item>zile</item>
+        <item>zile</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>%1$d zile rămase</item>
+        <item>%1$d zile rămase</item>
+        <item>%1$d zile rămase</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d km distanță</item>
+        <item>%1$d km distanță</item>
+        <item>%1$d km distanță</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d mile distanţă</item>
+        <item>%1$d mile depărtare</item>
+        <item>%1$d mile depărtare</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>%1$d zi</item>
+        <item>%1$d zile</item>
+        <item>%1$d zile</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>%1$d oră</item>
+        <item>%1$d ore</item>
+        <item>%1$d ore</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>%1$d lună</item>
+        <item>%1$d luni</item>
+        <item>%1$d luni</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>%1$d secundă</item>
+        <item>%1$d secunde</item>
+        <item>%1$d secunde</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>%1$d săptămână</item>
+        <item>%1$d săptămâni</item>
+        <item>%1$d săptămâni</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Fiecare %1$d Like nou</item>
+        <item>Fiecare %1$d Like-uri noi</item>
+        <item>Fiecare %1$d Like-uri noi</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d prieten pentru contacte comune</item>
+        <item>%1$d prieteni pentru contacte comune</item>
+        <item>%1$d prieteni pentru contacte comune</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d fotografie Instagram</item>
+        <item>%1$d fotografii Instagram</item>
+        <item>%1$d fotografii Instagram</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d interes</item>
+        <item>%1$d interese</item>
+        <item>%1$d interese</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>mâine</item>
+        <item>în %d (de) zile</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>în 1 oră</item>
+        <item>în %d (de) ore</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>în 1 min.</item>
+        <item>în %d (de) min.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>în 1 sec.</item>
+        <item>în %d (de) sec.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>ieri</item>
+        <item>cu %d (de) zile în urmă</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>cu 1 oră în urmă</item>
+        <item>cu %d (de) ore în urmă</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>cu 1 min. în urmă</item>
+        <item>cu %d (de) min. în urmă</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>cu 1 sec. în urmă</item>
+        <item>cu %d (de) secunde în urmă</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>O oră</item>
+        <item>%d (de) ore</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>Un minut</item>
+        <item>%d (de) minute</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>O secundă</item>
+        <item>%d (de) secunde</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>mâine</item>
+        <item>în %d (de) zile</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>în 1 oră</item>
+        <item>în %d (de) ore</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>în 1 minut</item>
+        <item>în %d (de) minute</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>într-o secundă</item>
+        <item>în %d (de) secunde</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>ieri</item>
+        <item>cu %d (de) zile în urmă</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>cu 1 oră în urmă</item>
+        <item>cu %d (de) ore în urmă</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>cu 1 minut în urmă</item>
+        <item>cu %d (de) minute în urmă</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>cu 1 secundă în urmă</item>
+        <item>cu %d (de) secunde în urmă</item>
+    </plurals>
+    <plurals name="month">
+        <item>lună</item>
+        <item>luni</item>
+        <item>luni</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d fotografie</item>
+        <item>%1$d fotografii</item>
+        <item>%1$d fotografii</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d vizitatori recenți</item>
+        <item>%1$d vizitatori recenți</item>
+        <item>%1$d vizitatori recenți</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d Vizitator</item>
+        <item>%1$d Vizitatori</item>
+        <item>%1$d Vizitatori</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s Nou</item>
+        <item>%1$s Noi</item>
+        <item>%1$s Noi</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>lună</item>
+        <item>luni</item>
+        <item>luni</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>secundă</item>
+        <item>secunde</item>
+        <item>secunde</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>Super Like</item>
+        <item>Super Like-uri</item>
+        <item>Super Like-uri</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s la fiecare %3$s</item>
+        <item>%1$d %2$s la fiecare %3$s</item>
+        <item>%1$d %2$s la fiecare %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d%2$s gratuit la fiecare %3$s)</item>
+        <item>(%1$d%2$s gratuite la fiecare %3$s)</item>
+        <item>(%1$d%2$s gratuite la fiecare %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Dă-mi %1$d %2$s la fiecare %3$s</item>
+        <item>Dă-mi %1$d %2$s la fiecare %3$s</item>
+        <item>Dă-mi %1$d %2$s la fiecare %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Obține %1$d %2$s la fiecare %3$s și crește-ți de 3 ori șansa la o compatibilitate.</item>
+        <item>Obține %1$d %2$s la fiecare %3$s și crește-ți de 3 ori șansa la o compatibilitate.</item>
+        <item>Obține %1$d %2$s la fiecare %3$s și crește-ți de 3 ori șansa la o compatibilitate.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s Nou</item>
+        <item>%1$s Noi</item>
+        <item>%1$s Noi</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Alegere</item>
+        <item>Alegeri</item>
+        <item>Alegeri</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>%1$d Alegere rămasă</item>
+        <item>%1$d Alegeri rămase</item>
+        <item>%1$d Alegeri rămase</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>%1$dh rămase</item>
+        <item>%1$dh rămase</item>
+        <item>%1$dh rămase</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>&lt;%1$dm rămase</item>
+        <item>&lt;%1$dm rămase</item>
+        <item>&lt;%1$dm rămase</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>%1$dm rămase</item>
+        <item>%1$dm rămase</item>
+        <item>%1$dm rămase</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>actualizări</item>
+        <item>actualizări</item>
+        <item>actualizări</item>
+    </plurals>
+    <plurals name="week">
+        <item>săptămână</item>
+        <item>săptămâni</item>
+        <item>săptămâni</item>
+    </plurals>
+</resources>

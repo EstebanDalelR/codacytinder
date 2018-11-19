@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v4.widget.SwipeRefreshLayout android:id="@id/swipe_refresh" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <com.tinder.base.view.TouchBlockingFrameLayout android:id="@id/gridview_touch_blocking_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.tinder.base.view.IdViewAnimator android:id="@id/gridview_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:inAnimation="@anim/anim_quick_fade_in" android:outAnimation="@anim/anim_quick_fade_out">
+                <com.tinder.views.grid.GridEmptyView android:id="@id/empty_gridview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                <com.tinder.cardstack.view.CardGridLayout android:id="@id/gridview" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fadeScrollbars="true" />
+            </com.tinder.base.view.IdViewAnimator>
+        </com.tinder.base.view.TouchBlockingFrameLayout>
+    </android.support.v4.widget.SwipeRefreshLayout>
+</merge>

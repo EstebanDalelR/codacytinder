@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center" android:id="@id/discovery_tool_tip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/discovery_tool_tip_icon_container" android:layout_width="fill_parent" android:layout_height="@dimen/actionbar_size" android:weightSum="1.0">
+        <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.35" />
+        <FrameLayout android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.3">
+            <ImageView android:layout_gravity="start" android:id="@id/discovery_tool_tip_icon" android:paddingLeft="@dimen/space_s" android:paddingTop="@dimen/space_xs" android:paddingRight="@dimen/space_s" android:paddingBottom="@dimen/space_xs" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:scaleType="center" />
+            <com.tinder.views.CustomTextView android:textSize="24.0sp" android:textColor="@color/white" android:gravity="center" android:layout_gravity="start" android:id="@id/discovery_tool_tip_text_icon" android:paddingLeft="@dimen/space_s" android:paddingTop="@dimen/space_xs" android:paddingRight="@dimen/space_s" android:paddingBottom="@dimen/space_xs" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/tinder_select_icon" />
+            <ImageView android:layout_gravity="end" android:id="@id/discovery_tool_tip_social_icon" android:paddingLeft="@dimen/space_s" android:paddingTop="@dimen/space_xs" android:paddingRight="@dimen/space_s" android:paddingBottom="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_actionbar_social" android:scaleType="center" />
+        </FrameLayout>
+        <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.35" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/discovery_tool_tip_circle_container" android:layout_width="fill_parent" android:layout_height="@dimen/tool_tip_simple_circle_container_height" android:layout_below="@id/discovery_tool_tip_icon_container">
+        <Space android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <FrameLayout android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <View android:layout_gravity="center" android:id="@id/discovery_tool_tip_circle" android:background="@drawable/discovery_tool_tip_simple_circle" android:layout_width="10.0dip" android:layout_height="@dimen/tool_tip_simple_circle_container_height" android:layout_marginRight="@dimen/tool_tip_line_margin" android:shadowRadius="0.0" android:layout_marginEnd="@dimen/tool_tip_line_margin" />
+        </FrameLayout>
+        <Space android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/discovery_tool_tip_vertical_line_container" android:layout_width="fill_parent" android:layout_height="32.0dip" android:layout_marginTop="-1.0dip" android:layout_below="@id/discovery_tool_tip_circle_container">
+        <Space android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <FrameLayout android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <View android:layout_gravity="center" android:id="@id/discovery_tool_tip_vertical_line" android:background="@color/white" android:layout_width="@dimen/tool_tip_line" android:layout_height="fill_parent" android:layout_marginRight="@dimen/tool_tip_line_margin" android:shadowRadius="0.0" android:layout_marginEnd="@dimen/tool_tip_line_margin" />
+        </FrameLayout>
+        <Space android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+    <View android:id="@id/discovery_tool_tip_horizontal_line" android:background="@color/white" android:layout_width="140.0dip" android:layout_height="@dimen/tool_tip_line" android:shadowRadius="0.0" android:layout_below="@id/discovery_tool_tip_vertical_line_container" android:layout_centerInParent="true" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_sm" android:textColor="@color/white" android:gravity="center" android:id="@id/discovery_tool_tip_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_below="@id/discovery_tool_tip_horizontal_line" android:layout_centerInParent="true" android:letterSpacing="0.01" />
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/feedImageGradientOverlayView" android:background="@drawable/feed_profile_change_work_overlay" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_margin="@dimen/space_l" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/feed_content_header_profile_change_work" style="@style/FeedContentView.Title.Work" />
+        <TextView android:id="@id/feedChangeCompanyTextView" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/FeedContentView.Text" />
+    </LinearLayout>
+</merge>

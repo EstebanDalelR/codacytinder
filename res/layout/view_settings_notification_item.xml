@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/notification_settings_title" style="@style/SettingsHeader" />
+    <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" android:layout_marginBottom="@dimen/space_xs" app:cardBackgroundColor="@color/white" app:cardCornerRadius="@dimen/space_xxs" app:cardElevation="@dimen/space_xxxxs">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/notification_settings_email_text" android:background="@drawable/rectangle_touch_feedback" android:paddingTop="@dimen/space_xs" android:paddingBottom="@dimen/space_xs" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" android:text="@string/notification_settings_email_row" android:paddingStart="@dimen/space_xs" android:paddingEnd="@dimen/space_xs" android:layout_marginStart="@dimen/space_xs" android:layout_marginEnd="@dimen/space_xs" style="@style/SettingsTitle" />
+            <TextView android:id="@id/notification_settings_push_notifications_text" android:background="@drawable/rectangle_touch_feedback" android:paddingTop="@dimen/space_xs" android:paddingBottom="@dimen/space_xs" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" android:layout_marginBottom="@dimen/space_xs" android:text="@string/notification_settings_push_notifications_row" android:paddingStart="@dimen/space_xs" android:paddingEnd="@dimen/space_xs" android:layout_marginStart="@dimen/space_xs" android:layout_marginEnd="@dimen/space_xs" style="@style/SettingsTitle" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</merge>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.shimmy.ShimmerFrameLayout android:id="@id/shimmerFrameLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/space_xxxs"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/matchAttributionIconFastmatchBackground" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_shimmers="false" />
+    <ImageView android:id="@id/matchAttributionIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</com.tinder.shimmy.ShimmerFrameLayout>

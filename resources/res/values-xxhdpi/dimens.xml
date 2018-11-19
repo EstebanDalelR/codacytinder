@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="going_out_avatar_circle_diameter">126dp</dimen>
+    <dimen name="group_btn_inner_padding">5dp</dimen>
+    <dimen name="group_button_size">50dp</dimen>
+    <dimen name="msgs_left_max_width">200dp</dimen>
+    <dimen name="paywall_dialog_width">320dp</dimen>
+    <dimen name="paywall_months_padding">14dp</dimen>
+    <dimen name="post_match_card_view_border_circle_diameter">150dp</dimen>
+</resources>

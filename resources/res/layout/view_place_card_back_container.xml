@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.v7.widget.CardView android:id="@c6248a/cardViewBack" app:cardCornerRadius="@dimen/place_card_corner_radius" app:cardPreventCornerOverlap="false" app:cardUseCompatPadding="true" style="@style/PlaceCardView">
+        <View android:id="@c6248a/cardBackgroundBack" android:background="@c6253b/places_gradient_green" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.tinder.places.card.view.PlaceCardBackView android:id="@c6248a/placeCardBack" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.tinder.places.card.view.PlaceCardAlternativesView android:id="@c6248a/placeCardAlternatives" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.tinder.places.card.view.PlaceCardRemoveView android:id="@c6248a/placeCardRemove" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </android.support.v7.widget.CardView>
+</merge>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="design_fab_size_normal">56.0dip</dimen>
+    <dimen name="gold_paywall_button_margin">16.0dip</dimen>
+    <dimen name="gold_paywall_pager_bottom_margin">16.0dip</dimen>
+    <dimen name="gold_paywall_pager_top_margin">4.0dip</dimen>
+    <dimen name="gradient_curve_gradient_height">232.0dip</dimen>
+    <dimen name="profile_tab_ad_panel_description_size">16.0sp</dimen>
+    <dimen name="profile_tab_ad_panel_title_size">18.0sp</dimen>
+    <dimen name="profile_tab_margin_xsmall">4.0dip</dimen>
+    <dimen name="profile_tab_padding_med">8.0dip</dimen>
+    <dimen name="profile_tab_padding_small">8.0dip</dimen>
+    <dimen name="profile_tab_state_container_height">192.0dip</dimen>
+    <dimen name="profile_tinder_plus_btn_text">16.0sp</dimen>
+    <dimen name="profiletab_adpanel_view_pager_height">88.0dip</dimen>
+    <dimen name="profiletab_avatar_margin">16.0dip</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleX="1.2" android:scaleY="1.2">
+        <ImageView android:id="@id/gold_subscription_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/intro_pricing_tinder_logo_offset" android:src="@drawable/settings_tinder_gold_logo_text" android:scaleType="centerCrop" />
+        <com.tinder.shimmy.ShimmerFrameLayout android:layout_gravity="bottom|center|right" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/settings_tinder_gold_logo_shimmer_text_background" android:scaleType="centerCrop" />
+            <ImageView android:id="@id/gold_subscription_logo_shimmer_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/settings_tinder_gold_logo_shimmer_text" android:scaleType="centerCrop" app:layout_shimmers="false" />
+        </com.tinder.shimmy.ShimmerFrameLayout>
+    </FrameLayout>
+    <com.tinder.shimmy.ShimmerFrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs">
+        <View android:background="@color/gold1" android:layout_width="@dimen/intro_pricing_controlla_gold_line_length" android:layout_height="@dimen/space_xxs" />
+    </com.tinder.shimmy.ShimmerFrameLayout>
+    <TextView android:textSize="@dimen/text_sm" android:textStyle="italic" android:textColor="@color/intro_pricing_controlla_discount" android:gravity="center" android:id="@id/intro_pricing_discount" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" android:textAllCaps="true" android:fontFamily="@font/proximanova_extrabold" />
+    <com.tinder.gold.TinderGoldButtonView android:id="@id/intro_pricing_get_gold_button" android:layout_width="@dimen/intro_pricing_controlla_get_gold_button_width" android:layout_height="@dimen/intro_pricing_controlla_get_gold_button_height" android:layout_marginTop="@dimen/space_xs" android:layout_marginBottom="@dimen/space_xs" app:buttonText="@string/get_tinder_gold" app:reverse="true" />
+    <TextView android:textSize="@dimen/text_s" android:textStyle="italic" android:textColor="@color/intro_pricing_controlla_timer_text" android:gravity="center" android:id="@id/intro_pricing_expiration" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_semibold" />
+</merge>

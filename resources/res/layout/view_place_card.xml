@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.places.card.view.PlaceCardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginStart="@dimen/places_card_space" android:layout_marginEnd="@dimen/places_card_space">
+    <com.tinder.places.card.view.PlaceCardFrontView android:id="@c6248a/placeCardFront" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.tinder.places.card.view.PlaceCardBackContainerView android:id="@c6248a/placeCardBackContainer" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</com.tinder.places.card.view.PlaceCardView>

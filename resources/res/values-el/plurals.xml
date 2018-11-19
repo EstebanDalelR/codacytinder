@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Boost</item>
+        <item>Boosts</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Boost</item>
+        <item>Boosts</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d κοινή επαφή</item>
+        <item>%1$d κοινές επαφές</item>
+    </plurals>
+    <plurals name="day">
+        <item>ημέρα</item>
+        <item>ημέρες</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>%1$d μέρα απομένει</item>
+        <item>%1$d μέρες απομένουν</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d χλμ. μακριά</item>
+        <item>%1$d χλμ. μακριά</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d μίλι μακριά</item>
+        <item>%1$d μίλια μακριά</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>ημέρα</item>
+        <item>%1$d ημέρες</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>ώρα</item>
+        <item>%1$d ώρες</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>μήνα</item>
+        <item>%1$d μήνες</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>δευτερόλεπτο</item>
+        <item>%1$d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>εβδομάδα</item>
+        <item>%1$d εβδομάδες</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Κάθε %1$d νέo «μου αρέσει»</item>
+        <item>Κάθε %1$d νέα «μου αρέσει»</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d φίλος για κοινές επαφές</item>
+        <item>%1$d φίλοι για κοινές επαφές</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d φωτογραφία Instagram</item>
+        <item>%1$d φωτογραφίες Instagram</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d ενδιαφέρον</item>
+        <item>%1$d ενδιαφέροντα</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>αύριο</item>
+        <item>σε %d ημέρες</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>σε 1 ώρα</item>
+        <item>σε %d ώρες</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>σε 1 λεπτό</item>
+        <item>σε %d λεπτά</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>σε 1 δευτερόλεπτο</item>
+        <item>σε %d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>χθες</item>
+        <item>πριν από %d ημέρες</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>πριν από 1 ώρα</item>
+        <item>πριν από %d ώρες</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>πριν από 1 λεπτό</item>
+        <item>πριν από %d λεπτά</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>πριν από 1 δευτερόλεπτο</item>
+        <item>πριν από %d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 ώρα</item>
+        <item>%d ώρες</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 λεπτό</item>
+        <item>%d λεπτά</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 δευτερόλεπτο</item>
+        <item>%d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>αύριο</item>
+        <item>σε %d ημέρες</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>σε 1 ώρα</item>
+        <item>σε %d ώρες</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>σε 1 λεπτό</item>
+        <item>σε %d λεπτά</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>σε 1 δευτερόλεπτο</item>
+        <item>σε %d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>χθες</item>
+        <item>πριν από %d ημέρες</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>πριν από 1 ώρα</item>
+        <item>πριν από %d ώρες</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>πριν από 1 λεπτό</item>
+        <item>πριν από %d λεπτά</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>πριν από 1 δευτερόλεπτο</item>
+        <item>πριν από %d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="month">
+        <item>μήνας</item>
+        <item>μήνες</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d φωτογραφία</item>
+        <item>%1$d φωτογραφίες</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d πρόσφατος επισκέπτης</item>
+        <item>%1$d πρόσφατοι επισκέπτες</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d Επισκέπτης</item>
+        <item>%1$d Επισκέπτες</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s Νέο</item>
+        <item>%1$s Νέα</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>μήνας</item>
+        <item>μήνες</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>δευτερόλεπτο</item>
+        <item>δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>Super Like</item>
+        <item>Super Likes</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s κάθε %3$s</item>
+        <item>%1$d %2$s κάθε %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d δωρέαν %2$s κάθε %3$s)</item>
+        <item>(%1$d δωρέαν %2$s κάθε %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Δώστε μου %1$d %2$s κάθε %3$s</item>
+        <item>Δώστε μου %1$d %2$s κάθε %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Απόκτησε %1$d %2$s κάθε %3$s και τριπλασίασε την πιθανότητα ταιριάσματος</item>
+        <item>Απόκτησε %1$d %2$s κάθε %3$s και τριπλασίασε την πιθανότητα ταιριάσματος</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s Νέο</item>
+        <item>%1$s Νέα</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Επιλογή</item>
+        <item>Επιλογές</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>%1$d Επιλογή ακόμα</item>
+        <item>%1$d Επιλογές ακόμα</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>%1$dώ. ακόμα</item>
+        <item>%1$dώ. ακόμα</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>&lt;%1$dλ. ακόμα</item>
+        <item>&lt;%1$dλ. ακόμα</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>%1$dλ. ακόμα</item>
+        <item>%1$dλ. ακόμα</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>αναβάθμιση</item>
+        <item>αναβαθμίσεις</item>
+    </plurals>
+    <plurals name="week">
+        <item>εβδομάδα</item>
+        <item>εβδομάδες</item>
+    </plurals>
+</resources>

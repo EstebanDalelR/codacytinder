@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="auth_fb_disclaimer_content">
+        <item>Mēs neko nepublicējam Facebook</item>
+        <item>Citi lietotāji nevar ar tevi sazināties, ja vien jums nav izveidojusies saderība</item>
+    </array>
+    <array name="empty_message_suggestions">
+        <item>#NesvaidiVadotAuto</item>
+        <item>#RunaArSavuTinder</item>
+        <item>Sasniegums atbloķēts!</item>
+        <item>Padomā tikai, tu gandrīz nosviedi pa kreisi...</item>
+        <item>Vai tev ir sasietas rokas?</item>
+        <item>Vai tu gaidi īpašu uzaicinājumu?!</item>
+        <item>Pavaicā kaut ko par jūsu kopīgajiem draugiem!</item>
+        <item>Izturies draudzīgāk!</item>
+        <item>Lietotnē Tinder ir nosūtīti miljardiem ziņojumu. Kāds būs tavējais?</item>
+        <item>Carpe diem.</item>
+        <item>Kaķi vai suņi?</item>
+        <item>Sarunas pašas neuzrakstīsies.</item>
+        <item>Circeņi...</item>
+        <item>Vai kaķis iekodis tev mēlē?</item>
+        <item>Vai nezināji, ka dīvaini teksti nenostrādā?</item>
+        <item>Uz priekšu!</item>
+        <item>Neatstāj to tukšu!</item>
+        <item>&quot;Nesvaidi&quot;, vadot auto!</item>
+        <item>Nelieto Tinder, vadot auto!</item>
+        <item>Emocijzīmes ir pieņemtas.</item>
+        <item>Visiem patīk uzmanīgi cilvēki.</item>
+        <item>Pēdējās stundas laikā ir nosūtīti pieci miljoni ziņojumu... Tu nevari izdomāt pat vienu?</item>
+        <item>Izsaki kādu komplimentu un paskaties, kas notiks!</item>
+        <item>Pameklē Google, kā nebūt tik garlaicīgam(-i)!</item>
+        <item>Pameklē Google kādas asprātīgas replikas!</item>
+        <item>Lielisks jautājums! Jautā un saņemsi atbildi!</item>
+        <item>Nebaidies! Tinder tevi atbalstīs.</item>
+        <item>Neesi taču nepieklājīgs(-a)! Sasveicinies!</item>
+        <item>&quot;Hei&quot; der tikai zirgiem!</item>
+        <item>&quot;Čau&quot; neviens neatcerēsies.</item>
+        <item>Neesi taču nepieklājīgs(-a)... pasaki kaut ko!</item>
+        <item>Cik ilgs laiks tev vēl vajadzīgs, lai nosūtītu ziņojumu?</item>
+        <item>Cik daudz draugu tev jau ir Tinder?</item>
+        <item>Cik valodās tu vari rakstīt?</item>
+        <item>Ja vien būtu kāds veids, kā uzsākt sarunu. Ak, paga...</item>
+        <item>Ja nepajautāsi, atbilde vienmēr būs nē.</item>
+        <item>Ja nepajautāsi, nekad neuzzināsi.</item>
+        <item>Es ceru, ka šobrīd neesi pie stūres.</item>
+        <item>Daudzās kultūras uzskata, ka klusēt ir nepieklājīgi.</item>
+        <item>Ievieto savu komplimentu šeit!</item>
+        <item>Ievieto kādu smieklīgu vēstījumu šeit!</item>
+        <item>Ievieto pārdomātu ziņojumu šeit!</item>
+        <item>Beigu beigās mēs nožēlojam tikai neizmantotās iespējas.</item>
+        <item>Vai šī ir tava #TinderOtrdiena?</item>
+        <item>Viss sākas šeit.</item>
+        <item>Labi, ka nejauši &quot;nenosviedi&quot; pa kreisi.</item>
+        <item>Tas nav Tinder, kamēr neesi nosūtījis(-usi) ziņojumu.</item>
+        <item>Tas sākās šeit.</item>
+        <item>Tas sākās lietotnē Tinder.</item>
+        <item>Diez, kāda ir viņa(-s) devīze?</item>
+        <item>Aiziet, sākam!</item>
+        <item>Dzīvo tā, it kā šodien mirtu; sapņo tā, it kā dzīvotu mūžam!</item>
+        <item>Sper pirmo soli!</item>
+        <item>Sasmīdini viņu!</item>
+        <item>Sasniegts nākamais līmenis!</item>
+        <item>Nevienam nepatīk garlaikoties.</item>
+        <item>Vairāk nekā 36%% tavu Facebook draugu lieto Tinder.</item>
+        <item>Vairāk nekā 90%% komplimentu saņem atbildes.</item>
+        <item>Vai gribi, lai tevi Tinderizē?</item>
+        <item>Saki kaut ko!</item>
+        <item>Pasaki kaut ko smieklīgu!</item>
+        <item>Pasaki kaut ko jauku par viņa(-s) attēliem!</item>
+        <item>Pasaki kaut ko asprātīgu!</item>
+        <item>Pasaki paldies, ka tiki &quot;nosviests(-a)&quot; pa labi!</item>
+        <item>Sāc tik flirtēt...</item>
+        <item>Redzi to lodziņu tur lejā? Ieraksti kādu komplimentu!</item>
+        <item>Redzi to lodziņu tur lejā? Atklāj tajā nedaudz savas personības!</item>
+        <item>Redzi to lodziņu tur lejā? Ieraksti tajā kaut ko asprātīgu!</item>
+        <item>Redzi šo lodziņu? Ieraksti tajā kaut ko!</item>
+        <item>Nosūti ziņojumu, pirms baterija ir izlādējusies!</item>
+        <item>Kautrējies?</item>
+        <item>Tver mirkli!</item>
+        <item>Kādam vajadzētu radīt lietotni, kas palīdz satikt jaukus cilvēkus. Ak, paga...</item>
+        <item>Skatoties tikai ekrānā, nekas nesāks...</item>
+        <item>Uzsākt sarunu var būt neveikli, bet tikai ne šeit!</item>
+        <item>Izbeidz šo garlaicību!</item>
+        <item>Pastāsti par kādu savu traku piedzīvojumu!</item>
+        <item>Pastāsti, kādēļ &quot;nosviedi&quot; pa labi!</item>
+        <item>Tas līdzinās diviem suņa gadiem.</item>
+        <item>FOMO definīcija: bailes kaut ko palaist garām.</item>
+        <item>Tas, kurš pirmais nosūtīs ziņojumu, būs uzvarētājs.</item>
+        <item>Nosūtīt pirmo ziņojumu nav nekas slikts.</item>
+        <item>Klātienē viņš(-a) droši vien izskatās labāk.</item>
+        <item>Viņš(-a) skatās uz to pašu... uzraksti pirmo ziņojumu!</item>
+        <item>Viņš(-a) to neuzzinās, ja tu nepateiksi.</item>
+        <item>Šis ekrāns izskatās daudz labāk, ja tajā risinās saruna. Mājiens.</item>
+        <item>Šis ekrāns izskatītos daudz labāk, ja tajā risinātos saruna.</item>
+        <item>Tinder nevar rakstīt tavā vietā...</item>
+        <item>Tinder nevar rakstīt tavā vietā... vismaz pagaidām.</item>
+        <item>Tinder nevar rakstīt tavā vietā. Faktiski jau varētu, bet to nedarīs.</item>
+        <item>Tinder ir domāts, lai iepazītos... sāc šeit!</item>
+        <item>Tinder uzšķiļ jaunu dzirksti.</item>
+        <item>#MesAbiNosviedamPaLabi</item>
+        <item>Ja jau tik tālu esam tikuši, varētu arī kaut ko pateikt!</item>
+        <item>Ko tu gaidi?</item>
+        <item>Kādēļ &quot;nosviedi&quot; pa labi?</item>
+        <item>Kāds ir tavs vislielākais noslēpums?</item>
+        <item>Kāds ir tavs vismīļākais Tinder stāsts?</item>
+        <item>Kur tu &quot;nosviedi&quot; pa labi?</item>
+        <item>Kurš ir tavs vismīļākais attēls?</item>
+        <item>Kādēļ &quot;nosviedi&quot; pa labi?</item>
+        <item>Kādēļ tu nesasveicinājies?</item>
+        <item>Kādēļ tik nopietni?</item>
+        <item>Uzvara!</item>
+        <item>YOLO.</item>
+        <item>Nu ko, dzīvojam taču tikai vienreiz!</item>
+        <item>Jums abiem kaut kas patīk. Parunājiet par to!</item>
+        <item>Varēsiet pastāstīt saviem bērniem, ka iepazināties Tinder.</item>
+        <item>Divi īkšķi jums nav doti tāpat vien!</item>
+        <item>Tu zini, ka viņi jau gribēja sākt sarunu ar tevi. Vai ne? #MesAbiNosviedamPaLabi</item>
+        <item>Ja neaizsūtīsi savām saderībām ziņojumu, pastāv 100%% varbūtība, ka tās nesatiksi.</item>
+        <item>Tu pilnīgi noteikti neatcerēsies to, kas ar tevi nekad nav noticis!</item>
+        <item>Dzīvojam tikai vienreiz.</item>
+        <item>Vientulība nu ir galā... tiklīdz pateiksi &quot;čau&quot;!</item>
+        <item>Tavs gājiens.</item>
+        <item>Jūs abi esat atkarīgi no Tinder... tas jūs vieno.</item>
+        <item>Jaunāki jau nekļūsiet!</item>
+        <item>Tev bail sasveicināties? Zaķpastala!</item>
+    </array>
+    <array name="maps_compass_directions">
+        <item>Z</item>
+        <item>ZA</item>
+        <item>A</item>
+        <item>DA</item>
+        <item>D</item>
+        <item>DR</item>
+        <item>R</item>
+        <item>ZR</item>
+    </array>
+    <array name="maps_full_compass_directions">
+    </array>
+    <array name="ordinals">
+        <item>0.</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+    </array>
+</resources>

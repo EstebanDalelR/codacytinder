@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/half_transparent_white" />
+    <stroke android:width="1.0dip" android:color="@color/black.opacity.03" />
+    <corners android:radius="@dimen/place_card_corner_radius" />
+</shape>

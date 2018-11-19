@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <view android:id="@c6248a/boost_gauge_gauge" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0" class="com.tinder.boost.view.BoostGaugeView$SweepAnimationView"/>
+    <FrameLayout android:background="@drawable/boost_gauge_white_circle" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="@dimen/boost_stroke_thickness">
+        <ImageView android:layout_gravity="center" android:id="@c6248a/boost_gauge_bolt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/boost_ic_bolt"/>
+        <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@c6248a/multiplier_container" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.tinder.views.CustomTextView android:textSize="24sp" android:textColor="@color/get_boost_purple" android:gravity="center" android:id="@c6248a/multiplier" android:layout_width="match_parent" android:layout_height="wrap_content" app:customFontStyle="4"/>
+            <com.tinder.views.CustomTextView android:textColor="@color/get_boost_purple" android:layout_gravity="center_horizontal" android:id="@c6248a/multiplier_views" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-6dp" android:text="@string/boost_multiplier_views" android:textAllCaps="true" app:customFontStyle="3"/>
+        </LinearLayout>
+    </FrameLayout>
+</merge>

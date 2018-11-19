@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:drawable="@c6253b/places_pin_shadow" android:bottom="@dimen/places_pin_shadow_offset"/>
+    <item android:drawable="@c6253b/places_pin_red"/>
+</layer-list>

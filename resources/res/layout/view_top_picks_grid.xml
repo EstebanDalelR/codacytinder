@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.base.view.TouchBlockingFrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@c6248a/touch_blocking_container" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.tinder.toppicks.view.TopPicksGridRecsView android:orientation="vertical" android:id="@c6248a/fast_match_recs_view" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+</com.tinder.base.view.TouchBlockingFrameLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/chatMessageTimestamp" layout="@layout/chat_message_timestamp_view" />
+    <FrameLayout android:id="@id/chatMessageBody" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintEnd_toStartOf="@id/chatMessageError" app:layout_constraintHorizontal_bias="1.0" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/chatMessageTimestamp">
+        <com.tinder.chat.view.message.MessageImageView android:layout_gravity="end" android:id="@id/chat_message_image_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xxs" android:layout_marginStart="@dimen/space_xxxxl" android:layout_marginEnd="@dimen/space_xs" app:cardCornerRadius="@dimen/gif_rounded_radius" app:cardElevation="0.0dip" />
+    </FrameLayout>
+    <ImageView android:id="@id/chatMessageError" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/space_s" android:src="@drawable/ic_send_message_error" app:layout_constraintBottom_toBottomOf="@id/chatMessageBody" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="@id/chatMessageBody" />
+    <ProgressBar android:id="@id/chatMessagePending" android:visibility="gone" android:layout_width="@dimen/chat_message_status_row_height" android:layout_height="@dimen/chat_message_status_row_height" android:indeterminate="true" android:layout_marginEnd="@dimen/space_xs" app:layout_constraintEnd_toEndOf="@id/chatMessageBody" app:layout_constraintTop_toBottomOf="@id/chatMessageBody" />
+    <com.tinder.views.CustomTextView android:id="@id/chatMessageStatus" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/chat_message_status_row_height" android:layout_marginEnd="@dimen/space_xs" app:layout_constraintEnd_toStartOf="@id/chatMessagePending" app:layout_constraintTop_toBottomOf="@id/chatMessageBody" style="@style/ChatMessageDeliveryStatusTextStyle" />
+    <com.tinder.chat.view.message.HeartView android:id="@id/chatMessageHeart" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="@id/chatMessageBody" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="@id/chatMessageBody" style="@style/ChatMessageHeart" />
+</merge>

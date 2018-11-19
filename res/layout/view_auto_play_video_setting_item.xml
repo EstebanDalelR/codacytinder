@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:id="@id/autoPlaySettingsContainer" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_m" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_s" android:text="@string/data_usage" card_view:customFontStyle="bold" style="@style/settings_header" />
+    <android.support.v7.widget.CardView android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" card_view:cardBackgroundColor="@color/white" card_view:cardCornerRadius="@dimen/space_xxs" card_view:cardElevation="@dimen/space_xxxxs" card_view:contentPadding="@dimen/space_s">
+        <LinearLayout android:orientation="horizontal" android:id="@id/manageAutoPlaySettings" android:background="@drawable/rectangle_touch_feedback" android:paddingTop="@dimen/space_xxs" android:paddingBottom="@dimen/space_xxs" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.tinder.views.CustomTextView android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/autoplay_video" android:layout_weight="1.0" style="@style/settings_group_item" />
+            <ImageView android:layout_width="10.0dip" android:layout_height="fill_parent" android:src="@drawable/claim_url_arrow" android:layout_marginStart="@dimen/space_xxs" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</merge>

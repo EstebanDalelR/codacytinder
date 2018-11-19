@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.views.grid.GridUserRecCardView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.view.grid.ParallaxFrameLayout android:id="@id/recs_card_user_parallax_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/recs_card_user_image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    </com.tinder.view.grid.ParallaxFrameLayout>
+    <ImageView android:layout_gravity="bottom" android:id="@id/recs_card_user_bottom_gradient" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+    <LinearLayout android:layout_gravity="bottom|center|left" android:orientation="vertical" android:id="@id/recs_card_user_content_container" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.tinder.views.grid.GridUserRecCardHeadlineView android:gravity="center_vertical" android:id="@id/recs_card_user_headline" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <com.tinder.views.CustomTextView android:id="@id/recs_card_user_teaser_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" style="@style/Recs.Card.EdgelessText.Teaser.Grid" />
+    </LinearLayout>
+    <include layout="@layout/fast_match_recs_card_stamps_include" />
+</com.tinder.views.grid.GridUserRecCardView>

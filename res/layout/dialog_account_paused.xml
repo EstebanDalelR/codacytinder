@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:layout_width="@dimen/paywall_dialog_width" android:layout_height="wrap_content" app:cardCornerRadius="@dimen/exit_survey_dialog_corner_radius" app:cardPreventCornerOverlap="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/space_s">
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_l" android:textColor="@color/black" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/pausedTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_s" android:text="@string/account_paused" app:customFontStyle="semi_bold" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/boost_description_text_color" android:gravity="center_horizontal" android:id="@id/pausedBody" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_s" android:layout_marginBottom="@dimen/space_s" android:text="@string/account_is_paused" android:layout_marginStart="@dimen/space_s" android:layout_marginEnd="@dimen/space_s" />
+        <com.tinder.views.CustomButton android:textSize="@dimen/text_m" android:textColor="@color/white" android:layout_gravity="center" android:id="@id/reactivateButton" android:background="@drawable/button_rounded_gradient" android:layout_width="wrap_content" android:layout_height="@dimen/empty_button_height" android:foreground="@drawable/rectangle_touch_feedback" android:text="@string/reactivate_account" android:textAllCaps="true" app:customFontStyle="semi_bold" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

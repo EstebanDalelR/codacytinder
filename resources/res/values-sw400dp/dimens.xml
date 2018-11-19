@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="like_btn_inner_padding">19dp</dimen>
+    <dimen name="revised_gamepad_btn_margin">10dp</dimen>
+    <dimen name="rewind_btn_inner_padding">14dp</dimen>
+    <dimen name="superlike_btn_inner_padding">14dp</dimen>
+</resources>

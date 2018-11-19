@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">Booster</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">Booster</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d felles forbindelser</item>
+        <item quantity="one">%1$d felles forbindelse</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">dager</item>
+        <item quantity="one">dag</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d dager gjenstår</item>
+        <item quantity="one">%1$d dag gjenstår</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">%1$d km unna</item>
+        <item quantity="one">%1$d km unna</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">%1$d mil unna</item>
+        <item quantity="one">%1$d mil unna</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d dager</item>
+        <item quantity="one">dag</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d timer</item>
+        <item quantity="one">time</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d måneder</item>
+        <item quantity="one">måned</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">sekund</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d uker</item>
+        <item quantity="one">uke</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">Hver %1$d nye likes</item>
+        <item quantity="one">Hver %1$d nye like</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">%1$d venner for felles forbindelser</item>
+        <item quantity="one">%1$d venn for felles forbindelser</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d Instagram-bilder</item>
+        <item quantity="one">%1$d Instagram-bilde</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d interesser</item>
+        <item quantity="one">%1$d interesse</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">om %d d</item>
+        <item quantity="one">i morgen</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">om %d t</item>
+        <item quantity="one">om 1 t</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">om %d min</item>
+        <item quantity="one">om 1 min</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">om %d sek</item>
+        <item quantity="one">om 1 sek</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">%d d siden</item>
+        <item quantity="one">i går</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">%d t siden</item>
+        <item quantity="one">1 t siden</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">%d min siden</item>
+        <item quantity="one">1 min siden</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">%d sek siden</item>
+        <item quantity="one">1 sek siden</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">Én time</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">Ett minutt</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">Ett sekund</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">om %d dager</item>
+        <item quantity="one">i morgen</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">om %d timer</item>
+        <item quantity="one">om et minutt</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">om %d minutter</item>
+        <item quantity="one">om et minutt</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">om %d sekunder</item>
+        <item quantity="one">om et sekund</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">for %d dager siden</item>
+        <item quantity="one">i går</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">for %d timer siden</item>
+        <item quantity="one">for en time siden</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">for %d minutter siden</item>
+        <item quantity="one">for et minutt siden</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">for %d sekunder siden</item>
+        <item quantity="one">for et sekund siden</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">måneder</item>
+        <item quantity="one">måned</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d bilder</item>
+        <item quantity="one">%1$d bilde</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d nylig besøkende</item>
+        <item quantity="one">%1$d nylig besøkende</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d besøkende</item>
+        <item quantity="one">%1$d besøkende</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">%1$s Nye</item>
+        <item quantity="one">%1$s Ny</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">måneder</item>
+        <item quantity="one">måned</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">sekunder</item>
+        <item quantity="one">sekund</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">Super Likes</item>
+        <item quantity="one">Super Like</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">%1$d %2$s hver %3$s</item>
+        <item quantity="one">%1$d %2$s hver %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%1$d gratis %2$s hver %3$s)</item>
+        <item quantity="one">(%1$d gratis %2$s hver %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">Gi meg %1$d %2$s hver %3$s</item>
+        <item quantity="one">Gi meg %1$d %2$s hver %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">Få %1$d %2$s hver %3$s og tredoble sjansene dine for å få en match.</item>
+        <item quantity="one">Få %1$d %2$s hver %3$s og tredoble sjansene dine for å få en match.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">%1$s Nye</item>
+        <item quantity="one">%1$s Ny</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">Utvalgte</item>
+        <item quantity="one">Utvalgt</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">%1$d Utvalgte igjen</item>
+        <item quantity="one">%1$d Utvalgte igjen</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">%1$dh gjenstår</item>
+        <item quantity="one">%1$dt gjenstår</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">&lt;%1$dm gjenstår</item>
+        <item quantity="one">&lt;%1$dm gjenstår</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">%1$dm gjenstår</item>
+        <item quantity="one">%1$dm gjenstår</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">oppgradering</item>
+        <item quantity="one">oppgradering</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">uker</item>
+        <item quantity="one">uke</item>
+    </plurals>
+</resources>

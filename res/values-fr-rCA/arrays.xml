@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auth_fb_disclaimer_content">
+        <item>Nous ne publions rien sur Facebook</item>
+        <item>Les autres utilisateurs ne peuvent pas communiquer avec toi, sauf si tu as déjà été un match.</item>
+    </string-array>
+    <string-array name="empty_message_suggestions">
+        <item>\#PasDeTinderAuVolant</item>
+        <item>\#ParleÀTesMatchsTinder</item>
+        <item>Succès déverrouillé!</item>
+        <item>Quand on pense, tu as presque glissé à gauche...</item>
+        <item>Tes poignets sont liés, ou quoi?</item>
+        <item>Attends-tu une invitation?!</item>
+        <item>Questionne-les au sujet de vos amis communs</item>
+        <item>Sois social.</item>
+        <item>Des milliards de messages ont été envoyés sur Tinder. Quel sera le tien?</item>
+        <item>Carpe Diem.</item>
+        <item>Chat ou chien?</item>
+        <item>"La conversation ne s'écrira pas toute seule."</item>
+        <item>Un ange passe...</item>
+        <item>"Le chat t'a mangé la langue?"</item>
+        <item>Savais-tu que les propos sirupeux ne fonctionnent pas?</item>
+        <item>Fais-le!</item>
+        <item>Ne laisse pas le champ vide.</item>
+        <item>Pas de glisse au volant.</item>
+        <item>Pas de Tinder au volant.</item>
+        <item>Emojis acceptés.</item>
+        <item>Tout le monde aime les personnes attentionnées.</item>
+        <item>Cinq millions de messages ont été envoyés dans la dernière heure... Tu ne peux même pas penser à un?</item>
+        <item>Fais-lui un compliment et vois ce qui se passe.</item>
+        <item>Google comment ne pas être plate.</item>
+        <item>Google quelques bonnes répliques.</item>
+        <item>Bonne question! Demande pour une réponse.</item>
+        <item>Pas de souci, Tinder est là!</item>
+        <item>Sois bien élevé, dis « Bonjour! »</item>
+        <item>"« Hey », c'est pour les animaux."</item>
+        <item>"« Salut » n'est pas mémorable."</item>
+        <item>Sois bien élevé... dis quelque chose!</item>
+        <item>Combien de temps avant que tu envoies un message?</item>
+        <item>"Combien d'amis t'es-tu fait sur Tinder?"</item>
+        <item>Combien de langues peux-tu écrire?</item>
+        <item>Si seulement il y avait un moyen de commencer la conversation. Oh, attends…</item>
+        <item>Si tu ne le demande pas, la réponse sera toujours non.</item>
+        <item>Si tu ne le demande pas, tu ne le sauras jamais.</item>
+        <item>"J'espère que tu n'es pas au volant en ce moment?"</item>
+        <item>Dans plusieurs cultures, le silence est considéré comme impoli.</item>
+        <item>Insérer compliment ci-dessous.</item>
+        <item>Insérer message drôle ci-dessous.</item>
+        <item>Insérer un message attentionné ci-dessous.</item>
+        <item>"À la fin, la seule chose qu'on regrettera, ce seront les risques qu'on n'a pas pris."</item>
+        <item>"Est-ce que c'est ton #MardiTinder?"</item>
+        <item>Tout commence ici.</item>
+        <item>"Une chance que tu n'as pas glissé accidentellement à gauche."</item>
+        <item>"Ce n'est pas Tinder tant que tu n'as pas envoyé de message."</item>
+        <item>Ça a commencé ici.</item>
+        <item>Ça a commencé sur Tinder.</item>
+        <item>"Qu'est-ce qui pourrait bien briser la glace?"</item>
+        <item>Que ça commence.</item>
+        <item>Vis comme si te devais mourir demain, rêve comme si tu devais vivre pour toujours.</item>
+        <item>Fais le premier pas.</item>
+        <item>Fais-les sourire.</item>
+        <item>Niveau suivant atteint!</item>
+        <item>"Personne n'aime les plates."</item>
+        <item>Plus de 36 %% de vos amis Facebook sont sur Tinder.</item>
+        <item>Plus de 90 %% des compliments ont une réponse.</item>
+        <item>Prêt(e) à être Tinderisé(e)?</item>
+        <item>Dis quelque chose!</item>
+        <item>"Dis quelque chose d'amusant!"</item>
+        <item>"Dis quelque chose de gentil à propos de l'une de leurs photos."</item>
+        <item>Dis quelque chose de drôle!</item>
+        <item>"Dis merci d'avoir été gliss(é) à droite"</item>
+        <item>En mode séduction...</item>
+        <item>Tu vois la case juste en bas? Mets-y des compliments.</item>
+        <item>Tu vois la case juste en bas? Mets-y de la personnalité.</item>
+        <item>Tu vois la case juste en bas? Remplis-là avec quelque chose de brillant.</item>
+        <item>Tu vois cette case? Tape des mots dedans.</item>
+        <item>Envoie un message avant que ta batterie tombe à plat.</item>
+        <item>Timide?</item>
+        <item>Carpe Diem</item>
+        <item>"Quelqu'un devrait créer une application pour rencontrer des gens sympas. Oh, attends…"</item>
+        <item>"Fixer l'écran ne démarre pas une conversation..."</item>
+        <item>Démarrer une conversation peut être bizarre, mais pas ici!</item>
+        <item>"Arrête d'être plate."</item>
+        <item>"Parle-leur d'une expérience folle que tu viens de vivre."</item>
+        <item>Dis-leur pourquoi tu as glissé à droite.</item>
+        <item>"C'est comme 2 années de chien."</item>
+        <item>La définition de FOMO : Fear of missing out.</item>
+        <item>Le premier qui envoie un message gagne.</item>
+        <item>"Il n'y a rien de mal à envoyer le premier message."</item>
+        <item>Ils paraissent probablement mieux en personne.</item>
+        <item>Ils sont à regarder la même chose... écris le premier message.</item>
+        <item>"Ils ne sauront pas jusqu'à ce que tu leur dises."</item>
+        <item>"L'écran paraît beaucoup mieux avec une conversation. (Astuce du jour)"</item>
+        <item>"L'écran paraîtra beaucoup mieux s'il affiche une conversation."</item>
+        <item>Tinder ne peut pas taper pour toi...</item>
+        <item>Tinder ne peut pas le taper pour toi, du moins pas encore.</item>
+        <item>Tinder ne peut pas le taper pour toi, en fait, il peut, mais il ne le fera pas.</item>
+        <item>Tinder est à propos des gens que tu veux connaître... commence ici.</item>
+        <item>Tinder allume un autre feu.</item>
+        <item>\#UnMatchQuiMarche</item>
+        <item>"On s'est rendus jusque là, aussi bien dire quelque chose."</item>
+        <item>"Qu'est-ce que tu attends?"</item>
+        <item>"Pourquoi tu m'as glissé(e) à droite?"</item>
+        <item>Quel est ton plus grand secret?</item>
+        <item>Quelle est ton histoire Tinder préférée?</item>
+        <item>Où as-tu glissé à droite?</item>
+        <item>Quelle photo est ta préférée?</item>
+        <item>Pourquoi as-tu glissé à droite?</item>
+        <item>Pourquoi ne pas avoir dit bonjour?</item>
+        <item>Pourquoi être si sérieux?</item>
+        <item>Gagnant!</item>
+        <item>YOLO.</item>
+        <item>On devrait se matcher. YOLO.</item>
+        <item>Vous aimez tous les deux des trucs. Parlez-en.</item>
+        <item>Vous pourrez dire à vos enfants que vous vous êtes rencontrés sur Tinder.</item>
+        <item>Tu as deux pouces pour une raison.</item>
+        <item>"Tu sais qu'ils ont déjà envie de te parler, hein? #UnMatchQuiMarche"</item>
+        <item>"Tu ne rencontreras jamais 100 %% des matchs à qui tu n'as pas écrit."</item>
+        <item>"Tu manques 100 %% des souvenirs que tu n'as jamais créés."</item>
+        <item>"On ne vit qu'une fois."</item>
+        <item>Tes jours en solitaire sont terminés... une fois que tu auras dit « salut ».</item>
+        <item>À toi de jouer.</item>
+        <item>"Vous êtes tous les deux accro à Tinder ... c'est déjà une chose que vous avez en commun."</item>
+        <item>Tu ne vas pas rajeunir.</item>
+        <item>Tu as trop peur de dire « salut »? Poule mouillée.</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SO</item>
+        <item>O</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>nord</item>
+        <item>nord-est</item>
+        <item>est</item>
+        <item>sud-est</item>
+        <item>sud</item>
+        <item>sud-ouest</item>
+        <item>ouest</item>
+        <item>nord-ouest</item>
+    </string-array>
+    <string-array name="ordinals">
+        <item>degré</item>
+        <item>1er</item>
+        <item>2e</item>
+        <item>3e</item>
+        <item>4e</item>
+        <item>5e</item>
+        <item>6e</item>
+    </string-array>
+</resources>

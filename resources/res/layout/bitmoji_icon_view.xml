@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/bitmoji_icon_container" android:padding="@dimen/bitmoji_icon_padding" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:id="@+id/bitmoji_icon" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/bitmoji_chat_input_icon"/>
+    </FrameLayout>
+    <ImageView android:id="@+id/icon_close" android:background="@android:color/transparent" android:padding="@dimen/bitmoji_close_icon_padding" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@c8324a/bitmoji_chat_input_close_icon" android:contentDescription="@string/cancel"/>
+</merge>

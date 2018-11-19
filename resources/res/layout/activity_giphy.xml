@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@c6248a/root" android:layout_width="match_parent" android:layout_height="match_parent">
+    <View android:id="@c6248a/background" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ImageView android:id="@c6248a/imageView" android:padding="@dimen/padding_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/found_on_giphy" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentEnd="true"/>
+    <android.support.v4.view.ViewPager android:id="@c6248a/viewpager_activity_gif" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</RelativeLayout>

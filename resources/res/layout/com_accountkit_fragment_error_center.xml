@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" style="@c15385e/AccountKit_IconContainer">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@+id/com_accountkit_icon_view" android:layout_width="85dp" android:layout_height="85dp" app:srcCompat="@c15381a/com_accountkit_error"/>
+</FrameLayout>

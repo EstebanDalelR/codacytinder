@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/teasers_container" android:paddingTop="@dimen/space_xs" android:paddingBottom="@dimen/space_s" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/space_s" android:paddingEnd="@dimen/space_s">
+        <com.tinder.toppicks.exhausted.TeaserExhaustedCardView android:id="@+id/right_pick" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.tinder.toppicks.exhausted.TeaserExhaustedCardView android:id="@+id/left_pick" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <com.tinder.toppicks.exhausted.TeaserExhaustedCardView android:id="@+id/main_pick" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/alc_view_container" android:paddingTop="@dimen/space_xs" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:paddingStart="@c15226b/dialog_width_padding" android:paddingEnd="@c15226b/dialog_width_padding"/>
+</merge>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.reactions.navigation.view.GrandGestureNavigationView android:id="@id/gesturesRoot" android:background="@null" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:background="@null" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <com.tinder.reactions.navigation.view.ScrollListenerViewPager android:id="@id/gesturesViewPager" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <android.support.v7.widget.RecyclerView android:layout_gravity="bottom" android:id="@id/gesturesTabRecyclerView" android:background="@null" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="@dimen/grand_gestures_tabs_height" />
+        </FrameLayout>
+    </LinearLayout>
+    <com.tinder.reactions.navigation.view.GestureNavigationLoadingView android:background="@android:color/white" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.tinder.reactions.navigation.view.GrandGestureNavigationView>

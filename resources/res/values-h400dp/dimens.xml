@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="design_fab_size_normal">48dp</dimen>
+    <dimen name="gradient_curve_gradient_height">190dp</dimen>
+    <dimen name="profile_tab_ad_panel_description_size">14sp</dimen>
+    <dimen name="profile_tab_ad_panel_title_size">16sp</dimen>
+    <dimen name="profile_tab_button_divider_height">34dp</dimen>
+    <dimen name="profile_tab_edit_button_circumference">32dp</dimen>
+    <dimen name="profile_tab_margin_xsmall">2dp</dimen>
+    <dimen name="profile_tab_padding_med">4dp</dimen>
+    <dimen name="profile_tab_padding_small">0dp</dimen>
+    <dimen name="profile_tab_school_job">12dp</dimen>
+    <dimen name="profile_tab_state_container_height">160dp</dimen>
+    <dimen name="profile_tab_user_avatar">80dp</dimen>
+    <dimen name="profile_tinder_plus_btn_text">14sp</dimen>
+    <dimen name="profiletab_adpanel_view_pager_height">80dp</dimen>
+    <dimen name="profiletab_avatar_margin">8dp</dimen>
+</resources>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">iškėlimų</item>
+        <item quantity="one">iškėlimą</item>
+        <item quantity="few">iškėlimus</item>
+        <item quantity="many">iškėlimo</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">iškėlimų</item>
+        <item quantity="one">iškėlimas</item>
+        <item quantity="few">iškėlimai</item>
+        <item quantity="many">iškėlimo</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d bendrų pažįstamų</item>
+        <item quantity="one">%1$d bendras pažįstamas</item>
+        <item quantity="few">%1$d bendri pažįstami</item>
+        <item quantity="many">%1$d bendro pažįstamo</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">dienų</item>
+        <item quantity="one">diena</item>
+        <item quantity="few">dienos</item>
+        <item quantity="many">d.</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Liko %1$d dienų</item>
+        <item quantity="one">Liko %1$d diena</item>
+        <item quantity="few">Liko %1$d dienos</item>
+        <item quantity="many">Liko %1$d d.</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">%1$d km atstumu</item>
+        <item quantity="one">%1$d km atstumu</item>
+        <item quantity="few">%1$d km atstumu</item>
+        <item quantity="many">%1$d km atstumu</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">%1$d mylių atstumu</item>
+        <item quantity="one">%1$d mylios atstumu</item>
+        <item quantity="few">%1$d mylių atstumu</item>
+        <item quantity="many">%1$d mylios atstumu</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d dienų</item>
+        <item quantity="one">%1$d dieną</item>
+        <item quantity="few">%1$d dienas</item>
+        <item quantity="many">%1$d d.</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d valandų</item>
+        <item quantity="one">%1$d valandą</item>
+        <item quantity="few">%1$d valandas</item>
+        <item quantity="many">%1$d val.</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d mėnesių</item>
+        <item quantity="one">%1$d mėnesį</item>
+        <item quantity="few">%1$d mėnesius</item>
+        <item quantity="many">%1$d mėn.</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d sekundžių</item>
+        <item quantity="one">%1$d sekundę</item>
+        <item quantity="few">%1$d sekundes</item>
+        <item quantity="many">%1$d sek.</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d savaičių</item>
+        <item quantity="one">%1$d savaitę</item>
+        <item quantity="few">%1$d savaites</item>
+        <item quantity="many">%1$d sav.</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">Kas %1$d naujų LIKE</item>
+        <item quantity="one">Kas %1$d naują LIKE</item>
+        <item quantity="few">Kas %1$d naujus LIKE</item>
+        <item quantity="many">Kas %1$d naujo LIKE</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">%1$d draugų tarp bendrų pažįstamų</item>
+        <item quantity="one">%1$d draugas tarp bendrų pažįstamų</item>
+        <item quantity="few">%1$d draugai tarp bendrų pažįstamų</item>
+        <item quantity="many">%1$d draugo tarp bendrų pažįstamų</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d INSTAGRAM nuotraukų</item>
+        <item quantity="one">%1$d INSTAGRAM nuotrauka</item>
+        <item quantity="few">%1$d INSTAGRAM nuotraukos</item>
+        <item quantity="many">%1$d INSTAGRAM nuotraukos</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d pomėgių</item>
+        <item quantity="one">%1$d pomėgis</item>
+        <item quantity="few">%1$d pomėgiai</item>
+        <item quantity="many">%1$d pomėgio</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">po %d d.</item>
+        <item quantity="one">rytoj</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">po %d val.</item>
+        <item quantity="one">po 1 val.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">po %d min.</item>
+        <item quantity="one">po 1 min.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">po %d sek.</item>
+        <item quantity="one">po 1 sek.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">Prieš %d d.</item>
+        <item quantity="one">vakar</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">Prieš %d val.</item>
+        <item quantity="one">Prieš 1 valandą</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">Prieš %d min.</item>
+        <item quantity="one">Prieš 1 min.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">Prieš %d sek.</item>
+        <item quantity="one">Prieš 1 sek.</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d val.</item>
+        <item quantity="one">1 val.</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">1 sek.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">po %d d.</item>
+        <item quantity="one">rytoj</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">po %d val.</item>
+        <item quantity="one">po 1 val.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">po %d min.</item>
+        <item quantity="one">po 1 min.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">po %d sek.</item>
+        <item quantity="one">po 1 sek.</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">Prieš %d d.</item>
+        <item quantity="one">vakar</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">Prieš %d val.</item>
+        <item quantity="one">Prieš 1 valandą</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">Prieš %d min.</item>
+        <item quantity="one">Prieš 1 minutę</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">Prieš %d sek.</item>
+        <item quantity="one">Prieš 1 sek.</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">mėnesių</item>
+        <item quantity="one">mėnuo</item>
+        <item quantity="few">mėnesiai</item>
+        <item quantity="many">mėn.</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d nuotraukų</item>
+        <item quantity="one">%1$d nuotrauka</item>
+        <item quantity="few">%1$d nuotraukos</item>
+        <item quantity="many">%1$d nuotraukos</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d neseniai apsilankė</item>
+        <item quantity="one">%1$d neseniai apsilankė</item>
+        <item quantity="few">%1$d neseniai apsilankė</item>
+        <item quantity="many">%1$d neseniai apsilankė</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d lankytojų</item>
+        <item quantity="one">%1$d lankytojas</item>
+        <item quantity="few">%1$d lankytojai</item>
+        <item quantity="many">%1$d lankytojo</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">%1$s naujų</item>
+        <item quantity="one">%1$s naujas</item>
+        <item quantity="few">%1$s nauji</item>
+        <item quantity="many">%1$s naujo</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">mėnesių</item>
+        <item quantity="one">mėnuo</item>
+        <item quantity="few">mėnesiai</item>
+        <item quantity="many">mėn.</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">sekundžių</item>
+        <item quantity="one">sekundę</item>
+        <item quantity="few">sekundes</item>
+        <item quantity="many">sek.</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">SUPER LIKE</item>
+        <item quantity="one">SUPER LIKE</item>
+        <item quantity="few">SUPER LIKE</item>
+        <item quantity="many">SUPER LIKE</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">%1$d %2$s kas %3$s</item>
+        <item quantity="one">%1$d %2$s kas %3$s</item>
+        <item quantity="few">%1$d %2$s kas %3$s</item>
+        <item quantity="many">%1$d %2$s kas %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%1$d %2$s nemokamai kas %3$s)</item>
+        <item quantity="one">(%1$d %2$s nemokamai kas %3$s)</item>
+        <item quantity="few">(%1$d %2$s nemokamai kas %3$s)</item>
+        <item quantity="many">(%1$d %2$s nemokamai kas %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">Duokite man %1$d %2$s kas %3$s</item>
+        <item quantity="one">Duokite man %1$d %2$s kas %3$s</item>
+        <item quantity="few">Duokite man %1$d %2$s kas %3$s</item>
+        <item quantity="many">Duokite man %1$d %2$s kas %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">Gauk %1$d %2$s nemokamai kas %3$s ir 3 kartus padidink simpatijos tikimybę</item>
+        <item quantity="one">Gauk %1$d %2$s nemokamai kas %3$s ir 3 kartus padidink simpatijos tikimybę</item>
+        <item quantity="few">Gauk %1$d %2$s nemokamai kas %3$s ir 3 kartus padidink simpatijos tikimybę</item>
+        <item quantity="many">Gauk %1$d %2$s nemokamai kas %3$s ir 3 kartus padidink simpatijos tikimybę</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">%1$s naujų</item>
+        <item quantity="one">%1$s naujas</item>
+        <item quantity="few">%1$s nauji</item>
+        <item quantity="many">%1$s naujo</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">Parinktųjų</item>
+        <item quantity="one">Parinktasis</item>
+        <item quantity="few">Parinktieji</item>
+        <item quantity="many">Parinkt.</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">Liko %1$d Parinktųjų</item>
+        <item quantity="one">Liko %1$d Parinktasis</item>
+        <item quantity="few">Liko %1$d Parinktieji</item>
+        <item quantity="many">Liko %1$d Parinkt.</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">Liko %1$d val.</item>
+        <item quantity="one">Liko %1$d val.</item>
+        <item quantity="few">Liko %1$d val.</item>
+        <item quantity="many">Liko %1$d val.</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">Liko &lt;%1$d min.</item>
+        <item quantity="one">Liko &lt;%1$d min.</item>
+        <item quantity="few">Liko &lt;%1$d min.</item>
+        <item quantity="many">Liko &lt;%1$d min.</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">Liko %1$d min.</item>
+        <item quantity="one">Liko %1$d min.</item>
+        <item quantity="few">Liko %1$d min.</item>
+        <item quantity="many">Liko %1$d min.</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">atnaujinti į</item>
+        <item quantity="one">atnaujinti į</item>
+        <item quantity="few">atnaujinti į</item>
+        <item quantity="many">atnaujinti į</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">savaičių</item>
+        <item quantity="one">savaitė</item>
+        <item quantity="few">savaitės</item>
+        <item quantity="many">sav.</item>
+    </plurals>
+</resources>

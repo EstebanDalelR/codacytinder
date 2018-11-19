@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="rectangle">
+    <gradient android:startColor="@color/tinder_instagram_connect_gradient_start" android:endColor="@color/tinder_instagram_connect_gradient_end"/>
+    <corners android:radius="@c15226b/button_rounded_radius"/>
+    <padding android:left="@dimen/tinder_select_nom_button_padding" android:top="@dimen/space_s" android:right="@dimen/tinder_select_nom_button_padding" android:bottom="@dimen/space_s"/>
+</shape>

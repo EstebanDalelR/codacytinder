@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.base.view.AlphaOptimizedImageView android:layout_gravity="end|center|top" android:id="@id/stamp_pass" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/recs_card_stamp_margin" android:src="@drawable/recs_nope_stamp" android:alpha="0.0" android:layout_marginEnd="@dimen/recs_card_stamp_margin" />
+    <com.tinder.base.view.AlphaOptimizedImageView android:layout_gravity="end|center|top" android:id="@id/stamp_oops" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/recs_card_stamp_margin" android:src="@drawable/recs_rewind_stamp" android:alpha="0.0" android:layout_marginEnd="@dimen/recs_card_stamp_margin" />
+    <com.tinder.base.view.AlphaOptimizedImageView android:layout_gravity="start|center|top" android:id="@id/stamp_liked" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/recs_card_stamp_margin" android:src="@drawable/recs_like_stamp" android:alpha="0.0" android:layout_marginStart="@dimen/recs_card_stamp_margin" />
+    <com.tinder.base.view.AlphaOptimizedImageView android:layout_gravity="bottom|center" android:id="@id/stamp_superlike" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/superlike_stamp_bottom_margin" android:src="@drawable/recs_superlike_stamp" android:alpha="0.0" />
+</merge>

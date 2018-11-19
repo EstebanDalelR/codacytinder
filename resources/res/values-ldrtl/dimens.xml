@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chat_typing_indicator_bubble_bottom_left_radius">@dimen/message_bubble_large_radius</dimen>
+    <dimen name="chat_typing_indicator_bubble_bottom_right_radius">@dimen/message_bubble_small_radius</dimen>
+    <dimen name="message_inbound_bubble_batch_start_bottom_left_radius">@dimen/message_bubble_large_radius</dimen>
+    <dimen name="message_inbound_bubble_batch_start_bottom_right_radius">@dimen/message_bubble_small_radius</dimen>
+    <dimen name="message_inbound_bubble_left_radius">@dimen/message_bubble_large_radius</dimen>
+    <dimen name="message_inbound_bubble_right_radius">@dimen/message_bubble_small_radius</dimen>
+    <dimen name="message_outbound_bubble_batch_start_bottom_left_radius">@dimen/message_bubble_small_radius</dimen>
+    <dimen name="message_outbound_bubble_batch_start_bottom_right_radius">@dimen/message_bubble_large_radius</dimen>
+    <dimen name="message_outbound_bubble_left_radius">@dimen/message_bubble_small_radius</dimen>
+    <dimen name="message_outbound_bubble_right_radius">@dimen/message_bubble_large_radius</dimen>
+    <dimen name="snap_connect_bitmoji_back_button_initial_translate_x">30dp</dimen>
+    <dimen name="snap_connect_bitmoji_search_field_initial_translate_x">20dp</dimen>
+</resources>

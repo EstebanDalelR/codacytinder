@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">Boosts</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">Boosts</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d Gemeenskaplike kontakte</item>
+        <item quantity="one">%1$d Gemeenskaplike kontak</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">dae</item>
+        <item quantity="one">dag</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d dae oor</item>
+        <item quantity="one">%1$d dag oor</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">%1$d km weg</item>
+        <item quantity="one">%1$d km weg</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">%1$d myl weg</item>
+        <item quantity="one">%1$d myl weg</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d dae</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d uur</item>
+        <item quantity="one">uur</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d maande</item>
+        <item quantity="one">maand</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d sekondes</item>
+        <item quantity="one">sekonde</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d weke</item>
+        <item quantity="one">week</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">"Elke %1$d nuwe hou-van's"</item>
+        <item quantity="one">Elke %1$d nuwe hou-van</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">%1$d Vriende vir gemeenskaplike kontakte</item>
+        <item quantity="one">%1$d Vriend vir gemeenskaplike kontakte</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">"%1$d Instagram-foto's"</item>
+        <item quantity="one">%1$d Instagram-foto</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d Belangstellings</item>
+        <item quantity="one">%1$d Belangstelling</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">oor %d dae</item>
+        <item quantity="one">môre</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">oor %d uur</item>
+        <item quantity="one">oor 1 uur</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">oor %d minute</item>
+        <item quantity="one">oor 1 min.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">oor %d sek.</item>
+        <item quantity="one">oor 1 sek.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">%d dae gelede</item>
+        <item quantity="one">gister</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">%d uur gelede</item>
+        <item quantity="one">1 uur gelede</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">%d min. gelede</item>
+        <item quantity="one">1 min. gelede</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">%d sek. gelede</item>
+        <item quantity="one">1 sek. gelede</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d ure</item>
+        <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">1 minuut</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d sekondes</item>
+        <item quantity="one">1 sekonde</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">oor %d dae</item>
+        <item quantity="one">môre</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">oor %d uur</item>
+        <item quantity="one">oor 1 uur</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">oor %d minute</item>
+        <item quantity="one">oor 1 minuut</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">oor %d sekondes</item>
+        <item quantity="one">oor 1 sekonde</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">%d dae gelede</item>
+        <item quantity="one">gister</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">%d uur gelede</item>
+        <item quantity="one">1 uur gelede</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">%d minute gelede</item>
+        <item quantity="one">1 minuut gelede</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">%d sekondes gelede</item>
+        <item quantity="one">1 sekonde gelede</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">maande</item>
+        <item quantity="one">maand</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">"%1$d foto's"</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d onlangse besoekers</item>
+        <item quantity="one">%1$d onlangse besoeker</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d besoekers</item>
+        <item quantity="one">%1$d besoeker</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">%1$s nuut</item>
+        <item quantity="one">%1$s nuut</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">maande</item>
+        <item quantity="one">maand</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">sekondes</item>
+        <item quantity="one">sekonde</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">"Super-hou-van's"</item>
+        <item quantity="one">Super-hou-van</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">%1$d %2$s elke %3$s</item>
+        <item quantity="one">%1$d %2$s elke %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%1$d gratis %2$s elke %3$s)</item>
+        <item quantity="one">(%1$d gratis %2$s elke %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">Gee my %1$d %2$s elke %3$s</item>
+        <item quantity="one">Gee my %1$d %2$s elke %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">"Kry %1$d %2$s elke %3$s en gee jouself 'n 3 maal beter kans om 'n pasmaat te kry."</item>
+        <item quantity="one">"Kry %1$d %2$s elke %3$s en gee jouself 'n 3 maal beter kans om 'n pasmaat te kry."</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">%1$s nuut</item>
+        <item quantity="one">%1$s nuut</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">Keuses</item>
+        <item quantity="one">Keuses</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">%1$d Keuses oor</item>
+        <item quantity="one">%1$d Keuses oor</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">%1$dh oor</item>
+        <item quantity="one">%1$dh oor</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">&lt;%1$dm oor</item>
+        <item quantity="one">&lt;%1$dm oor</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">%1$dm oor</item>
+        <item quantity="one">%1$dm oor</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">opgraderings</item>
+        <item quantity="one">opgradering</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">weke</item>
+        <item quantity="one">week</item>
+    </plurals>
+</resources>

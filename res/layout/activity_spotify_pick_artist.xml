@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.AppBarLayout android:id="@id/actionbar_menu" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar android:id="@id/toolbar_pick_artist" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/ElevatedToolbar">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <RelativeLayout android:id="@id/pick_artist_back" android:layout_width="wrap_content" android:layout_height="@dimen/actionbar_size" android:layout_alignParentTop="true">
+                    <com.tinder.views.CustomTextView android:id="@id/view_back_title" android:layout_marginLeft="10.0dip" android:text="@string/spotify" android:layout_toRightOf="@id/view_back_icon" android:layout_centerVertical="true" app:customFontStyle="medium" style="@style/ab_text" />
+                </RelativeLayout>
+                <com.tinder.views.CustomTextView android:textSize="16.0sp" android:textColor="@color/tinder_red" android:id="@id/pick_track_disconnect" android:background="@drawable/rectangle_touch_feedback" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/content_padding" android:text="@string/disconnect" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:fontFamily="semi" />
+            </RelativeLayout>
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+    <com.tinder.spotify.views.SpotifyPickArtistView android:id="@id/pick_artist" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

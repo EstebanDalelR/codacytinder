@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <ImageView android:layout_gravity="center" android:id="@c6248a/sl_icon" android:padding="@dimen/margin_xsmall" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:antialias="true" android:scaleType="fitCenter"/>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_xxxs" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@c6248a/sl_text" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1dp" android:alpha="0" app:customFontStyle="4"/>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_l" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@c6248a/sl_count_text" android:visibility="invisible" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gamepad_button_maximum_count_value" app:customFontStyle="4"/>
+</merge>

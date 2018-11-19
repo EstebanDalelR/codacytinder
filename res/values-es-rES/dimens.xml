@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buy_button_text_size">12.0sp</dimen>
+    <dimen name="paywall_price_textsize">12.0sp</dimen>
+    <dimen name="paywall_save_textsize">12.0sp</dimen>
+    <dimen name="save_banner_textsize">16.0sp</dimen>
+</resources>

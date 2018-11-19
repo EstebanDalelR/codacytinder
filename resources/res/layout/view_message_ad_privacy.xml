@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.messageads.messages.view.MessageAdPrivacyView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <CheckBox android:id="@+id/sponsored_message_privacy_tinder_update_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <CheckBox android:id="@+id/sponsored_message_privacy_sponsored_message_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <Button android:id="@+id/sponsored_message_privacy_turn_off_all_btn" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</com.tinder.messageads.messages.view.MessageAdPrivacyView>

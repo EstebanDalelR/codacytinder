@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <com.tinder.base.view.SwitchRowView android:gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/options_switch" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/switch_row_default_margin_offset"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/options_dropdown" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</merge>

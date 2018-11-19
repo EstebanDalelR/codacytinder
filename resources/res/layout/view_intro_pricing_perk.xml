@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.tinder.shimmy.ShimmerFrameLayout android:layout_width="@c9721a/intro_pricing_perk_checkmark" android:layout_height="@c9721a/intro_pricing_perk_checkmark" android:layout_marginTop="@dimen/space_xs" android:layout_marginBottom="@dimen/space_xs" android:layout_marginStart="@dimen/space_l" android:layout_marginEnd="@dimen/space_l">
+        <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/ic_checkmark"/>
+    </com.tinder.shimmy.ShimmerFrameLayout>
+    <TextView android:textSize="@dimen/text_s" android:textColor="@color/grey_text" android:id="@+id/intro_pricing_perk" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" android:layout_marginBottom="@dimen/space_xs" android:fontFamily="@font/proximanova_semibold"/>
+</merge>

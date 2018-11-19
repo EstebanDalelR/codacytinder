@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+package keepalive;
+
+option go_package = "github.com/TinderApp/proto/keepalive";
+option java_package = "com.tinder.proto.keepalive";
+option java_outer_classname = "KeepAliveNudge";
+
+import "google/protobuf/timestamp.proto";
+
+message Nudge {
+    google.protobuf.Timestamp update_time = 1; // Time that the backend update was created at
+    Type type = 2;
+}
+
+// Type is the type of data corresponding to the sent nudge. Should align with https://github.com/TinderBackend/tinder-lib/blob/master/lib/keepalive_client/triggers.js
+enum Type {
+    DEFAULT = 0; // only used if the type has not been plumbed through all services at the time of sending
+    NEW_MATCH = 1;
+    NEW_MESSAGE = 2;
+    MESSAGE_LIKE = 3;
+    MATCH_CLOSED = 4;
+    BOOST_SEEN = 5;
+    MATCH_MUTED = 6;
+}

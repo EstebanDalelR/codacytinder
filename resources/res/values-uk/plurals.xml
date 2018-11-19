@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Буст</item>
+        <item>Бусти</item>
+        <item>Бустів</item>
+        <item>Бустів</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Буст</item>
+        <item>Бусти</item>
+        <item>Бустів</item>
+        <item>Бустів</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d спільний контакт</item>
+        <item>%1$d спільні контакти</item>
+        <item>%1$d спільних контактів</item>
+        <item>%1$d спільних контактів</item>
+    </plurals>
+    <plurals name="day">
+        <item>день</item>
+        <item>дні</item>
+        <item>днів</item>
+        <item>днів</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>Залишився %1$d день</item>
+        <item>Залишилось %1$d дні</item>
+        <item>Залишилось %1$d днів</item>
+        <item>Залишилось %1$d днів</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>в діапазоні %1$d кілометру</item>
+        <item>в діапазоні %1$d кілометрів</item>
+        <item>в діапазоні %1$d кілометрів</item>
+        <item>в діапазоні %1$d кілометрів</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>в діапазоні %1$d милі</item>
+        <item>в діапазоні %1$d миль</item>
+        <item>в діапазоні %1$d миль</item>
+        <item>в діапазоні %1$d миль</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>%1$d день</item>
+        <item>%1$d дні</item>
+        <item>%1$d днів</item>
+        <item>%1$d днів</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>%1$d годину</item>
+        <item>%1$d години</item>
+        <item>%1$d годин</item>
+        <item>%1$d годин</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>%1$d місяць</item>
+        <item>%1$d місяці</item>
+        <item>%1$d місяців</item>
+        <item>%1$d місяців</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>%1$d секунду</item>
+        <item>%1$d секунди</item>
+        <item>%1$d секунд</item>
+        <item>%1$d секунд</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>%1$d тиждень</item>
+        <item>%1$d тижні</item>
+        <item>%1$d тижнів</item>
+        <item>%1$d тижнів</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Кожен %1$d новий лайк</item>
+        <item>Кожні %1$d нові лайки</item>
+        <item>Кожні %1$d нових лайків</item>
+        <item>Кожні %1$d нових лайків</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d друг для спільних контактів</item>
+        <item>%1$d друга для спільних контактів</item>
+        <item>%1$d друзів для спільних контактів</item>
+        <item>%1$d друзів для спільних контактів</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d Instagram фотографія</item>
+        <item>%1$d Instagram фотографії</item>
+        <item>%1$d Instagram фотографій</item>
+        <item>%1$d Instagram фотографій</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d інтерес</item>
+        <item>%1$d інтереси</item>
+        <item>%1$d інтересів</item>
+        <item>%1$d інтересів</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>завтра</item>
+        <item>через %d дн.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>через 1 год.</item>
+        <item>через %d год.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>через 1 хв.</item>
+        <item>через %d хв.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>через 1 с.</item>
+        <item>через %d сек.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>учора</item>
+        <item>%d дн. тому</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 годину тому</item>
+        <item>%d год. тому</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 хв. тому</item>
+        <item>%d хв. тому</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 сек. тому</item>
+        <item>%d сек. тому</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 год</item>
+        <item>%d год</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 хв</item>
+        <item>%d хв</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 с</item>
+        <item>%d с</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>завтра</item>
+        <item>через %d дн.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>через 1 год.</item>
+        <item>через %d год.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>через 1 хв.</item>
+        <item>через %d хв.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>через 1 сек.</item>
+        <item>через %d сек.</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>учора</item>
+        <item>%d дн. тому</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 год. тому</item>
+        <item>%d год. тому</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 хвилину тому</item>
+        <item>%d хв. тому</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 сек. тому</item>
+        <item>%d сек. тому</item>
+    </plurals>
+    <plurals name="month">
+        <item>місяць</item>
+        <item>місяці</item>
+        <item>місяців</item>
+        <item>місяців</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d фотографій</item>
+        <item>%1$d фотографій</item>
+        <item>%1$d фотографій</item>
+        <item>%1$d фотографій</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d останній відвідувач</item>
+        <item>%1$d останні відвідувачі</item>
+        <item>%1$d останніх відвідувачів</item>
+        <item>%1$d останніх відвідувачів</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d відвідувач</item>
+        <item>%1$d відвідувачі</item>
+        <item>%1$d відвідувачів</item>
+        <item>%1$d відвідувачів</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s новий</item>
+        <item>%1$s нові</item>
+        <item>%1$s нових</item>
+        <item>%1$s нових</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>місяць</item>
+        <item>місяці</item>
+        <item>місяців</item>
+        <item>місяців</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>секунда</item>
+        <item>секунди</item>
+        <item>секунд</item>
+        <item>секунд</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>Супер-лайк</item>
+        <item>Супер-лайки</item>
+        <item>Супер-лайків</item>
+        <item>Супер-лайків</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s кожен %3$s</item>
+        <item>%1$d %2$s кожні %3$s</item>
+        <item>%1$d %2$s кожні %3$s</item>
+        <item>%1$d %2$s кожен %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(безкоштовно %1$d %2$s кожну %3$s)</item>
+        <item>(безкоштовно %1$d %2$s кожні %3$s)</item>
+        <item>(безкоштовно %1$d %2$s кожні %3$s)</item>
+        <item>(безкоштовно %1$d %2$s кожні %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Я хочу %1$d %2$s кожну %3$s</item>
+        <item>Я хочу %1$d %2$s кожні %3$s</item>
+        <item>Я хочу %1$d %2$s кожні %3$s</item>
+        <item>Я хочу %1$d %2$s кожні %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Отримуй %1$d %2$s кожну %3$s та збільшуй свої шанси знайти пару втричі</item>
+        <item>Отримуй %1$d %2$s кожні %3$s та збільшуй свої шанси знайти пару втричі</item>
+        <item>Отримуй %1$d %2$s кожні %3$s та збільшуй свої шанси знайти пару втричі</item>
+        <item>Отримуй %1$d %2$s кожні %3$s та збільшуй свої шанси знайти пару втричі</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s новий</item>
+        <item>%1$s нові</item>
+        <item>%1$s нових</item>
+        <item>%1$s нових</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Пропозицій</item>
+        <item>Пропозицій</item>
+        <item>Пропозицій</item>
+        <item>Пропозицій</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>Залишилась%%1$dПропозиція</item>
+        <item>Залишилось%%1$dПропозиції</item>
+        <item>Залишилось%%1$dПропозицій</item>
+        <item>Залишилось%%1$dПропозицій</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>Залишилась %1$d год</item>
+        <item>Залишилось %1$d год</item>
+        <item>Залишилось %1$d год</item>
+        <item>Залишилось %1$d год</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>Залишилось &lt;%1$d хв</item>
+        <item>Залишилось &lt;%1$d хв</item>
+        <item>Залишилось &lt;%1$d хв</item>
+        <item>Залишилось &lt;%1$d хв</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>Залишилась %1$d хв</item>
+        <item>Залишилось %1$d хв</item>
+        <item>Залишилось %1$d хв</item>
+        <item>Залишилось %1$d хв</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>оновлення</item>
+        <item>оновлення</item>
+        <item>оновлень</item>
+        <item>оновлень</item>
+    </plurals>
+    <plurals name="week">
+        <item>тиждень</item>
+        <item>тижні</item>
+        <item>тижнів</item>
+        <item>тижнів</item>
+    </plurals>
+</resources>

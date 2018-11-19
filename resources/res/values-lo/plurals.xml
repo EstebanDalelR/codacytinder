@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>ມື້ອື່ນ</item>
+        <item>ໃນ %d ມື້</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>ໃນ 1 ຊົ່ວໂມງ</item>
+        <item>ໃນ %d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>ໃນ 1 ນາທີ</item>
+        <item>ໃນ %d ນທ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>ໃນ 1 ວິ</item>
+        <item>ໃນ %d ວິ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>ມື້ວານນີ້</item>
+        <item>%d ມື້ກ່ອນໜ້ານີ້</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 ຊົ່ວໂມງກ່ອນ</item>
+        <item>%d ຊົ່ວໂມງກ່ອນໜ້ານີ້</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 ນທ ກ່ອນ</item>
+        <item>%d ນທ ກ່ອນໜ້ານີ້</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 ວິນາທີກ່ອນ</item>
+        <item>%d ວິ ກ່ອນໜ້ານີ້</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 ຊົ່ວ​ໂມງ</item>
+        <item>%d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 ນາ​ທີ</item>
+        <item>%d ນາທີ</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 ວິນາທີ</item>
+        <item>%d ວິນາທີ</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>ມື້ອື່ນ</item>
+        <item>ໃນ %d ມື້</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>ໃນ 1 ຊົ່ວໂມງ</item>
+        <item>ໃນ %d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>ໃນ 1 ນາທີ</item>
+        <item>ໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>ໃນອີກ 1 ວິນາທີ</item>
+        <item>ໃນ %d ວິ​ນາ​ທີ</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>ມື້​ວານ​ນີ້</item>
+        <item>%d ມື້​ກ່ອນ</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 ຊົ່ວໂມງກ່ອນໜ້ານີ້</item>
+        <item>%d ຊົ່ວໂມງທີ່ຜ່ານມາ</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 ນາທີກ່ອນໜ້ານີ້</item>
+        <item>%d ນາ​ທີ​ທີ່ຜ່ານມາ</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 ວິນາທີກ່ອນ</item>
+        <item>%d ວິນາທີກ່ອນໜ້ານີ້</item>
+    </plurals>
+</resources>

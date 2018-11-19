@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="34.0dip" android:width="33.0dip" android:viewportWidth="33.0" android:viewportHeight="34.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:translateX="-251.0" android:translateY="-807.0">
+        <group android:translateY="693.0">
+            <group android:translateX="16.0" android:translateY="53.0">
+                <group android:translateX="172.0">
+                    <group android:translateX="63.0" android:translateY="61.0">
+                        <path android:name="Oval-271" android:fillColor="#ffffffff" android:pathData="M 15.7142857 2 C 24.3930460466 2 31.4285714 9.03552535341 31.4285714 17.7142857 C 31.4285714 26.3930460466 24.3930460466 33.4285714 15.7142857 33.4285714 C 7.03552535341 33.4285714 0 26.3930460466 0 17.7142857 C 0 9.03552535341 7.03552535341 2 15.7142857 2 Z" android:fillAlpha="0.9" />
+                        <path android:name="Combined-Shape" android:fillColor="#fffd5068" android:pathData="M 12 12 L 20 12 Q 22 12 22 14 L 22 22 Q 22 24 20 24 L 12 24 Q 10 24 10 22 L 10 14 Q 10 12 12 12 Z" />
+                    </group>
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.base.view.TouchBlockingFrameLayout android:id="@id/touch_blocking_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.CoordinatorLayout android:orientation="vertical" android:id="@id/scroll_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+        <android.support.design.widget.AppBarLayout android:theme="@style/ThemeOverlay.AppCompat.ActionBar" android:id="@id/appbar" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content" app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+            <android.support.v7.widget.Toolbar android:theme="@style/ThemeOverlay.AppCompat.ActionBar" android:id="@id/fast_match_toolbar" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="?actionBarSize" android:elevation="4.0dip" app:layout_scrollFlags="enterAlways|scroll" app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+                <com.tinder.fastmatch.view.FastMatchRecsToolbarView android:gravity="center" android:layout_gravity="center" android:id="@id/fast_match_toolbar_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/space_l" android:paddingEnd="@dimen/space_l" />
+            </android.support.v7.widget.Toolbar>
+        </android.support.design.widget.AppBarLayout>
+        <com.tinder.fastmatch.view.FastMatchRecsView android:orientation="vertical" android:id="@id/fast_match_recs_view" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+    </android.support.design.widget.CoordinatorLayout>
+    <com.tinder.fastmatch.view.FastMatchPillView android:layout_gravity="center|top" android:id="@id/fast_match_pill_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.tinder.boost.view.BoostButtonView android:layout_gravity="bottom|center" android:id="@id/boost_button_view" android:padding="@dimen/boost_fast_match_y_offset" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleX="1.35" android:scaleY="1.35" />
+</com.tinder.base.view.TouchBlockingFrameLayout>

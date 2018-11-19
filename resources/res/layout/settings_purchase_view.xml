@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="@+id/get_tinder_gold" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/space_xs" style="@style/SettingsPurchaseButton">
+        <FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@+id/gold_subscription_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/settings_tinder_gold_logo_text" android:scaleType="centerCrop"/>
+            <com.tinder.shimmy.ShimmerFrameLayout android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/settings_tinder_gold_logo" android:scaleType="centerCrop"/>
+            </com.tinder.shimmy.ShimmerFrameLayout>
+            <com.tinder.shimmy.ShimmerFrameLayout android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/settings_tinder_gold_logo_shimmer_text_background" android:scaleType="centerCrop"/>
+                <ImageView android:id="@+id/gold_subscription_logo_shimmer_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/settings_tinder_gold_logo_shimmer_text" android:scaleType="centerCrop" app:layout_shimmers="false"/>
+            </com.tinder.shimmy.ShimmerFrameLayout>
+        </FrameLayout>
+        <com.tinder.views.CustomTextView android:textColor="@color/light_grey3" android:id="@c6248a/gold_subscription_description" android:paddingTop="@dimen/space_xxxs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/unlock_out_most_exclusive_features" app:customFontStyle="3" style="@style/SettingsPurchaseDescription"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@c6248a/get_tinder_plus" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/space_xs" style="@style/SettingsPurchaseButton">
+        <ImageView android:layout_gravity="center" android:id="@c6248a/plus_subscription_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/settings_tinder_plus_logo" android:scaleType="centerCrop"/>
+        <com.tinder.views.CustomTextView android:textColor="@color/light_grey3" android:id="@c6248a/plus_subscription_description" android:paddingTop="@dimen/space_xxxs" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/unlimited_likes_and_more" android:paddingStart="@dimen/padding_xxmed" android:paddingEnd="@dimen/padding_xxmed" app:customFontStyle="3" style="@style/SettingsPurchaseDescription"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:id="@c6248a/get_boost" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" layout="@layout/settings_consumable_purchase_button"/>
+        <include android:layout_gravity="center" android:id="@c6248a/get_super_likes" android:paddingTop="@dimen/space_s" android:paddingBottom="@dimen/space_s" android:clipChildren="false" android:clipToPadding="false" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginLeft="@dimen/space_xxs" android:layout_weight="1" layout="@layout/settings_consumable_purchase_button"/>
+    </LinearLayout>
+</merge>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.shimmy.ShimmerFrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:layout_width="@dimen/space_xl" android:layout_height="@dimen/space_xl" android:src="@drawable/ic_fastmatch_foreground" />
+    </com.tinder.shimmy.ShimmerFrameLayout>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_l" android:textColor="@color/title_gray" android:id="@id/fast_match_toolbar_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/space_xs" android:lines="1" app:customFontStyle="bold" />
+</merge>

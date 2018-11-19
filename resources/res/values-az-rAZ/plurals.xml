@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>sabah</item>
+        <item>%d günə</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>1 saat ərzində</item>
+        <item>%d saata</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>1 dəq ərzində</item>
+        <item>%d dəqiqəyə</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>1 san ərzində</item>
+        <item>%d san ərzində</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>dünən</item>
+        <item>%d gün əvvəl</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 saat əvvəl</item>
+        <item>%d saat əvvəl</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 dəqiqə əvvəl</item>
+        <item>%d dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 saniyə əvvəl</item>
+        <item>%d san əvvəl</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 saat</item>
+        <item>%d saat</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 dəqiqə</item>
+        <item>%d dəqiqə</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 saniyə</item>
+        <item>%d saniyə</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>sabah</item>
+        <item>%d gün ərzində</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>1 saata</item>
+        <item>%d saata</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>1 dəqiqə içində</item>
+        <item>%d dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>1 saniyə ərzində</item>
+        <item>%d saniyə içində</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>dünən</item>
+        <item>%d gün əvvəl</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 saat əvvəl</item>
+        <item>%d saat əvvəl</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 dəqiqə əvvəl</item>
+        <item>%d dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 saniyə əvvəl</item>
+        <item>%d saniyə əvvəl</item>
+    </plurals>
+</resources>

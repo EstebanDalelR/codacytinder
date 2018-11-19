@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">Boostov</item>
+        <item quantity="one">Boost</item>
+        <item quantity="few">Boosty</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">Boostov</item>
+        <item quantity="one">Boost</item>
+        <item quantity="few">Boosty</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d spoločných známych</item>
+        <item quantity="one">%1$d spoločný známy</item>
+        <item quantity="few">%1$d spoloční známi</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">dní</item>
+        <item quantity="one">deň</item>
+        <item quantity="few">dni</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d dní zostáva</item>
+        <item quantity="one">%1$d deň zostáva</item>
+        <item quantity="few">%1$d dni zostávajú</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">vzdialené %1$d km</item>
+        <item quantity="one">vzdialené %1$d km</item>
+        <item quantity="few">%1$d km ďaleko</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">%1$d míľ ďaleko</item>
+        <item quantity="one">%1$d míľu ďaleko</item>
+        <item quantity="few">%1$d míľ ďaleko</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">deň</item>
+        <item quantity="few">%1$d dni</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d hodín</item>
+        <item quantity="one">hodina</item>
+        <item quantity="few">%1$d hodiny</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d mesiacov</item>
+        <item quantity="one">mesiac</item>
+        <item quantity="few">%1$d mesiace</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d sekúnd</item>
+        <item quantity="one">sekunda</item>
+        <item quantity="few">%1$d sekundy</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d týždňov</item>
+        <item quantity="one">týždeň</item>
+        <item quantity="few">%1$d týždne</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">Každých %1$d nových lajkov</item>
+        <item quantity="one">Každý %1$d nový lajk</item>
+        <item quantity="few">Každé %1$d nové lajky</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">%1$d priateľov na nájdenie spoločných známych</item>
+        <item quantity="one">%1$d priateľ na nájdenie spoločných známych</item>
+        <item quantity="few">%1$d priatelia na nájdenie spoločných známych</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d fotiek z Instagramu</item>
+        <item quantity="one">%1$d fotka z Instagramu</item>
+        <item quantity="few">%1$d fotky z Instagramu</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d záujmov</item>
+        <item quantity="one">%1$d záujem</item>
+        <item quantity="few">%1$d záujmy</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">o %d dní</item>
+        <item quantity="one">zajtra</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">o %d hodín</item>
+        <item quantity="one">o 1 hodinu</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">o %d min.</item>
+        <item quantity="one">o 1 min.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">o %d s</item>
+        <item quantity="one">o 1 s</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">včera</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">pred %d hodinami</item>
+        <item quantity="one">pred 1 hodinou</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">pred %d min.</item>
+        <item quantity="one">pred 1 min.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">pred %d s</item>
+        <item quantity="one">pred 1 s</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d hod.</item>
+        <item quantity="one">1 hod.</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">1 min.</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="one">1 s</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">o %d dní</item>
+        <item quantity="one">zajtra</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">o %d hodín</item>
+        <item quantity="one">o 1 hodinu</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">o %d minút</item>
+        <item quantity="one">o 1 minútu</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">o %d s</item>
+        <item quantity="one">o 1 sekundu</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">včera</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">pred %d hodinami</item>
+        <item quantity="one">pred 1 hodinou</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">pred %d minútami</item>
+        <item quantity="one">Pred minútou</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">pred %d s</item>
+        <item quantity="one">pred 1 sekundou</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">mesiacov</item>
+        <item quantity="one">mesiac</item>
+        <item quantity="few">mesiace</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d fotiek</item>
+        <item quantity="one">%1$d fotka</item>
+        <item quantity="few">%1$d fotky</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d aktuálnych návštevníkov</item>
+        <item quantity="one">%1$d aktuálny návštevník</item>
+        <item quantity="few">%1$d aktuálni návštevníci</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d návštevníkov</item>
+        <item quantity="one">%1$d návštevník</item>
+        <item quantity="few">%1$d návštevníci</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">%1$s nových</item>
+        <item quantity="one">%1$s nových</item>
+        <item quantity="few">%1$s nových</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">mesiacov</item>
+        <item quantity="one">mesiac</item>
+        <item quantity="few">mesiace</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">sekundy</item>
+        <item quantity="one">sekunda</item>
+        <item quantity="few">sekúnd</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">Super lajkov</item>
+        <item quantity="one">Super lajk</item>
+        <item quantity="few">Super lajk</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">%1$d %2$s každých %3$s</item>
+        <item quantity="one">%1$d %2$s každú %3$s</item>
+        <item quantity="few">%1$d %2$s každé %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%1$d bezplatne %2$s každých %3$s )</item>
+        <item quantity="one">(%1$d bezplatne %2$s každý %3$s )</item>
+        <item quantity="few">(%1$d bezplatne %2$s každé %3$s )</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">Pridaj mi %1$d bezplatne %2$s každých %3$s</item>
+        <item quantity="one">Pridaj mi %1$d bezplatne %2$s každý %3$s</item>
+        <item quantity="few">Pridaj mi %1$d bezplatne %2$s každé %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">Získaj %1$d %2$s každých %3$s a 3x zvýš svoju šancu na zhodu.</item>
+        <item quantity="one">Získaj %1$d %2$s každý %3$s a 3x zvýš svoju šancu na zhodu.</item>
+        <item quantity="few">Získaj %1$d %2$s každé %3$s a 3x zvýš svoju šancu na zhodu.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">%1$s nových</item>
+        <item quantity="one">%1$s nových</item>
+        <item quantity="few">%1$s nových</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">Výberov</item>
+        <item quantity="one">Výber</item>
+        <item quantity="few">Výbery</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">%1$d výberov zostáva</item>
+        <item quantity="one">%1$d výber zostáva</item>
+        <item quantity="few">%1$d výbery zostávajú</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">zostáva %1$dh</item>
+        <item quantity="one">zostáva %1$dh</item>
+        <item quantity="few">zostávajú %1$dh</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">Zostáva &lt;%1$dm</item>
+        <item quantity="one">Zostáva &lt;%1$dm</item>
+        <item quantity="few">Zostávajú &lt;%1$dm</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">Zostáva %1$dm</item>
+        <item quantity="one">Zostáva %1$dm</item>
+        <item quantity="few">Zostávajú %1$dm</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">aktualizácií</item>
+        <item quantity="one">aktualizácia</item>
+        <item quantity="few">aktualizácie</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">týždňov</item>
+        <item quantity="one">týždeň</item>
+        <item quantity="few">týždne</item>
+    </plurals>
+</resources>

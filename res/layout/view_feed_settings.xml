@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:tag="layout/view_feed_settings_0" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:layout_collapseMode="parallax" app:navigationIcon="@drawable/back_arrow" app:title="@string/feed_share_my_feed" app:titleTextColor="@color/ab_text_color" style="@style/ElevatedToolbar" />
+    <android.support.v4.widget.Space android:tag="layout/view_feed_settings_1" android:layout_width="fill_parent" android:layout_height="@dimen/space_s" />
+    <com.tinder.settings.views.SwitchRowView android:tag="layout/view_feed_settings_2" android:layout_width="fill_parent" android:layout_height="@dimen/settings_row_height" />
+    <com.tinder.views.CustomTextView android:id="@id/share_my_activity_incentive_text" android:tag="layout/view_feed_settings_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xxs" android:text="@string/share_my_content_incentive" android:layout_marginStart="@dimen/space_s" style="@style/SettingsBody" />
+    <com.tinder.settings.feed.view.FeedSharingOptionsRecyclerView android:tag="layout/view_feed_settings_4" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</merge>

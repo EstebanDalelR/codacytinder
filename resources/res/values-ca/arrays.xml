@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="auth_fb_disclaimer_content">
+        <item>No publiquem res a Facebook</item>
+        <item>Els altres usuaris no poden contactar amb tu si no són un match</item>
+    </array>
+    <array name="empty_message_suggestions">
+        <item>#SiDesplacesNoCondueixis</item>
+        <item>#ParlaAmbElTeuTinder</item>
+        <item>Objectiu desbloquejat!</item>
+        <item>I pensar que gairebé desplaces a l&apos;esquerra...</item>
+        <item>Tens les mans lligades o alguna cosa similar?</item>
+        <item>Estàs esperant que et convidin?!</item>
+        <item>Pregunta-li pels amics que teniu en comú.</item>
+        <item>Socialitza.</item>
+        <item>S&apos;han enviat milers de milions de missatges a Tinder. Tu què diràs?</item>
+        <item>Carpe diem.</item>
+        <item>Gats o gossos?</item>
+        <item>Les converses no s&apos;escriuen soles.</item>
+        <item>Grills…</item>
+        <item>T&apos;has empassat la llengua?</item>
+        <item>No saps que les frases cursis no funcionen?</item>
+        <item>Fes-ho!</item>
+        <item>No ho deixis en blanc.</item>
+        <item>No desplacis quan condueixes.</item>
+        <item>No facis servir Tinder quan condueixes.</item>
+        <item>S&apos;accepten emojis.</item>
+        <item>A tothom li agraden les persones amables.</item>
+        <item>S&apos;han enviat cinc milions de missatges en la darrera hora... No ets capaç de pensar-ne ni un?</item>
+        <item>Tira-li alguna floreta i mira com reacciona.</item>
+        <item>Busca a Google maneres de no sonar avorrit.</item>
+        <item>Busca alguna bona frase a Google.</item>
+        <item>Bona pregunta! Fes-la i no et quedis amb el dubte!</item>
+        <item>No tens perquè patir, Tinder ja és aquí!</item>
+        <item>Sigues educat i digues &quot;hola!&quot;</item>
+        <item>Les persones saben dir més que &quot;ei&quot;.</item>
+        <item>Amb un &quot;hola&quot; no destacaràs.</item>
+        <item>Sigues educat... Digues alguna cosa!</item>
+        <item>Quanta estona fa que no envies cap missatge?</item>
+        <item>Quants amics has fet a Tinder?</item>
+        <item>En quantes llengües pots escriure?</item>
+        <item>Si tingués alguna manera de poder-hi parlar... Ostres, espera...!</item>
+        <item>El no sempre el tens.</item>
+        <item>Si no ho preguntes, no ho sabràs mai.</item>
+        <item>Espero que ara mateix no estiguis conduint.</item>
+        <item>Moltes cultures consideren que callar és descortès.</item>
+        <item>Escriu una floreta aquí sota.</item>
+        <item>Escriu un missatge divertit aquí sota.</item>
+        <item>Escriu un missatge amable aquí sota.</item>
+        <item>A la llarga, només ens lamentem de les oportunitats que hem deixat escapar.</item>
+        <item>Avui és el teu #DimartsTinder?</item>
+        <item>Tot comença aquí.</item>
+        <item>Que bé que no hagis desplaçat a l&apos;esquerra per error!</item>
+        <item>No serà Tinder fins que no enviïs un missatge.</item>
+        <item>La història va començar aquí.</item>
+        <item>La història va començar a Tinder.</item>
+        <item>Em pregunto com deuen trencar el gel...</item>
+        <item>Som-hi, arrenquem!</item>
+        <item>Viu com si haguessis de morir demà, somia com si haguessis de viure per sempre.</item>
+        <item>Fes el primer pas.</item>
+        <item>Fes que somrigui.</item>
+        <item>Passem al següent nivell!</item>
+        <item>Ningú suporta la gent avorrida.</item>
+        <item>Més del 36 %% dels teus amics de Facebook són a Tinder.</item>
+        <item>Més del 90 %% dels comentaris positius obtenen una resposta.</item>
+        <item>Llest/a per entrar al món de Tinder?</item>
+        <item>Digues alguna cosa!</item>
+        <item>Digues alguna cosa divertida!</item>
+        <item>Digues alguna cosa maca d&apos;alguna de les seves fotos.</item>
+        <item>Digues alguna cosa intel·ligent!</item>
+        <item>Dóna-li les gràcies per haver desplaçat a la dreta.</item>
+        <item>Sedueix-me...</item>
+        <item>Veus aquest requadre d&apos;aquí sota? Escriu-hi alguna cosa maca!</item>
+        <item>Veus el requadre d&apos;aquí sota? Afegeix-hi personalitat.</item>
+        <item>Veus aquest requadre d&apos;aquí sota? Intenta escriure-hi alguna cosa intel·ligent.</item>
+        <item>Veus aquest requadre? Escriu-hi alguna cosa!</item>
+        <item>Envia un missatge abans que se t&apos;acabi la bateria!</item>
+        <item>Ets tímid/a?</item>
+        <item>Aprofita el dia.</item>
+        <item>Algú hauria de crear una app per conèixer gent interessant. Ostres, espera...!</item>
+        <item>Mirant la pantalla no iniciaràs una conversa...</item>
+        <item>Les primeres converses poden ser incòmodes, però no aquí!</item>
+        <item>Deixa d&apos;avorrir-me.</item>
+        <item>Explica-li una alguna cosa divertida que t&apos;hagi passat.</item>
+        <item>Digue-li perquè l&apos;has desplaçat a la dreta.</item>
+        <item>Espavila&apos;t, que el temps vola!</item>
+        <item>Hi ha moltes coses que no voldràs perdre&apos;t.</item>
+        <item>El primer que enviï un missatge, guanya.</item>
+        <item>No hi ha res de dolent en enviar el primer missatge.</item>
+        <item>Probablement és més guapo/a en persona.</item>
+        <item>Esteu mirant el mateix... Escriu el primer missatge!</item>
+        <item>No ho sabrà fins que no l&apos;hi diguis.</item>
+        <item>Aquesta pantalla queda molt millor amb una conversa. (És una pista...)</item>
+        <item>Aquesta pantalla seria molt més maca si hi hagués una conversa.</item>
+        <item>Tinder no pot escriure per tu...</item>
+        <item>Tinder no pot escriure per tu... (com a mínim de moment!)</item>
+        <item>Tinder no pot escriure per tu... De fet, podria, però no ho farà.</item>
+        <item>Tinder va de persones que vols conèixer... Doncs comença per aquí.</item>
+        <item>Tinder encén una altre foc.</item>
+        <item>#TotsDosHemDesplaçatALaDreta</item>
+        <item>Ja que has arribat fins aquí, potser que diguis alguna cosa...</item>
+        <item>Què estàs esperant?</item>
+        <item>Per què has desplaçat a la dreta?</item>
+        <item>Quin és el teu secret més gran?</item>
+        <item>Quina és la teva història de Tinder preferida?</item>
+        <item>Des d&apos;on has desplaçat a la dreta?</item>
+        <item>Quina foto és la teva preferida?</item>
+        <item>Per què has desplaçat a la dreta?</item>
+        <item>Per què no has saludat?</item>
+        <item>Per què estàs tan seriós?</item>
+        <item>Estàs guanyant!</item>
+        <item>NOMÉS ES VIU UNA VEGADA.</item>
+        <item>Només es desplaça una vegada.</item>
+        <item>A tots dos us agraden coses. Parleu-ne.</item>
+        <item>Podeu dir als vostres fills que us heu conegut a Tinder.</item>
+        <item>Tens dos polzes per un motiu.</item>
+        <item>Saps que encara vol parlar amb tu, oi? #TotsDosHemDesplaçatALaDreta</item>
+        <item>Mai no coneixeràs el 100 %% dels matches amb els quals no intercanviïs un missatge.</item>
+        <item>Et perdràs el 100 %% de les experiències que mai has viscut.</item>
+        <item>Només es viu una vegada.</item>
+        <item>S&apos;acabaran els teus dies de solitud... quan diguis &quot;hola&quot;.</item>
+        <item>Et toca fer un pas a tu.</item>
+        <item>Tots dos esteu enganxats a Tinder... Ja teniu alguna cosa en comú!</item>
+        <item>A aquest pas ens florirem tots...</item>
+        <item>Tens massa por de dir &quot;hola&quot;? Gallina...</item>
+    </array>
+    <array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SO</item>
+        <item>O</item>
+        <item>NO</item>
+    </array>
+    <array name="maps_full_compass_directions">
+        <item>nord</item>
+        <item>nord-est</item>
+        <item>est</item>
+        <item>sud-est</item>
+        <item>sud</item>
+        <item>sud-oest</item>
+        <item>oest</item>
+        <item>nord-oest</item>
+    </array>
+    <array name="ordinals">
+        <item>zero</item>
+        <item>1r</item>
+        <item>2n</item>
+        <item>3r</item>
+        <item>4t</item>
+        <item>5è</item>
+        <item>6è</item>
+    </array>
+</resources>

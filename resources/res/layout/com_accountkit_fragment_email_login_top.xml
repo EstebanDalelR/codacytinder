@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.accountkit.ui.ConstrainedLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_marginTop="20dp" android:layout_marginBottom="20dp" style="@c15385e/AccountKit_Container">
+    <com.facebook.accountkit.ui.ClearBackgroundTextInputLayout android:id="@+id/com_accountkit_email_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <AutoCompleteTextView android:id="@+id/com_accountkit_email" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:ems="10" android:maxLength="254" android:inputType="textEmailAddress" android:imeOptions="actionNext" style="@c15385e/AccountKit_InputText"/>
+    </com.facebook.accountkit.ui.ClearBackgroundTextInputLayout>
+</com.facebook.accountkit.ui.ConstrainedLinearLayout>

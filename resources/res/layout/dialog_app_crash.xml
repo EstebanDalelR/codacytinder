@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="@dimen/paywall_dialog_width" android:layout_height="wrap_content" app:cardCornerRadius="@dimen/exit_survey_dialog_corner_radius" app:cardPreventCornerOverlap="false">
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/dialog_app_crash_apology_view"/>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/dialog_app_crash_feedback_view"/>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/dialog_app_crash_thankyou_view"/>
+</android.support.v7.widget.CardView>

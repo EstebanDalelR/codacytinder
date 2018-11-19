@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/rectangle_touch_feedback_white_background" android:layout_width="fill_parent" android:layout_height="69.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/row_track_image" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_marginLeft="@dimen/content_padding" android:src="@drawable/ic_spotify" android:layout_centerVertical="true" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toRightOf="@id/row_track_image" android:layout_centerVertical="true">
+        <com.tinder.views.CustomTextView android:textSize="18.0sp" android:ellipsize="end" android:id="@id/row_track_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/content_padding" android:layout_marginRight="@dimen/content_padding" android:text="Whatever the name is" android:lines="1" android:fontFamily="semi" />
+        <ImageView android:id="@id/spotify_icon" android:layout_width="12.0dip" android:layout_height="12.0dip" android:layout_marginLeft="@dimen/content_padding" android:layout_marginTop="2.0dip" android:src="@drawable/ic_spotify" android:layout_below="@id/row_track_name" />
+        <com.tinder.views.CustomTextView android:id="@id/search_row_artist_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="Artist Name" android:layout_toRightOf="@id/spotify_icon" android:layout_below="@id/row_track_name" android:layout_alignBaseline="@id/spotify_icon" />
+    </RelativeLayout>
+    <View android:id="@id/track_search_spotify_icon" android:background="@color/gray_light" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/content_padding" android:layout_marginRight="@dimen/content_padding" android:layout_alignParentBottom="true" />
+</RelativeLayout>

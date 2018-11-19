@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.RecyclerView android:id="@id/chat_recycler_view" android:paddingBottom="@dimen/space_xs" android:visibility="gone" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.tinder.chat.view.EmptyChatViewContainer android:id="@id/empty_chat_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/chat_loading_indicator" android:layout_width="@dimen/space_xxxxl" android:layout_height="@dimen/space_xxxxl" style="?android:progressBarStyle" />
+</merge>

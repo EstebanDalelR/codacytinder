@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.recs.view.GamepadRewindButton xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="center" android:id="@c6248a/gamepad_rewind" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@c9651a/revised_gamepad_btn_margin" app:gpb_inner_padding="@c9651a/rewind_btn_inner_padding" app:gpb_size="0" app:igpb_icon="@drawable/gamepad_rewind_selector"/>

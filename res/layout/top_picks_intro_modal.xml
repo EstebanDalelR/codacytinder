@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center" android:background="@drawable/top_picks_intro_modal_background" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/space_m">
+        <com.tinder.shimmy.ShimmerFrameLayout android:layout_gravity="center_horizontal" android:layout_width="@dimen/top_picks_intro_modal_diamond_size" android:layout_height="@dimen/top_picks_intro_modal_diamond_size" android:translationY="@dimen/top_picks_intro_modal_diamond_translation_y">
+            <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_top_picks_big_background" app:layout_shimmers="false" />
+            <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_top_picks_big_foreground" />
+        </com.tinder.shimmy.ShimmerFrameLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:padding="@dimen/space_s" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xl">
+            <com.tinder.shimmy.ShimmerFrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/text_l" android:textStyle="italic" android:textColor="@color/gold1" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/top_picks_intro_modal_introducing" android:fontFamily="@font/proximanova_extrabold" />
+            </com.tinder.shimmy.ShimmerFrameLayout>
+            <TextView android:textSize="@dimen/text_xxl" android:textColor="@color/top_picks_intro_modal_title" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/top_picks_feature_name" android:fontFamily="@font/proximanova_extrabold" />
+            <ImageView android:id="@id/top_picks_intro_modal_pictures" android:layout_width="fill_parent" android:layout_height="@dimen/top_picks_intro_modal_teasers_height" android:layout_marginTop="@dimen/space_xs" android:layout_marginBottom="@dimen/space_s" />
+            <TextView android:textSize="@dimen/text_s" android:textStyle="italic" android:textColor="@color/top_picks_intro_modal_text" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/space_xs" android:text="@string/top_picks_intro_modal_headline" android:fontFamily="@font/proximanova_bold" />
+            <TextView android:textSize="@dimen/text_s" android:textColor="@color/top_picks_intro_modal_text" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/top_picks_intro_modal_description" android:fontFamily="@font/proximanova_semibold" />
+            <com.tinder.gold.TinderGoldButtonView android:id="@id/top_picks_intro_modal_continue_button" android:layout_width="fill_parent" android:layout_height="@dimen/top_picks_dialog_button_height" android:layout_marginLeft="@dimen/space_xl" android:layout_marginTop="@dimen/space_l" android:layout_marginRight="@dimen/space_xl" app:buttonText="@string/top_picks_intro_modal_button_title" />
+        </LinearLayout>
+    </FrameLayout>
+</merge>

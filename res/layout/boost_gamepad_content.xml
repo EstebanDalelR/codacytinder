@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_gravity="center" android:id="@id/boost_gamepad_ic_bolt" android:padding="@dimen/padding_xxmed" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gamepad_boost_selector" />
+    <com.tinder.views.CustomTextView android:textColor="@color/get_boost_purple" android:gravity="center" android:layout_gravity="center" android:id="@id/boost_gamepad_multiplier" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxLines="1" android:alpha="0.0" app:autoSizeMaxTextSize="14.0dip" app:autoSizeMinTextSize="10.0dip" app:autoSizeStepGranularity="1.0dip" app:autoSizeTextType="uniform" app:customFontStyle="bold" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_l" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@id/boost_count_text" android:visibility="invisible" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gamepad_button_maximum_count_value" app:customFontStyle="bold" />
+</FrameLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient android:startColor="@color/profile_tab_button_gradient_start" android:endColor="@color/profile_tab_button_gradient_end" android:angle="45.0" />
+            <corners android:radius="@dimen/user_menu_group_default_button_radius" />
+        </shape>
+    </item>
+    <item android:left="2.0dip" android:top="2.0dip" android:right="2.0dip" android:bottom="2.0dip">
+        <shape>
+            <solid android:color="@color/dialog_matched_background" />
+            <corners android:radius="@dimen/user_menu_group_default_button_radius" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/snap_connect_bitmoji_sticker_placeholder" android:layout_width="@dimen/snap_connect_bitmoji_sticker_loading_icon_width" android:layout_height="@dimen/snap_connect_bitmoji_sticker_loading_icon_height" android:src="@drawable/snap_connect_bitmoji_loading" />
+    <com.snapchat.kit.sdk.bitmoji.ui.view.SquareImageView android:id="@id/snap_connect_bitmoji_sticker_view" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/snap_connect_bitmoji_sticker_padding" android:scaleType="centerInside" />
+</FrameLayout>

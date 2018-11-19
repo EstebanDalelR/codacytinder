@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="36dp"/>
+            <gradient android:startColor="@color/gradient_red" android:endColor="@color/gradient_orange" android:angle="45"/>
+        </shape>
+    </item>
+    <item android:left="@dimen/empty_state_stroke_inset" android:top="@dimen/empty_state_stroke_inset" android:right="@dimen/empty_state_stroke_inset" android:bottom="@dimen/empty_state_stroke_inset">
+        <shape android:shape="rectangle">
+            <corners android:radius="36dp"/>
+            <solid android:color="#fff"/>
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Onboarding.Title.Text">
+        <item name="android:textSize">@dimen/text_xxl</item>
+        <item name="android:textColor">@color/onboarding_title_color</item>
+    </style>
+</resources>

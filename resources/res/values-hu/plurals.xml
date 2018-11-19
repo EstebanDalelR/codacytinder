@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>kiemelés</item>
+        <item>kiemelés</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>kiemelés</item>
+        <item>kiemelés</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d közös kapcsolat</item>
+        <item>%1$d közös kapcsolat</item>
+    </plurals>
+    <plurals name="day">
+        <item>nap</item>
+        <item>nap</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>%1$d nap van hátra</item>
+        <item>%1$d nap van hátra</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d km-re</item>
+        <item>%1$d km-re</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d mérföldre</item>
+        <item>%1$d mérföldre</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>naponta</item>
+        <item>%1$d naponta</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>óránként</item>
+        <item>%1$d óránként</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>havonta</item>
+        <item>%1$d havonta</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>másodpercenként</item>
+        <item>%1$d másodpercenként</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>hetente</item>
+        <item>%1$d hetente</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Minden %1$d. új lájk</item>
+        <item>Minden %1$d. új lájk</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d ismerős közös kapcsolathoz</item>
+        <item>%1$d ismerős közös kapcsolathoz</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d Instagram-fotó</item>
+        <item>%1$d Instagram-fotó</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d érdeklődés</item>
+        <item>%1$d érdeklődés</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>holnap</item>
+        <item>%d nap múlva</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>1 óra múlva</item>
+        <item>%d óra múlva</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>1 perc múlva</item>
+        <item>%d perc múlva</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>1 másodperc múlva</item>
+        <item>%d másodperc múlva</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>tegnap</item>
+        <item>%d napja</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 órája</item>
+        <item>%d órája</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 perce</item>
+        <item>%d perce</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 másodperce</item>
+        <item>%d másodperce</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 óra</item>
+        <item>%d óra</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 perc</item>
+        <item>%d perc</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 másodperc</item>
+        <item>%d másodperc</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>holnap</item>
+        <item>%d nap múlva</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>1 óra múlva</item>
+        <item>%d óra múlva</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>1 perc múlva</item>
+        <item>%d perc múlva</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>1 másodperc múlva</item>
+        <item>%d másodperc múlva</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>tegnap</item>
+        <item>%d napja</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 órája</item>
+        <item>%d órája</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 perce</item>
+        <item>%d perce</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 másodperce</item>
+        <item>%d másodperce</item>
+    </plurals>
+    <plurals name="month">
+        <item>hónap</item>
+        <item>hónap</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d fotó</item>
+        <item>%1$d fotó</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d látogató a közelmúltban</item>
+        <item>%1$d látogató a közelmúltban</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d látogató</item>
+        <item>%1$d látogató</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s új</item>
+        <item>%1$s új</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>hónap</item>
+        <item>hónap</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>másodpercenként</item>
+        <item>másodpercenként</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>Szuperlájk</item>
+        <item>Szuperlájk</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s %3$s</item>
+        <item>%1$d %2$s %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d ingyenes %2$s %3$s )</item>
+        <item>(%1$d ingyenes %2$s %3$s )</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Legyen enyém az %1$d %2$s %3$s</item>
+        <item>Legyen enyém a(z) %1$d %2$s %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Szerezz %1$d %2$sSuper Like-ot %3$s, és növeld háromszorosára az esélyed, hogy párt találj</item>
+        <item>Szerezz %1$d %2$sSuper Like-ot %3$s, és növeld háromszorosára az esélyed, hogy párt találj</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s új</item>
+        <item>%1$s új</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Javaslat</item>
+        <item>Javaslat</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>%1$d javaslat maradt</item>
+        <item>%1$d javaslat maradt</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>%1$dó maradt</item>
+        <item>%1$dó maradt</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>&lt;%1$dp maradt</item>
+        <item>&lt;%1$dp maradt</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>%1$dp maradt</item>
+        <item>%1$dp maradt</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>átváltás</item>
+        <item>átváltás</item>
+    </plurals>
+    <plurals name="week">
+        <item>hét</item>
+        <item>hét</item>
+    </plurals>
+</resources>

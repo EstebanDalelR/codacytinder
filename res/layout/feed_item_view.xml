@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/feedInfoContainer" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="@dimen/z_page_section_divider_margin" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" layout="@layout/activity_feed_avatar_info_container" />
+    <android.support.v4.widget.Space android:id="@id/spacer" android:layout_width="0.0dip" android:layout_height="@dimen/feed_message_button_size" app:layout_constraintBottom_toBottomOf="@id/feedMediaContainer" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/feedMediaContainer" />
+    <include android:id="@id/feedMediaContainer" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="@dimen/z_page_section_divider_margin" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/feedInfoContainer" layout="@layout/feed_item_media_view" />
+    <include android:id="@id/feedCommentContainer" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="@id/spacer" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" layout="@layout/feed_comment_view" />
+    <include android:id="@id/feedFooterContainer" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toBottomOf="@id/feedCommentContainer" layout="@layout/feed_item_footer_view" />
+</merge>

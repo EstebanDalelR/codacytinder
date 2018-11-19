@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.recsads.view.FanVideoRecCardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.constraint.ConstraintLayout android:id="@+id/fan_video_container" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.tinder.recsads.view.DispatchTouchDownListenerMediaView android:id="@+id/fan_video_media_view" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintTop_toTopOf="0"/>
+        <ImageView android:id="@+id/fan_video_play_pause_button" android:padding="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@c14757c/ic_pause" app:layout_constraintBottom_toBottomOf="@+id/fan_video_media_view"/>
+        <ImageView android:id="@+id/fan_video_mute_button" android:padding="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@c14757c/ic_volume_muted" app:layout_constraintEnd_toEndOf="@+id/fan_video_media_view" app:layout_constraintTop_toTopOf="@+id/fan_video_media_view"/>
+        <FrameLayout android:id="@+id/fan_video_completed_overlay" android:background="@color/very_translucent_black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="@+id/fan_video_media_view" app:layout_constraintTop_toTopOf="@+id/fan_video_media_view">
+            <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/text_sm" android:textColor="@color/white" android:gravity="center" android:layout_gravity="start" android:id="@+id/video_completed_replay_button" android:padding="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/facebook_video_ad_watch_again" android:drawablePadding="@dimen/space_xs" android:fontFamily="@font/proximanova_semibold"/>
+                <TextView android:textSize="@dimen/text_sm" android:textColor="@color/white" android:gravity="center" android:layout_gravity="start" android:id="@+id/video_completed_view_more_button" android:padding="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/facebook_video_ad_view_more" android:drawablePadding="@dimen/space_xs" android:fontFamily="@font/proximanova_semibold"/>
+            </LinearLayout>
+        </FrameLayout>
+        <include android:layout_width="match_parent" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintTop_toBottomOf="@+id/fan_video_media_view" layout="@c14759e/fan_ad_info_container"/>
+    </android.support.constraint.ConstraintLayout>
+    <include layout="@layout/recs_card_stamps_include"/>
+</com.tinder.recsads.view.FanVideoRecCardView>

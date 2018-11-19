@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="auth_fb_disclaimer_content">
+        <item>We don’t post anything to Facebook</item>
+        <item>Other users cannot contact you unless you’ve already been matched</item>
+    </array>
+    <array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andorra</item>
+        <item>971:AE:United Arab Emirates</item>
+        <item>93:AF:Afghanistan</item>
+        <item>1:AG:Antigua</item>
+        <item>1:AI:Anguilla</item>
+        <item>355:AL:Albania</item>
+        <item>374:AM:Armenia</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Argentina</item>
+        <item>1:AS:American Samoa</item>
+        <item>43:AT:Austria</item>
+        <item>61:AU:Australia</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azerbaijan</item>
+        <item>387:BA:Bosnia and Herzegovina</item>
+        <item>1:BB:Barbados</item>
+        <item>880:BD:Bangladesh</item>
+        <item>32:BE:Belgium</item>
+        <item>226:BF:Burkina Faso</item>
+        <item>359:BG:Bulgaria</item>
+        <item>973:BH:Bahrain</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benin</item>
+        <item>1:BM:Bermuda</item>
+        <item>673:BN:Brunei</item>
+        <item>591:BO:Bolivia</item>
+        <item>599:BQ:Bonaire, Sint Eustatius and Saba</item>
+        <item>55:BR:Brazil</item>
+        <item>1:BS:The Bahamas</item>
+        <item>975:BT:Bhutan</item>
+        <item>267:BW:Botswana</item>
+        <item>375:BY:Belarus</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Canada</item>
+        <item>243:CD:Democratic Republic of the Congo</item>
+        <item>236:CF:Central African Republic</item>
+        <item>242:CG:Republic of the Congo</item>
+        <item>41:CH:Switzerland</item>
+        <item>225:CI:Côte d&apos;Ivoire</item>
+        <item>682:CK:Cook Islands</item>
+        <item>56:CL:Chile</item>
+        <item>237:CM:Cameroon</item>
+        <item>86:CN:China</item>
+        <item>57:CO:Colombia</item>
+        <item>506:CR:Costa Rica</item>
+        <item>53:CU:Cuba</item>
+        <item>238:CV:Cape Verde</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Cyprus</item>
+        <item>420:CZ:Czech Republic</item>
+        <item>49:DE:Germany</item>
+        <item>253:DJ:Djibouti</item>
+        <item>45:DK:Denmark</item>
+        <item>1:DM:Dominica</item>
+        <item>1:DO:Dominican Republic</item>
+        <item>213:DZ:Algeria</item>
+        <item>593:EC:Ecuador</item>
+        <item>372:EE:Estonia</item>
+        <item>20:EG:Egypt</item>
+        <item>212:EH:Western Sahara</item>
+        <item>291:ER:Eritrea</item>
+        <item>34:ES:Spain</item>
+        <item>251:ET:Ethiopia</item>
+        <item>358:FI:Finland</item>
+        <item>679:FJ:Fiji</item>
+        <item>500:FK:Falkland Islands</item>
+        <item>691:FM:Federated States of Micronesia</item>
+        <item>298:FO:Faroe Islands</item>
+        <item>33:FR:France</item>
+        <item>241:GA:Gabon</item>
+        <item>44:GB:United Kingdom</item>
+        <item>1:GD:Grenada</item>
+        <item>995:GE:Georgia</item>
+        <item>594:GF:French Guiana</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Ghana</item>
+        <item>350:GI:Gibraltar</item>
+        <item>299:GL:Greenland</item>
+        <item>220:GM:The Gambia</item>
+        <item>224:GN:Guinea</item>
+        <item>590:GP:Guadeloupe</item>
+        <item>240:GQ:Equatorial Guinea</item>
+        <item>30:GR:Greece</item>
+        <item>502:GT:Guatemala</item>
+        <item>1:GU:Guam</item>
+        <item>245:GW:Guinea-Bissau</item>
+        <item>592:GY:Guyana</item>
+        <item>852:HK:Hong Kong</item>
+        <item>504:HN:Honduras</item>
+        <item>385:HR:Croatia</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Hungary</item>
+        <item>62:ID:Indonesia</item>
+        <item>353:IE:Ireland</item>
+        <item>972:IL:Israel</item>
+        <item>44:IM:Isle Of Man</item>
+        <item>91:IN:India</item>
+        <item>246:IO:British Indian Ocean Territory</item>
+        <item>964:IQ:Iraq</item>
+        <item>98:IR:Iran</item>
+        <item>354:IS:Iceland</item>
+        <item>39:IT:Italy</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:Jamaica</item>
+        <item>962:JO:Jordan</item>
+        <item>81:JP:Japan</item>
+        <item>254:KE:Kenya</item>
+        <item>996:KG:Kyrgyzstan</item>
+        <item>855:KH:Cambodia</item>
+        <item>686:KI:Kiribati</item>
+        <item>269:KM:Comoros</item>
+        <item>1:KN:Saint Kitts and Nevis</item>
+        <item>850:KP:North Korea</item>
+        <item>82:KR:South Korea</item>
+        <item>965:KW:Kuwait</item>
+        <item>1:KY:Cayman Islands</item>
+        <item>7:KZ:Kazakhstan</item>
+        <item>856:LA:Laos</item>
+        <item>961:LB:Lebanon</item>
+        <item>1:LC:St. Lucia</item>
+        <item>423:LI:Liechtenstein</item>
+        <item>94:LK:Sri Lanka</item>
+        <item>231:LR:Liberia</item>
+        <item>266:LS:Lesotho</item>
+        <item>370:LT:Lithuania</item>
+        <item>352:LU:Luxembourg</item>
+        <item>371:LV:Latvia</item>
+        <item>218:LY:Libya</item>
+        <item>212:MA:Morocco</item>
+        <item>377:MC:Monaco</item>
+        <item>373:MD:Moldova</item>
+        <item>382:ME:Montenegro</item>
+        <item>261:MG:Madagascar</item>
+        <item>692:MH:Marshall Islands</item>
+        <item>389:MK:Macedonia</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Myanmar</item>
+        <item>976:MN:Mongolia</item>
+        <item>853:MO:Macau</item>
+        <item>1:MP:Northern Mariana Islands</item>
+        <item>596:MQ:Martinique</item>
+        <item>222:MR:Mauritania</item>
+        <item>1:MS:Montserrat</item>
+        <item>356:MT:Malta</item>
+        <item>230:MU:Mauritius</item>
+        <item>960:MV:Maldives</item>
+        <item>265:MW:Malawi</item>
+        <item>52:MX:Mexico</item>
+        <item>60:MY:Malaysia</item>
+        <item>258:MZ:Mozambique</item>
+        <item>264:NA:Namibia</item>
+        <item>687:NC:New Caledonia</item>
+        <item>227:NE:Niger</item>
+        <item>672:NF:Norfolk Island</item>
+        <item>234:NG:Nigeria</item>
+        <item>505:NI:Nicaragua</item>
+        <item>31:NL:Netherlands</item>
+        <item>47:NO:Norway</item>
+        <item>977:NP:Nepal</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niue</item>
+        <item>64:NZ:New Zealand</item>
+        <item>968:OM:Oman</item>
+        <item>507:PA:Panama</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:French Polynesia</item>
+        <item>675:PG:Papua New Guinea</item>
+        <item>63:PH:Philippines</item>
+        <item>92:PK:Pakistan</item>
+        <item>48:PL:Poland</item>
+        <item>508:PM:Saint Pierre and Miquelon</item>
+        <item>1:PR:Puerto Rico</item>
+        <item>970:PS:Palestine</item>
+        <item>351:PT:Portugal</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paraguay</item>
+        <item>974:QA:Qatar</item>
+        <item>262:RE:Réunion</item>
+        <item>40:RO:Romania</item>
+        <item>381:RS:Serbia</item>
+        <item>7:RU:Russia</item>
+        <item>250:RW:Rwanda</item>
+        <item>966:SA:Saudi Arabia</item>
+        <item>677:SB:Solomon Islands</item>
+        <item>248:SC:Seychelles</item>
+        <item>249:SD:Sudan</item>
+        <item>46:SE:Sweden</item>
+        <item>65:SG:Singapore</item>
+        <item>290:SH:Saint Helena</item>
+        <item>386:SI:Slovenia</item>
+        <item>421:SK:Slovakia</item>
+        <item>232:SL:Sierra Leone</item>
+        <item>378:SM:San Marino</item>
+        <item>221:SN:Senegal</item>
+        <item>252:SO:Somalia</item>
+        <item>597:SR:Suriname</item>
+        <item>211:SS:South Sudan</item>
+        <item>239:ST:Sao Tome and Principe</item>
+        <item>503:SV:El Salvador</item>
+        <item>1:SX:Sint Maarten</item>
+        <item>963:SY:Syria</item>
+        <item>268:SZ:Swaziland</item>
+        <item>1:TC:Turks and Caicos Islands</item>
+        <item>235:TD:Chad</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Thailand</item>
+        <item>992:TJ:Tajikistan</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Timor-Leste</item>
+        <item>993:TM:Turkmenistan</item>
+        <item>216:TN:Tunisia</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Turkey</item>
+        <item>1:TT:Trinidad and Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Taiwan</item>
+        <item>255:TZ:Tanzania</item>
+        <item>380:UA:Ukraine</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:United States</item>
+        <item>598:UY:Uruguay</item>
+        <item>998:UZ:Uzbekistan</item>
+        <item>1:VC:Saint Vincent and the Grenadines</item>
+        <item>58:VE:Venezuela</item>
+        <item>1:VG:British Virgin Islands</item>
+        <item>1:VI:US Virgin Islands</item>
+        <item>84:VN:Vietnam</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis and Futuna</item>
+        <item>685:WS:Samoa</item>
+        <item>967:YE:Yemen</item>
+        <item>262:YT:Mayotte</item>
+        <item>27:ZA:South Africa</item>
+        <item>260:ZM:Zambia</item>
+        <item>263:ZW:Zimbabwe</item>
+    </array>
+    <array name="country_codes">
+        <item>93</item>
+        <item>355</item>
+        <item>213</item>
+        <item>1684</item>
+        <item>376</item>
+        <item>244</item>
+        <item>1264</item>
+        <item>672</item>
+        <item>1268</item>
+        <item>54</item>
+        <item>374</item>
+        <item>297</item>
+        <item>61</item>
+        <item>43</item>
+        <item>994</item>
+        <item>1242</item>
+        <item>973</item>
+        <item>880</item>
+        <item>1246</item>
+        <item>375</item>
+        <item>32</item>
+        <item>501</item>
+        <item>229</item>
+        <item>1441</item>
+        <item>975</item>
+        <item>591</item>
+        <item>387</item>
+        <item>267</item>
+        <item>55</item>
+        <item>1284</item>
+        <item>673</item>
+        <item>359</item>
+        <item>226</item>
+        <item>95</item>
+        <item>257</item>
+        <item>855</item>
+        <item>237</item>
+        <item>1</item>
+        <item>238</item>
+        <item>1345</item>
+        <item>236</item>
+        <item>235</item>
+        <item>56</item>
+        <item>86</item>
+        <item>61</item>
+        <item>61</item>
+        <item>57</item>
+        <item>269</item>
+        <item>682</item>
+        <item>506</item>
+        <item>385</item>
+        <item>53</item>
+        <item>357</item>
+        <item>420</item>
+        <item>243</item>
+        <item>45</item>
+        <item>253</item>
+        <item>1767</item>
+        <item>1809</item>
+        <item>593</item>
+        <item>20</item>
+        <item>503</item>
+        <item>291</item>
+        <item>372</item>
+        <item>251</item>
+        <item>500</item>
+        <item>298</item>
+        <item>679</item>
+        <item>358</item>
+        <item>33</item>
+        <item>689</item>
+        <item>241</item>
+        <item>220</item>
+        <item>970</item>
+        <item>995</item>
+        <item>49</item>
+        <item>233</item>
+        <item>350</item>
+        <item>30</item>
+        <item>299</item>
+        <item>1473</item>
+        <item>1671</item>
+        <item>502</item>
+        <item>224</item>
+        <item>245</item>
+        <item>592</item>
+        <item>509</item>
+        <item>39</item>
+        <item>504</item>
+        <item>852</item>
+        <item>36</item>
+        <item>354</item>
+        <item>91</item>
+        <item>62</item>
+        <item>98</item>
+        <item>353</item>
+        <item>44</item>
+        <item>972</item>
+        <item>39</item>
+        <item>225</item>
+        <item>1876</item>
+        <item>81</item>
+        <item>962</item>
+        <item>7</item>
+        <item>254</item>
+        <item>686</item>
+        <item>381</item>
+        <item>965</item>
+        <item>996</item>
+        <item>856</item>
+        <item>371</item>
+        <item>961</item>
+        <item>266</item>
+        <item>231</item>
+        <item>218</item>
+        <item>423</item>
+        <item>370</item>
+        <item>352</item>
+        <item>853</item>
+        <item>389</item>
+        <item>265</item>
+        <item>60</item>
+        <item>960</item>
+        <item>223</item>
+        <item>356</item>
+        <item>692</item>
+        <item>222</item>
+        <item>230</item>
+        <item>262</item>
+        <item>52</item>
+        <item>691</item>
+        <item>373</item>
+        <item>377</item>
+        <item>376</item>
+        <item>382</item>
+        <item>1664</item>
+        <item>212</item>
+        <item>258</item>
+        <item>264</item>
+        <item>674</item>
+        <item>977</item>
+        <item>31</item>
+        <item>599</item>
+        <item>687</item>
+        <item>64</item>
+        <item>505</item>
+        <item>227</item>
+        <item>234</item>
+        <item>683</item>
+        <item>672</item>
+        <item>850</item>
+        <item>1670</item>
+        <item>47</item>
+        <item>968</item>
+        <item>92</item>
+        <item>680</item>
+        <item>507</item>
+        <item>675</item>
+        <item>595</item>
+        <item>51</item>
+        <item>63</item>
+        <item>870</item>
+        <item>48</item>
+        <item>351</item>
+        <item>1</item>
+        <item>974</item>
+        <item>242</item>
+        <item>40</item>
+        <item>7</item>
+        <item>250</item>
+        <item>590</item>
+        <item>290</item>
+        <item>1869</item>
+        <item>1758</item>
+        <item>1599</item>
+        <item>508</item>
+        <item>1784</item>
+        <item>685</item>
+        <item>378</item>
+        <item>239</item>
+        <item>966</item>
+        <item>221</item>
+        <item>381</item>
+        <item>248</item>
+        <item>232</item>
+        <item>65</item>
+        <item>421</item>
+        <item>386</item>
+        <item>677</item>
+        <item>252</item>
+        <item>27</item>
+        <item>82</item>
+        <item>34</item>
+        <item>94</item>
+        <item>249</item>
+        <item>597</item>
+        <item>268</item>
+        <item>46</item>
+        <item>41</item>
+        <item>963</item>
+        <item>886</item>
+        <item>992</item>
+        <item>255</item>
+        <item>66</item>
+        <item>670</item>
+        <item>228</item>
+        <item>690</item>
+        <item>676</item>
+        <item>1868</item>
+        <item>216</item>
+        <item>90</item>
+        <item>993</item>
+        <item>1868</item>
+        <item>1649</item>
+        <item>688</item>
+        <item>256</item>
+        <item>380</item>
+        <item>971</item>
+        <item>44</item>
+        <item>1</item>
+        <item>598</item>
+        <item>1340</item>
+        <item>998</item>
+        <item>678</item>
+        <item>58</item>
+        <item>84</item>
+        <item>681</item>
+        <item>970</item>
+        <item>967</item>
+        <item>260</item>
+        <item>263</item>
+    </array>
+    <array name="country_names">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burma (Myanmar)</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Christmas Island</item>
+        <item>Cocos (Keeling) Islands</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Cook Islands</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Falkland Islands</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>French Polynesia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Gaza Strip</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Holy See (Vatican City)</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Ireland</item>
+        <item>Isle of Man</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Ivory Coast</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kosovo</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Macedonia</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Montserrat</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Namibia</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>Netherlands Antilles</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>Niue</item>
+        <item>Norfolk Island</item>
+        <item>North Korea</item>
+        <item>Northern Mariana Islands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Pitcairn Islands</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Republic of the Congo</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Saint Barthelemy</item>
+        <item>Saint Helena</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Martin</item>
+        <item>Saint Pierre and Miguelon</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Sao Tome and Principe</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tokelau</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Trinidad and Tobago</item>
+        <item>Turks and Caicos Islands</item>
+        <item>Tuvalu</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>US Virgin Islands</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Wallis and Futuna</item>
+        <item>West Bank</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </array>
+    <array name="empty_message_suggestions">
+        <item>#Don’tSwipeAndDrive</item>
+        <item>#TalkToYourTinder</item>
+        <item>Achievement unlocked!</item>
+        <item>And to think, you almost swiped left…</item>
+        <item>Are your hands tied or something?</item>
+        <item>Are you waiting for an invitation?!</item>
+        <item>Ask them about your mutual friends.</item>
+        <item>Be social.</item>
+        <item>Billions of messages have been sent on Tinder. What will yours be?</item>
+        <item>Carpe diem.</item>
+        <item>Cats or dogs?</item>
+        <item>Conversations don’t write themselves.</item>
+        <item>Crickets…</item>
+        <item>Did the cat bite your tongue?</item>
+        <item>Did you know that cheesy lines don’t work?</item>
+        <item>Do it!</item>
+        <item>Don’t leave it blank.</item>
+        <item>Don’t swipe and drive.</item>
+        <item>Don’t Tinder and drive.</item>
+        <item>Emojis accepted.</item>
+        <item>Everyone likes a thoughtful person.</item>
+        <item>Five million messages sent in the last hour … you can’t even think of one?</item>
+        <item>Give them a compliment and watch what happens.</item>
+        <item>Google how not to be boring.</item>
+        <item>Google some good one liners.</item>
+        <item>Great question! Ask to get the answer.</item>
+        <item>Have no fear, Tinder is here!</item>
+        <item>Have some manners, say “hello!”</item>
+        <item>‘Hey’ is for horses.</item>
+        <item>‘Hi’ isn’t memorable.</item>
+        <item>Have some manners … say something!</item>
+        <item>How long before you send a message?</item>
+        <item>How many friends have you made on Tinder?</item>
+        <item>How many languages can you type in?</item>
+        <item>If only there was a way to start a conversation. Oh wait…</item>
+        <item>If you don’t ask, the answer is always no.</item>
+        <item>If you don’t ask, you won’t ever know.</item>
+        <item>I hope you’re not driving right now.</item>
+        <item>In many cultures silence is considered rude.</item>
+        <item>Insert compliment below.</item>
+        <item>Insert funny message below.</item>
+        <item>Insert thoughtful message below.</item>
+        <item>In the end, we only regret the chances we didn’t take.</item>
+        <item>Is this your #TinderTuesday?</item>
+        <item>It all starts here.</item>
+        <item>It’s good you didn’t accidentally swipe left.</item>
+        <item>It’s not Tinder until you send a message.</item>
+        <item>It started here.</item>
+        <item>It started on Tinder.</item>
+        <item>I wonder what tagline they got.</item>
+        <item>Let’s get things started.</item>
+        <item>Live as if you die today, dream as if you live forever.</item>
+        <item>Make the first move.</item>
+        <item>Make them smile.</item>
+        <item>Next level reached!</item>
+        <item>No one likes a bore.</item>
+        <item>Over 36% of your Facebook friends are on Tinder.</item>
+        <item>Over 90% of compliments get a response.</item>
+        <item>Ready to get Tinderized?</item>
+        <item>Say something!</item>
+        <item>Say something funny!</item>
+        <item>Say something nice about one of their photos.</item>
+        <item>Say something witty!</item>
+        <item>Say thanks for swiping right.</item>
+        <item>Seduce away…</item>
+        <item>See that box down there? Compliment them.</item>
+        <item>See that box down there? Insert personality.</item>
+        <item>See that box down there? Type something witty into it.</item>
+        <item>See this box? Type something into it.</item>
+        <item>Send a message before your battery dies.</item>
+        <item>Shy?</item>
+        <item>Seize the day.</item>
+        <item>Someone should create an app to meet cool people. Oh wait…</item>
+        <item>Staring at this screen won’t start a convo…</item>
+        <item>Starting conversations are awkward, but not here!</item>
+        <item>Stop being boring.</item>
+        <item>Tell them about a crazy experience you just had.</item>
+        <item>Tell them why you swiped right.</item>
+        <item>That’s like 2 dog years.</item>
+        <item>The definition of FOMO: Fear of missing out.</item>
+        <item>The one who sends the first message wins.</item>
+        <item>There’s nothing wrong with sending the first message.</item>
+        <item>They probably look better in person.</item>
+        <item>They’re staring at the same thing … write the first message.</item>
+        <item>They won’t know until you tell them.</item>
+        <item>This screen looks a lot better with a conversation. Hint, hint.</item>
+        <item>This screen would look a lot better with a conversation in it.</item>
+        <item>Tinder can’t type for you…</item>
+        <item>Tinder can’t type for you … at least not yet.</item>
+        <item>Tinder can’t type for you… actually, it could, but it won’t.</item>
+        <item>Tinder is about people you want to know … start here.</item>
+        <item>Tinder sparks another fire.</item>
+        <item>#WeBothSwipedRight</item>
+        <item>Well you’ve come this far, might as well say something.</item>
+        <item>What are you waiting for?</item>
+        <item>What made you swipe right?</item>
+        <item>What’s your biggest secret?</item>
+        <item>What’s your favorite Tinder story?</item>
+        <item>Where did you swipe right?</item>
+        <item>Which photo is your favorite?</item>
+        <item>Why did you swipe right?</item>
+        <item>Why haven’t you said hello?</item>
+        <item>Why so serious?</item>
+        <item>Winning!</item>
+        <item>YOLO.</item>
+        <item>YOSO: You only swipe once.</item>
+        <item>You both like things. Talk about them.</item>
+        <item>You can tell your kids you met on Tinder.</item>
+        <item>You have two thumbs for a reason.</item>
+        <item>You know they already want to talk to you, right? #WeBothSwipedRight</item>
+        <item>You’ll never meet 100% of the matches you don’t message.</item>
+        <item>You miss 100% of the memories you never make.</item>
+        <item>You only live once.</item>
+        <item>Your lonely days are over … once you say hi.</item>
+        <item>Your move.</item>
+        <item>You’re both addicted to Tinder … that’s something you have in common.</item>
+        <item>You’re not getting any younger.</item>
+        <item>You’re too afraid to say hi? Wuss.</item>
+    </array>
+    <array name="fast_match_gradient_colors">
+        <item>@color/fast_match_loading_gradient_start</item>
+        <item>@color/fast_match_loading_gradient_color_2</item>
+        <item>@color/fast_match_loading_gradient_color_3</item>
+        <item>@color/fast_match_loading_gradient_color_4</item>
+        <item>@color/fast_match_loading_gradient_color_end</item>
+    </array>
+    <array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </array>
+    <array name="maps_full_compass_directions">
+        <item>north</item>
+        <item>northeast</item>
+        <item>east</item>
+        <item>southeast</item>
+        <item>south</item>
+        <item>southwest</item>
+        <item>west</item>
+        <item>northwest</item>
+    </array>
+    <array name="ordinals">
+        <item>zeroth</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+    </array>
+    <array name="snap_connect_scopes">
+        <item>https://auth.snapchat.com/oauth2/api/user.bitmoji.avatar</item>
+    </array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.recs.view.AdRecCardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/ad_container" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <include layout="@layout/recs_card_stamps_include"/>
+</com.tinder.recs.view.AdRecCardView>

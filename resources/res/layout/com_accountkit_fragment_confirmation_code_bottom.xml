@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.accountkit.ui.ConstrainedLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.facebook.accountkit.ui.ConstrainedLinearLayout style="@c15385e/AccountKit_Container">
+        <Button android:enabled="false" android:id="@+id/com_accountkit_next_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/com_accountkit_button_continue" style="@c15385e/AccountKit_Button"/>
+        <Space android:id="@+id/com_accountkit_space" android:layout_width="match_parent" android:layout_height="@c1191d/com_accountkit_space_medium"/>
+        <TextView android:textColor="?attr/com_accountkit_text_color" android:gravity="center_horizontal" android:id="@+id/com_accountkit_retry_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/com_accountkit_confirmation_code_text" style="@c15385e/AccountKit_TitleText"/>
+        <Space android:layout_width="match_parent" android:layout_height="@c1191d/com_accountkit_space_medium"/>
+        <TextView android:gravity="center_horizontal" android:id="@+id/com_accountkit_confirmation_code_agreement" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0dp" android:layout_marginBottom="0dp" android:text="@string/com_accountkit_confirmation_code_agreement" style="@c15385e/AccountKit_AgreementText"/>
+    </com.facebook.accountkit.ui.ConstrainedLinearLayout>
+</com.facebook.accountkit.ui.ConstrainedLinearLayout>

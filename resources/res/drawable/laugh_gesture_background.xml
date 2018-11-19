@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:insetBottom="100dp">
+    <bitmap android:gravity="top|center_vertical|center_horizontal|center" android:src="@drawable/laugh_reaction_background"/>
+</inset>

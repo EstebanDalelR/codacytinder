@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Boost</item>
+        <item>Boosts</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Boost</item>
+        <item>Boosts</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d connexió en comú</item>
+        <item>%1$d connexions en comú</item>
+    </plurals>
+    <plurals name="day">
+        <item>dia</item>
+        <item>dies</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>Queda %1$d dia</item>
+        <item>Queden %1$d dies</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>A %1$d km de distància</item>
+        <item>A %1$d km de distància</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>A %1$d milla de distància</item>
+        <item>A %1$d milles de distància</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>dia</item>
+        <item>%1$d dies</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>hora</item>
+        <item>%1$d hores</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>mes</item>
+        <item>%1$d mesos</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>segon</item>
+        <item>%1$d segons</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>setmana</item>
+        <item>%1$d setmanes</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Cada nou &quot;M&apos;agrada&quot;</item>
+        <item>Cada %1$d nous &quot;M&apos;agrada&quot;</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d amic per a connexions en comú</item>
+        <item>%1$d amics per a connexions en comú</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d foto d&apos;Instagram</item>
+        <item>%1$d fotos d&apos;Instragram</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d interès</item>
+        <item>%1$d interessos</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>demà</item>
+        <item>d&apos;aquí a %d dies</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>d&apos;aquí a 1 hora</item>
+        <item>d&apos;aquí a %d hores</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>d&apos;aquí a 1 min</item>
+        <item>d&apos;aquí a %d minuts</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>d&apos;aquí a 1 s</item>
+        <item>d&apos;aquí a %d s</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>ahir</item>
+        <item>Fa %d dies</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>Fa 1 hora</item>
+        <item>Fa %d hores</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>fa 1 min</item>
+        <item>Fa %d min</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>Fa 1 s</item>
+        <item>Fa %d s</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 hora</item>
+        <item>%d hores</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 minut</item>
+        <item>%d minuts</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 segon</item>
+        <item>%d segons</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>demà</item>
+        <item>d&apos;aquí a %d dies</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>d&apos;aquí a 1 hora</item>
+        <item>d&apos;aquí a %d hores</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>d&apos;aquí a 1 minut</item>
+        <item>d&apos;aquí a %d minuts</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>d&apos;aquí a 1 segon</item>
+        <item>d&apos;aquí a %d segons</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>Ahir</item>
+        <item>Fa %d dies</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>Fa 1 hora</item>
+        <item>Fa %d hores</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>Fa 1 minut</item>
+        <item>Fa %d minuts</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>Fa 1 segon</item>
+        <item>Fa %d segons</item>
+    </plurals>
+    <plurals name="month">
+        <item>mes</item>
+        <item>mesos</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d foto</item>
+        <item>%1$d fotos</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d visita recent</item>
+        <item>%1$d visites recents</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d visita</item>
+        <item>%1$d visites</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s nou</item>
+        <item>%1$s nous</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>mes</item>
+        <item>mesos</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>segon</item>
+        <item>segons</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>Super Like</item>
+        <item>Super Likes</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s cada %3$s</item>
+        <item>%1$d %2$s cada %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d %2$s gratuït cada %3$s)</item>
+        <item>(%1$d %2$s gratuïts cada %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Vull rebre %1$d %2$s cada %3$s</item>
+        <item>Vull rebre %1$d %2$s cada %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Aconsegueix %1$d %2$s cada %3$s i triplica les teves oportunitats de trobar persones compatibles</item>
+        <item>Aconsegueix %1$d %2$s cada %3$s i triplica les teves oportunitats de trobar persones compatibles</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s nou</item>
+        <item>%1$s nous</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Candidat</item>
+        <item>Candidats</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>Queda %1$d Candidat</item>
+        <item>Queden %1$d Candidats</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>Queda %1$d hora</item>
+        <item>Queden %1$d hores</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>Queda &lt; %1$d minut</item>
+        <item>Queden &lt; %1$d minuts</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>Queda %1$d minut</item>
+        <item>Queden %1$d minuts</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>actualització</item>
+        <item>actualitzacions</item>
+    </plurals>
+    <plurals name="week">
+        <item>setmana</item>
+        <item>setmanes</item>
+    </plurals>
+</resources>

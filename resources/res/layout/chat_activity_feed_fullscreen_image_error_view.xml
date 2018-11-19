@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@c6248a/feedFullscreenImageErrorView" android:background="@color/chat_image_default_background" android:layout_width="match_parent" android:layout_height="@dimen/chat_feed_fullscreen_image_error_view_height">
+    <ImageView android:id="@c6248a/feedFullscreenImageErrorState" android:layout_width="@dimen/feed_loading_error_icon_size" android:layout_height="@dimen/feed_loading_error_icon_size" android:src="@drawable/ic_error"/>
+    <TextView android:id="@c6248a/feedFullscreenImageErrorText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:text="@string/feed_instagram_loading_error_message"/>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.reactions.navigation.view.GrandGestureNavigationView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@c6248a/gesturesRoot" android:background="@null" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:background="@null" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:background="@null" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <com.tinder.reactions.navigation.view.ScrollListenerViewPager android:id="@c6248a/gesturesViewPager" android:background="@null" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <android.support.v7.widget.RecyclerView android:layout_gravity="bottom" android:id="@c6248a/gesturesTabRecyclerView" android:background="@null" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="@dimen/grand_gestures_tabs_height"/>
+        </FrameLayout>
+    </LinearLayout>
+    <com.tinder.reactions.navigation.view.GestureNavigationLoadingView android:background="@android:color/white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</com.tinder.reactions.navigation.view.GrandGestureNavigationView>

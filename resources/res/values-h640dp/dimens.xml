@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gold_paywall_button_margin">24dp</dimen>
+    <dimen name="gold_paywall_pager_bottom_margin">0dp</dimen>
+    <dimen name="gold_paywall_pager_top_margin">0dp</dimen>
+    <dimen name="gradient_curve_gradient_height">242dp</dimen>
+    <dimen name="profile_tab_ad_panel_description_size">16sp</dimen>
+    <dimen name="profile_tab_ad_panel_title_size">20sp</dimen>
+    <dimen name="profile_tab_button_divider_height">48dp</dimen>
+    <dimen name="profile_tab_edit_button_circumference">49dp</dimen>
+    <dimen name="profile_tab_name_age">24sp</dimen>
+    <dimen name="profile_tab_school_job">16dp</dimen>
+    <dimen name="profile_tab_state_container_height">200dp</dimen>
+    <dimen name="profile_tab_user_avatar">140dp</dimen>
+    <dimen name="profiletab_avatar_margin">24dp</dimen>
+</resources>

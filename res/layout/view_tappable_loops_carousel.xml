@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.video.view.LoopView android:id="@id/loopView" android:layout_width="fill_parent" android:layout_height="fill_parent" app:mediaScaleType="centerCrop" />
+    <com.tinder.recs.view.tappablecards.TappyPageIndicatorView android:id="@id/tappyLoopsPageIndicatorView" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</merge>

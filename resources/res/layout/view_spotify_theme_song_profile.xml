@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/item_indent_left">
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/content_padding" android:layout_marginBottom="5dp" android:text="@string/spotify_my_theme_song" android:textAllCaps="false" style="@style/profile_header"/>
+        <LinearLayout android:orientation="vertical" android:id="@c6248a/container_theme_song" android:background="@drawable/rectangle_touch_feedback_white_background" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="48dp" style="@style/edit_profile_selection">
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/z_profile_body_text" android:gravity="center_vertical" android:layout_gravity="center_horizontal" android:id="@c6248a/spotify_choose_theme_song" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp" android:text="@string/spotify_choose_theme_song" android:singleLine="true" android:layout_weight="1"/>
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/z_profile_body_text" android:id="@c6248a/spotify_theme_song_name" android:visibility="visible" android:layout_width="match_parent" android:layout_height="0dp" android:singleLine="true" android:layout_weight="1"/>
+            <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:id="@c6248a/spotify_theme_song_artist_container" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@c6248a/spotify_icon" android:layout_width="12dp" android:layout_height="12dp" android:src="@drawable/ic_spotify"/>
+                <com.tinder.views.CustomTextView android:textSize="@dimen/text_xxs" android:textColor="@color/z_profile_body_text" android:layout_gravity="center" android:id="@c6248a/spotify_theme_song_artist_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding_small" android:singleLine="true" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</merge>

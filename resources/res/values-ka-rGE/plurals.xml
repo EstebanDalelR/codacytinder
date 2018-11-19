@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>ხვალ</item>
+        <item>%d დღეში</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>1 საათში</item>
+        <item>%d საათში</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>1 წუთში</item>
+        <item>%d წუთში</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>1 წამში</item>
+        <item>%d წამის წინ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>გუშინ</item>
+        <item>%d დღის წინ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 საათის წინ</item>
+        <item>%d საათის წინ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 წუთის წინ</item>
+        <item>%d წუთის წინ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 წმ. წინ</item>
+        <item>%d წამის წინ</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 საათი</item>
+        <item>%d საათში</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 წუთი</item>
+        <item>%d წუთი</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 წამი</item>
+        <item>%d წამი</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>ხვალ</item>
+        <item>%d დღეში</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>1 საათში</item>
+        <item>%d საათში</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>1 წუთში</item>
+        <item>%d წუთში</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>1 წამში</item>
+        <item>%d წამში</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>გუშინ</item>
+        <item>%d დღის წინ</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 საათის წინ</item>
+        <item>%d საათის წინ</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 წუთის უკან</item>
+        <item>%d წუთის წინ</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 წამის წინ</item>
+        <item>%d წამის წინ</item>
+    </plurals>
+</resources>

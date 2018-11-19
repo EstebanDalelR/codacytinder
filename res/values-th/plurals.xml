@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">บูสต์</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">บูสต์</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">คนรู้จักเหมือนกัน %1$d คน</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">วัน</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d วันที่ต้องรอ</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">ห่างออกไป %1$d กม</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">ห่าง %1$d ไมล์</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d วัน</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d เดือน</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d วินาที</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d สัปดาห์</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">ทุก %1$d ไลก์ใหม่</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">เพื่อน %1$d คน ที่มีคนรู้จักเหมือนกัน</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">รูปภาพ Instagram %1$d ภาพ</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d ความสนใจ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">ใน %d วัน</item>
+        <item quantity="one">พรุ่งนี้</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">ใน %d ชั่วโมง</item>
+        <item quantity="one">ใน 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">ใน %d นาที</item>
+        <item quantity="one">ใน 1 นาที</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">ใน %d วินาที</item>
+        <item quantity="one">ใน 1 วินาที</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">%d วันที่ผ่านมา</item>
+        <item quantity="one">เมื่อวาน</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">%d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">1 ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+        <item quantity="one">1 นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">%d วินาทีที่ผ่านมา</item>
+        <item quantity="one">1 วินาทีที่แล้ว</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d ชั่วโมง</item>
+        <item quantity="one">1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d นาที</item>
+        <item quantity="one">1 นาที</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d วินาที</item>
+        <item quantity="one">1 วินาที</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">ใน %d วัน</item>
+        <item quantity="one">พรุ่งนี้</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">ใน %d ชั่วโมง</item>
+        <item quantity="one">ใน 1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">ใน %d นาที</item>
+        <item quantity="one">ใน 1 นาที</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">ใน %d วินาที</item>
+        <item quantity="one">ใน 1 วินาที</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">%d วันที่ผ่านมา</item>
+        <item quantity="one">เมื่อวาน</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">%d ชั่วโมงที่ผ่านมา</item>
+        <item quantity="one">1 ชั่วโมงที่ผ่านมา</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">%d นาทีที่ผ่านมา</item>
+        <item quantity="one">1 นาทีที่ผ่านมา</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">%d วินาทีที่แล้ว</item>
+        <item quantity="one">1 วินาทีที่แล้ว</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">เดือน</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d รูป</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d คนที่เคยไปล่าสุด</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d คนที่เคยไป</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">ใหม่ %1$s</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">เดือน</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">วินาที</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">ซุปเปอร์ไลก์</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">%1$d %2$s ทุก %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(ฟรี %1$d %2$s ทุก %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">ฉันต้องการ %1$d %2$s ทุก %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">รับเพิ่ม %1$d %2$s ทุก %3$s เพิ่มโอกาสเจอคู่แมตช์เป็น 3 เท่า</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">ใหม่ %1$s</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">Picks</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">เหลืออีก %1$d Picks</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">เหลืออีก %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">เหลืออีก &lt;%1$d นาที</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">เหลืออีก %1$d นาที</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">อัพเกรด</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">สัปดาห์</item>
+    </plurals>
+</resources>

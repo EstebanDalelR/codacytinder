@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>homme</item>
+        <item>%d päeva pärast</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>1 tunni pärast</item>
+        <item>%d tunni pärast</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>1 minuti pärast</item>
+        <item>%d minuti pärast</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>1 sekundi pärast</item>
+        <item>%d sekundi pärast</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>eile</item>
+        <item>%d päeva tagasi</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 tund tagasi</item>
+        <item>%d tundi tagasi</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 minut tagasi</item>
+        <item>%d minutit tagasi</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 s tagasi</item>
+        <item>%d sekundit tagasi</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 tund</item>
+        <item>%d tundi</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 minut</item>
+        <item>%d minutit</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 sekund</item>
+        <item>%d sekundit</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>homme</item>
+        <item>%d päeva pärast</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>1 tunni pärast</item>
+        <item>%d tunni pärast</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>1 minuti pärast</item>
+        <item>%d minuti pärast</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>1 sekundi pärast</item>
+        <item>%d sekundi pärast</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>eile</item>
+        <item>%d päeva tagasi</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 tund tagasi</item>
+        <item>%d tundi tagasi</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 minut tagasi</item>
+        <item>%d minutit tagasi</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 sekund tagasi</item>
+        <item>%d sekundit tagasi</item>
+    </plurals>
+</resources>

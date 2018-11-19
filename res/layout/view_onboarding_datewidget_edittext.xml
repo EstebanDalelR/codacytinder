@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.views.OnboardingCustomEditText android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/space_xxs" android:imeOptions="actionNext" android:paddingStart="@dimen/margin_xxsmall" android:paddingEnd="@dimen/margin_xxsmall" style="@style/Onboarding.DateWidget.Field.Text"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

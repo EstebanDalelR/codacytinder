@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@c6252a/places_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@c6248a/placeViewContainer" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="@c6248a/mapContainer" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <ImageView android:id="@c6248a/placesLoadingBackground" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@c6253b/places_map_background" android:scaleType="fitXY"/>
+        <com.tinder.places.carousel.view.PlacesCarouselLoadingContainerView android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@c6248a/placesCarousel" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="@dimen/place_card_pager_height"/>
+        <ImageView android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="@c6248a/placesSettingsButton" android:padding="@dimen/space_xs" android:layout_width="@dimen/places_settings_button_size" android:layout_height="@dimen/places_settings_button_size" android:src="@c6253b/places_settings_button_shadowed"/>
+        <FrameLayout android:id="@c6248a/placeOverlayContainer" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+</merge>

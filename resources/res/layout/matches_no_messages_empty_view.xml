@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:layout_gravity="top" android:orientation="vertical" android:id="@c6248a/matches_list_emptyview" android:visibility="gone" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="@dimen/space_xl">
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/message_placeholder"/>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_xxlarge" android:textColor="@color/text_dark" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/say_hello" app:customFontStyle="4"/>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_m" android:textColor="@color/paywall_text_dark" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/match_list_chat" app:customFontStyle="3"/>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@c6248a/feedImageGradientOverlayView" android:background="@drawable/feed_profile_change_bio_overlay" android:layout_width="0dp" android:layout_height="0dp" android:layout_margin="@dimen/space_l" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/feed_content_header_profile_change_bio" style="@style/FeedContentView.Title.Bio"/>
+        <TextView android:id="@c6248a/feedChangeBioTextView" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/FeedContentView.Text.Bio"/>
+    </LinearLayout>
+</merge>

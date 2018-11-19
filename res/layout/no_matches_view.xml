@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/no_matches" android:paddingTop="@dimen/padding_large" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/margin_xxlarge" android:layout_marginBottom="@dimen/no_matches_margin_from_buttons">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/no_matches_placeholder" android:contentDescription="@string/you_have_no_matches" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_xxlarge" android:textColor="@color/text_dark" android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_large" android:text="@string/get_swiping" app:customFontStyle="bold" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/you_have_no_matches" android:textColor="@color/text_light" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_large" android:text="@string/you_have_no_matches" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/discover_new_people" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_xlarge" android:layout_marginRight="@dimen/margin_xlarge" android:layout_marginBottom="@dimen/margin_med" style="@style/orange_rect_button">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/margin_small" android:src="@drawable/nomatches_discovernewpeople_icon" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/discover_new_people" />
+    </LinearLayout>
+</LinearLayout>

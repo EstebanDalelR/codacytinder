@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@c6248a/job_container" android:background="@color/gray_background_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.v7.widget.Toolbar android:id="@c6248a/job_toolbar" android:layout_width="match_parent" android:layout_height="@dimen/actionbar_size" style="@style/ElevatedToolbar">
+        <com.tinder.views.CustomTextView android:text="@string/current_work" app:customFontStyle="3" style="@style/ab_text"/>
+    </android.support.v7.widget.Toolbar>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <android.support.v7.widget.RecyclerView android:id="@c6248a/job_recycler_view" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/passport_container" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/feature_header_container" layout="@layout/tplus_feature_header" />
+    <View android:id="@id/feature_divider" android:background="@color/gray_light" android:paddingTop="@dimen/padding_med" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <RelativeLayout android:id="@id/current_location_container" android:paddingTop="@dimen/padding_med" android:paddingBottom="@dimen/padding_med" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?android:selectableItemBackground" android:animateLayoutChanges="true">
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/feature_title_color" android:id="@id/passportLocation" android:paddingLeft="@dimen/padding_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/passport_location" android:layout_alignParentLeft="true" android:layout_centerVertical="true" app:customFontStyle="medium" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/subtext_gray" android:gravity="center_vertical" android:id="@id/my_current_location" android:paddingRight="@dimen/padding_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBaseline="@id/passportLocation" android:layout_alignParentRight="true" />
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_xs" android:textColor="@color/feature_description_color" android:gravity="center_vertical" android:id="@id/current_location" android:paddingRight="@dimen/padding_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/my_current_location" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <com.tinder.views.LinearAdapterLayout android:orientation="vertical" android:id="@id/passport_recents_list" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

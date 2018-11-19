@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:duration="1700" android:fromDegrees="-42" android:toDegrees="-35" android:pivotX="100%" android:pivotY="0%" android:startOffset="600" android:repeatCount="infinite" android:repeatMode="reverse"/>

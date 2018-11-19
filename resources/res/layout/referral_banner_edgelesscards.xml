@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <View android:background="@drawable/square_tinder_gradient_angle_zero" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0.75"/>
+    <com.tinder.views.ReferralBannerViewLegacy android:gravity="center" android:orientation="horizontal" android:id="@c6248a/referral_banner_edgeless_cards" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</merge>

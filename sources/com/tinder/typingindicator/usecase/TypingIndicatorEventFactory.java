@@ -1,0 +1,13 @@
+package com.tinder.typingindicator.usecase;
+
+import com.tinder.etl.event.dt;
+import com.tinder.typingindicator.model.TypingType;
+import io.reactivex.C3958c;
+import kotlin.Metadata;
+import org.jetbrains.annotations.NotNull;
+
+@Metadata(bv = {1, 0, 2}, d1 = {"\u0000 \n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0000\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u000e\n\u0000\n\u0002\u0018\u0002\n\u0000\bf\u0018\u00002\u00020\u0001J\u001e\u0010\u0002\u001a\b\u0012\u0004\u0012\u00020\u00040\u00032\u0006\u0010\u0005\u001a\u00020\u00062\u0006\u0010\u0007\u001a\u00020\bH&¨\u0006\t"}, d2 = {"Lcom/tinder/typingindicator/usecase/TypingIndicatorEventFactory;", "", "createChatTypingEvent", "Lio/reactivex/Maybe;", "Lcom/tinder/etl/event/ChatTypingEvent;", "matchId", "", "type", "Lcom/tinder/typingindicator/model/TypingType;", "domain_release"}, k = 1, mv = {1, 1, 10})
+public interface TypingIndicatorEventFactory {
+    @NotNull
+    C3958c<dt> createChatTypingEvent(@NotNull String str, @NotNull TypingType typingType);
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.places.carousel.view.PlacesCarouselLoadingView android:layout_gravity="bottom|center" android:id="@id/placesLoading" android:layout_width="@dimen/place_card_width" android:layout_height="@dimen/place_card_width" android:layout_marginBottom="@dimen/space_xxxl" />
+    <com.tinder.places.carousel.view.PlacesCarouselEmptyView android:id="@id/placesEmpty" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.tinder.places.carousel.view.PlacesCarouselView android:id="@id/placesRecycler" android:visibility="invisible" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never" />
+</merge>

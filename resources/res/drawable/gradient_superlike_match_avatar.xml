@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:insetLeft="@dimen/space_xs" android:insetRight="@dimen/space_xs" android:insetTop="@dimen/space_xs" android:insetBottom="@dimen/space_xs">
+    <shape android:shape="ring" android:innerRadiusRatio="2" android:useLevel="false" android:thickness="@dimen/space_xs">
+        <gradient android:startColor="@color/superlike_gradient_start" android:endColor="@color/superlike_gradient_end" android:angle="@integer/empty_chat_overlay_angle" android:gradientRadius="@integer/empty_chat_overlay_angle"/>
+    </shape>
+</inset>

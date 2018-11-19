@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/mediaSelectorContainer" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar android:theme="@style/Tinder.Toolbar" android:id="@id/toolBarContainer" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:navigationIcon="@drawable/back_arrow" app:title="@string/gallery" app:titleTextColor="@color/grey_dark_5" style="@style/ElevatedToolbar" />
+    <com.tinder.loops.views.MediaSelectorView android:id="@id/mediaSelectorView" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>හෙට</item>
+        <item>දින %d ක් තුළ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>පැය 1 ක් තුළ</item>
+        <item>පැය %d ක් තුළ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>මිනිත්තු 1 ක් තුළ</item>
+        <item>මිනිත්තු %d ක් තුළ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>තත්පර 1 ක් තුළ</item>
+        <item>තත්පර %d ක් තුළ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>ඊයේ</item>
+        <item>දින %d ට පෙර</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>පැය 1 කට පෙර</item>
+        <item>පැය %d ට පෙර</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>මිනිත්තු 1 කට පෙර</item>
+        <item>මිනිත්තු %d ට පෙර</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>තත්පර 1 කට පෙර</item>
+        <item>තත්පර %d කට පෙර</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>පැය 1</item>
+        <item>පැය %d ක්</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>මිනිත්තු 1</item>
+        <item>මිනිත්තු %d</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>තත්පර 1</item>
+        <item>තත්පර %d</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>හෙට</item>
+        <item>දින %d ක් තුළ</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>පැය 1 ක් තුළ</item>
+        <item>පැය %d ක් තුළ</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>මිනිත්තු 1 කදී</item>
+        <item>මිනිත්තු %d ක් තුළ</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>තත්පර 1 කින්</item>
+        <item>තත්පර %d කදී</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>ඊයේ</item>
+        <item>දින %d කට පෙර</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>පැය 1 කට පෙර</item>
+        <item>පැය %d කට පෙර</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>මිනිත්තු 1 ට පෙර</item>
+        <item>මිනිත්තු %d කට පෙර</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>තත්පර 1 කට පෙර</item>
+        <item>තත්පර %d ට පෙර</item>
+    </plurals>
+</resources>

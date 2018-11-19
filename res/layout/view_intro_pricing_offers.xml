@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.shimmy.ShimmerFrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" android:layout_marginStart="@dimen/space_l" android:layout_marginEnd="@dimen/space_l">
+        <TextView android:textSize="@dimen/text_m" android:textStyle="italic" android:textColor="@color/gold1" android:id="@id/intro_pricing_offers_expiration_time" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_extrabold" app:layout_shimmers="false" />
+    </com.tinder.shimmy.ShimmerFrameLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="@dimen/space_xs" android:layout_weight="1.0" android:layout_marginStart="@dimen/space_s" android:layout_marginEnd="@dimen/space_s">
+        <com.tinder.paywall.view.itemsgroup.ItemsGroupView android:id="@id/intro_pricing_offers_group" android:layout_width="fill_parent" android:layout_height="wrap_content" app:pgv_span_count="1" />
+        <TextView android:textColor="@color/intro_pricing_grey_text" android:gravity="center" android:id="@id/intro_pricing_renew_copy" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" android:layout_marginBottom="@dimen/space_l" android:fontFamily="@font/proximanova_bold" android:layout_marginStart="@dimen/space_xs" android:layout_marginEnd="@dimen/space_xs" />
+    </LinearLayout>
+    <TextView android:textSize="@dimen/text_xxs" android:textColor="@color/intro_pricing_grey_text" android:gravity="bottom|center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/intro_pricing_tos_title" android:fontFamily="@font/proximanova_bold" android:layout_marginStart="@dimen/space_m" android:layout_marginEnd="@dimen/space_m" />
+    <TextView android:textSize="@dimen/text_xxs" android:textColor="@color/intro_pricing_grey_text" android:gravity="bottom|center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/space_xs" android:text="@string/intro_pricing_tos" android:fontFamily="@font/proximanova_regular" android:layout_marginStart="@dimen/space_m" android:layout_marginEnd="@dimen/space_m" />
+</LinearLayout>

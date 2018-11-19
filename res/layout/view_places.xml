@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:background="@color/places_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/placeViewContainer" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/mapContainer" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ImageView android:id="@id/placesLoadingBackground" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/places_map_background" android:scaleType="fitXY" />
+        <com.tinder.places.carousel.view.PlacesCarouselLoadingContainerView android:layout_gravity="bottom|center" android:id="@id/placesCarousel" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="@dimen/place_card_pager_height" />
+        <ImageView android:layout_gravity="bottom|center|left" android:id="@id/placesSettingsButton" android:padding="@dimen/space_xs" android:layout_width="@dimen/places_settings_button_size" android:layout_height="@dimen/places_settings_button_size" android:src="@drawable/places_settings_button_shadowed" />
+        <FrameLayout android:id="@id/placeOverlayContainer" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</merge>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.superlikeable.view.BackgroundScalingView android:layout_gravity="center" android:id="@id/superlikeable_scaling_background_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.airbnb.lottie.LottieAnimationView android:layout_gravity="top" android:id="@id/lottie_top_entrance" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" app:lottie_fileName="stars_top_full.json" app:lottie_scale="0.5" />
+    <com.airbnb.lottie.LottieAnimationView android:layout_gravity="bottom" android:id="@id/lottie_bottom_entrance" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" app:lottie_fileName="stars_bottom_full.json" app:lottie_scale="0.5" />
+    <LinearLayout android:orientation="vertical" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.tinder.superlikeable.lottie.SuperLikeableLogoLottieView android:layout_gravity="center_horizontal" android:id="@id/superlikeable_view_container_logo" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" app:lottie_scale="0.5" />
+        <TextView android:gravity="center" android:id="@id/top_text_view" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuperLikeableContainerHeaderTextView" />
+        <com.tinder.superlikeable.view.SuperLikeableGridView android:id="@id/superlikeable_grid" android:visibility="invisible" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <TextView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/bottom_text_view" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:paddingBottom="8.0dip" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" style="@style/SuperLikeableContainerFooterTextView" />
+    </LinearLayout>
+</merge>

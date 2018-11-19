@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.reactions.gestures.view.FlingOnTargetGrandGestureView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="@dimen/fling_on_target_grand_gesture_height"/>

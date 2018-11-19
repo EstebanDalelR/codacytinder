@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">Lượt Tăng Tốc</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">Lượt Tăng Tốc</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d Kết nối Chung</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">ngày</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d Ngày còn lại</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">Cách xa %1$d km</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">Cách xa %1$d dặm</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d ngày</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d giờ</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d tháng</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d giây</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d tuần</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">Mỗi %1$d Lượt Thích Mới</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">%1$d Bạn bè cho Kết nối Chung</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d ảnh Instagram</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d sở thích</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">trong %d ngày</item>
+        <item quantity="one">ngày mai</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">trong %d giờ</item>
+        <item quantity="one">trong 1 giờ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">trong %d phút</item>
+        <item quantity="one">trong 1 phút</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">trong %d giây</item>
+        <item quantity="one">trong 1 giây</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">hôm qua</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">%d giờ trước</item>
+        <item quantity="one">1 giờ trước</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">1 phút trước</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">%d giây trước</item>
+        <item quantity="one">1 giây trước</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">1 giờ</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">1 phút</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d giây</item>
+        <item quantity="one">1 giây</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">trong %d ngày</item>
+        <item quantity="one">ngày mai</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">trong %d giờ</item>
+        <item quantity="one">trong 1 giờ</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">trong %d phút</item>
+        <item quantity="one">trong 1 phút</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">trong %d giây</item>
+        <item quantity="one">trong 1 giây</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">hôm qua</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">%d giờ trước</item>
+        <item quantity="one">1 giờ trước</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">1 phút trước</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">%d giây trước</item>
+        <item quantity="one">1 giây trước</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">tháng</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d ảnh</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d Khách truy cập gần đây</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d Khách ghé thăm</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">%1$s Mới</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">tháng</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">giây</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">Super Like</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">%1$d %2$s cho mỗi %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%1$d lượt %2$s miễn phí cho mỗi %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">Cho tôi %1$d lượt %2$s cho mỗi %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">Nhận %1$d lượt %2$s cho mỗi %3$s và tăng gấp 3 lần cơ hội tìm được người tương hợp</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">%1$s Mới</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">Tuyển chọn</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">Còn lại %1$d Hồ sơ Tuyển chọn</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">Còn lại %1$d giờ</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">Còn lại &lt;%1$d phút</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">Còn lại %1$d phút</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">nâng cấp</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">tuần</item>
+    </plurals>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>भोलि</item>
+        <item>दिन%d मा</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>१ घन्टामा</item>
+        <item>%d घन्टामा</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>१ मिनेटमा</item>
+        <item>%d मिनेटमा</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>१ सेकन्ड</item>
+        <item>%d सेकेन्डमा</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>हिजो</item>
+        <item>%d दिन अघि</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>१ घन्टा अघि</item>
+        <item>%d घन्टा अघि</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>१ मिनेट अघि</item>
+        <item>%d मिनेट अघि</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>१ सेकेन्ड अघि</item>
+        <item>%d सेकेन्ड अगाडि</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>१ घन्टा</item>
+        <item>%d घन्टा</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>१ मिनेट</item>
+        <item>%d मिनेट</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>१ सेकेन्ड</item>
+        <item>%d सेकेन्ड</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>भोलि</item>
+        <item>%d दिनमा</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>१ घन्टामा</item>
+        <item>%d घन्टामा</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>१ मिनेटमा</item>
+        <item>%dमिनेटमा</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>१ सेकेन्डमा</item>
+        <item>%d सेकेन्डमा</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>हिजो</item>
+        <item>%d दिन अघि</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>१ घन्टा अघि</item>
+        <item>%d घन्टा अघि</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>१ मिनेट अघि</item>
+        <item>%d मिनेट अघि</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>१ सेकेन्ड अघि</item>
+        <item>%d सेकेन्ड अघि</item>
+    </plurals>
+</resources>

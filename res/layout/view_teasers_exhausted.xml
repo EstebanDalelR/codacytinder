@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/teasers_container" android:paddingTop="@dimen/space_xs" android:paddingBottom="@dimen/space_s" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/space_s" android:paddingEnd="@dimen/space_s">
+        <com.tinder.toppicks.exhausted.TeaserExhaustedCardView android:id="@id/right_pick" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.tinder.toppicks.exhausted.TeaserExhaustedCardView android:id="@id/left_pick" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.tinder.toppicks.exhausted.TeaserExhaustedCardView android:id="@id/main_pick" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/alc_view_container" android:paddingTop="@dimen/space_xs" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:paddingStart="@dimen/dialog_width_padding" android:paddingEnd="@dimen/dialog_width_padding" />
+</merge>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:id="@id/new_match_row_container" android:clickable="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="@dimen/new_match_avatar_container_width" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/margin_xsmall" android:layout_marginRight="@dimen/margin_xsmall" android:foreground="?selectableItemBackground" android:layout_centerVertical="true" android:layout_marginStart="@dimen/margin_xsmall" android:layout_marginEnd="@dimen/margin_xsmall"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/matches_avatar_container">
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center" android:orientation="horizontal" android:paddingLeft="1.0dip" android:paddingRight="1.0dip" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xxxs" android:paddingStart="1.0dip" android:paddingEnd="1.0dip">
+            <com.tinder.views.CustomTextView android:textColor="@color/title_gray" android:ellipsize="end" android:gravity="center" android:id="@id/match_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" app:customFontStyle="bold" />
+            <com.tinder.views.BadgeView android:id="@id/match_verified_badge" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_small" android:layout_marginStart="@dimen/margin_small" />
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:id="@id/matches_avatar_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="80.0dip" android:layout_centerHorizontal="true">
+        <com.tinder.views.AvatarView android:layout_gravity="center" android:id="@id/match_thumb" android:layout_width="75.0dip" android:layout_height="75.0dip" app:av_borderWidth="@dimen/avatar_border_small_size" app:av_circleDiameter="70.0dip" app:av_style="round" />
+        <ImageView android:layout_gravity="end|center" android:id="@id/imageView_unviewed_indicator" android:paddingRight="-6.5dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/matches_new_match_icon" android:scaleType="center" android:paddingEnd="-6.5dip" />
+        <com.tinder.shimmy.ShimmerFrameLayout android:layout_gravity="bottom|center" android:id="@id/shimmer_frame_layout" android:layout_width="@dimen/space_xl" android:layout_height="@dimen/space_xl" android:layout_marginBottom="@dimen/avatar_unread_icon_negative_margin">
+            <ImageView android:layout_gravity="bottom|center" android:id="@id/match_attribution_icon_gold_background" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" app:layout_shimmers="false" />
+            <ImageView android:layout_gravity="bottom|center" android:id="@id/match_attribution_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" />
+        </com.tinder.shimmy.ShimmerFrameLayout>
+    </FrameLayout>
+</RelativeLayout>

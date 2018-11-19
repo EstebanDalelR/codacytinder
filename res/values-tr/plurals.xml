@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">Boost</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">Boost</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d Ortak Bağlantı</item>
+        <item quantity="one">%1$d Ortak Bağlantı</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">günde</item>
+        <item quantity="one">günde</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d Gün Kaldı</item>
+        <item quantity="one">%1$d Gün Kaldı</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">%1$d km uzakta</item>
+        <item quantity="one">%1$d km uzakta</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">%1$d kilometre uzakta</item>
+        <item quantity="one">%1$d kilometre uzakta</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d günde</item>
+        <item quantity="one">gün</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d saatte</item>
+        <item quantity="one">saat</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d ayda</item>
+        <item quantity="one">ay</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d saniyede</item>
+        <item quantity="one">saniye</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d haftada</item>
+        <item quantity="one">hafta</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">Her %1$d Yeni Beğeni</item>
+        <item quantity="one">Her %1$d Yeni Beğeni</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">Ortak Bağlantılar için %1$d Arkadaş</item>
+        <item quantity="one">Ortak Bağlantılar için %1$d Arkadaş</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d Instagram fotoğrafı</item>
+        <item quantity="one">%1$d Instagram fotoğrafı</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d İlgi Alanı</item>
+        <item quantity="one">%1$d İlgi Alanı</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">%d gün içinde</item>
+        <item quantity="one">yarın</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">%d saat içinde</item>
+        <item quantity="one">1 saat içinde</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">1 dak. içinde</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">%d saniye içinde</item>
+        <item quantity="one">1 san. içinde</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">dün</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">1 saat önce</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dak. önce</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">%d saniye önce</item>
+        <item quantity="one">1 saniye önce</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">1 dakika</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">1 saniye</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">%d gün içinde</item>
+        <item quantity="one">yarın</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">%d saat içinde</item>
+        <item quantity="one">1 saat içinde</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">1 dakika içinde</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">%d saniye içinde</item>
+        <item quantity="one">1 saniye içinde</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">dün</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">1 saat önce</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">%d saniye önce</item>
+        <item quantity="one">1 saniye önce</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">ay</item>
+        <item quantity="one">ay</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d fotoğraf</item>
+        <item quantity="one">%1$d fotoğraf</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d Yeni Ziyaretçi</item>
+        <item quantity="one">%1$d Yeni Ziyaretçi</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d Ziyaretçi</item>
+        <item quantity="one">%1$d Ziyaretçi</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">%1$s Yeni</item>
+        <item quantity="one">%1$s Yeni</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">ay</item>
+        <item quantity="one">ay</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">saniyede</item>
+        <item quantity="one">saniyede</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">Super Like</item>
+        <item quantity="one">Super Like</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">Her %3$s %1$d %2$s</item>
+        <item quantity="one">Her %3$s %1$d %2$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(Her %3$s %1$d ücretsiz %2$s)</item>
+        <item quantity="one">(Her %3$s %1$d ücretsiz %2$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">Bana her %3$s %1$d %2$s ver</item>
+        <item quantity="one">Bana her %3$s %1$d %2$s ver</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">Her %3$s %1$d %2$s alarak eşleşme şansını 3 kat artır</item>
+        <item quantity="one">Her %3$s %1$d %2$s alarak eşleşme şansını 3 kat artır</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">%1$s Yeni</item>
+        <item quantity="one">%1$s Yeni</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">Seçkin Profil</item>
+        <item quantity="one">Pick</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">%1$d Seçkin Profil Kaldı</item>
+        <item quantity="one">%1$d Seçkin Profil Kaldı</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">%1$ds kaldı</item>
+        <item quantity="one">%1$ds kaldı</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">&lt;%1$dd kaldı</item>
+        <item quantity="one">&lt;%1$dd kaldı</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">%1$dd kaldı</item>
+        <item quantity="one">%1$dd kaldı</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">yükselt</item>
+        <item quantity="one">yükselt</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">haftada</item>
+        <item quantity="one">haftada</item>
+    </plurals>
+</resources>

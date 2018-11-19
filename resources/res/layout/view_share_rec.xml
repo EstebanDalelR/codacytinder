@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <ImageView android:layout_gravity="center" android:id="@c6248a/share_icon" android:layout_width="@dimen/share_button_size" android:layout_height="@dimen/share_button_size" android:src="@drawable/sms_share" android:scaleType="fitCenter"/>
+    <ProgressBar android:layout_gravity="center" android:id="@c6248a/spinner" android:visibility="gone" android:layout_width="@dimen/share_button_size" android:layout_height="@dimen/share_button_size" android:indeterminate="true"/>
+</merge>

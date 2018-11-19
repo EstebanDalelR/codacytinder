@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>&quot;Boost&quot;</item>
+        <item>&quot;Boost&quot;</item>
+        <item>&quot;Boost&quot;</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>&quot;Boost&quot;</item>
+        <item>&quot;Boost&quot;</item>
+        <item>&quot;Boost&quot;</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d kopīgu draugu</item>
+        <item>%1$d kopīgs draugs</item>
+        <item>%1$d kopīgi draugi</item>
+    </plurals>
+    <plurals name="day">
+        <item>dienu</item>
+        <item>dienas</item>
+        <item>dienām</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>Atlicis %1$d dienu</item>
+        <item>Atlikusi %1$d diena</item>
+        <item>Atlikušas %1$d dienas</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d km attālumā</item>
+        <item>%1$d km attālumā</item>
+        <item>%1$d km attālumā</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d jūdžu attālumā</item>
+        <item>%1$d jūdzes attālumā</item>
+        <item>%1$d jūdžu attālumā</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>%1$d dienu</item>
+        <item>%1$d dienas</item>
+        <item>%1$d dienām</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>%1$d stundu</item>
+        <item>%1$d stundas</item>
+        <item>%1$d stundām</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>%1$d mēnešu</item>
+        <item>%1$d mēneša</item>
+        <item>%1$d mēnešiem</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>%1$d sekunžu</item>
+        <item>%1$d sekundes</item>
+        <item>%1$d sekundēm</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>%1$d nedēļu</item>
+        <item>%1$d nedēļas</item>
+        <item>%1$d nedēļām</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Katrs %1$d jauns vērtējums &quot;Patīk&quot;</item>
+        <item>Katrs %1$d jauns vērtējums &quot;Patīk&quot;</item>
+        <item>Katri %1$d jauni vērtējumi &quot;Patīk&quot;</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d kopīgu draugu</item>
+        <item>%1$d kopīgs draugs</item>
+        <item>%1$d kopīgi draugi</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d Instagram attēlu</item>
+        <item>%1$d Instagram attēls</item>
+        <item>%1$d Instagram attēli</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d interešu</item>
+        <item>%1$d interese</item>
+        <item>%1$d intereses</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>rītdien</item>
+        <item>pēc %d dienas(-ām)</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>pēc 1 stundas</item>
+        <item>pēc %d stundas(-ām)</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>pēc 1 min</item>
+        <item>pēc %d minūtes(-ēm)</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>pēc 1 s</item>
+        <item>pēc %d s</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>vakar</item>
+        <item>Pirms %d dienas(-ām)</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>Pirms 1 stundas</item>
+        <item>Pirms %d stundas(-ām)</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>Pirms 1 min</item>
+        <item>Pirms %d min</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>Pirms 1 sekundes</item>
+        <item>Pirms %d s</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 stunda</item>
+        <item>%d h</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 min</item>
+        <item>%d min</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 s</item>
+        <item>%d s</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>rītdien</item>
+        <item>pēc %d dienas(-ām)</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>pēc 1 stundas</item>
+        <item>pēc %d stundas(-ām)</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>pēc 1 minūtes</item>
+        <item>pēc %d minūtes(-ēm)</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>pēc 1 sekundes</item>
+        <item>pēc %d sekundes(-ēm)</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>vakar</item>
+        <item>Pirms %d dienas(-ām)</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>Pirms 1 stundas</item>
+        <item>Pirms %d stundas(-ām)</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>Pirms 1 minūtes</item>
+        <item>Pirms %d minūtes(-ēm)</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>Pirms 1 sekundes</item>
+        <item>Pirms %d sekundes(-ēm)</item>
+    </plurals>
+    <plurals name="month">
+        <item>mēnešu</item>
+        <item>mēneša</item>
+        <item>mēnešiem</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d attēlu</item>
+        <item>%1$d attēls</item>
+        <item>%1$d attēli</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d nesenu apmeklētāju</item>
+        <item>%1$d nesens apmeklētājs</item>
+        <item>%1$d neseni apmeklētāji</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d apmeklētāju</item>
+        <item>%1$d apmeklētājs</item>
+        <item>%1$d apmeklētāji</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s jaunu</item>
+        <item>%1$s jauns</item>
+        <item>%1$s jauni</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>mēneši</item>
+        <item>mēnesis</item>
+        <item>mēneši</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>sekundēm</item>
+        <item>sekundes</item>
+        <item>sekundēm</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>&quot;Ļoti patīk&quot;</item>
+        <item>&quot;Ļoti patīk&quot;</item>
+        <item>&quot;Ļoti patīk&quot;</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s ik pēc %3$s</item>
+        <item>%1$d %2$s ik pēc %3$s</item>
+        <item>%1$d %2$s ik pēc %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d bezmaksas %2$s ik pēc %3$s)</item>
+        <item>(%1$d bezmaksas %2$s ik pēc %3$s)</item>
+        <item>(%1$d bezmaksas %2$s ik pēc %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Dod man %1$d %2$s ik pēc %3$s</item>
+        <item>Dod man %1$d %2$s ik pēc %3$s</item>
+        <item>Dod man %1$d %2$s ik pēc %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Izmanto %1$d %2$s ik pēc %3$s un trīskāršo saderību izredzes</item>
+        <item>Izmanto %1$d %2$s ik pēc %3$s un trīskāršo saderību izredzes</item>
+        <item>Izmanto %1$d %2$s ik pēc %3$s un trīskāršo saderību izredzes</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s jaunu</item>
+        <item>%1$s jauns</item>
+        <item>%1$s jauni</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Izvēļu</item>
+        <item>Izvēle</item>
+        <item>Izvēles</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>Atlicis %1$d izvēļu</item>
+        <item>Atlikusi %1$d izvēle</item>
+        <item>Atlikušas %1$d izvēles</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>Atlicis %1$dh</item>
+        <item>Atlikusi %1$dh</item>
+        <item>Atlikušas %1$dh</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>Atlicis &lt;%1$dm</item>
+        <item>Atlikusi &lt;%1$dm</item>
+        <item>Atlikušas &lt;%1$dm</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>Atlicis %1$dm</item>
+        <item>Atlikusi %1$dm</item>
+        <item>Atlikušas %1$dm</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>jauninājumu</item>
+        <item>jauninājums</item>
+        <item>jauninājumi</item>
+    </plurals>
+    <plurals name="week">
+        <item>nedēļu</item>
+        <item>nedēļas</item>
+        <item>nedēļām</item>
+    </plurals>
+</resources>

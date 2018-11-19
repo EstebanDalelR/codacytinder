@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_top_picks_error" />
+    <TextView android:textSize="@dimen/text_s" android:textColor="@color/text_color_error" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/space_xs" android:text="@string/oops" android:fontFamily="@font/proximanova_regular" style="@style/TextAppearance.AppCompat.Body2" />
+    <TextView android:textSize="@dimen/text_m" android:textColor="@color/tinder_dark_red" android:id="@id/top_picks_try_again" android:background="?selectableItemBackgroundBorderless" android:padding="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/try_again" android:textAllCaps="true" android:fontFamily="@font/proximanova_semibold" />
+</merge>

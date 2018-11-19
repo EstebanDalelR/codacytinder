@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <ImageView android:layout_width="@dimen/onboarding_age_certification_image_size" android:layout_height="@dimen/onboarding_age_certification_image_size" android:src="@drawable/icon_certification"/>
+        <com.tinder.views.CustomTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:text="@string/onboarding_birthday_step_confirm_birthday_title" style="@style/Onboarding.Dialog.Title.Text"/>
+        <com.tinder.views.CustomTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/onboarding_stay_tuned_description_margin" android:layout_marginTop="@dimen/space_m" android:layout_marginRight="@dimen/onboarding_stay_tuned_description_margin" android:text="@string/onboarding_birthday_step_confirm_birthday_body" android:layout_marginStart="@dimen/onboarding_stay_tuned_description_margin" android:layout_marginEnd="@dimen/onboarding_stay_tuned_description_margin" style="@style/Onboarding.Description.Text"/>
+    </LinearLayout>
+    <com.tinder.views.CustomButton android:id="@c6248a/onboarding_birthday_certification_button" android:layout_width="@dimen/onboarding_button_width" android:layout_height="@dimen/onboarding_button_height" android:layout_marginBottom="@dimen/space_s" android:text="@string/onboarding_birthday_step_confirm_birthday_button" style="@style/Onboarding.Button"/>
+</LinearLayout>

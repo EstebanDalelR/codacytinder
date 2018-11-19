@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/paywall_item_main_container" android:padding="@dimen/paywall_months_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="32.0sp" android:textStyle="bold" android:textColor="@color/disabled_text_color" android:gravity="center" android:id="@id/paywall_item_number_of_items" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_semibold" />
+            <TextView android:textColor="@color/disabled_text_color" android:gravity="center" android:id="@id/paywall_item_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_semibold" />
+        </LinearLayout>
+        <TextView android:textSize="15.0sp" android:gravity="bottom|center" android:id="@id/strike_through_price" android:paddingBottom="4.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_regular" />
+        <TextView android:textSize="@dimen/text_sm" android:textColor="@color/disabled_text_color" android:ellipsize="end" android:gravity="bottom|center" android:id="@id/paywall_item_price" android:paddingBottom="@dimen/margin_xxsmall" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:fontFamily="@font/proximanova_semibold" />
+        <TextView android:textSize="@dimen/text_xs" android:gravity="center_horizontal" android:id="@id/save_amount" android:paddingBottom="8.0dip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_regular" />
+    </LinearLayout>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/paywall_save_textsize" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center_horizontal" android:id="@id/pill_info_text" android:background="@drawable/tinder_plus_pill_background" android:padding="@dimen/margin_xsmall" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:textAllCaps="true" app:customFontStyle="semi_bold" />
+</merge>

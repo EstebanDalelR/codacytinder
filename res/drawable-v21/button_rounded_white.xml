@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="?android:colorControlHighlight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/mask">
+        <shape
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/white" />
+            <corners android:radius="@dimen/button_rounded_radius" />
+            <padding android:left="32.0dip" android:top="@dimen/padding_med" android:right="32.0dip" android:bottom="@dimen/padding_med" />
+        </shape>
+    </item>
+    <item>
+        <shape
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/white" />
+            <corners android:radius="@dimen/button_rounded_radius" />
+            <padding android:left="32.0dip" android:top="@dimen/padding_med" android:right="32.0dip" android:bottom="@dimen/padding_med" />
+        </shape>
+    </item>
+</ripple>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/superlikeable_grid_item_image_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    <TextView android:layout_gravity="start|bottom|center" android:id="@id/superlikeable_grid_item_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/card_teaser_margin" android:layout_marginBottom="@dimen/card_teaser_text_bottom_margin" android:layout_marginStart="@dimen/card_teaser_margin" style="@style/SuperLikeableRecCardText" />
+    <android.support.design.widget.FloatingActionButton android:layout_gravity="end|bottom|center" android:id="@id/superlikeable_headline_star_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/card_teaser_margin" android:src="@drawable/superlikeable_star" android:scaleType="center" app:backgroundTint="@android:color/white" app:fabSize="normal" />
+    <ImageView android:layout_gravity="center" android:id="@id/superlikeable_grid_item_stamp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_stamp_superlikeable" android:alpha="0.0" />
+</merge>

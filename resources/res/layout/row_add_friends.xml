@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:padding="12dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@c6248a/friend_item_image" android:layout_width="@dimen/friend_avatar_length" android:layout_height="@dimen/friend_avatar_length"/>
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="#555759" android:ellipsize="end" android:layout_gravity="center" android:id="@c6248a/friendName" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_small" android:layout_marginRight="@dimen/margin_small" android:maxLines="1" android:layout_weight="1"/>
+        <FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.tinder.views.CustomTextView android:textSize="10sp" android:textColor="#b7b7b7" android:layout_gravity="center" android:id="@c6248a/friend_item_in_a_group" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/friend_item_in_a_group" app:customFontStyle="3"/>
+            <CheckBox android:layout_gravity="center" android:id="@c6248a/friendCheckbox" android:layout_width="24dp" android:layout_height="24dp" android:checked="false" android:button="@drawable/selector_checkbox_add_friend"/>
+        </FrameLayout>
+    </LinearLayout>
+    <View android:layout_marginLeft="58dp" style="@style/Tindered.Social.SheetSeparator"/>
+</LinearLayout>

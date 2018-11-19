@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:id="@id/instagram_thumbnail_card_view" android:layout_width="wrap_content" android:layout_height="wrap_content" app:cardCornerRadius="@dimen/space_xs" app:cardElevation="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.base.view.ProgressImageView android:id="@id/instagram_image_thumbnail" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</android.support.v7.widget.CardView>

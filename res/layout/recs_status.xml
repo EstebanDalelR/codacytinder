@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/recs_status_rings_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true">
+        <com.tinder.base.view.AlphaOptimizedImageView android:layout_gravity="center" android:id="@id/recs_status_ring_one" android:layout_width="@dimen/loading_img_length" android:layout_height="@dimen/loading_img_length" android:src="@drawable/transparent_ring" />
+        <com.tinder.base.view.AlphaOptimizedImageView android:layout_gravity="center" android:id="@id/recs_status_ring_two" android:layout_width="@dimen/loading_img_length" android:layout_height="@dimen/loading_img_length" android:src="@drawable/transparent_ring" />
+        <FrameLayout android:layout_gravity="center" android:background="@drawable/rounded_white_bg" android:layout_width="@dimen/loading_img_container_length" android:layout_height="@dimen/loading_img_container_length">
+            <ImageView android:layout_gravity="center" android:id="@id/recs_status_thumb" android:layout_width="@dimen/loading_img_container_length" android:layout_height="@dimen/loading_img_container_length" />
+        </FrameLayout>
+    </FrameLayout>
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_m" android:textColor="@color/text_light" android:gravity="center" android:layout_gravity="center|top" android:id="@id/recs_status_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:layout_below="@id/recs_status_rings_container" app:customFontStyle="regular" />
+    <com.tinder.views.CustomButton android:textSize="@dimen/text_sm" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@id/recs_settings_view" android:background="@drawable/button_rounded_gradient" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/empty_button_height" android:layout_marginLeft="@dimen/discovery_empty_button_padding" android:layout_marginTop="@dimen/space_s" android:layout_marginRight="@dimen/discovery_empty_button_padding" android:foreground="@drawable/rectangle_touch_feedback" android:text="@string/discovery_settings" android:layout_below="@id/recs_status_message" android:textAllCaps="true" app:customFontStyle="semi_bold" />
+</merge>

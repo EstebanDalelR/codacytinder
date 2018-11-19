@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/ads_card_display_image" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+    <View android:layout_gravity="bottom" android:id="@+id/display_ad_bottom_gradient" android:background="@c14757c/gradient_dfp_portrait_ad" android:layout_width="match_parent" android:layout_height="0dp"/>
+    <FrameLayout android:layout_gravity="bottom" android:id="@+id/square_video_bottom_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="104dp">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@+id/ads_card_logo_image" android:layout_width="200dp" android:layout_height="64dp" android:scaleType="centerInside"/>
+        <LinearLayout android:gravity="center" android:layout_gravity="bottom" android:orientation="horizontal" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_sm" android:textColor="@android:color/white" android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/ads_card_title" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_regular"/>
+            <com.tinder.recsads.view.ArrowAnimationDrawableImageView android:layout_width="@c14756b/ads_animated_arrow_width" android:layout_height="@c14756b/ads_animated_arrow_height" android:layout_marginStart="10dp" android:layout_marginEnd="10dp"/>
+        </LinearLayout>
+    </FrameLayout>
+    <TextView android:layout_gravity="bottom" android:background="@drawable/bpc_ads_text_bg" android:paddingTop="4dp" android:paddingBottom="4dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="8dp" android:text="@string/ad_logo" android:fontFamily="@font/proximanova_semibold" android:paddingStart="8dp" android:paddingEnd="8dp"/>
+    <View android:layout_gravity="bottom" android:id="@+id/clickthrough_view" android:layout_width="match_parent" android:layout_height="127dp"/>
+    <include layout="@layout/recs_card_stamps_include"/>
+</FrameLayout>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">부스트</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">부스트</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">서로 아는 친구 %1$d명</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">일</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">남은 날: %1$d</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">%1$dkm 거리에 있음</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">%1$d 마일 떨어져있음</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d일</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d시간</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d개월</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d초</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d주</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">새로 받은 %1$d개의 ‘좋아요’마다</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">서로 아는 %1$d명의 친구들</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d장의 Instagram 사진</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d개의 관심 분야</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">%d일 후</item>
+        <item quantity="one">내일</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">%d시간 후</item>
+        <item quantity="one">1시간 후</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">%d분 후</item>
+        <item quantity="one">1분 후</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">%d초 후</item>
+        <item quantity="one">1초 후</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">%d일 전</item>
+        <item quantity="one">어제</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">%d시간 전</item>
+        <item quantity="one">1시간 전</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+        <item quantity="one">1분 전</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">%d초 전</item>
+        <item quantity="one">1초 전</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">1시간</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d분</item>
+        <item quantity="one">1분</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d초</item>
+        <item quantity="one">1초</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">%d일 후</item>
+        <item quantity="one">내일</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">%d시간 후</item>
+        <item quantity="one">1시간 후</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">%d분 후</item>
+        <item quantity="one">1분 후</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">%d초 후</item>
+        <item quantity="one">1초 내</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">%d일 전</item>
+        <item quantity="one">어제</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">%d시간 전</item>
+        <item quantity="one">1시간 전</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">%d분 전</item>
+        <item quantity="one">1분 전</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">%d초 전</item>
+        <item quantity="one">1초 전</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">개월</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d장의 사진</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">최근 방문자 %1$d명</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">방문자 %1$d명</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">새 ‘좋아요’ %1$s개</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">개월</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">초</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">슈퍼 라이크</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">%3$s마다 %2$s %1$d 개 받기</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%3$s 마다 무료 %2$s %1$d 개 받기)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">%3$s 마다 %2$s %1$d 개 받기</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">%3$s마다 무료 %2$s %1$d개를 받고 매치 확률을 최대 3배 높이세요.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">새 ‘좋아요’ %1$s개</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">초이스</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">초이스 %1$d명 남음</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">%1$d시간 남음</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">%1$d분 이하 남음</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">%1$d분 남음</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">업그레이드</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">주</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" style="@style/SocialModalContainer">
+    <com.tinder.views.CustomTextView android:id="@c6248a/social_enabled_modal_title" android:text="@string/social_enabled_modal_title" style="@style/social_modal_content_title_text"/>
+    <com.tinder.views.CustomTextView android:id="@c6248a/social_enabled_modal_description" android:text="@string/social_enabled_modal_description" style="@style/social_modal_content_description_text"/>
+    <com.tinder.views.CustomTextView android:id="@c6248a/social_enabled_modal_yes_button" android:layout_marginTop="24dp" android:text="@string/social_enabled_modal_yes_button_text" style="@style/social_modal_main_rounded_button"/>
+    <com.tinder.views.CustomTextView android:id="@c6248a/social_enabled_modal_no_button" android:layout_marginTop="24dp" android:text="@string/social_enabled_modal_no_button_text" style="@style/social_modal_no_button"/>
+</LinearLayout>

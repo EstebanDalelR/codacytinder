@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paywall_dialog_width">320.0dip</dimen>
+    <dimen name="paywall_months_padding">16.0dip</dimen>
+    <dimen name="going_out_avatar_circle_diameter">126.0dip</dimen>
+    <dimen name="post_match_card_view_border_circle_diameter">180.0dip</dimen>
+    <dimen name="msgs_left_max_width">250.0dip</dimen>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>damaun</item>
+        <item>en %d dis</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>en 1 ura</item>
+        <item>en %d uras</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>en 1 minuta</item>
+        <item>en %d minutas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>en 1 secunda</item>
+        <item>en %d secundas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>ier</item>
+        <item>Avant %d dis</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>avant 1 ura</item>
+        <item>Avant %d uras</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>avant 1 minuta</item>
+        <item>avant %d minutas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>avant 1 secunda</item>
+        <item>avant %d secundas</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>damaun</item>
+        <item>en %d dis</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>en 1 ura</item>
+        <item>en %d uras</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>en 1 minuta</item>
+        <item>en %d minutas</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>en 1 secunda</item>
+        <item>en %d secundas</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>ier</item>
+        <item>Avant %d dis</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>Avant 1 ura</item>
+        <item>Avant %d uras</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>Avant 1 minuta</item>
+        <item>Avant %d minutas</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>Avant 1 secunda</item>
+        <item>Avant %d secundas</item>
+    </plurals>
+</resources>

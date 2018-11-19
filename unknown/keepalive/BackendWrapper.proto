@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package keepalive;
+
+option go_package = "github.com/TinderApp/proto/keepalive";
+option java_package = "com.tinder.proto.keepalive";
+option java_outer_classname = "KeepAliveBackendWrapper";
+
+import "google/protobuf/timestamp.proto";
+import "keepalive/ClientData.proto";
+
+// BackendWrapper is intended to be used for internal systems; it should NOT go to the client
+message BackendWrapper {
+    ClientData client_data = 1;
+    google.protobuf.Timestamp start_time = 2; // Time that this client response's keepalive lifecycle started
+    string upstream_service = 3; // Module that we received this data from
+    google.protobuf.Timestamp upstream_service_time = 4; // Time that this client response left the upstream service
+    int64 user_number = 5;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@color/white" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@c6248a/intro_carousel" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_above="@c6248a/intro_indicator">
+        <android.support.v4.view.ViewPager android:layout_gravity="bottom" android:id="@c6248a/viewPager_intro" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <com.viewpagerindicator.CirclePageIndicator android:id="@c6248a/intro_indicator" android:paddingTop="@dimen/padding_med" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_above="@c6248a/button_group" android:layout_centerHorizontal="true" app:radius="@dimen/intro_indicator_radius"/>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@c6248a/button_group" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_large" android:layout_marginRight="@dimen/margin_large" android:layout_alignParentBottom="true">
+        <com.tinder.auth.view.LoginButtonGroupView android:orientation="vertical" android:id="@c6248a/auth_v2_buttons" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/padding_med"/>
+    </LinearLayout>
+    <ImageView android:id="@c6248a/auth_disclaimer_dismiss" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_chevron_up" android:layout_centerHorizontal="true"/>
+    <com.tinder.views.CustomTextView android:textColor="#878a8f" android:gravity="center" android:id="@c6248a/disclaimer_text_content" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true"/>
+</RelativeLayout>

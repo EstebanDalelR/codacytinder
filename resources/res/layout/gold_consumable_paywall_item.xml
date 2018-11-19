@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="wrap_content" android:layout_height="match_parent">
+    <com.tinder.shimmy.ShimmerFrameLayout android:id="@c6248a/shimmer_view" android:layout_width="match_parent" android:layout_height="match_parent">
+        <View android:id="@c6248a/background_enabled" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_shimmers="false"/>
+        <TextView android:gravity="center_horizontal" android:id="@c6248a/save_percentage" android:padding="@dimen/margin_xsmall" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/ConsumablePaywallItemSavingsText"/>
+        <TextView android:gravity="center_horizontal" android:id="@c6248a/shadow_save_percentage" android:background="@android:color/transparent" android:padding="@dimen/margin_xsmall" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_shimmers="false" style="@style/ConsumablePaywallItemSavingsText"/>
+        <LinearLayout android:orientation="vertical" android:id="@c6248a/paywall_item_shimmer_container_content" android:layout_width="match_parent" android:layout_height="match_parent" style="@style/ConsumableItemScale">
+            <LinearLayout android:orientation="vertical" android:id="@c6248a/paywall_item_main_container" android:padding="@dimen/space_s" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/paywall_num_items_text_size" android:textStyle="bold" android:textColor="@color/disabled_text_color" android:gravity="center" android:id="@c6248a/paywall_item_number_of_items" android:paddingTop="@dimen/space_xs" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_semibold"/>
+                <TextView android:textColor="@color/disabled_text_color" android:gravity="center" android:id="@c6248a/paywall_item_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_semibold"/>
+            </LinearLayout>
+            <TextView android:textSize="@dimen/text_xxs" android:gravity="bottom|center_vertical|center_horizontal|center" android:id="@c6248a/strike_through_price" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <TextView android:textSize="@dimen/paywall_price_textsize" android:textColor="@color/disabled_text_color" android:gravity="top|center_vertical|center_horizontal|center" android:id="@c6248a/paywall_item_price" android:layout_width="match_parent" android:layout_height="match_parent" android:fontFamily="@font/proximanova_semibold"/>
+        </LinearLayout>
+    </com.tinder.shimmy.ShimmerFrameLayout>
+</merge>

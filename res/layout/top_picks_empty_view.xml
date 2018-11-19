@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/top_picks_empty_view_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/text_m" android:textColor="@color/text_dark" android:gravity="center_horizontal" android:layout_gravity="center|top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:text="@string/no_top_picks_available" android:fontFamily="@font/proximanova_semibold" android:paddingStart="@dimen/space_l" android:paddingEnd="@dimen/space_l" />
+        <ImageView android:layout_gravity="center" android:id="@id/profile_pic_thumbnail" android:layout_width="@dimen/profile_thumbnail_size" android:layout_height="@dimen/profile_thumbnail_size" android:contentDescription="@string/profile_pic_thumbnail" />
+        <LinearLayout android:gravity="center" android:layout_gravity="bottom|center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_sm" android:textColor="@color/text_dark" android:id="@id/new_picks_countdown" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin_med" android:fontFamily="@font/proximanova_semibold" android:paddingStart="@dimen/space_s" android:paddingEnd="@dimen/space_s" />
+            <com.tinder.gold.TinderGoldButtonView android:id="@id/discovery_settings_button" android:layout_width="wrap_content" android:layout_height="@dimen/empty_top_picks_button_height" android:layout_marginBottom="@dimen/space_l" app:buttonText="@string/discovery_settings" style="@style/TopPicksDiscoverySettingButton" />
+        </LinearLayout>
+    </FrameLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@id/top_picks_empty_progress_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/TopPicksProgressBar" />
+    <com.tinder.toppicks.error.TopPicksErrorView android:id="@id/top_picks_empty_error_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</merge>

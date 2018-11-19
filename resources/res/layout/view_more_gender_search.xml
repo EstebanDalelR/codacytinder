@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/gray_background_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.design.widget.AppBarLayout android:id="@c6248a/actionbar_menu" android:background="@color/white" android:layout_width="match_parent" android:layout_height="@dimen/actionbar_size">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+            <RelativeLayout android:id="@c6248a/back_container" android:clickable="true" android:layout_width="40dp" android:layout_height="match_parent">
+                <ImageView android:id="@c6248a/back_arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/content_padding" android:src="@drawable/back_arrow" android:layout_centerVertical="true"/>
+            </RelativeLayout>
+            <LinearLayout android:orientation="horizontal" android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+                <android.support.v7.widget.SearchView android:id="@c6248a/gender_search" android:background="@drawable/rounded_rectangle_white" android:layout_width="match_parent" android:layout_height="match_parent" android:queryHint="@string/type_to_search_more_gender" android:fontFamily="semi"/>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v7.widget.RecyclerView android:id="@c6248a/more_gender_list" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ProgressBar android:layout_gravity="center" android:id="@c6248a/gender_progress" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/content_padding" android:indeterminate="true"/>
+</LinearLayout>

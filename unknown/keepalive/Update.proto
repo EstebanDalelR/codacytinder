@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package keepalive;
+
+option go_package = "github.com/TinderApp/proto/keepalive";
+option java_package = "com.tinder.proto.keepalive";
+option java_outer_classname = "KeepAliveUpdate";
+
+import "google/protobuf/timestamp.proto";
+
+message Update {
+    google.protobuf.Timestamp update_time = 1; // Time that the update was created at
+
+    // This may eventually contain things like:
+    // repeated MatchUpdate = 2;
+}

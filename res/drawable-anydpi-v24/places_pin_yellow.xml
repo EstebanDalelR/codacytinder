@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="63.0dip" android:width="57.0dip" android:viewportWidth="57.0" android:viewportHeight="63.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="#80000000" android:pathData="M33.39,53.6L30.72,57.61C29.49,59.45 27.51,59.45 26.28,57.61L23.61,53.6C11.87,51.32 3,40.98 3,28.57L3,28.5C3,14.41 14.41,3 28.5,3C42.58,3 54,14.41 54,28.5L54,28.57C54,40.98 45.14,51.32 33.39,53.6Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillAlpha="1.0" android:fillType="evenOdd" />
+    <path android:fillColor="@drawable/$places_pin_yellow__0" android:pathData="M33.39,53.6L30.72,57.61C29.49,59.45 27.51,59.45 26.28,57.61L23.61,53.6C11.87,51.32 3,40.98 3,28.57L3,28.5C3,14.41 14.41,3 28.5,3C42.58,3 54,14.41 54,28.5L54,28.57C54,40.98 45.14,51.32 33.39,53.6Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+</vector>

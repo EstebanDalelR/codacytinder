@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.views.CustomTextView android:textColor="#ff383f45" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/intro_slide_title" android:paddingLeft="@dimen/padding_xlarge" android:paddingRight="@dimen/padding_xlarge" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" app:customFontStyle="light|light_italic" style="@style/text_intro_heading" />
+    <ImageView android:layout_gravity="bottom|center" android:id="@id/intro_slide_image" android:paddingLeft="@dimen/padding_xxlarge" android:paddingRight="@dimen/padding_xxlarge" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="24.0dip" android:scaleType="fitCenter" />
+</LinearLayout>

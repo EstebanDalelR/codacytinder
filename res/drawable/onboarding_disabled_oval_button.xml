@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/gray_very_very_light" />
+            <corners android:radius="@dimen/user_menu_group_default_button_radius" />
+        </shape>
+    </item>
+</selector>

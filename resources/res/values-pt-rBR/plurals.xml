@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Boost</item>
+        <item>Boosts</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Boost</item>
+        <item>Boosts</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d ligação em comum</item>
+        <item>%1$d ligações em comum</item>
+    </plurals>
+    <plurals name="day">
+        <item>dia</item>
+        <item>dias</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>%1$d dia restando</item>
+        <item>%1$d dias restando</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d km de distância</item>
+        <item>%1$d km de distância</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d milha de distância</item>
+        <item>%1$d milhas de distância</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>dia</item>
+        <item>%1$d dias</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>hora</item>
+        <item>%1$d horas</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>mês</item>
+        <item>%1$d meses</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>segundo</item>
+        <item>%1$d segundos</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>semana</item>
+        <item>%1$d semanas</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>A cada %1$d curtida nova</item>
+        <item>A cada %1$d curtidas novas</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d amigo para ligações em comum</item>
+        <item>%1$d amigos para ligações em comum</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d foto do Instagram</item>
+        <item>%1$d fotos do Instagram</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d interesse</item>
+        <item>%1$d interesses</item>
+    </plurals>
+    <plurals name="month">
+        <item>mês</item>
+        <item>meses</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d foto</item>
+        <item>%1$d fotos</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d visitante recente</item>
+        <item>%1$d visitantes recentes</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d visitante</item>
+        <item>%1$d visitantes</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s Nova</item>
+        <item>%1$s Novas</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>mês</item>
+        <item>meses</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>segundo</item>
+        <item>segundos</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>Super Like</item>
+        <item>Super Likes</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s a cada %3$s</item>
+        <item>%1$d %2$s a cada %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d %2$s gratuito a cada %3$s)</item>
+        <item>(%1$d %2$s gratuitos a cada %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Envie-me %1$d %2$s a cada %3$s</item>
+        <item>Envie-me %1$d %2$s a cada %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Receba %1$d %2$s a cada %3$s e triplique suas chances de dar um Match.</item>
+        <item>Receba %1$d %2$s a cada %3$s e triplique suas chances de dar um Match.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s Nova</item>
+        <item>%1$s Novas</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Escolhas</item>
+        <item>Escolhas</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>%1$d Escolhas restantes</item>
+        <item>%1$d Escolhas restantes</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>%1$dh restante</item>
+        <item>%1$dh restantes</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>&lt;%1$d min restante</item>
+        <item>&lt;%1$d mins restantes</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>%1$d min restante</item>
+        <item>%1$d mins restantes</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>atualização</item>
+        <item>atualizações</item>
+    </plurals>
+    <plurals name="week">
+        <item>semana</item>
+        <item>semanas</item>
+    </plurals>
+</resources>

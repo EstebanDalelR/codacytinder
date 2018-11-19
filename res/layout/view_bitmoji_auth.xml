@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_xxsmall"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="@dimen/text_s" android:id="@id/bitmoji_title" android:paddingTop="@dimen/item_indent_left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bitmoji_auth_title" android:textAllCaps="false" android:fontFamily="@font/proximanova_semibold" android:paddingStart="@dimen/item_indent_left" style="@style/profile_header" />
+    <android.support.constraint.ConstraintLayout android:id="@id/bitmoji_auth_button" android:background="@drawable/rectangle_touch_feedback_white_background" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_xxsmall" style="@style/edit_profile_selection">
+        <TextView android:textSize="@dimen/text_s" android:textColor="@color/tinder_red" android:id="@id/connect_text_bitmoji" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bitmoji_connect" android:fontFamily="@font/proximanova_semibold" app:layout_constraintStart_toStartOf="parent" />
+        <TextView android:textSize="@dimen/text_s" android:textColor="@color/text_dark" android:id="@id/disconnect_text_bitmoji" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/disconnect" android:fontFamily="@font/proximanova_semibold" app:layout_constraintEnd_toEndOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</merge>

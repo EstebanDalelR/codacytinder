@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/mediaSelectorViewContainer" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.RecyclerView android:id="@id/photoGrid" android:background="@color/gray_background_light" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/toolBarContainer" />
+    <com.tinder.loops.views.EmptyStateContainerView android:id="@id/emptyStateContainer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/toolBarContainer" />
+    <com.tinder.loops.views.MediaTabsView android:id="@id/mediaTabsView" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+</RelativeLayout>

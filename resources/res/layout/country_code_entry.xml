@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:ellipsize="end" android:id="@+id/countryName" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:layout_marginStart="@dimen/space_xxl" android:layout_marginEnd="@dimen/space_xs" app:layout_constraintEnd_toStartOf="@+id/countryCode" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/Text.CountryCode"/>
+    <TextView android:id="@+id/countryCode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:textAlignment="viewEnd" android:layout_marginEnd="@dimen/space_xxl" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="0" style="@style/Text.CountryCode"/>
+</android.support.constraint.ConstraintLayout>

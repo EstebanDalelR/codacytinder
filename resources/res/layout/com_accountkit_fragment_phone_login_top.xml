@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.accountkit.ui.ConstrainedLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_marginTop="22dp" android:layoutDirection="ltr" style="@c15385e/AccountKit_Container">
+    <com.facebook.accountkit.ui.AccountKitSpinner android:textAppearance="?android:attr/textAppearanceLarge" android:id="@+id/com_accountkit_country_code" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <Space android:layout_width="@c1191d/com_accountkit_input_spacing" android:layout_height="0dp"/>
+    <EditText android:id="@+id/com_accountkit_phone_number" android:layout_width="0dp" android:layout_height="wrap_content" android:maxLines="1" android:ems="10" android:maxLength="21" android:layout_weight="1" android:imeOptions="actionNext" style="@c15385e/AccountKit_InputText"/>
+</com.facebook.accountkit.ui.ConstrainedLinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@c6248a/root" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ProgressBar android:id="@c6248a/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+    <ImageView android:id="@c6248a/giphy" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter" android:adjustViewBounds="true" android:layout_centerInParent="true"/>
+</RelativeLayout>

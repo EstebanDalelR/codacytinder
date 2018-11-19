@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.base.view.SwitchRowView android:id="@id/smart_photos_switch_row_view" android:background="@android:color/white" android:paddingTop="@dimen/smart_photos_toggle_row_padding_top_bottom" android:paddingBottom="@dimen/smart_photos_toggle_row_padding_top_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs" app:srv_switchText="@string/smart_photos_title" app:srv_switchTextStyle="@style/SmartPhotosSwitchRowView" style="@style/SmartPhotosSwitchRowView" />
+    <TextView android:id="@id/smart_photos_copy_text_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/smart_photos_row_details_margin_top_bottom" android:text="@string/smart_photos_details" android:layout_marginStart="@dimen/smart_photos_row_details_margin_start_end" android:layout_marginEnd="@dimen/smart_photos_row_details_margin_start_end" style="@style/SmartPhotosDetails" />
+</LinearLayout>

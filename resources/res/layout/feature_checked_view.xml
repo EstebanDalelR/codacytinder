@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="@c6248a/feature_header_container" layout="@layout/tplus_feature_header"/>
+    <LinearLayout android:orientation="vertical" android:id="@c6248a/features_container" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.tinder.views.FeatureRow android:id="@c6248a/first_feature" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.tinder.views.FeatureRow android:id="@c6248a/second_feature" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <com.tinder.views.FeatureRow android:id="@c6248a/third_feature" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</merge>

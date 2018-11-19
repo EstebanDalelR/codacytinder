@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@c6248a/get_consumable_view" android:paddingLeft="@dimen/padding_med" android:paddingRight="@dimen/padding_med" android:paddingBottom="@dimen/padding_med" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.tinder.settings.views.SettingsPurchaseView android:id="@c6248a/settings_consumables" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xs"/>
+</FrameLayout>

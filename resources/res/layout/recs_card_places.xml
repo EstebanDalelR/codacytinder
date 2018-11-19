@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.places.recs.view.PlacesUserRecCardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" app:aspectRatio="@dimen/place_grid_aspect_ratio">
+    <com.tinder.view.grid.ParallaxFrameLayout android:id="@c6248a/recs_card_user_parallax_container" android:layout_width="match_parent" android:layout_height="match_parent" app:parallaxFactor="@dimen/place_grid_parallax_factor">
+        <ImageView android:id="@c6248a/recs_card_user_image" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+    </com.tinder.view.grid.ParallaxFrameLayout>
+    <ImageView android:layout_gravity="bottom" android:id="@c6248a/recs_card_user_bottom_gradient" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp"/>
+    <FrameLayout android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="@c6248a/recs_card_info_container" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include layout="@layout/recs_card_grid_stamps_include"/>
+</com.tinder.places.recs.view.PlacesUserRecCardView>

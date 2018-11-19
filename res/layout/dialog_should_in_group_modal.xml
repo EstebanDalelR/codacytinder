@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/SocialModalContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.views.CustomTextView android:id="@id/should_in_group_modal_title" android:text="@string/should_in_group_modal_title" style="@style/social_modal_content_title_text" />
+    <com.tinder.views.CustomTextView android:id="@id/should_in_group_modal_description" android:text="@string/should_in_group_modal_description" style="@style/social_modal_content_description_text" />
+    <com.tinder.views.CustomTextView android:id="@id/should_in_group_modal_yes_button" android:layout_marginTop="24.0dip" android:text="@string/should_in_group_modal_yes_button_text" style="@style/social_modal_main_rounded_button" />
+    <com.tinder.views.CustomTextView android:id="@id/should_in_group_modal_no_button" android:layout_marginTop="24.0dip" android:text="@string/should_in_group_modal_no_button_text" style="@style/social_modal_no_button" />
+</LinearLayout>

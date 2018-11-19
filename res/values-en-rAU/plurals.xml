@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">Boosts</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">Boosts</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d Common Connections</item>
+        <item quantity="one">%1$d Common Connection</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">days</item>
+        <item quantity="one">day</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">%1$d km away</item>
+        <item quantity="one">%1$d km away</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">%1$d miles away</item>
+        <item quantity="one">%1$d mile away</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d days</item>
+        <item quantity="one">day</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d hours</item>
+        <item quantity="one">hour</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d months</item>
+        <item quantity="one">month</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d seconds</item>
+        <item quantity="one">second</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d weeks</item>
+        <item quantity="one">week</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">%1$d Friends for Common Connections</item>
+        <item quantity="one">%1$d Friend for Common Connections</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d Instagram Photos</item>
+        <item quantity="one">%1$d Instagram Photo</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d Interests</item>
+        <item quantity="one">%1$d Interest</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">months</item>
+        <item quantity="one">month</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d photos</item>
+        <item quantity="one">%1$d photo</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">months</item>
+        <item quantity="one">month</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">seconds</item>
+        <item quantity="one">second</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">Super Likes</item>
+        <item quantity="one">Super Like</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%1$d free %2$s every %3$s)</item>
+        <item quantity="one">(%1$d free %2$s every %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">Give me %1$d %2$s every %3$s.</item>
+        <item quantity="one">Give me %1$d %2$s every %3$s.</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">Get %1$d %2$s every %3$s and increase your chance at a match by 3 times.</item>
+        <item quantity="one">Get %1$d %2$s every %3$s and increase your chance at a match by 3 times.</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">weeks</item>
+        <item quantity="one">week</item>
+    </plurals>
+    <plurals name="controlla_boost_description_male">
+        <item quantity="other">Boost your profile %1$d times a %2$s!</item>
+        <item quantity="one">Boost your profile once a %1$s!</item>
+    </plurals>
+</resources>

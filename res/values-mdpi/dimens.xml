@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="game_text_size">15.0sp</dimen>
+    <dimen name="intro_heading_text_size">16.0dip</dimen>
+    <dimen name="overflow_button_size">36.0dip</dimen>
+    <dimen name="paywall_dialog_width">300.0dip</dimen>
+    <dimen name="paywall_pager_height">212.0dip</dimen>
+    <dimen name="teaser_text_size">12.0sp</dimen>
+    <dimen name="going_out_avatar_circle_diameter">126.0dip</dimen>
+    <dimen name="legacy_paywall_pager_height">150.0dip</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:height="10dp" android:width="10dp" android:viewportWidth="10" android:viewportHeight="10">
+    <group android:translateX="-17" android:translateY="-317">
+        <path android:name="Oval-641" android:fillColor="#fd5068" android:pathData="M 22 317 C 24.7614237492 317 27 319.238576251 27 322 C 27 324.761423749 24.7614237492 327 22 327 C 19.2385762508 327 17 324.761423749 17 322 C 17 319.238576251 19.2385762508 317 22 317 Z"/>
+    </group>
+</vector>

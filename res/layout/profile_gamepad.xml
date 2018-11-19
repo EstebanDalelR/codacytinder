@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.recs.view.GamepadRewindButton android:layout_gravity="center" android:id="@id/gamepad_rewind" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/revised_gamepad_btn_margin" app:gpb_inner_padding="@dimen/rewind_btn_inner_padding" app:gpb_size="small" app:igpb_icon="@drawable/gamepad_rewind_selector" />
+    <com.tinder.recs.view.IconGamepadButton android:layout_gravity="center" android:id="@id/gamepad_pass" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/revised_gamepad_btn_margin" app:gpb_inner_padding="@dimen/pass_btn_inner_padding" app:gpb_size="large" app:igpb_icon="@drawable/gamepad_pass_selector" />
+    <com.tinder.recs.view.SuperLikeButton android:layout_gravity="center" android:id="@id/gamepad_superlike" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/revised_gamepad_btn_margin" app:gpb_size="small" />
+    <com.tinder.recs.view.LikeButton android:layout_gravity="center" android:id="@id/gamepad_like" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/revised_gamepad_btn_margin" app:gpb_inner_padding="@dimen/like_btn_inner_padding" app:gpb_size="large" />
+    <com.tinder.recs.view.BoostButton android:layout_gravity="center" android:id="@id/gamepad_boost" android:layout_width="@dimen/small_gamepad_button_size" android:layout_height="@dimen/small_gamepad_button_size" android:layout_margin="@dimen/revised_gamepad_btn_margin" app:gpb_inner_padding="@dimen/superlike_btn_inner_padding" app:gpb_size="small" />
+</merge>

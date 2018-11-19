@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_accountkit_account_verified">Akaunti imethibitishwa!</string>
+    <string name="com_accountkit_button_begin">Anza</string>
+    <string name="com_accountkit_button_cancel">Katisha</string>
+    <string name="com_accountkit_button_confirm">Thibitisha</string>
+    <string name="com_accountkit_button_continue">Endelea</string>
+    <string name="com_accountkit_button_edit">HARIRI</string>
+    <string name="com_accountkit_button_log_in">Ingia</string>
+    <string name="com_accountkit_button_next">Inayofuata</string>
+    <string name="com_accountkit_button_ok">Sawa</string>
+    <string name="com_accountkit_button_resend_code_in">Tuma tena SMS kwenye %1$d</string>
+    <string name="com_accountkit_button_resend_sms">Tuma tena SMS</string>
+    <string name="com_accountkit_button_send">Tuma</string>
+    <string name="com_accountkit_button_send_code_in_call">Pata Simu</string>
+    <string name="com_accountkit_button_send_code_in_call_details">Pata msimbo wako kwenye simu ya sauti</string>
+    <string name="com_accountkit_button_send_code_in_call_from_facebook_details">Pata msimbo wako kwenye simu ya sauti kutoka kwenye Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb">Pata Msimbo kwenye Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_details">Msimbo utawasili kama taarifa ya Facebook</string>
+    <string name="com_accountkit_button_start">Washa</string>
+    <string name="com_accountkit_button_start_over">Jaribu Tena</string>
+    <string name="com_accountkit_button_submit">Wasilisha</string>
+    <string name="com_accountkit_check_email">Fungua Barua pepe yako</string>
+    <string name="com_accountkit_code_sent_to">Thibitisha nambari yako ya simu ya mkononi %1$s</string>
+    <string name="com_accountkit_confirmation_code_agreement">Donoa %1$s ili kukubali &lt;a href=%2$s>Masharti&lt;/a>, &lt;a href=%3$s>Sera ya Data&lt;/a> na &lt;a href=%4$s>matumizi ya kidakuzi cha Facebook&lt;/a>.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">Donoa %1$s ili kukubali &lt;a href=%2$s>Masharti&lt;/a>, &lt;a href=%3$s>Sera ya Data&lt;/a>, &lt;a href=%4$s>matumizi ya kidakuzi&lt;/a> na &lt;a href=%5$s>Sera ya Faragha ya Facebook&lt;/a> ya %6$s.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">Donoa %1$s ili kukubali &lt;a href=%2$s>Masharti&lt;/a>, &lt;a href=%3$s>Sera ya Data&lt;/a>, &lt;a href=%4$s>matumizi ya kidakuzi&lt;/a> na &lt;a href=%5$s>Sera ya Faragha ya Facebook&lt;/a> na &lt;a href=%6$s>Masharti ya Huduma&lt;/a> ya %7$s.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">Donoa %1$s ili kukubali &lt;a href=%2$s>Masharti&lt;/a>, &lt;a href=%3$s>Sera ya Data&lt;/a>, &lt;a href=%4$s>matumizi ya kidakuzi&lt;/a> na &lt;a href=%5$s>Sera ya Faragha ya Facebook&lt;/a> na &lt;a href=%6$s>Masharti ya Huduma&lt;/a> ya %7$s. &lt;a href=%8$s>Jifunze zaidi&lt;/a> kuhusu jinsi akaunti yako ilithibitishwa.</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">Donoa %1$s ili kukubali &lt;a href=%2$s>Masharti&lt;/a>, &lt;a href=%3$s>Sera ya Data&lt;/a>, &lt;a href=%4$s>matumizi ya kidakuzi&lt;/a> na &lt;a href=%5$s>Sera ya Faragha ya Facebook&lt;/a> ya %6$s. &lt;a href=%7$s>Jifunze zaidi&lt;/a> kuhusu jinsi akaunti yako ilithibitishwa.</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">Donoa %1$s ili kukubali &lt;a href=%2$s>Masharti&lt;/a>, &lt;a href=%3$s>Sera ya Data&lt;/a> na &lt;a href=%4$s>matumizi ya kidakuzi cha Facebook&lt;/a>. &lt;a href=%5$s>Jifunze zaidi&lt;/a> kuhusu jinsi akaunti yako ilithibitishwa.</string>
+    <string name="com_accountkit_confirmation_code_text">Sikupata msimbo</string>
+    <string name="com_accountkit_confirmation_code_title">Ingiza msimbo wako</string>
+    <string name="com_accountkit_email_invalid">Barua pepe hii sio sahihi. Tafadhali jaribu tena.</string>
+    <string name="com_accountkit_email_loading_title">Inatuma barua pepe...</string>
+    <string name="com_accountkit_email_login_retry_title">Thibitisha barua pepe yako</string>
+    <string name="com_accountkit_email_login_text">Donoa %1$s ili kupata uthibitisho wa barua pepe kutoka kwenye Kikasha cha Akaunti kwa Facebook ili kukusaidia kutumia %2$s. Huhitaji akaunti ya Facebook ili kukitumia. &lt;a href=%3$s>Jifunze jinsi Facebook inavyotumia maelezo yako&lt;/a>.</string>
+    <string name="com_accountkit_email_login_title">Ingiza anwani yako ya barua pepe</string>
+    <string name="com_accountkit_email_not_received">Tuma upya Barua pepe</string>
+    <string name="com_accountkit_email_verify_title">Fungua barua pepe na uthibitishe anwani yako ya barua pepe</string>
+    <string name="com_accountkit_enter_code_sent_to">Ingiza msimbo uliotumwa kwa %1$s</string>
+    <string name="com_accountkit_error_title">Kosa la mfumo limetokea. Tafadhali jaribu tena.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Ingiza msimbo wako kutoka kwenye Facebook</string>
+    <string name="com_accountkit_logging_in">Unaingia...</string>
+    <string name="com_accountkit_other_ways_to_get_code">Njia nyingine za kupata msimbo:</string>
+    <string name="com_accountkit_phone_error_title">Tafadhali ingiza nambari halali ya simu ya mkononi.</string>
+    <string name="com_accountkit_phone_loading_title">Inathibitisha nambari yako...</string>
+    <string name="com_accountkit_phone_login_retry_title">Thibitisha nambari yako ya simu ya mkononi</string>
+    <string name="com_accountkit_phone_login_text">Donoa %1$s ili kuthibitisha akaunti yako kwa Kikasha cha Akaunti kinachoendeshwa na Facebook. Huhitaji akaunti ya Facebook ili kutumia Kikasha cha Akaunti. SMS inaweza kutumwa ili kuthibitisha nambari yako. Viwango vya ujumbe na data vinaweza kutekelezwa. &lt;a href=%2$s>Jifunze jinsi Facebook inavyotumia maelezo yako&lt;/a>.</string>
+    <string name="com_accountkit_phone_login_title">Ingiza nambari yako ya simu ya mkononi</string>
+    <string name="com_accountkit_resend_check">Angalia kikasha pokezi chako cha SMS</string>
+    <string name="com_accountkit_resend_email_text">Tuma Barua pepe Mpya</string>
+    <string name="com_accountkit_resend_title">Iwapo bado hujapata msimbo:</string>
+    <string name="com_accountkit_sent_title">Imetumwa!</string>
+    <string name="com_accountkit_success_title">Imethibitishwa!</string>
+    <string name="com_accountkit_toolbar_title">Ingia Kwenye %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">"Tusingethibitisha msimbo wako.
+Tafadhali jaribu tena:"</string>
+    <string name="com_accountkit_verify_title">Inathibitisha msimbo wako...</string>
+    <string name="com_accountkit_voice_call_code_entry_title">Ingiza msimbo wako kutoka kwenye Simu ya Sauti</string>
+</resources>

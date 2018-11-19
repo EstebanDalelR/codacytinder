@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:orientation="horizontal" android:padding="@dimen/space_xxs" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.shimmy.ShimmerFrameLayout android:id="@id/background_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:id="@id/background_outline_view" android:background="@drawable/gold_background_outline" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/background_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="2.0dip" app:layout_shimmers="false" />
+    </com.tinder.shimmy.ShimmerFrameLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/container" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <TextView android:textSize="@dimen/text_xl" android:textColor="@color/darker_grey_text" android:id="@id/intro_pricing_offer_length" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_extrabold" />
+        <TextView android:textColor="@color/intro_pricing_grey_text" android:id="@id/intro_pricing_offer_length_name" android:paddingTop="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_semibold" android:layout_marginStart="@dimen/space_xs" />
+        <LinearLayout android:gravity="end" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="@dimen/text_l" android:textColor="@color/darker_grey_text" android:gravity="end" android:id="@id/intro_pricing_offer_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/proximanova_extrabold" />
+            <com.tinder.shimmy.ShimmerFrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textColor="@color/intro_pricing_grey_text" android:id="@id/intro_pricing_price_subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/intro_pricing_first_month" android:fontFamily="@font/proximanova_semibold" />
+            </com.tinder.shimmy.ShimmerFrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+</merge>

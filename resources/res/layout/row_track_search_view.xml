@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@drawable/rectangle_touch_feedback_white_background" android:layout_width="match_parent" android:layout_height="69dp">
+    <ImageView android:id="@c6248a/row_track_image" android:layout_width="36dp" android:layout_height="36dp" android:layout_marginLeft="@dimen/content_padding" android:src="@drawable/ic_spotify" android:layout_centerVertical="true"/>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toRightOf="@c6248a/row_track_image" android:layout_centerVertical="true">
+        <com.tinder.views.CustomTextView android:textSize="18sp" android:ellipsize="end" android:id="@c6248a/row_track_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/content_padding" android:layout_marginRight="@dimen/content_padding" android:text="Whatever the name is" android:lines="1" android:fontFamily="semi"/>
+        <ImageView android:id="@c6248a/spotify_icon" android:layout_width="12dp" android:layout_height="12dp" android:layout_marginLeft="@dimen/content_padding" android:layout_marginTop="2dp" android:src="@drawable/ic_spotify" android:layout_below="@c6248a/row_track_name"/>
+        <com.tinder.views.CustomTextView android:id="@c6248a/search_row_artist_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:text="Artist Name" android:layout_toRightOf="@c6248a/spotify_icon" android:layout_below="@c6248a/row_track_name" android:layout_alignBaseline="@c6248a/spotify_icon"/>
+    </RelativeLayout>
+    <View android:id="@c6248a/track_search_spotify_icon" android:background="@color/gray_light" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginLeft="@dimen/content_padding" android:layout_marginRight="@dimen/content_padding" android:layout_alignParentBottom="true"/>
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="bottom" android:orientation="horizontal" android:background="@drawable/white_to_transparent_gradient" android:paddingTop="10dp" android:paddingBottom="10dp" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="3">
+    <FrameLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <ImageButton android:layout_gravity="center" android:id="@c6248a/profile_btn_pass" android:background="@null" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/profile_btn_pass" android:elevation="4dp"/>
+    </FrameLayout>
+    <FrameLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <ImageButton android:layout_gravity="center" android:id="@c6248a/profile_btn_superlike" android:background="@null" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/profile_btn_superlike" android:elevation="4dp"/>
+    </FrameLayout>
+    <FrameLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <ImageButton android:layout_gravity="center" android:id="@c6248a/profile_btn_like" android:background="@null" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/profile_btn_like" android:elevation="4dp"/>
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.tinder.view.grid.ParallaxFrameLayout android:id="@+id/parallax_layout" android:layout_width="match_parent" android:layout_height="match_parent" app:parallaxFactor="@dimen/parallax_factor">
+        <ImageView android:id="@+id/top_pick_card_user_image" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:contentDescription="@c15232h/top_pick_card_user_image"/>
+    </com.tinder.view.grid.ParallaxFrameLayout>
+    <ImageView android:layout_gravity="bottom" android:id="@+id/top_pick_card_bottom_gradient" android:background="@c15227c/card_bottom_gradient" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@c15232h/top_pick_card_user_image"/>
+    <com.tinder.toppicks.view.GoldShimmerTimerView android:layout_gravity="bottom|left|center_vertical|center_horizontal|center|start" android:id="@+id/top_pick_card_timer_view" android:padding="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <com.tinder.toppicks.view.TopPicksTagView android:id="@+id/tag_view" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <include layout="@layout/top_picks_card_grid_stamps_include"/>
+</merge>

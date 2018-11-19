@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48.0dip" android:width="48.0dip" android:viewportWidth="38.0" android:viewportHeight="38.0" xmlns:aapt="http://schemas.android.com/aapt"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@drawable/$ian_icon_default__0" android:pathData="M19,0L19,0A19,19 0,0 1,38 19L38,19A19,19 0,0 1,19 38L19,38A19,19 0,0 1,0 19L0,19A19,19 0,0 1,19 0z" android:fillType="evenOdd" />
+    <path android:fillColor="#ff000000" android:pathData="M15.27,16.22c4.31,-1.49 5.04,-5.35 4.49,-8.91 0,-0.13 0.11,-0.22 0.22,-0.17 4.13,2 8.76,6.38 8.76,12.98 0,5.06 -3.92,9.53 -9.62,9.53 -6.09,0 -9.62,-4.34 -9.62,-9.53 0,-3.03 2.14,-6.14 4.45,-7.46 0.11,-0.07 0.26,0 0.26,0.13 0.05,0.68 0.24,2.4 0.99,3.41 0.02,0.02 0.05,0.02 0.07,0.02z" android:fillType="evenOdd" />
+    <path android:fillColor="#ffffffff" android:pathData="M15.27,16.22c4.31,-1.49 5.04,-5.35 4.49,-8.91 0,-0.13 0.11,-0.22 0.22,-0.17 4.13,2 8.76,6.38 8.76,12.98 0,5.06 -3.92,9.53 -9.62,9.53 -6.09,0 -9.62,-4.34 -9.62,-9.53 0,-3.03 2.14,-6.14 4.45,-7.46 0.11,-0.07 0.26,0 0.26,0.13 0.05,0.68 0.24,2.4 0.99,3.41 0.02,0.02 0.05,0.02 0.07,0.02z" android:fillType="evenOdd" />
+</vector>

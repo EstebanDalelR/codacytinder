@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_l" android:layout_marginBottom="@dimen/space_l">
+    <ProgressBar android:layout_gravity="center_horizontal" android:id="@c6248a/recs_loading_progressbar" android:layout_width="@dimen/places_recs_progress_bar" android:layout_height="@dimen/places_recs_progress_bar" android:indeterminate="true"/>
+</FrameLayout>

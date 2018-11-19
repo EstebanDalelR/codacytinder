@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/alwaysAutoPlayOption" layout="@layout/autoplay_video_options_item" />
+    <View android:background="@color/gray_background_light" android:layout_width="fill_parent" android:layout_height="@dimen/space_xxxxs" />
+    <include android:id="@id/onlyOnWifiAutoPlayOption" layout="@layout/autoplay_video_options_item" />
+    <View android:background="@color/gray_background_light" android:layout_width="fill_parent" android:layout_height="@dimen/space_xxxxs" />
+    <include android:id="@id/neverAutoPlayOption" layout="@layout/autoplay_video_options_item" />
+</LinearLayout>

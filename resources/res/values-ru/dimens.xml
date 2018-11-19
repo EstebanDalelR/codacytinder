@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="group_too_early_text_size">12sp</dimen>
+    <dimen name="onboarding_alt_auth_button_text_size">11sp</dimen>
+    <dimen name="paywall_price_textsize">12sp</dimen>
+    <dimen name="paywall_save_textsize">9sp</dimen>
+    <dimen name="profile_tab_ad_panel_description_size">14sp</dimen>
+    <dimen name="profile_tab_ad_panel_title_size">16sp</dimen>
+    <dimen name="save_banner_textsize">16sp</dimen>
+    <dimen name="social_profile_group_status_header">16dp</dimen>
+    <dimen name="social_profile_group_status_text">12dp</dimen>
+    <dimen name="tinder_brand_message_text_size">@dimen/text_xxl</dimen>
+</resources>

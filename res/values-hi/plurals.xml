@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">बूस्ट्स</item>
+        <item quantity="one">बूस्ट</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">बूस्ट्स</item>
+        <item quantity="one">बूस्ट</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d साझे कनेक्शन</item>
+        <item quantity="one">%1$d साझा कनेक्शन</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">दिन</item>
+        <item quantity="one">दिन</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d दिन शेष</item>
+        <item quantity="one">%1$d दिन शेष</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">%1$d किमी दूर</item>
+        <item quantity="one">%1$d किमी दूर</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">%1$d मील दूर</item>
+        <item quantity="one">%1$d मील दूर</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d दिन</item>
+        <item quantity="one">दिन</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d घंटे</item>
+        <item quantity="one">घंटा</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d माह</item>
+        <item quantity="one">माह</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d सेकंड</item>
+        <item quantity="one">सेकंड</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d सप्ताह</item>
+        <item quantity="one">सप्ताह</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">हर %1$d नए लाइक</item>
+        <item quantity="one">हर %1$d नया लाइक</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">साझे कनेक्शनों के लिए %1$d मित्र</item>
+        <item quantity="one">साझे कनेक्शन के लिए %1$d मित्र</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d इन्स्टाग्राम फ़ोटो</item>
+        <item quantity="one">%1$d इन्स्टाग्राम फ़ोटो</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d रुचियाँ</item>
+        <item quantity="one">%1$d रुचि</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">%d दिन में</item>
+        <item quantity="one">आने वाला कल</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">%d घंटे में</item>
+        <item quantity="one">1 घंटे में</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">%d मिनट में</item>
+        <item quantity="one">1 मिनट में</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">%d सेकंड में</item>
+        <item quantity="one">1 सेकंड में</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">%d दिन पहले</item>
+        <item quantity="one">बीता कल</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">%d घंटे पहले</item>
+        <item quantity="one">1 घंटे पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">%d मिनट पहले</item>
+        <item quantity="one">1 मिनट पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">%d सेकंड पहले</item>
+        <item quantity="one">1 सेकंड पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">1 घंटा</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">1 मिनट</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d सेकंड</item>
+        <item quantity="one">1 सेकंड</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">%d दिन में</item>
+        <item quantity="one">आने वाला कल</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">%d घंटे में</item>
+        <item quantity="one">1 घंटे में</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">%d मिनट में</item>
+        <item quantity="one">1 मिनट में</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">%d सेकंड में</item>
+        <item quantity="one">1 सेकंड में</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">%d दिन पहले</item>
+        <item quantity="one">बीता कल</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">%d घंटे पहले</item>
+        <item quantity="one">1 घंटे पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">%d मिनट पहले</item>
+        <item quantity="one">1 मिनट पहले</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">%d सेकंड पहले</item>
+        <item quantity="one">1 सेकंड पहले</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">माह</item>
+        <item quantity="one">माह</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d फ़ोटो</item>
+        <item quantity="one">%1$d फ़ोटो</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d हालिया विजिटर</item>
+        <item quantity="one">%1$d हालिया विजिटर</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d विजिटर</item>
+        <item quantity="one">%1$d विजिटर</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">%1$s नए</item>
+        <item quantity="one">%1$s नया</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">माह</item>
+        <item quantity="one">माह</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">सेकंड</item>
+        <item quantity="one">सेकंड</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">सुपर लाइक</item>
+        <item quantity="one">सुपर लाइक</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">हर %3$s में %1$d %2$s</item>
+        <item quantity="one">हर %3$s में %1$d %2$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(हर %3$s में %1$d फ्री %2$s)</item>
+        <item quantity="one">(हर %3$s %1$d फ्री %2$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">हर %3$s मुझे %1$d %2$s दें</item>
+        <item quantity="one">हर %3$s मुझे %1$d %2$s दें</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">हर %3$s में %1$d %2$s प्राप्त करें और किसी से मैच पर अपनी संभावना को 3 गुना बढ़ाएँ।</item>
+        <item quantity="one">हर %3$s में %1$d %2$s प्राप्त करें और किसी से मैच पर अपनी संभावना को 3 गुना बढ़ाएँ।</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">%1$s नए</item>
+        <item quantity="one">%1$s नया</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">पिक्स</item>
+        <item quantity="one">पिक्स</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">%1$d पिक्स शेष</item>
+        <item quantity="one">%1$d पिक्स शेष</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">%1$dघं शेष</item>
+        <item quantity="one">%1$dघं शेष</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">&lt;%1$dमि शेष</item>
+        <item quantity="one">&lt;%1$dमि शेष</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">%1$dमि शेष</item>
+        <item quantity="one">%1$dमि शेष</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">अपग्रेड</item>
+        <item quantity="one">अपग्रेड</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">सप्ताह</item>
+        <item quantity="one">सप्ताह</item>
+    </plurals>
+</resources>

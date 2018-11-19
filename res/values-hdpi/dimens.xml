@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="game_text_size">14.0sp</dimen>
+    <dimen name="intro_heading_text_size">18.0sp</dimen>
+    <dimen name="overflow_button_size">36.0dip</dimen>
+    <dimen name="paywall_dialog_width">310.0dip</dimen>
+    <dimen name="paywall_months_padding">13.0dip</dimen>
+    <dimen name="paywall_pager_height">238.0dip</dimen>
+    <dimen name="photo_container_sides">50.0dip</dimen>
+    <dimen name="teaser_text_size">11.0sp</dimen>
+    <dimen name="text_m">18.0sp</dimen>
+    <dimen name="text_s">16.0sp</dimen>
+    <dimen name="text_xs">14.0sp</dimen>
+    <dimen name="text_xxlarge">30.0sp</dimen>
+    <dimen name="text_xxxs">10.0sp</dimen>
+    <dimen name="going_out_avatar_circle_diameter">126.0dip</dimen>
+    <dimen name="legacy_paywall_pager_height">175.0dip</dimen>
+    <dimen name="post_match_card_view_border_circle_diameter">120.0dip</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.tinder.views.AlphaOptimizedView android:layout_gravity="bottom" android:id="@c6248a/user_rec_profile_entrance_background" android:background="@android:color/white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <view android:id="@c6248a/user_rec_profile_placeholder_image" android:layout_width="match_parent" android:layout_height="wrap_content" class="com.tinder.recs.animation.DefaultRecProfileAnimationDecorator$PlaceholderImageView"/>
+    <com.tinder.profile.view.ProfileView android:id="@c6248a/user_rec_profile" android:background="@android:color/transparent" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.tinder.profile.view.tappy.TappyProfileGamePadView android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@c6248a/user_rec_profile_gamepad" android:background="@drawable/white_to_transparent_gradient" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="@dimen/recs_bottom_container_height"/>
+</merge>

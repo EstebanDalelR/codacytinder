@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:layout_gravity="center" android:id="@id/snap_connect_bitmoji_login_view_stub" android:layout="@layout/snap_connect_bitmoji_login_view" android:layout_width="@dimen/snap_connect_bitmoji_login_view_width" android:layout_height="wrap_content" />
+    <ViewStub android:layout_gravity="center" android:id="@id/snap_connect_bitmoji_create_avatar_view_stub" android:layout="@layout/snap_connect_bitmoji_create_avatar_view" android:layout_width="@dimen/snap_connect_bitmoji_login_view_width" android:layout_height="wrap_content" />
+    <ViewStub android:layout_gravity="center" android:id="@id/snap_connect_bitmoji_error_view_stub" android:layout="@layout/snap_connect_bitmoji_error_view" android:layout_width="@dimen/snap_connect_bitmoji_login_view_width" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/snap_connect_bitmoji_sticker_picker_stub" android:layout="@layout/snap_connect_bitmoji_sticker_picker" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/snap_connect_bitmoji_results_stub" android:layout="@layout/snap_connect_bitmoji_results_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:background="@color/snap_connect_bitmoji_border_color" android:layout_width="fill_parent" android:layout_height="@dimen/snap_connect_bitmoji_border_width" />
+</FrameLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/handleBackground" android:background="@color/slightly_blue_grey" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center" android:id="@id/handleAnimation" android:background="@null" android:layout_width="50.0dip" android:layout_height="fill_parent" />
+</merge>

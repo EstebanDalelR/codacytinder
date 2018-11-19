@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" style="@c15385e/AccountKit_IconContainer">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@+id/com_accountkit_icon_view" android:layout_width="@c1191d/com_accountkit_progress_bar_size" android:layout_height="@c1191d/com_accountkit_progress_bar_size" app:srcCompat="@c15381a/com_accountkit_progress_complete"/>
+</FrameLayout>

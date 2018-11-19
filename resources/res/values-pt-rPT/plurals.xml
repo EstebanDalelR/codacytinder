@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>amanhã</item>
+        <item>daqui a %d dias</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>daqui a 1 hora</item>
+        <item>em %d horas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>daqui a 1 min</item>
+        <item>daqui a %d min</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>daqui a 1 seg</item>
+        <item>daqui a %d seg</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>ontem</item>
+        <item>Há %d dias</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>Há 1 hora</item>
+        <item>Há %d horas</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>há 1 min</item>
+        <item>Há %d min</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>Há 1 seg</item>
+        <item>Há %d seg</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 hora</item>
+        <item>%d horas</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 minuto</item>
+        <item>%d minutos</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 segundo</item>
+        <item>%d segundos</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>amanhã</item>
+        <item>daqui a %d dias</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>daqui a 1 hora</item>
+        <item>daqui a %d horas</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>daqui a 1 minuto</item>
+        <item>daqui a %d minutos</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>daqui a 1 segundo</item>
+        <item>daqui a %d segundos</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>ontem</item>
+        <item>Há %d dias</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>Há 1 hora</item>
+        <item>Há %d horas</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>Há 1 minuto</item>
+        <item>Há %d minutos</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>Há 1 segundo</item>
+        <item>Há %d segundos</item>
+    </plurals>
+</resources>

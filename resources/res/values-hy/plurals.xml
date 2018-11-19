@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>վաղը</item>
+        <item>%d օրից</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>1 ժամից</item>
+        <item>%d ժամից</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>1 րոպեից</item>
+        <item>%d րոպեից</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>1 վրկ-ից</item>
+        <item>%d վրկ-ից</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>երեկ</item>
+        <item>%d օր առաջ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>1 ժամ առաջ</item>
+        <item>%d ժամ առաջ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>1 րոպե առաջ</item>
+        <item>%d րոպե առաջ</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>1 վրկ առաջ</item>
+        <item>%d վրկ. առաջ</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 ժամ</item>
+        <item>%d ժամ</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 րոպե</item>
+        <item>%d րոպե</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 վայրկյան</item>
+        <item>%d վայրկյան</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>վաղը</item>
+        <item>%d օրից</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>1 ժամից</item>
+        <item>%d ժամից</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>1 րոպեից</item>
+        <item>%d րոպեից</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>1 վայրկյանից</item>
+        <item>%d վայրկյանից</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>երեկ</item>
+        <item>%d օր առաջ</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>1 ժամ առաջ</item>
+        <item>%d ժամ առաջ</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>1 րոպե առաջ</item>
+        <item>%d րոպե առաջ</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>1 վայրկյան առաջ</item>
+        <item>%d վայրկյան առաջ</item>
+    </plurals>
+</resources>

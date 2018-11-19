@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/snap_connect_bitmoji_results_container" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.RecyclerView android:id="@id/snap_connect_bitmoji_results_grid" android:paddingLeft="@dimen/snap_connect_bitmoji_sticker_padding" android:paddingTop="@dimen/snap_connect_bitmoji_results_padding_top" android:paddingRight="@dimen/snap_connect_bitmoji_sticker_padding" android:paddingBottom="@dimen/snap_connect_bitmoji_sticker_padding" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never" />
+    <FrameLayout android:id="@id/snap_connect_bitmoji_results_bar" android:background="@drawable/snap_connect_bitmoji_search_bar_background" android:layout_width="fill_parent" android:layout_height="@dimen/snap_connect_bitmoji_search_bar_height">
+        <ImageView android:layout_gravity="start" android:layout_width="@dimen/snap_connect_bitmoji_search_bar_height" android:layout_height="fill_parent" android:src="@drawable/snap_connect_bitmoji_search" android:scaleType="centerInside" android:layout_marginStart="@dimen/snap_connect_bitmoji_search_icon_margin_start" />
+        <ImageView android:layout_gravity="start" android:layout_width="@dimen/snap_connect_bitmoji_back_button_width" android:layout_height="fill_parent" android:src="@drawable/snap_connect_bitmoji_search_back" android:scaleType="centerInside" style="@style/SnapConnectBitmojiRtlImage" />
+        <ImageView android:layout_gravity="end" android:id="@id/snap_connect_bitmoji_results_clear_button" android:layout_width="@dimen/snap_connect_bitmoji_search_bar_height" android:layout_height="fill_parent" android:src="@drawable/snap_connect_bitmoji_search_clear" android:scaleType="centerInside" />
+        <include android:layout_gravity="start|center" android:id="@id/snap_connect_bitmoji_results_tag" android:layout_width="wrap_content" android:layout_height="@dimen/snap_connect_bitmoji_tag_tile_height" android:layout_marginStart="@dimen/snap_connect_bitmoji_results_tag_tile_margin_start" layout="@layout/snap_connect_bitmoji_tag_tile" />
+    </FrameLayout>
+</FrameLayout>

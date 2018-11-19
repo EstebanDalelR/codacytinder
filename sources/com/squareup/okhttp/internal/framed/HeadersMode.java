@@ -1,0 +1,29 @@
+package com.squareup.okhttp.internal.framed;
+
+public enum HeadersMode {
+    SPDY_SYN_STREAM,
+    SPDY_REPLY,
+    SPDY_HEADERS,
+    HTTP_20_HEADERS;
+
+    public boolean failIfStreamAbsent() {
+        if (this != SPDY_REPLY) {
+            if (this != SPDY_HEADERS) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public boolean failIfStreamPresent() {
+        return this == SPDY_SYN_STREAM;
+    }
+
+    public boolean failIfHeadersAbsent() {
+        return this == SPDY_HEADERS;
+    }
+
+    public boolean failIfHeadersPresent() {
+        return this == SPDY_REPLY;
+    }
+}

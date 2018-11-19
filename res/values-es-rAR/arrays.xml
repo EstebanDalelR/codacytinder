@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auth_fb_disclaimer_content">
+        <item>No publicamos nada en Facebook</item>
+        <item>Otros usuarios no pueden contactarte a menos que ya sean un match</item>
+    </string-array>
+    <string-array name="empty_message_suggestions">
+        <item>\#SiManejásNoUsesTinder</item>
+        <item>\#HabláConTuTinder</item>
+        <item>¡Prueba superada!</item>
+        <item>Qué loco que casi deslizás a la izquierda...</item>
+        <item>¿Estás de manos atadas o qué?</item>
+        <item>¿Estás esperando una invitación?</item>
+        <item>Preguntale sobre los amigos que tengan en común.</item>
+        <item>¡Socializá!</item>
+        <item>Ya se enviaron millones de mensajes en Tinder. ¿Y vos qué vas a decir?</item>
+        <item>Carpe diem.</item>
+        <item>¿Cuál es tu animal preferido?</item>
+        <item>Las conversaciones no se escriben solas.</item>
+        <item>Grillos...</item>
+        <item>¿Te comieron la lengua los ratones?</item>
+        <item>¿Sabías que las frases cursis no funcionan?</item>
+        <item>¡Dale!</item>
+        <item>No lo dejes en blanco.</item>
+        <item>No busques matches mientras manejás.</item>
+        <item>No uses Tinder mientras manejás.</item>
+        <item>Se aceptan emojis.</item>
+        <item>A todos les gustan las personas consideradas.</item>
+        <item>Se mandaron cinco millones de mensajes en la última hora... ¿y a vos no se te ocurre ni uno?</item>
+        <item>Decile un piropo y fijate lo que pasa.</item>
+        <item>Googleá cómo no aburrir a los demás.</item>
+        <item>Googleá algunas frases de levante.</item>
+        <item>¡Buena pregunta! Preguntale para saber la respuesta.</item>
+        <item>No tengas miedo, ¡Tinder al rescate!</item>
+        <item>Saludar es de buena educación.</item>
+        <item>¿Lo único que se te ocurre decir es \"hola\"?</item>
+        <item>\"Hola\" no es muy original.</item>
+        <item>¡Decí algo! ¿No tenés modales?</item>
+        <item>¿Cuánto vas a esperar para mandar un mensaje?</item>
+        <item>¿Cuántos amigos hiciste en Tinder?</item>
+        <item>¿En cuántos idiomas podés escribir?</item>
+        <item>Si tan solo existiera una forma de empezar una conversación. Momento...</item>
+        <item>Si no preguntás, la respuesta siempre va a ser no.</item>
+        <item>Si no preguntás, nunca vas a saber.</item>
+        <item>Espero que no estés manejando ahora.</item>
+        <item>Para muchas culturas el silencio es de mala educación.</item>
+        <item>Insertar halagos aquí.</item>
+        <item>Insertar un mensaje gracioso aquí.</item>
+        <item>Insertar un mensaje amable aquí.</item>
+        <item>Al final solo nos arrepentimos de las veces que no nos animamos.</item>
+        <item>¿Tenés ganas de una #TardeTinder?</item>
+        <item>Esto es solo el comienzo.</item>
+        <item>Qué bueno que no deslizaste a la izquierda sin querer.</item>
+        <item>Hasta que no mandás un mensaje, no estás usando Tinder de verdad.</item>
+        <item>Todo comenzó aquí.</item>
+        <item>Todo comenzó en Tinder.</item>
+        <item>Me pregunto qué frase le tocó.</item>
+        <item>Manos a la obra.</item>
+        <item>Viví como si fueras a morirte hoy, soñá como si fueras a vivir para siempre.</item>
+        <item>Animate a dar el primer paso.</item>
+        <item>Sacale una sonrisa.</item>
+        <item>¡Pasaste al próximo nivel!</item>
+        <item>A nadie le gustan los plomos.</item>
+        <item>Más del 36%% de tus amigos de Facebook están en Tinder.</item>
+        <item>Más del 90%% de los halagos reciben respuesta.</item>
+        <item>¡Que empiece la tinderización!</item>
+        <item>¡Decí algo!</item>
+        <item>¡Decí algo gracioso!</item>
+        <item>Decile algo lindo sobre una de sus fotos.</item>
+        <item>¡Decí algo ingenioso!</item>
+        <item>Agradecele por el Like.</item>
+        <item>A seducir...</item>
+        <item>¿Ves este espacio acá abajo? Llenalo con un piropo.</item>
+        <item>¿Ves este espacio acá abajo? Ponele personalidad.</item>
+        <item>¿Ves este espacio acá abajo? Escribí algo ingenioso.</item>
+        <item>¿Ves este espacio? Usalo para escribir algo.</item>
+        <item>Mandá un mensaje antes de que se te muera la batería.</item>
+        <item>¿Sufrís de timidez?</item>
+        <item>Aprovechá el día.</item>
+        <item>Alguien tendría que hacer una app para conocer gente con onda. Momento...</item>
+        <item>Mirar fijo la pantalla no va a generar una conversación...</item>
+        <item>Las primeras conversaciones pueden ser incómodas, ¡pero acá no!</item>
+        <item>Cortala con el embole.</item>
+        <item>Contale sobre algo loco que te haya pasado hace poco.</item>
+        <item>Contale por qué le diste Like.</item>
+        <item>Son casi 2 años de perro.</item>
+        <item>No sabés de lo que te estás perdiendo.</item>
+        <item>Quien mande el primer mensaje, ¡gana!</item>
+        <item>No tiene nada de malo enviar el primer mensaje.</item>
+        <item>Seguro se ve mucho mejor en persona.</item>
+        <item>Está mirando fijo lo mismo que vos... ¡escribí el primer mensaje!</item>
+        <item>No se va a enterar hasta que le digas.</item>
+        <item>Esta pantalla se vería mucho mejor con una conversación. Guiño, guiño.</item>
+        <item>Esta pantalla se vería mucho mejor si tuviera una conversación.</item>
+        <item>Tinder no puede escribir por vos...</item>
+        <item>Tinder no puede escribir por vos... al menos por ahora.</item>
+        <item>Tinder no puede escribir por vos... de hecho, podría, pero no quiere.</item>
+        <item>La gracia de Tinder es poder conocer gente... empezá por acá.</item>
+        <item>Tinder enciende una nueva chispa.</item>
+        <item>\#JuntosSomosMatch</item>
+        <item>Si llegaste hasta acá, más vale decile algo.</item>
+        <item>¿Qué estás esperando?</item>
+        <item>¿Qué te inspiró a darme un Like?</item>
+        <item>¿Cuál es tu secreto más grande?</item>
+        <item>¿Cuál es tu historia de Tinder favorita?</item>
+        <item>¿Dónde estabas cuando diste el Like?</item>
+        <item>¿Cuál es tu foto favorita?</item>
+        <item>¿Por qué me diste un Like?</item>
+        <item>¿Por qué no saludaste todavía?</item>
+        <item>¿Por qué tanta seriedad?</item>
+        <item>¡Triunfal!</item>
+        <item>La vida es corta.</item>
+        <item>No hay match que por bien no venga.</item>
+        <item>A ambos les gustan cosas. ¡Charlen sobre esas cosas!</item>
+        <item>Les pueden contar a sus hijos que se conocieron en Tinder.</item>
+        <item>Por algo tenés dos pulgares.</item>
+        <item>Sabés que tiene ganas de hablar con vos, ¿no? #JuntosSomosMatch</item>
+        <item>Jamás vas a conocer a todos tus matches si no les enviás un mensaje.</item>
+        <item>El 100%% de los recuerdos que no vivís quedan en la nada.</item>
+        <item>Solo se vive una vez.</item>
+        <item>Despedite de la soledad... cuando hayas saludado.</item>
+        <item>Tu turno.</item>
+        <item>Tienen un interés en común: Tinder les resulta adictivo.</item>
+        <item>Apurate que el tiempo vuela.</item>
+        <item>¿Te da miedo saludar? Cobarde...</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SO</item>
+        <item>O</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>norte</item>
+        <item>noreste</item>
+        <item>este</item>
+        <item>sureste</item>
+        <item>sur</item>
+        <item>suroeste</item>
+        <item>oeste</item>
+        <item>noroeste</item>
+    </string-array>
+    <string-array name="ordinals">
+        <item>cero</item>
+        <item>1.º</item>
+        <item>2.º</item>
+        <item>3.º</item>
+        <item>4.º</item>
+        <item>5.º</item>
+        <item>6.º</item>
+    </string-array>
+</resources>

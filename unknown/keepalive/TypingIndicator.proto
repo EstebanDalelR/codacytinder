@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package keepalive;
+
+option go_package = "github.com/TinderApp/proto/keepalive";
+option java_package = "com.tinder.proto.keepalive";
+option java_outer_classname = "KeepAliveTypingIndicator";
+
+import "google/protobuf/timestamp.proto";
+
+// This is used for both: sending and receiving a typing heartbeat
+message TypingIndicator {
+   google.protobuf.Timestamp sent_time = 1;
+   string match_id = 2;
+   string to_user_id = 3;
+}

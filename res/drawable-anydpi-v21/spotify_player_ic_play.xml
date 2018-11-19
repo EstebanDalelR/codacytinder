@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:translateX="-298.0" android:translateY="-631.0">
+        <group android:translateY="479.0">
+            <group android:translateX="16.0" android:translateY="130.0">
+                <group android:translateX="260.0">
+                    <group android:translateX="22.0" android:translateY="22.0">
+                        <path android:name="Oval-462" android:fillColor="#ffffffff" android:pathData="M24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 C18.627417,24 24,18.627417 24,12 Z" android:strokeAlpha="0.9" android:fillAlpha="0.9" />
+                        <path android:name="Rectangle-86" android:fillColor="#fffd5068" android:pathData="M10.2891738,7.20238845 L16.9127258,11.3551569 C17.6247169,11.8015539 17.6192987,12.5141995 16.9030089,12.9454596 L10.2988908,16.9216331 C9.5815332,17.3535361 9,17.0216688 9,16.1842786 L9,7.91349909 C9,7.07436651 9.57562003,6.75501164 10.2891738,7.20238845 Z" />
+                    </group>
+                </group>
+            </group>
+        </group>
+    </group>
+</vector>

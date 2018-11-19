@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:id="@id/create_group_friend_avatar_container"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/create_group_friend_avatar_image" android:src="@drawable/group_add_placeholder" style="@style/create_group_avatar" />
+    <ImageButton android:layout_gravity="bottom|center|right" android:id="@id/create_group_friend_avatar_remove_button" android:background="@drawable/group_action_remove" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</merge>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.CoordinatorLayout android:id="@id/matches_content" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <android.support.design.widget.AppBarLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" app:elevation="0.0dip" app:layout_scrollFlags="scroll">
+            <android.support.design.widget.TabLayout android:id="@id/matches_tab_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" app:tabGravity="fill" app:tabIndicatorColor="@color/transparent" app:tabMode="fixed" app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+            <View android:layout_gravity="bottom" android:background="@color/main_toolbar_border" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </android.support.design.widget.AppBarLayout>
+        <com.tinder.common.view.SafeViewFlipper android:id="@id/matches_tab_content_flipper" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+            <com.tinder.match.views.MatchListView android:id="@id/matches_tab_content_matches_list_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <com.tinder.feed.view.FeedMainView android:id="@id/matches_tab_content_matches_feed_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </com.tinder.common.view.SafeViewFlipper>
+    </android.support.design.widget.CoordinatorLayout>
+</merge>

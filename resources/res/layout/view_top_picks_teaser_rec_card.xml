@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.tinder.view.grid.ParallaxFrameLayout android:id="@+id/parallax_layout" android:layout_width="match_parent" android:layout_height="match_parent" app:parallaxFactor="@dimen/parallax_factor">
+        <ImageView android:id="@+id/top_pick_card_user_image" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop"/>
+    </com.tinder.view.grid.ParallaxFrameLayout>
+    <com.tinder.toppicks.view.TopPicksTagView android:id="@+id/tag_view" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <View android:background="@color/white.opacity.70" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <include layout="@layout/recs_card_grid_stamps_include"/>
+</merge>

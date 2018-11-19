@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/recs_card_user_content_container" android:padding="@dimen/gold_rec_headline_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.views.grid.GridUserRecCardHeadlineView android:gravity="center_vertical" android:id="@id/recs_card_user_headline" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.tinder.views.CustomTextView android:id="@id/recs_card_user_teaser_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" style="@style/Recs.Card.EdgelessText.Teaser.Grid" />
+</LinearLayout>

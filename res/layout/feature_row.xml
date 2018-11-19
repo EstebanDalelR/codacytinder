@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/feature_divider" android:background="@color/gray_light" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginBottom="16.0dip" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/feature_title_color" android:gravity="center_vertical" android:id="@id/feature_title" android:paddingLeft="@dimen/padding_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/feature_divider" android:layout_alignParentLeft="true" app:customFontStyle="medium" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_xs" android:textColor="@color/feature_description_color" android:id="@id/feature_description" android:paddingLeft="@dimen/padding_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/visual_indicator_container" android:layout_below="@id/feature_title" android:layout_alignParentLeft="true" />
+    <FrameLayout android:id="@id/visual_indicator_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+        <ImageView android:id="@id/feature_check" android:paddingRight="@dimen/padding_med" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/passport_checkmark" />
+        <com.tinder.views.CustomSwitch android:id="@id/feature_switch" android:paddingRight="@dimen/margin_small" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textOn="" android:textOff="" style="@style/settings_group_item" />
+    </FrameLayout>
+</merge>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar android:theme="@style/ThemeOverlay.AppCompat.ActionBar" android:id="@id/toolbar" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:navigationIcon="@drawable/ic_back_arrow" app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+        <com.tinder.smsauth.ui.view.CountryCodeSearchView android:id="@id/countryCodeSearchView" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/country_code_search_view" />
+        </com.tinder.smsauth.ui.view.CountryCodeSearchView>
+    </android.support.v7.widget.Toolbar>
+    <FrameLayout android:id="@id/container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

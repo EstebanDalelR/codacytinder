@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">Boosts</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">Boosts</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d близки контакти</item>
+        <item quantity="one">%1$d близък контакт</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">дена</item>
+        <item quantity="one">ден</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Остават %1$d дена</item>
+        <item quantity="one">Остава %1$d ден</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">На %1$d километра разстояние</item>
+        <item quantity="one">На %1$d километър разстояние</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">на %1$d мили разстояние</item>
+        <item quantity="one">на %1$d миля разстояние</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d дена</item>
+        <item quantity="one">%1$d ден</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d часа</item>
+        <item quantity="one">час</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d месеца</item>
+        <item quantity="one">месец</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">секунда</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d седмици</item>
+        <item quantity="one">седмица</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">Всеки %1$d нови харесвания</item>
+        <item quantity="one">Всяко %1$d ново харесване</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">%1$d приятели за близки контакти</item>
+        <item quantity="one">%1$d приятел за близки контакти</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d Instagram снимки</item>
+        <item quantity="one">%1$d Instagram снимка</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d интереса</item>
+        <item quantity="one">%1$d интерес</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item quantity="other">след %d дни</item>
+        <item quantity="one">утре</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item quantity="other">след %d часа</item>
+        <item quantity="one">след 1 час</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item quantity="other">след %d мин</item>
+        <item quantity="one">след 1 мин</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item quantity="other">след %d сек</item>
+        <item quantity="one">след 1 сек</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item quantity="other">Преди %d дни</item>
+        <item quantity="one">вчера</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item quantity="other">Преди %d часа</item>
+        <item quantity="one">Преди 1 час</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item quantity="other">Преди %d мин</item>
+        <item quantity="one">Преди 1 мин</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item quantity="other">Преди %d сек</item>
+        <item quantity="one">Преди 1 сек</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">1 час</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item quantity="other">след %d дни</item>
+        <item quantity="one">утре</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item quantity="other">след %d часа</item>
+        <item quantity="one">след 1 час</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item quantity="other">след %d минути</item>
+        <item quantity="one">след 1 минута</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item quantity="other">след %d секунди</item>
+        <item quantity="one">след 1 секунда</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item quantity="other">Преди %d дни</item>
+        <item quantity="one">вчера</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item quantity="other">Преди %d часа</item>
+        <item quantity="one">Преди 1 час</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item quantity="other">Преди %d минути</item>
+        <item quantity="one">Преди 1 минута</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item quantity="other">Преди %d секунди</item>
+        <item quantity="one">Преди 1 секунда</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">месеца</item>
+        <item quantity="one">месец</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d снимки</item>
+        <item quantity="one">%1$d снимка</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d нови посетители</item>
+        <item quantity="one">%1$d нов посетител</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d посетители</item>
+        <item quantity="one">%1$d посетител</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">%1$s нови</item>
+        <item quantity="one">%1$s ново</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">месеца</item>
+        <item quantity="one">месец</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">секунди</item>
+        <item quantity="one">секунда</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">Суперхаресвания</item>
+        <item quantity="one">Суперхаресване</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">%1$d %2$s на всеки %3$s</item>
+        <item quantity="one">%1$d %2$s на всеки/всяка %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%1$d безплатни %2$s на всеки %3$s )</item>
+        <item quantity="one">(%1$d безплатнo %2$s на всеки %3$s )</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">Дай ми %1$d %2$s на всеки %3$s</item>
+        <item quantity="one">Дай ми %1$d %2$s на всеки %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">Вземи %1$d %2$s на всеки %3$s и увеличи шансовете си за съвпадение на три пъти.</item>
+        <item quantity="one">Вземи %1$d %2$s на всеки %3$s и увеличи шансовете си за съвпадение на три пъти.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">%1$s нови</item>
+        <item quantity="one">%1$s ново</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">Предложения</item>
+        <item quantity="one">Предложение</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">Остават %1$d предложения</item>
+        <item quantity="one">Остава %1$d предложение</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">Остават %1$d ч.</item>
+        <item quantity="one">Остава %1$d ч.</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">остават &lt;%1$d мин.</item>
+        <item quantity="one">остава &lt;%1$d min.</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">остават %1$d мин.</item>
+        <item quantity="one">остава %1$d мин.</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">актуализации</item>
+        <item quantity="one">актуализация</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">седмици</item>
+        <item quantity="one">седмица</item>
+    </plurals>
+</resources>

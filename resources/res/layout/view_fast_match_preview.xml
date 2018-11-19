@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <FrameLayout android:id="@c6248a/matches_avatar_container" android:layout_width="@dimen/new_match_avatar_size" android:layout_height="@dimen/new_match_avatar_size" android:layout_centerHorizontal="true">
+        <include android:id="@c6248a/fast_match_empty_center_view" layout="@layout/view_fast_match_empty_center_view"/>
+        <include android:id="@c6248a/fast_match_avatar_view" android:visibility="gone" layout="@layout/view_fast_match_avatar_view"/>
+    </FrameLayout>
+    <com.tinder.views.FastMatchEntryLoadingBar android:id="@c6248a/loading_bar" android:visibility="gone" android:layout_width="@dimen/new_match_avatar_size" android:layout_height="@dimen/new_match_avatar_size"/>
+    <View android:id="@c6248a/empty_fast_match_overlay" android:background="@drawable/oval_fastmatch_preview_empty_overlay" android:visibility="gone" android:layout_width="@dimen/new_match_avatar_size" android:layout_height="@dimen/new_match_avatar_size"/>
+    <include android:id="@c6248a/fast_match_overlay" layout="@layout/view_fast_match_preview_overlay"/>
+    <FrameLayout android:layout_width="@dimen/new_match_avatar_size" android:layout_height="@dimen/new_match_avatar_size" android:layout_alignTop="@c6248a/matches_avatar_container" android:layout_centerHorizontal="true">
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_xs" android:textColor="@color/white" android:layout_gravity="center" android:id="@c6248a/nonsubscriber_likes_count" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" app:customFontStyle="3"/>
+    </FrameLayout>
+</merge>

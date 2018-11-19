@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="@dimen/paywall_dialog_width" android:layout_height="wrap_content" app:cardCornerRadius="@dimen/exit_survey_dialog_corner_radius" app:cardPreventCornerOverlap="false">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/space_s">
+        <com.tinder.views.CustomTextView android:textSize="@dimen/text_l" android:textColor="@color/black" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@c6248a/placesConfirmationDialogTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_s" app:customFontStyle="3"/>
+        <LinearLayout android:gravity="bottom" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:paddingRight="@dimen/places_delete_dialog_content_padding_right" android:paddingBottom="@dimen/places_delete_dialog_content_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_large" android:weightSum="2" android:animateLayoutChanges="false">
+            <com.tinder.views.CustomTextView android:textColor="@color/text_light" android:gravity="center" android:id="@c6248a/placesConfirmationDialogCancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" app:customFontStyle="3" style="@style/dialog_standard_action"/>
+            <com.tinder.views.CustomTextView android:gravity="center" android:id="@c6248a/placesConfirmationDialogConfirm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" app:customFontStyle="3" style="@style/PlacesConfirmationDialog"/>
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

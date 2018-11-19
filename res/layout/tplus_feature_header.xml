@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:background="@color/white" android:padding="@dimen/padding_med" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/feature_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" android:layout_alignParentLeft="true" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/feature_title_color" android:id="@id/feature_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toRightOf="@id/feature_icon" app:customFontStyle="medium" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_xs" android:textColor="@color/subtext_gray" android:id="@id/feature_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/feature_icon" android:layout_below="@id/feature_title" />
+</RelativeLayout>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_accountkit_account_verified">اکاؤنٹ کی توثیق ہو گئی!</string>
+    <string name="com_accountkit_button_begin">شروع کریں</string>
+    <string name="com_accountkit_button_cancel">منسوخ کریں</string>
+    <string name="com_accountkit_button_confirm">توثیق کریں</string>
+    <string name="com_accountkit_button_continue">جاری رکھیں</string>
+    <string name="com_accountkit_button_edit">ترمیم کریں</string>
+    <string name="com_accountkit_button_log_in">لاگ ان کریں</string>
+    <string name="com_accountkit_button_next">اگلا</string>
+    <string name="com_accountkit_button_ok">ٹھیک ہے</string>
+    <string name="com_accountkit_button_resend_code_in">%1$d میں دوبارہ SMS بھیجیں</string>
+    <string name="com_accountkit_button_resend_sms">SMS دوبارہ بھیجیں</string>
+    <string name="com_accountkit_button_send">بھیجیں</string>
+    <string name="com_accountkit_button_send_code_in_call">کال موصول کریں</string>
+    <string name="com_accountkit_button_send_code_in_call_details">اپنا کوڈ صوتی کال میں حاصل کریں</string>
+    <string name="com_accountkit_button_send_code_in_call_from_facebook_details">Facebook سے اپنا کوڈ صوتی کال میں حاصل کریں</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook پر کوڈ حاصل کریں</string>
+    <string name="com_accountkit_button_send_code_in_fb_details">کوڈ Facebook اطلاع کے طور پر آئے گا</string>
+    <string name="com_accountkit_button_start">آغاز کریں</string>
+    <string name="com_accountkit_button_start_over">دوبارہ کوشش کریں</string>
+    <string name="com_accountkit_button_submit">جمع کرائیں</string>
+    <string name="com_accountkit_check_email">اپنا ای میل کھولیں</string>
+    <string name="com_accountkit_code_sent_to">اپنے موبائل نمبر کی توثیق کریں %1$s</string>
+    <string name="com_accountkit_confirmation_code_agreement">Facebook کی &lt;a href=%2$s>شرائط&lt;/a>، &lt;a href=%3$s>ڈیٹا پالیسی&lt;/a> اور &lt;a href=%4$s>کوکی کے استعمال&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">Facebook کی &lt;a href=%2$s>شرائط&lt;/a>، &lt;a href=%3$s>ڈیٹا پالیسی&lt;/a>، &lt;a href=%4$s>کوکی کے استعمال&lt;/a> اور %6$s کی &lt;a href=%5$s>رازداری کی پالیسی&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">Facebook کی &lt;a href=%2$s>شرائط&lt;/a>، &lt;a href=%3$s>ڈیٹا پالیسی&lt;/a>، &lt;a href=%4$s>کوکی کے استعمال&lt;/a> اور %7$s کی &lt;a href=%5$s>رازداری کی پالیسی&lt;/a> اور &lt;a href=%6$s>خدمت کی شرائط&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">Facebook کی &lt;a href=%2$s>شرائط&lt;/a>، &lt;a href=%3$s>ڈیٹا پالیسی&lt;/a>، &lt;a href=%4$s>کوکی کے استعمال&lt;/a> اور %7$s کی &lt;a href=%5$s>رازداری کی پالیسی&lt;/a> اور &lt;a href=%6$s>خدمت کی شرائط&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔ آپ کے اکاؤنٹ کی توثیق کس طرح کی گئی تھی اس بارے میں &lt;a href=%8$s>مزید جانیں&lt;/a>۔</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">Facebook کی &lt;a href=%2$s>شرائط&lt;/a>، &lt;a href=%3$s>ڈیٹا پالیسی&lt;/a>، &lt;a href=%4$s>کوکی کے استعمال&lt;/a> اور %6$s کی &lt;a href=%5$s>رازداری کی پالیسی&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔ آپ کے اکاؤنٹ کی توثیق کس طرح کی گئی تھی اس بارے میں &lt;a href=%7$s>مزید جانیں&lt;/a>۔</string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">Facebook کی &lt;a href=%2$s>شرائط&lt;/a>، &lt;a href=%3$s>ڈیٹا پالیسی&lt;/a> اور &lt;a href=%4$s>کوکی کے استعمال&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔ آپ کے اکاؤنٹ کی توثیق کس طرح کی گئی تھی اس بارے میں &lt;a href=%5$s>مزید جانیں&lt;/a>۔</string>
+    <string name="com_accountkit_confirmation_code_text">مجھے کوئی کوڈ نہیں ملا</string>
+    <string name="com_accountkit_confirmation_code_title">اپنا کوڈ درج کریں</string>
+    <string name="com_accountkit_email_invalid">یہ ای میل غلط ہے۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="com_accountkit_email_loading_title">ای میل بھیجا جا رہا ہے…</string>
+    <string name="com_accountkit_email_login_retry_title">اپنے ای میل کی توثیق کریں</string>
+    <string name="com_accountkit_email_login_text">%2$s استعمال کرنے میں آپ کی مدد کے لیے Account Kit بذریعہ Facebook سے ای میل سے توثیق حاصل کرنے کے لیے %1$s پر ٹیپ کریں۔ اسے استعمال کرنے کے لیے آپ کو Facebook اکاؤنٹ کی ضرورت نہیں ہے۔ &lt;a href=%3$s>اس بارے میں جانیں کہ Facebook آپ کی معلومات کس طرح استعمال کرتا ہے&lt;/a>۔</string>
+    <string name="com_accountkit_email_login_title">اپنا ای میل پتہ درج کریں</string>
+    <string name="com_accountkit_email_not_received">ای میل دوبارہ بھیجیں</string>
+    <string name="com_accountkit_email_verify_title">ای میل کھولیں اور اپنے ای میل پتے کی توثیق کریں</string>
+    <string name="com_accountkit_enter_code_sent_to">%1$s پر بھیجا گیا کوڈ بھی درج کریں</string>
+    <string name="com_accountkit_error_title">سسٹم کا مسئلہ پیش آ گیا۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook سے اپنا کوڈ درج کریں</string>
+    <string name="com_accountkit_logging_in">لاگ ان کر رہا ہے…</string>
+    <string name="com_accountkit_other_ways_to_get_code">کوڈ حاصل کرنے کے دوسرے طریقے:</string>
+    <string name="com_accountkit_phone_error_title">براہ کرم ایک درست موبائل نمبر درج کریں۔</string>
+    <string name="com_accountkit_phone_loading_title">آپ کی نمبر کی توثیق ہو رہی ہے…</string>
+    <string name="com_accountkit_phone_login_retry_title">اپنے موبائل فون نمبر کی توثیق کریں</string>
+    <string name="com_accountkit_phone_login_text">Facebook کی طرف سے تعاون یافتہ Account Kit کے ساتھ اپنے اکاؤنٹ کی توثیق کرنے کے لیے %1$s پر ٹیپ کریں۔ Account Kit استعمال کرنے کے لیے آپ کو Facebook اکاؤنٹ کی ضرورت نہیں ہے۔ آپ کے نمبر کی توثیق کرنے کے لیے SMS بھیجا جا سکتا ہے۔ پیغام اور ڈیٹا کی قیمتیں لاگو ہو سکتی ہیں۔ &lt;a href=%2$s>اس بارے میں جانیں کہ Facebook آپ کی معلومات کس طرح استعمال کرتا ہے&lt;/a>۔</string>
+    <string name="com_accountkit_phone_login_title">اپنا موبائل فون نمبر درج کریں</string>
+    <string name="com_accountkit_resend_check">اپنا SMS ان باکس چیک کریں</string>
+    <string name="com_accountkit_resend_email_text">نیا ای میل بھیجیں</string>
+    <string name="com_accountkit_resend_title">اگر آپ کو کوڈ حاصل نہیں ہوا ہے تو:</string>
+    <string name="com_accountkit_sent_title">بھیج دیا!</string>
+    <string name="com_accountkit_success_title">توثیق ہو گئی!</string>
+    <string name="com_accountkit_toolbar_title">%1$s میں لاگ ان کریں</string>
+    <string name="com_accountkit_verify_confirmation_code_title">"ہم آپ کے کوڈ کی توثیق نہیں کر سکے۔
+براہ کرم دوبارہ کوشش کریں:"</string>
+    <string name="com_accountkit_verify_title">آپ کے کوڈ کی توثیق ہو رہی ہے…</string>
+    <string name="com_accountkit_voice_call_code_entry_title">صوتی کال سے اپنا کوڈ درج کریں</string>
+    <string name="common_android_wear_notification_needs_update_text">‏%1$s کو Android Wear ایپ کیلئے اپ ڈیٹ درکار ہے۔</string>
+    <string name="common_android_wear_update_text">‏جب تک آپ Android Wear ایپ اپ ڈیٹ نہیں کر لیتے %1$s تب تک نہیں چلے گی۔</string>
+    <string name="common_android_wear_update_title">‏Android Wear کو اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_api_unavailable_text">‏%1$s کیلئے ایک یا مزید Google Play سروسز درکار ہیں جو فی الحال دستیاب نہیں ہے۔ براہ کرم مدد کیلئے ڈیولپر سے رابطہ کریں۔</string>
+    <string name="common_google_play_services_enable_button">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_enable_text">‏جب تک آپ Google Play سروسز فعال نہیں کر لیتے ہیں %1$s تب تک کام نہیں کرے گی۔</string>
+    <string name="common_google_play_services_enable_title">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s کے ذریعے درخواست کی گئی</string>
+    <string name="common_google_play_services_install_button">‏Google Play سروسز حاصل کریں</string>
+    <string name="common_google_play_services_install_text_phone">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے فون سے غائب ہیں۔</string>
+    <string name="common_google_play_services_install_text_tablet">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے ٹیبلیٹ سے غائب ہیں۔</string>
+    <string name="common_google_play_services_install_title">‏Google Play سروسز حاصل کریں</string>
+    <string name="common_google_play_services_invalid_account_text">متعین اکاؤنٹ اس آلہ پر موجود نہیں ہے۔ براہ کرم ایک مختلف اکاؤنٹ منتخب کریں۔</string>
+    <string name="common_google_play_services_invalid_account_title">غلط اکاؤنٹ</string>
+    <string name="common_google_play_services_needs_enabling_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کا فعال ہونا ضروری ہے۔</string>
+    <string name="common_google_play_services_network_error_text">‏Google Play سروسز سے مربوط ہونے کیلئے ایک ڈیٹا کنکشن کی ضرورت ہے۔</string>
+    <string name="common_google_play_services_network_error_title">نیٹ ورک میں خرابی</string>
+    <string name="common_google_play_services_notification_needs_update_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کیلئے ایک اپ ڈیٹ ضروری ہے۔</string>
+    <string name="common_google_play_services_notification_ticker">‏Google Play سروسز کی خرابی</string>
+    <string name="common_google_play_services_sign_in_failed_text">متعینہ اکاؤنٹ میں سائن ان کرنے میں خرابی آگئی۔ براہ کرم ایک مختلف اکاؤنٹ منتخب کریں۔</string>
+    <string name="common_google_play_services_sign_in_failed_title">سائن ان کرنا ناکام ہوگیا</string>
+    <string name="common_google_play_services_unknown_issue">‏Google Play سروسز کے ساتھ نامعلوم مسئلہ۔</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s Google Play سروسز پر انحصار کرتی ہے، جو آپ کے آلہ کی جانب سے تعاون یافتہ نہیں ہے۔ مدد کیلئے مینوفیکچرر سے رابطہ کریں۔</string>
+    <string name="common_google_play_services_unsupported_title">‏Google Play سروسز</string>
+    <string name="common_google_play_services_update_button">اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_update_text">‏جب تک آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں %1$s تب تک نہیں چلے گی۔</string>
+    <string name="common_google_play_services_update_title">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_updating_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو فی الحال اپ ڈیٹ ہو رہی ہیں۔</string>
+    <string name="common_google_play_services_updating_title">‏Google Play سروسز اپ ڈیٹ ہو رہی ہیں</string>
+    <string name="common_open_on_phone">فون پر کھولیں</string>
+    <string name="common_signin_button_text">سائن ان کریں</string>
+    <string name="common_signin_button_text_long">‏Google کے ساتھ سائن ان کریں</string>
+</resources>

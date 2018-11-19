@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auth_fb_disclaimer_content">
+        <item>Mes nieko neviešiname per FACEBOOK</item>
+        <item>Kiti naudotojai, išskyrus jau esamas tavo simpatijas, negalės tau parašyti</item>
+    </string-array>
+    <string-array name="empty_message_suggestions">
+        <item>\#NenaudokTinderVairuodamas</item>
+        <item>\#PakalbinkTinderSimpatijas</item>
+        <item>Žygdarbis atliktas!</item>
+        <item>O juk vos nenustūmei kairėn...</item>
+        <item>Gal tavo rankos surištos, ar ką?</item>
+        <item>Gal tu lauki atskiro pakvietimo?!</item>
+        <item>Paklausk apie jūsų bendrus draugus.</item>
+        <item>Bendrauk.</item>
+        <item>Per TINDER žmonės jau išsiuntė milijardus žinučių. Ką parašysi tu?</item>
+        <item>Carpe diem.</item>
+        <item>Katės ar šunys?</item>
+        <item>Pokalbiai patys nepasirašo.</item>
+        <item>Tyluma...</item>
+        <item>Ar prisikandai liežuvį?</item>
+        <item>Turbūt žinai, kad pigūs juokeliai nepraeis?</item>
+        <item>Tu gali!</item>
+        <item>Nepalik tuščios vietos.</item>
+        <item>Nežiūrinėk profilių vairuodamas.</item>
+        <item>Nenaudok TINDER prie vairo.</item>
+        <item>Tiks ir jaustukai.</item>
+        <item>Visiems patinka mąstytojai.</item>
+        <item>Per praėjusią valandą žmonės išsiuntė penkis milijonus žinučių... o tu nesugalvoji vienos?</item>
+        <item>Pasakyk komplimentą ir stebėk, kas bus.</item>
+        <item>Paieškok GOOGLE, kaip nebūti nuobodžiam.</item>
+        <item>Paieškok šmaikščių frazių GOOGLE.</item>
+        <item>Geras klausimas! Klausk ir bus atsakyta.</item>
+        <item>Nebijok, TINDER su tavimi!</item>
+        <item>Būtų mandagu pasakyti bent „labas“!</item>
+        <item>Pasakyk ką nors įdomiau nei „labukas“.</item>
+        <item>Su „labas“ dėmesio neatkreipsi.</item>
+        <item>Parodyk šiek tiek mandagumo... pasakyk ką nors!</item>
+        <item>Kada pagaliau parašysi žinutę?</item>
+        <item>Kiek naujų draugų suradai per TINDER?</item>
+        <item>Keliomis kalbomis galėtum parašyti žinutę?</item>
+        <item>Jei tik būtų galima kaip nors užmegzti pokalbį. Ai, pala...</item>
+        <item>Jei nieko neklausi, tai nieko nepeši.</item>
+        <item>Jei neklausi, tai ir nesužinosi.</item>
+        <item>Tikiuosi dabar nevairuoji.</item>
+        <item>Daugybėje kultūrų laikoma, kad tylėti nemandagu.</item>
+        <item>Toliau įrašyk komplimentą.</item>
+        <item>Toliau įrašyk linksmą žinutę.</item>
+        <item>Toliau įrašyk ką nors protingo.</item>
+        <item>Nugyvenę gyvenimą gailimės tik neišnaudotų progų.</item>
+        <item>Gal šiandien tavo #TinderDiena?</item>
+        <item>Viskas prasideda čia.</item>
+        <item>Gerai, kad netyčia nepaslinkai į kairę.</item>
+        <item>Kol neišsiųsi žinutės, tol TINDER ne TINDER.</item>
+        <item>Tai prasidėjo čia.</item>
+        <item>Tai prasidėjo nuo TINDER.</item>
+        <item>Pažiūrėkim, ką įdomaus pasakys.</item>
+        <item>Na ką, pradedam.</item>
+        <item>Gyvenk tarsi šiandien mirtum, svajok tarsi gyventum amžinai.</item>
+        <item>Ženk pirmą žingsnį.</item>
+        <item>Priversk nusišypsoti.</item>
+        <item>Štai, perėjai į kitą lygį!</item>
+        <item>Niekas nemėgsta nuobodų.</item>
+        <item>Daugiau nei 36 %% tavo FACEBOOK draugų naudoja TINDER.</item>
+        <item>Daugiau nei 90 %% komplimentų sulaukia atsako.</item>
+        <item>Pasiruošęs „tinderinti“?</item>
+        <item>Pasakyk ką nors!</item>
+        <item>Pasakyk ką nors smagaus!</item>
+        <item>Pagirk kurią nors nuotrauką.</item>
+        <item>Pasakyk ką nors šmaikštaus!</item>
+        <item>Padėkok, kad paslinko į dešinę.</item>
+        <item>Apsuk galvą...</item>
+        <item>Matai tą laukelį apačioje? Parašyk komplimentą.</item>
+        <item>Matai tą laukelį apačioje? Atsiskleisk kaip asmenybė.</item>
+        <item>Matai tą laukelį apačioje? Parašyk jame ką nors šmaikštaus.</item>
+        <item>Matai tą laukelį? Ką nors jame įrašyk.</item>
+        <item>Išsiųsk žinutę, kol baterija neišsikrovė.</item>
+        <item>Droviesi?</item>
+        <item>Nešvaistyk dienos veltui.</item>
+        <item>Reikėtų kokios programėlės susipažinimui su šauniais žmonėmis. Ai, pala...</item>
+        <item>Spoksodamas į ekraną pokalbio nepradėsi.</item>
+        <item>Pradėti pokalbius nedrąsu, bet čia tai negalioja!</item>
+        <item>Baik būti nuobodus.</item>
+        <item>Papasakok, kokia nesąmonė tau ką tik nutiko.</item>
+        <item>Pasakyk, kodėl paslinkai dešinėn.</item>
+        <item>Šuo jau būtų pasenęs dviem metais.</item>
+        <item>FOMO reiškia baimę ką nors praleisti.</item>
+        <item>Laimi tas, kas pirmas išsiunčia žinutę.</item>
+        <item>Nieko čia blogo pirmam parašyti žinutę.</item>
+        <item>Gyvenime tikriausiai atrodo gražiau.</item>
+        <item>Tas žmogus irgi spokso į ekraną... parašyk pirmąją žinutę.</item>
+        <item>Jei nieko nesakysi, tai žmogus ir nežinos.</item>
+        <item>Ekranas su pokalbiu atrodo daug geriau. Pagavai užuominą?</item>
+        <item>Šis ekranas atrodytų daug gražiau, jei jame būtų pokalbis.</item>
+        <item>TINDER už tave neparašys...</item>
+        <item>TINDER už tave neparašys... bent jau kol kas.</item>
+        <item>TINDER už tave neparašys... nors šiaip ir galėtų, bet ne.</item>
+        <item>TINDER esmė yra pažintys, kurių ieškai... pradėk čia.</item>
+        <item>TINDER įpučia vieną kibirkštį po kitos.</item>
+        <item>\#AbuPasirinkomeDesinePuse</item>
+        <item>Kad jau tiek toli nuėjai, tai gal ką nors pasakyk.</item>
+        <item>Ko tu dar lauki?</item>
+        <item>Dėl ko paslinkai į dešinę?</item>
+        <item>Kokia tavo didžiausia paslaptis?</item>
+        <item>Kas įdomaus tau nutiko per TINDER?</item>
+        <item>Kur buvai, kai paslinkai dešinėn?</item>
+        <item>Kuri nuotrauka tau labiausiai patinka?</item>
+        <item>Kodėl paslinkai dešinėn?</item>
+        <item>Kodėl nepasakei „labas“?</item>
+        <item>Ko toks rimtas veidas?</item>
+        <item>Pergalė!</item>
+        <item>YOLO.</item>
+        <item>YOLO: nesnausk, simpatijos laukia!</item>
+        <item>Abu kažką mėgstate. Išsiaiškinkite, ką.</item>
+        <item>Galėsi pasakoti vaikams, kaip susipažinote per TINDER.</item>
+        <item>Ne veltui turi du nykščius.</item>
+        <item>Juk žinai, kad šis žmogus su tavim nori bendrauti, taip? #AbuPasirinkomeDesinePuse</item>
+        <item>Jei nenusiųsi žinutės simpatijai, tai 100 %% nesusitiksite.</item>
+        <item>Jei nieko nedarysi, tai 100 %% nebus ir ko prisiminti.</item>
+        <item>Gyveni tiktai kartą.</item>
+        <item>Vienatvei galas... tik pirmiau pasakyk „labas“.</item>
+        <item>Tavo ėjimas.</item>
+        <item>Abu negalite atsitraukti nuo TINDER... matai, jau turite šį tą bendro.</item>
+        <item>Tu nejaunėji.</item>
+        <item>Bijai pasakyti „labas“? Gėda pelėda.</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>Š</item>
+        <item>ŠR</item>
+        <item>R</item>
+        <item>PR</item>
+        <item>P</item>
+        <item>PV</item>
+        <item>V</item>
+        <item>ŠV</item>
+    </string-array>
+    <array name="maps_full_compass_directions" />
+    <string-array name="ordinals">
+        <item>nulinis</item>
+        <item>1-as</item>
+        <item>2-as</item>
+        <item>3-as</item>
+        <item>4-as</item>
+        <item>5-as</item>
+        <item>6-as</item>
+    </string-array>
+</resources>

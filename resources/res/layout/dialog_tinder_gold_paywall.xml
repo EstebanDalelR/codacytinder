@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@c6248a/dialog_background" android:background="@color/transparent" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.v7.widget.CardView android:layout_gravity="center" android:id="@c6248a/card_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin_med" android:layout_marginTop="@dimen/space_s" app:cardBackgroundColor="@color/white" app:cardCornerRadius="@dimen/rounded_card_radius" app:cardPreventCornerOverlap="false">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" android:animateLayoutChanges="true">
+            <FrameLayout android:background="@color/light_gold1" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+                <com.tinder.paywall.views.PaywallPerksCarouselView android:id="@c6248a/paywall_perks_view_pager" android:layout_width="match_parent" android:layout_height="@dimen/paywall_pager_height" app:animateBackground="false" app:pageIndicatorColor="@color/gold1"/>
+                <com.tinder.shimmy.ShimmerFrameLayout android:layout_gravity="top|center_vertical|center_horizontal|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/paywall_margin_large">
+                    <com.tinder.views.CustomTextView android:textSize="@dimen/tinder_plus_dialog_title" android:textColor="@color/gold1" android:id="@c6248a/paywall_dialog_title" android:layout_width="wrap_content" android:layout_height="wrap_content" app:customFontStyle="4"/>
+                </com.tinder.shimmy.ShimmerFrameLayout>
+            </FrameLayout>
+            <com.tinder.fastmatch.view.UpgradeGoldPaywallItem android:id="@c6248a/upgrade_paywall_item" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <com.tinder.paywall.views.PaywallItemGroupView android:id="@c6248a/paywall_items" android:paddingBottom="@dimen/space_xs" android:layout_width="match_parent" android:layout_height="@dimen/paywall_group_items_height" android:layout_marginTop="-32dp"/>
+            <com.tinder.gold.TinderGoldButtonView android:id="@c6248a/subscribe_button" android:layout_width="@dimen/dialog_button_width" android:layout_height="@dimen/dialog_button_height" android:layout_marginTop="@dimen/space_s" android:layout_marginBottom="@dimen/gold_paywall_button_margin" app:buttonText="@string/paywall_continue"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</FrameLayout>

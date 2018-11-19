@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@c6248a/onboarding_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ProgressBar android:id="@+id/progress_bar" android:layout_width="match_parent" android:layout_height="5dp" android:progressDrawable="@drawable/onboarding_progressbar_drawable" style="@style/Widget.ProgressBar.Horizontal"/>
+    <android.support.v7.widget.Toolbar android:gravity="center" android:id="@c6248a/toolbar_onboarding" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.tinder.views.CustomTextView android:layout_gravity="center" android:id="@c6248a/title_text" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Onboarding.Toolbar.Title.Text"/>
+        <com.tinder.views.CustomTextView android:textColor="@color/onboarding_toolbar_skip_button_text_color" android:gravity="center" android:layout_gravity="end" android:id="@c6248a/onboarding_skip_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/space_s" android:text="@string/onboarding_skip" android:textAllCaps="true" android:layout_marginEnd="@dimen/space_s" style="@style/Onboarding.Toolbar.Title.Text"/>
+    </android.support.v7.widget.Toolbar>
+    <ViewFlipper android:id="@c6248a/onboarding_view_flipper" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.tinder.base.view.LockableViewPager android:id="@c6248a/pager" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <include android:id="@c6248a/onboarding_error_layout" android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/view_onboarding_create_user_error"/>
+    </ViewFlipper>
+</LinearLayout>

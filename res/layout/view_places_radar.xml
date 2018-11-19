@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="@dimen/places_pin_radar_size" android:layout_height="@dimen/places_pin_radar_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:layout_gravity="center" android:background="@drawable/places_radar_dot" android:layout_width="@dimen/places_radar_dot_size" android:layout_height="@dimen/places_radar_dot_size" />
+</merge>

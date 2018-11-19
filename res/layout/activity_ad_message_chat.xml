@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:id="@id/chatRootContainer" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.tinder.chat.view.ChatAvatarView android:layout_gravity="bottom" android:id="@id/ad_message_chat_avatar" android:layout_width="@dimen/sponsored_messages_avatar_size" android:layout_height="@dimen/sponsored_messages_avatar_size" android:layout_marginBottom="@dimen/space_xl" android:layout_marginStart="@dimen/space_xs" android:layout_marginEnd="@dimen/space_xs" />
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:autoLink="none" android:layout_gravity="bottom" android:id="@id/ad_message_chat_message" android:background="@drawable/chat_message_inbound_bubble_background_batch_start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/sponsored_messages_message_margin" android:layout_marginTop="@dimen/space_xl" android:layout_marginRight="@dimen/space_xxxxl" android:layout_marginEnd="@dimen/space_xxxxl" app:customFontStyle="regular" style="@style/ChatMessageTextStyle.Inbound" />
+        </LinearLayout>
+    </ScrollView>
+    <com.tinder.chat.view.ChatToolbar android:theme="@style/ThemeOverlay.AppCompat.ActionBar" android:layout_gravity="top" android:id="@id/chat_toolbar" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/ads_video_container" android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <View android:layout_gravity="bottom" android:id="@+id/portrait_ad_bottom_gradient" android:background="@c14757c/gradient_dfp_portrait_ad" android:layout_width="match_parent" android:layout_height="0dp"/>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@+id/square_video_bottom_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="104dp">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@+id/ads_card_logo_image" android:layout_width="200dp" android:layout_height="64dp" android:scaleType="centerInside"/>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@android:color/white" android:id="@+id/ads_card_clickthrough_text" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <com.tinder.recs.view.nativevideos.ArrowAnimationDrawableImageView android:layout_width="20dp" android:layout_height="11dp" android:layout_marginStart="10dp" android:layout_marginEnd="10dp"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:layout_gravity="bottom|left|center_vertical|center_horizontal|center|start" android:id="@+id/ads_card_ad_icon" android:padding="8dp" android:layout_width="40dp" android:layout_height="40dp" android:src="@c14757c/ic_ad"/>
+    <include android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/recs_card_stamps_include"/>
+</FrameLayout>

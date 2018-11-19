@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:id="@+id/top_picks_header_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@c15232h/top_picks_header_title" style="@c15233i/TopPicksHeaderTitle"/>
+    <TextView android:gravity="center" android:id="@+id/top_picks_header_byline" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xxxs" android:text="@c15232h/top_picks_header_byline" style="@c15233i/TopPicksHeaderByline"/>
+</merge>

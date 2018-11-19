@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.tinder.recs.view.tappablecards.ImageDrawableTappableView android:id="@+id/bpc_carousel_view" android:layout_width="match_parent" android:layout_height="match_parent" app:hideProgressBar="true"/>
+    <View android:layout_gravity="bottom" android:id="@+id/display_ad_bottom_gradient" android:background="@c14757c/gradient_dfp_portrait_ad" android:layout_width="match_parent" android:layout_height="0dp"/>
+    <FrameLayout android:layout_gravity="bottom" android:id="@+id/bpc_card_info_container" android:padding="@dimen/rec_card_content_padding" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginEnd="32dp">
+            <TextView android:id="@+id/ads_card_title" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Recs.Card.EdgelessText.Headline"/>
+            <TextView android:id="@+id/ads_card_sub_title" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Recs.Card.EdgelessText.Teaser"/>
+            <TextView android:background="@drawable/bpc_ads_text_bg" android:paddingTop="4dp" android:paddingBottom="4dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="@string/ad_logo" android:fontFamily="@font/proximanova_semibold" android:paddingStart="8dp" android:paddingEnd="8dp"/>
+        </LinearLayout>
+        <ImageView android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:layout_width="@dimen/rec_card_info_icon" android:layout_height="@dimen/rec_card_info_icon" android:src="@drawable/ic_info_white" android:layout_marginStart="@dimen/margin_small"/>
+    </FrameLayout>
+    <include layout="@layout/recs_card_stamps_include"/>
+</merge>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">בוסטים</item>
+        <item quantity="one">בוסט</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">בוסטים</item>
+        <item quantity="one">בוסט</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d חברים משותפים</item>
+        <item quantity="one">חבר/ה משותף/ת %1$d</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">ימים</item>
+        <item quantity="one">יום</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">במרחק %1$d ק\"מ</item>
+        <item quantity="one">במרחק ק\"מ %1$d</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">במרחק %1$d מיילים</item>
+        <item quantity="one">במרחק מייל %1$d</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d ימים</item>
+        <item quantity="one">יום</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d שעות</item>
+        <item quantity="one">שעה</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d חודשים</item>
+        <item quantity="one">חודש</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d שניות</item>
+        <item quantity="one">שניה</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d שבועות</item>
+        <item quantity="one">שבוע</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">%1$d חברים עם אנשי קשר משותפים</item>
+        <item quantity="one">חבר %1$d עם אנשי קשר משותפים</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d תמונות אינטסגרם</item>
+        <item quantity="one">תמונת אינסטגרם %1$d</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d תחומי עניין משותפים</item>
+        <item quantity="one">תחום עניין משותף %1$d</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">חודשים</item>
+        <item quantity="one">חודש</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d תמונות</item>
+        <item quantity="one">תמונה %1$d</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">חודשים</item>
+        <item quantity="one">חודש</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">שניות</item>
+        <item quantity="one">שניה</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">סופר לייקים</item>
+        <item quantity="one">סופר לייק</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%1$d %2$s בחינם בכל %3$s)</item>
+        <item quantity="one">( %2$s %1$d בחינם בכל %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">תנו לי %1$d %2$s בכל %3$s</item>
+        <item quantity="one">תנו לי %2$s %1$d בכל %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">%1$d %2$s בכל %3$s וסיכוי גבוה פי 3 למצוא התאמה</item>
+        <item quantity="one">%2$s %1$d בכל %3$s וסיכוי גבוה פי 3 למצוא התאמה</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">שבועות</item>
+        <item quantity="one">שבוע</item>
+    </plurals>
+</resources>

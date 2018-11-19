@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <LinearLayout android:layout_gravity="bottom|left|center_vertical|center_horizontal|center|start" android:orientation="vertical" android:id="@c6248a/top_picks_rec_info_container" android:paddingBottom="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/space_xs">
+        <TextView android:id="@c6248a/top_picks_rec_basic_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/Recs.Card.EdgelessText.Headline.TopPicks"/>
+        <com.tinder.toppicks.view.GoldShimmerTimerView android:id="@c6248a/recs_top_picks_expiration_time" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <com.tinder.recs.view.superlike.GridSuperLikeButtonView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:id="@+id/superlikeable_headline_star_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/superlike_gradient" android:scaleType="center" android:scaleX="0.65" android:scaleY="0.65" app:backgroundTint="@android:color/white" app:fabSize="0"/>
+</merge>

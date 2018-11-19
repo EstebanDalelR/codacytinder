@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetBottom="@dimen/heart_grand_gesture_background_inset"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <bitmap android:gravity="center|top|clip_vertical" android:src="@drawable/heart_reaction_background" />
+</inset>

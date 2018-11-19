@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/fan_ad_native_ad_unit" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.recsads.view.DispatchTouchDownListenerMediaView android:layout_gravity="center" android:id="@id/fan_ad_media_view" android:layout_width="wrap_content" android:layout_height="180.0dip" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/fan_ad_info_container" />
+</LinearLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" android:interpolator="@android:anim/accelerate_interpolator" android:shareInterpolator="false" android:ordering="sequentially">
+    <objectAnimator android:duration="@android:integer/config_longAnimTime" android:valueFrom="#00000000" android:valueTo="#ff000000" android:propertyName="fillColor"/>
+</set>

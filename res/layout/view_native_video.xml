@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/ads_card_stub" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:layout_gravity="start" android:id="@id/ads_card_play_pause_button" android:background="?selectableItemBackgroundBorderless" android:padding="@dimen/padding_xxmed" android:visibility="gone" android:layout_width="@dimen/native_ad_controls_button_size" android:layout_height="@dimen/native_ad_controls_button_size" android:src="@drawable/ic_pause" />
+    <ImageView android:layout_gravity="end" android:id="@id/ads_card_mute_button" android:background="?selectableItemBackgroundBorderless" android:padding="@dimen/padding_small" android:visibility="gone" android:layout_width="@dimen/native_ad_controls_button_size" android:layout_height="@dimen/native_ad_controls_button_size" android:src="@drawable/ic_volume_muted" />
+    <ProgressBar android:layout_gravity="center" android:id="@id/progress_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <View android:layout_gravity="bottom" android:id="@id/ads_card_click_through" android:layout_width="fill_parent" android:layout_height="@dimen/native_ad_clickthrough_container_height" />
+</merge>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>iškėlimą</item>
+        <item>iškėlimus</item>
+        <item>iškėlimo</item>
+        <item>iškėlimų</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>iškėlimas</item>
+        <item>iškėlimai</item>
+        <item>iškėlimo</item>
+        <item>iškėlimų</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d bendras pažįstamas</item>
+        <item>%1$d bendri pažįstami</item>
+        <item>%1$d bendro pažįstamo</item>
+        <item>%1$d bendrų pažįstamų</item>
+    </plurals>
+    <plurals name="day">
+        <item>diena</item>
+        <item>dienos</item>
+        <item>d.</item>
+        <item>dienų</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>Liko %1$d diena</item>
+        <item>Liko %1$d dienos</item>
+        <item>Liko %1$d d.</item>
+        <item>Liko %1$d dienų</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d km atstumu</item>
+        <item>%1$d km atstumu</item>
+        <item>%1$d km atstumu</item>
+        <item>%1$d km atstumu</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d mylios atstumu</item>
+        <item>%1$d mylių atstumu</item>
+        <item>%1$d mylios atstumu</item>
+        <item>%1$d mylių atstumu</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>%1$d dieną</item>
+        <item>%1$d dienas</item>
+        <item>%1$d d.</item>
+        <item>%1$d dienų</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>%1$d valandą</item>
+        <item>%1$d valandas</item>
+        <item>%1$d val.</item>
+        <item>%1$d valandų</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>%1$d mėnesį</item>
+        <item>%1$d mėnesius</item>
+        <item>%1$d mėn.</item>
+        <item>%1$d mėnesių</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>%1$d sekundę</item>
+        <item>%1$d sekundes</item>
+        <item>%1$d sek.</item>
+        <item>%1$d sekundžių</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>%1$d savaitę</item>
+        <item>%1$d savaites</item>
+        <item>%1$d sav.</item>
+        <item>%1$d savaičių</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Kas %1$d naują LIKE</item>
+        <item>Kas %1$d naujus LIKE</item>
+        <item>Kas %1$d naujo LIKE</item>
+        <item>Kas %1$d naujų LIKE</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d draugas tarp bendrų pažįstamų</item>
+        <item>%1$d draugai tarp bendrų pažįstamų</item>
+        <item>%1$d draugo tarp bendrų pažįstamų</item>
+        <item>%1$d draugų tarp bendrų pažįstamų</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d INSTAGRAM nuotrauka</item>
+        <item>%1$d INSTAGRAM nuotraukos</item>
+        <item>%1$d INSTAGRAM nuotraukos</item>
+        <item>%1$d INSTAGRAM nuotraukų</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d pomėgis</item>
+        <item>%1$d pomėgiai</item>
+        <item>%1$d pomėgio</item>
+        <item>%1$d pomėgių</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>rytoj</item>
+        <item>po %d d.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>po 1 val.</item>
+        <item>po %d val.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>po 1 min.</item>
+        <item>po %d min.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>po 1 sek.</item>
+        <item>po %d sek.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>vakar</item>
+        <item>Prieš %d d.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>Prieš 1 valandą</item>
+        <item>Prieš %d val.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>Prieš 1 min.</item>
+        <item>Prieš %d min.</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>Prieš 1 sek.</item>
+        <item>Prieš %d sek.</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 val.</item>
+        <item>%d val.</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 min.</item>
+        <item>%d min.</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 sek.</item>
+        <item>%d sek.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>rytoj</item>
+        <item>po %d d.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>po 1 val.</item>
+        <item>po %d val.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>po 1 min.</item>
+        <item>po %d min.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>po 1 sek.</item>
+        <item>po %d sek.</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>vakar</item>
+        <item>Prieš %d d.</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>Prieš 1 valandą</item>
+        <item>Prieš %d val.</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>Prieš 1 minutę</item>
+        <item>Prieš %d min.</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>Prieš 1 sek.</item>
+        <item>Prieš %d sek.</item>
+    </plurals>
+    <plurals name="month">
+        <item>mėnuo</item>
+        <item>mėnesiai</item>
+        <item>mėn.</item>
+        <item>mėnesių</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d nuotrauka</item>
+        <item>%1$d nuotraukos</item>
+        <item>%1$d nuotraukos</item>
+        <item>%1$d nuotraukų</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d neseniai apsilankė</item>
+        <item>%1$d neseniai apsilankė</item>
+        <item>%1$d neseniai apsilankė</item>
+        <item>%1$d neseniai apsilankė</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d lankytojas</item>
+        <item>%1$d lankytojai</item>
+        <item>%1$d lankytojo</item>
+        <item>%1$d lankytojų</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s naujas</item>
+        <item>%1$s nauji</item>
+        <item>%1$s naujo</item>
+        <item>%1$s naujų</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>mėnuo</item>
+        <item>mėnesiai</item>
+        <item>mėn.</item>
+        <item>mėnesių</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>sekundę</item>
+        <item>sekundes</item>
+        <item>sek.</item>
+        <item>sekundžių</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>SUPER LIKE</item>
+        <item>SUPER LIKE</item>
+        <item>SUPER LIKE</item>
+        <item>SUPER LIKE</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s kas %3$s</item>
+        <item>%1$d %2$s kas %3$s</item>
+        <item>%1$d %2$s kas %3$s</item>
+        <item>%1$d %2$s kas %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d %2$s nemokamai kas %3$s)</item>
+        <item>(%1$d %2$s nemokamai kas %3$s)</item>
+        <item>(%1$d %2$s nemokamai kas %3$s)</item>
+        <item>(%1$d %2$s nemokamai kas %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Duokite man %1$d %2$s kas %3$s</item>
+        <item>Duokite man %1$d %2$s kas %3$s</item>
+        <item>Duokite man %1$d %2$s kas %3$s</item>
+        <item>Duokite man %1$d %2$s kas %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Gauk %1$d %2$s nemokamai kas %3$s ir 3 kartus padidink simpatijos tikimybę</item>
+        <item>Gauk %1$d %2$s nemokamai kas %3$s ir 3 kartus padidink simpatijos tikimybę</item>
+        <item>Gauk %1$d %2$s nemokamai kas %3$s ir 3 kartus padidink simpatijos tikimybę</item>
+        <item>Gauk %1$d %2$s nemokamai kas %3$s ir 3 kartus padidink simpatijos tikimybę</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s naujas</item>
+        <item>%1$s nauji</item>
+        <item>%1$s naujo</item>
+        <item>%1$s naujų</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Parinktasis</item>
+        <item>Parinktieji</item>
+        <item>Parinkt.</item>
+        <item>Parinktųjų</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>Liko %1$d Parinktasis</item>
+        <item>Liko %1$d Parinktieji</item>
+        <item>Liko %1$d Parinkt.</item>
+        <item>Liko %1$d Parinktųjų</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>Liko %1$d val.</item>
+        <item>Liko %1$d val.</item>
+        <item>Liko %1$d val.</item>
+        <item>Liko %1$d val.</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>Liko &lt;%1$d min.</item>
+        <item>Liko &lt;%1$d min.</item>
+        <item>Liko &lt;%1$d min.</item>
+        <item>Liko &lt;%1$d min.</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>Liko %1$d min.</item>
+        <item>Liko %1$d min.</item>
+        <item>Liko %1$d min.</item>
+        <item>Liko %1$d min.</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>atnaujinti į</item>
+        <item>atnaujinti į</item>
+        <item>atnaujinti į</item>
+        <item>atnaujinti į</item>
+    </plurals>
+    <plurals name="week">
+        <item>savaitė</item>
+        <item>savaitės</item>
+        <item>sav.</item>
+        <item>savaičių</item>
+    </plurals>
+</resources>

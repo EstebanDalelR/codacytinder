@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/SocialModalContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.views.AvatarView android:layout_gravity="center" android:id="@id/added_by_friend_modal_image" android:layout_width="@dimen/modal_image_size" android:layout_height="@dimen/modal_image_size" android:layout_marginBottom="24.0dip" app:av_borderWidth="@dimen/avatar_border_small_size" app:av_circleDiameter="@dimen/avatar_length_matches" app:av_style="round" />
+    <com.tinder.views.CustomTextView android:id="@id/added_by_friend_modal_title" android:layout_marginBottom="8.0dip" app:customFontStyle="regular" style="@style/social_modal_content_title_text" />
+    <com.tinder.views.CustomTextView android:id="@id/added_by_friend_modal_names" style="@style/social_modal_content_title_text" />
+    <com.tinder.views.CustomTextView android:id="@id/added_by_friend_modal_button" android:layout_marginTop="12.0dip" android:text="@string/added_by_friend_modal_button_text" style="@style/social_modal_yes_button" />
+</LinearLayout>

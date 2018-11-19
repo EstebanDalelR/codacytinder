@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/bubbleSmall" android:background="@drawable/bubble_view_circle_dark" android:layout_width="8.0dip" android:layout_height="8.0dip" />
+    <View android:id="@id/bubbleLarge" android:background="@drawable/bubble_view_circle_dark" android:layout_width="12.0dip" android:layout_height="12.0dip" />
+    <com.tinder.views.CustomTextView android:textSize="18.0sp" android:textColor="@color/white" android:ellipsize="end" android:id="@id/contentTextView" android:background="@drawable/bubble_view_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:maxEms="15" />
+</merge>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buy_button_text_size">16sp</dimen>
+    <dimen name="large_gamepad_button_size">72dp</dimen>
+    <dimen name="small_gamepad_button_size">56dp</dimen>
+</resources>

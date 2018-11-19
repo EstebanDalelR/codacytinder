@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tinder.shimmy.ShimmerFrameLayout android:id="@id/shimmer_frame_layout" android:layout_width="@dimen/fast_match_overlay_width" android:layout_height="@dimen/fast_match_overlay_height" android:layout_alignTop="@id/matches_avatar_container" android:layout_centerHorizontal="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:background="@drawable/fastmatch_preview_background" android:layout_width="@dimen/new_match_avatar_size" android:layout_height="@dimen/new_match_avatar_size" />
+    <ImageView android:layout_gravity="bottom|center" android:id="@id/match_attribution_icon_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_fastmatch_background" android:scaleType="centerCrop" app:layout_shimmers="false" />
+    <ImageView android:layout_gravity="bottom|center" android:id="@id/match_attribution_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_fastmatch_foreground" android:scaleType="centerCrop" />
+    <View android:layout_gravity="center|top" android:id="@id/nonsubscriber_likes_count_background" android:background="@drawable/fast_match_nonsubscriber_preview_count" android:visibility="invisible" android:layout_width="@dimen/fast_match_nonsubscriber_count_size" android:layout_height="@dimen/fast_match_nonsubscriber_count_size" android:layout_marginTop="20.0dip" />
+</com.tinder.shimmy.ShimmerFrameLayout>

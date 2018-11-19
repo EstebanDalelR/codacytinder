@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/white" android:layout_width="@dimen/block_report_dialog_width" android:layout_height="wrap_content">
+    <com.tinder.views.CustomTextView android:id="@c6248a/btn_mute" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/mute_notifications" style="@style/button_dialog"/>
+    <com.tinder.views.CustomTextView android:id="@c6248a/btn_un_mute" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/unmute_notifications" style="@style/button_dialog"/>
+    <com.tinder.views.CustomTextView android:id="@c6248a/btn_recommend" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/recommend_to_a_friend" style="@style/button_dialog"/>
+    <View android:id="@c6248a/view_separator1" android:background="@color/gray_very_very_light" android:layout_width="match_parent" android:layout_height="@dimen/nav_divider_height"/>
+    <com.tinder.views.CustomTextView android:id="@c6248a/btn_report" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/report" style="@style/button_dialog"/>
+    <View android:id="@c6248a/view_separator2" android:background="@color/gray_very_very_light" android:layout_width="match_parent" android:layout_height="@dimen/nav_divider_height"/>
+    <com.tinder.views.CustomTextView android:id="@c6248a/btn_unmatch" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/block" style="@style/button_dialog"/>
+</LinearLayout>

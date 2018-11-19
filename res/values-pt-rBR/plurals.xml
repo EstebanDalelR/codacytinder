@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item quantity="other">Boosts</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item quantity="other">Boosts</item>
+        <item quantity="one">Boost</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item quantity="other">%1$d ligações em comum</item>
+        <item quantity="one">%1$d ligação em comum</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">dias</item>
+        <item quantity="one">dia</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">%1$d dias restando</item>
+        <item quantity="one">%1$d dia restando</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item quantity="other">%1$d km de distância</item>
+        <item quantity="one">%1$d km de distância</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item quantity="other">%1$d milhas de distância</item>
+        <item quantity="one">%1$d milha de distância</item>
+    </plurals>
+    <plurals name="every_day">
+        <item quantity="other">%1$d dias</item>
+        <item quantity="one">dia</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">hora</item>
+    </plurals>
+    <plurals name="every_month">
+        <item quantity="other">%1$d meses</item>
+        <item quantity="one">mês</item>
+    </plurals>
+    <plurals name="every_second">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">segundo</item>
+    </plurals>
+    <plurals name="every_week">
+        <item quantity="other">%1$d semanas</item>
+        <item quantity="one">semana</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item quantity="other">A cada %1$d curtidas novas</item>
+        <item quantity="one">A cada %1$d curtida nova</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item quantity="other">%1$d amigos para ligações em comum</item>
+        <item quantity="one">%1$d amigo para ligações em comum</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item quantity="other">%1$d fotos do Instagram</item>
+        <item quantity="one">%1$d foto do Instagram</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item quantity="other">%1$d interesses</item>
+        <item quantity="one">%1$d interesse</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">meses</item>
+        <item quantity="one">mês</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item quantity="other">%1$d visitantes recentes</item>
+        <item quantity="one">%1$d visitante recente</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item quantity="other">%1$d visitantes</item>
+        <item quantity="one">%1$d visitante</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item quantity="other">%1$s Novas</item>
+        <item quantity="one">%1$s Nova</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item quantity="other">meses</item>
+        <item quantity="one">mês</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">segundos</item>
+        <item quantity="one">segundo</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item quantity="other">Super Likes</item>
+        <item quantity="one">Super Like</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item quantity="other">%1$d %2$s a cada %3$s</item>
+        <item quantity="one">%1$d %2$s a cada %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item quantity="other">(%1$d %2$s gratuitos a cada %3$s)</item>
+        <item quantity="one">(%1$d %2$s gratuito a cada %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item quantity="other">Envie-me %1$d %2$s a cada %3$s</item>
+        <item quantity="one">Envie-me %1$d %2$s a cada %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item quantity="other">Receba %1$d %2$s a cada %3$s e triplique suas chances de dar um Match.</item>
+        <item quantity="one">Receba %1$d %2$s a cada %3$s e triplique suas chances de dar um Match.</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item quantity="other">%1$s Novas</item>
+        <item quantity="one">%1$s Nova</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item quantity="other">Escolhas</item>
+        <item quantity="one">Escolhas</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item quantity="other">%1$d Escolhas restantes</item>
+        <item quantity="one">%1$d Escolhas restantes</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item quantity="other">%1$dh restantes</item>
+        <item quantity="one">%1$dh restante</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item quantity="other">&lt;%1$d mins restantes</item>
+        <item quantity="one">&lt;%1$d min restante</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item quantity="other">%1$d mins restantes</item>
+        <item quantity="one">%1$d min restante</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item quantity="other">atualizações</item>
+        <item quantity="one">atualização</item>
+    </plurals>
+    <plurals name="week">
+        <item quantity="other">semanas</item>
+        <item quantity="one">semana</item>
+    </plurals>
+</resources>

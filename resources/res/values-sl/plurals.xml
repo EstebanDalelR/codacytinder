@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>Spodbudo</item>
+        <item>Spodbudi</item>
+        <item>Spodbude</item>
+        <item>Spodbud</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>Spodbuda</item>
+        <item>Spodbudi</item>
+        <item>Spodbude</item>
+        <item>Spodbud</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>%1$d skupni stik</item>
+        <item>%1$d skupna stika</item>
+        <item>%1$d skupne stike</item>
+        <item>%1$d skupnih stikov</item>
+    </plurals>
+    <plurals name="day">
+        <item>dan</item>
+        <item>dni</item>
+        <item>dni</item>
+        <item>dni</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>Še %1$d dan</item>
+        <item>Še %1$d dni</item>
+        <item>Še %1$d dni</item>
+        <item>Še %1$d dni</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>%1$d kilometer stran</item>
+        <item>%1$d kilometra stran</item>
+        <item>%1$d kilometre stran</item>
+        <item>%1$d kilometrov stran</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>%1$d miljo stran</item>
+        <item>%1$d milji stran</item>
+        <item>%1$d milje stran</item>
+        <item>%1$d milj stran</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>dan</item>
+        <item>%1$d. dan</item>
+        <item>%1$d. dan</item>
+        <item>%1$d. dan</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>uro</item>
+        <item>%1$d. uro</item>
+        <item>%1$d. uro</item>
+        <item>%1$d. uro</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>mesec</item>
+        <item>%1$d. mesec</item>
+        <item>%1$d. mesec</item>
+        <item>%1$d. mesec</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>sekundo</item>
+        <item>%1$d. sekundo</item>
+        <item>%1$d. sekundo</item>
+        <item>%1$d. sekundo</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>teden</item>
+        <item>%1$d. teden</item>
+        <item>%1$d. teden</item>
+        <item>%1$d. teden</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>Vsak %1$d nov všeček</item>
+        <item>Vsaka %1$d nova všečka</item>
+        <item>Vsake %1$d nove všečke</item>
+        <item>Vsakih %1$d novih všečkov</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>%1$d prijatelj za skupne stike</item>
+        <item>%1$d prijatelja za skupne stike</item>
+        <item>%1$d prijatelji za skupne stike</item>
+        <item>%1$d prijateljev za skupne stike</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>%1$d fotografija z instagrama</item>
+        <item>%1$d fotografiji z Instagrama</item>
+        <item>%1$d fotografije z instagrama</item>
+        <item>%1$d fotografij z Instagrama</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>%1$d zanimanje</item>
+        <item>%1$d zanimanji</item>
+        <item>%1$d zanimanja</item>
+        <item>%1$d zanimanj</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>jutri</item>
+        <item>čez %d dni</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>čez 1 uro</item>
+        <item>čez %d ur</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>čez 1 min</item>
+        <item>čez %d minut</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>čez 1 sekundo</item>
+        <item>čez toliko sekund: %d</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>včeraj</item>
+        <item>Pred %d dnevi</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>pred 1 uro</item>
+        <item>Pred %d urami</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>pred 1 minuto</item>
+        <item>Pred %d minutami</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>pred 1 sekundo</item>
+        <item>Pred toliko sekundami: %d</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>1 ura</item>
+        <item>%d h</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>1 minuta</item>
+        <item>%d min</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>1 sekunda</item>
+        <item>%d s</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>jutri</item>
+        <item>čez %d dni</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>čez 1 uro</item>
+        <item>čez %d ur</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>čez 1 minuto</item>
+        <item>Čez toliko minut: %d.</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>čez 1 sekundo</item>
+        <item>Čez %d sekund</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>včeraj</item>
+        <item>Pred %d dnevi</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>pred 1 uro</item>
+        <item>Pred %d urami</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>pred 1 minuto</item>
+        <item>Pred %d minutami</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>Pred 1 sekundo</item>
+        <item>pred toliko sekundami: %d</item>
+    </plurals>
+    <plurals name="month">
+        <item>mesec</item>
+        <item>meseca</item>
+        <item>mesece</item>
+        <item>mesecev</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>%1$d fotografija</item>
+        <item>%1$d fotografiji</item>
+        <item>%1$d fotografije</item>
+        <item>%1$d fotografij</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d nedavni obiskovalec</item>
+        <item>%1$d nedavna obiskovalca</item>
+        <item>%1$d nedavni obiskovalci</item>
+        <item>%1$d nedavnih obiskovalcev</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>%1$d obiskovalec</item>
+        <item>%1$d obiskovalca</item>
+        <item>%1$d obiskovalci</item>
+        <item>%1$d obiskovalcev</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s nov</item>
+        <item>%1$s nova</item>
+        <item>%1$s novi</item>
+        <item>%1$s novih</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>mesec</item>
+        <item>meseca</item>
+        <item>mesece</item>
+        <item>mesecev</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>sekundo</item>
+        <item>sekundi</item>
+        <item>sekunde</item>
+        <item>sekund</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>Super všeček</item>
+        <item>Super všečka</item>
+        <item>Super všečke</item>
+        <item>Super všečkov</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%1$d %2$s vsak %3$s</item>
+        <item>%1$d %2$s vsaka %3$s</item>
+        <item>%1$d %2$s vsake %3$s</item>
+        <item>%1$d %2$s vsakih %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>(%1$d brezplačna %2$s vsako %3$s)</item>
+        <item>(%1$d brezplačni %2$s vsako %3$s)</item>
+        <item>(%1$d brezplačne %2$s vsako %3$s</item>
+        <item>(%1$d brezplačnih %2$s vsako %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>Daj mi %1$d %2$s vsako %3$s</item>
+        <item>Daj mi %1$d %2$s vsako %3$s</item>
+        <item>Daj mi %1$d %2$s vsako %3$s</item>
+        <item>Daj mi %1$d %2$s vsako %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>Pridobi %1$d %2$s vsako %3$s in trikratno povečaj svoje možnosti za ujemanje</item>
+        <item>Pridobi %1$d %2$s vsako %3$s in trikratno povečaj svoje možnosti za ujemanje</item>
+        <item>Pridobi %1$d %2$s vsako %3$s in trikratno povečaj svoje možnosti za ujemanje</item>
+        <item>Pridobi %1$d %2$s vsako %3$s in trikratno povečaj svoje možnosti za ujemanje</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s nov</item>
+        <item>%1$s nova</item>
+        <item>%1$s novi</item>
+        <item>%1$s novih</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>izbira</item>
+        <item>izbiri</item>
+        <item>izbire</item>
+        <item>izbir</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>Izbir do konca: %1$d</item>
+        <item>Izbir do konca: %1$d</item>
+        <item>Izbir do konca: %1$d</item>
+        <item>Izbir do konca: %1$d</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>Še %1$d ura</item>
+        <item>Še %1$d uri</item>
+        <item>Še %1$d ure</item>
+        <item>Še %1$d ur</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>Še manj kot %1$d minuta</item>
+        <item>Še manj kot %1$d minuti</item>
+        <item>Še manj kot %1$d minute</item>
+        <item>Še manj kot %1$d minut</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>Še %1$d minuta</item>
+        <item>Še %1$d minuti</item>
+        <item>Še %1$d minute</item>
+        <item>Še %1$d minut</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>posodobitev</item>
+        <item>posodobitvi</item>
+        <item>posodobitve</item>
+        <item>posodobitev</item>
+    </plurals>
+    <plurals name="week">
+        <item>teden</item>
+        <item>tedna</item>
+        <item>tedne</item>
+        <item>tednov</item>
+    </plurals>
+</resources>

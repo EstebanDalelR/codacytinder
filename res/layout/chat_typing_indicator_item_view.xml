@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.chat.view.ChatAvatarView android:id="@id/chatAvatarView" android:layout_width="@dimen/match_frag_avatar_length" android:layout_height="@dimen/match_frag_avatar_length" android:layout_marginTop="@dimen/space_xxs" android:layout_marginStart="@dimen/space_xs" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <com.tinder.typingindicator.view.TypingIndicatorView android:id="@id/typingIndicatorView" android:background="@drawable/chat_typing_indicator_bubble_background" android:padding="@dimen/space_s" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xxs" android:layout_marginStart="@dimen/space_xs" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toEndOf="@id/chatAvatarView" app:layout_constraintTop_toTopOf="parent" />
+</merge>

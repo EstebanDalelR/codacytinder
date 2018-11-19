@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:startColor="@color/superlike_paywall_button_gradient_start" android:endColor="@color/superlike_paywall_button_gradient_end" android:angle="45.0" />
+    <corners android:radius="@dimen/user_menu_group_default_button_radius" />
+</shape>

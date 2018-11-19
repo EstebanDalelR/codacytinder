@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/chatMessageTimestamp" layout="@layout/chat_message_timestamp_view" />
+    <com.tinder.chat.view.ChatAvatarView android:id="@id/chatMessageAvatar" android:layout_width="@dimen/match_frag_avatar_length" android:layout_height="@dimen/match_frag_avatar_length" android:layout_marginStart="@dimen/space_xs" app:av_circleDiameter="@dimen/match_frag_avatar_length" app:av_style="round" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" />
+    <FrameLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginStart="@dimen/space_xs" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@id/chatMessageAvatar" app:layout_constraintTop_toBottomOf="@id/chatMessageTimestamp" app:layout_goneMarginStart="@dimen/inbound_chat_message_start_margin">
+        <com.tinder.chat.view.message.MessageImageView android:layout_gravity="start" android:id="@id/chat_message_image_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xxs" android:layout_marginEnd="@dimen/space_xxxl" app:cardCornerRadius="@dimen/gif_rounded_radius" app:cardElevation="0.0dip" app:layout_constraintStart_toStartOf="parent" />
+    </FrameLayout>
+    <com.tinder.chat.view.message.HeartView android:id="@id/chatMessageHeart" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="1.0" app:layout_constraintTop_toBottomOf="@id/chatMessageTimestamp" app:layout_constraintTop_toTopOf="parent" style="@style/ChatMessageHeart" />
+    <android.support.constraint.Guideline android:orientation="vertical" android:id="@id/message_left_guideline" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_begin="64.0dip" app:layout_constraintStart_toStartOf="parent" />
+</merge>

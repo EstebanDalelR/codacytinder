@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="auth_fb_disclaimer_content">
+        <item>Nećemo objavljivati ništa na Facebooku</item>
+        <item>Ostali korisnici ne mogu te kontaktirati ukoliko ranije niste spojeni</item>
+    </array>
+    <array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andora</item>
+        <item>971:AE:Ujedinjeni Arapski Emirati</item>
+        <item>93:AF:Afganistan</item>
+        <item>1:AG:Antigva</item>
+        <item>1:AI:Angvila</item>
+        <item>355:AL:Albanija</item>
+        <item>374:AM:Armenija</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Argentina</item>
+        <item>1:AS:Američka Samoa</item>
+        <item>43:AT:Austrija</item>
+        <item>61:AU:Australija</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azerbajdžan</item>
+        <item>387:BA:Bosna i Hercegovina</item>
+        <item>1:BB:Barbados</item>
+        <item>880:BD:Bangladeš</item>
+        <item>32:BE:Belgija</item>
+        <item>226:BF:Burkina Faso</item>
+        <item>359:BG:Bugarska</item>
+        <item>973:BH:Bahrein</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benin</item>
+        <item>1:BM:Bermuda</item>
+        <item>673:BN:Brunej</item>
+        <item>591:BO:Bolivija</item>
+        <item>599:BQ:Bonaire, Sint Eustatius i Saba</item>
+        <item>55:BR:Brazil</item>
+        <item>1:BS:Bahami</item>
+        <item>975:BT:Butan</item>
+        <item>267:BW:Bocvana</item>
+        <item>375:BY:Bjelorusija</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Kanada</item>
+        <item>243:CD:Demokratska Republika Kongo</item>
+        <item>236:CF:Srednjoafrička Republika</item>
+        <item>242:CG:Republika Kongo</item>
+        <item>41:CH:Švicarska</item>
+        <item>225:CI:Obala Bjelokosti</item>
+        <item>682:CK:Cookovo Otočje</item>
+        <item>56:CL:Čile</item>
+        <item>237:CM:Kamerun</item>
+        <item>86:CN:Kina</item>
+        <item>57:CO:Kolumbija</item>
+        <item>506:CR:Kostarika</item>
+        <item>53:CU:Kuba</item>
+        <item>238:CV:Zelenortski Otoci</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Cipar</item>
+        <item>420:CZ:Češka Republika</item>
+        <item>49:DE:Njemačka</item>
+        <item>253:DJ:Džibuti</item>
+        <item>45:DK:Danska</item>
+        <item>1:DM:Dominika</item>
+        <item>1:DO:Dominikanska Republika</item>
+        <item>213:DZ:Alžir</item>
+        <item>593:EC:Ekvador</item>
+        <item>372:EE:Estonija</item>
+        <item>20:EG:Egipat</item>
+        <item>212:EH:Zapadna Sahara</item>
+        <item>291:ER:Eritreja</item>
+        <item>34:ES:Španjolska</item>
+        <item>251:ET:Etiopija</item>
+        <item>358:FI:Finska</item>
+        <item>679:FJ:Fidži</item>
+        <item>500:FK:Falklandski Otoci</item>
+        <item>691:FM:Savezne Države Mikronezije</item>
+        <item>298:FO:Farski Otoci</item>
+        <item>33:FR:Francuska</item>
+        <item>241:GA:Gabon</item>
+        <item>44:GB:Ujedinjeno Kraljevstvo</item>
+        <item>1:GD:Grenada</item>
+        <item>995:GE:Gruzija</item>
+        <item>594:GF:Francuska Gvajana</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Gana</item>
+        <item>350:GI:Gibraltar</item>
+        <item>299:GL:Grenland</item>
+        <item>220:GM:Gambija</item>
+        <item>224:GN:Gvineja</item>
+        <item>590:GP:Gvadalupa</item>
+        <item>240:GQ:Ekvatorska Gvineja</item>
+        <item>30:GR:Grčka</item>
+        <item>502:GT:Gvatemala</item>
+        <item>1:GU:Guam</item>
+        <item>245:GW:Gvineja Bisau</item>
+        <item>592:GY:Gvajana</item>
+        <item>852:HK:Hong Kong</item>
+        <item>504:HN:Honduras</item>
+        <item>385:HR:Hrvatska</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Mađarska</item>
+        <item>62:ID:Indonezija</item>
+        <item>353:IE:Irska</item>
+        <item>972:IL:Izrael</item>
+        <item>44:IM:Otok Man</item>
+        <item>91:IN:Indija</item>
+        <item>246:IO:Britanski Indijskooceanski Teritorij</item>
+        <item>964:IQ:Irak</item>
+        <item>98:IR:Iran</item>
+        <item>354:IS:Island</item>
+        <item>39:IT:Italija</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:Jamajka</item>
+        <item>962:JO:Jordan</item>
+        <item>81:JP:Japan</item>
+        <item>254:KE:Kenija</item>
+        <item>996:KG:Kirgistan</item>
+        <item>855:KH:Kambodža</item>
+        <item>686:KI:Kiribati</item>
+        <item>269:KM:Komori</item>
+        <item>1:KN:Sveti Kristofor i Nevis</item>
+        <item>850:KP:Sjeverna Koreja</item>
+        <item>82:KR:Južna Koreja</item>
+        <item>965:KW:Kuvajt</item>
+        <item>1:KY:Kajmanski otoci</item>
+        <item>7:KZ:Kazahstan</item>
+        <item>856:LA:Laos</item>
+        <item>961:LB:Libanon</item>
+        <item>1:LC:Sv. Lucija</item>
+        <item>423:LI:Lihtenštajn</item>
+        <item>94:LK:Šri Lanka</item>
+        <item>231:LR:Liberija</item>
+        <item>266:LS:Lesoto</item>
+        <item>370:LT:Litva</item>
+        <item>352:LU:Luksemburg</item>
+        <item>371:LV:Latvija</item>
+        <item>218:LY:Libija</item>
+        <item>212:MA:Maroko</item>
+        <item>377:MC:Monako</item>
+        <item>373:MD:Moldavija</item>
+        <item>382:ME:Crna Gora</item>
+        <item>261:MG:Madagaskar</item>
+        <item>692:MH:Maršalovi Otoci</item>
+        <item>389:MK:Makedonija</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Mjanmar</item>
+        <item>976:MN:Mongolija</item>
+        <item>853:MO:Makao</item>
+        <item>1:MP:Sjevernomarijanski Otoci</item>
+        <item>596:MQ:Martinik</item>
+        <item>222:MR:Mauritanija</item>
+        <item>1:MS:Montserrat</item>
+        <item>356:MT:Malta</item>
+        <item>230:MU:Mauricijus</item>
+        <item>960:MV:Maldivi</item>
+        <item>265:MW:Malavi</item>
+        <item>52:MX:Meksiko</item>
+        <item>60:MY:Malezija</item>
+        <item>258:MZ:Mozambik</item>
+        <item>264:NA:Namibija</item>
+        <item>687:NC:Nova Kaledonija</item>
+        <item>227:NE:Niger</item>
+        <item>672:NF:Otok Norfolk</item>
+        <item>234:NG:Nigerija</item>
+        <item>505:NI:Nikaragva</item>
+        <item>31:NL:Nizozemska</item>
+        <item>47:NO:Norveška</item>
+        <item>977:NP:Nepal</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niue</item>
+        <item>64:NZ:Novi Zeland</item>
+        <item>968:OM:Oman</item>
+        <item>507:PA:Panama</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:Francuska Polinezija</item>
+        <item>675:PG:Papua Nova Gvineja</item>
+        <item>63:PH:Filipini</item>
+        <item>92:PK:Pakistan</item>
+        <item>48:PL:Poljska</item>
+        <item>508:PM:Sveti Petar i Mikelon</item>
+        <item>1:PR:Portoriko</item>
+        <item>970:PS:Palestina</item>
+        <item>351:PT:Portugal</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paragvaj</item>
+        <item>974:QA:Katar</item>
+        <item>262:RE:Réunion</item>
+        <item>40:RO:Rumunjska</item>
+        <item>381:RS:Srbija</item>
+        <item>7:RU:Rusija</item>
+        <item>250:RW:Ruanda</item>
+        <item>966:SA:Saudijska Arabija</item>
+        <item>677:SB:Salomonski Otoci</item>
+        <item>248:SC:Sejšeli</item>
+        <item>249:SD:Sudan</item>
+        <item>46:SE:Švedska</item>
+        <item>65:SG:Singapur</item>
+        <item>290:SH:Sveta Helena</item>
+        <item>386:SI:Slovenija</item>
+        <item>421:SK:Slovačka</item>
+        <item>232:SL:Sijera Leone</item>
+        <item>378:SM:San Marino</item>
+        <item>221:SN:Senegal</item>
+        <item>252:SO:Somalija</item>
+        <item>597:SR:Surinam</item>
+        <item>211:SS:Južni Sudan</item>
+        <item>239:ST:Sveti Toma i Princip</item>
+        <item>503:SV:Salvador</item>
+        <item>1:SX:Sveti Martin</item>
+        <item>963:SY:Sirija</item>
+        <item>268:SZ:Svazi</item>
+        <item>1:TC:Otoci Turks i Caicos</item>
+        <item>235:TD:Čad</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Tajland</item>
+        <item>992:TJ:Tadžikistan</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Istočni Timor</item>
+        <item>993:TM:Turkmenistan</item>
+        <item>216:TN:Tunis</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Turska</item>
+        <item>1:TT:Trinidad i Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Tajvan</item>
+        <item>255:TZ:Tanzanija</item>
+        <item>380:UA:Ukrajina</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:Sjedinjene Američke Države</item>
+        <item>598:UY:Urugvaj</item>
+        <item>998:UZ:Uzbekistan</item>
+        <item>1:VC:Sveti Vincent i Grenadini</item>
+        <item>58:VE:Venezuela</item>
+        <item>1:VG:Britanski Djevičanski Otoci</item>
+        <item>1:VI:Američki Djevičanski Otoci</item>
+        <item>84:VN:Vijetnam</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis i Futuna</item>
+        <item>685:WS:Samoa</item>
+        <item>967:YE:Jemen</item>
+        <item>262:YT:Mayotte</item>
+        <item>27:ZA:Južnoafrička Republika</item>
+        <item>260:ZM:Zambija</item>
+        <item>263:ZW:Zimbabve</item>
+    </array>
+    <array name="empty_message_suggestions">
+        <item>#NemojListatiIVoziti</item>
+        <item>#ReciSvomTinderu</item>
+        <item>Postignuće otključano!</item>
+        <item>A kad pomisliš da si skoro prelistao ulijevo...</item>
+        <item>Imaš zavezane ruke ili?</item>
+        <item>Čekaš da te netko pozove?!</item>
+        <item>Pitaj za zajedničke prijatelje.</item>
+        <item>Druži se.</item>
+        <item>Na Tinderu je poslano bezbroj poruka. Koja će biti tvoja?</item>
+        <item>Iskoristi dan.</item>
+        <item>Psi ili mačke?</item>
+        <item>Razgovori se ne pišu sami.</item>
+        <item>Cvrčci...</item>
+        <item>Maca ti je popapala jezik?</item>
+        <item>Znaš li da jeftine fore ne prolaze?</item>
+        <item>Učini to!</item>
+        <item>Nemoj ostavljati prazno.</item>
+        <item>Nemoj listati i voziti.</item>
+        <item>Nemoj biti na Tinderu i voziti.</item>
+        <item>Emojiji dobrodošli.</item>
+        <item>Svatko voli pažljivu osobu.</item>
+        <item>Pet milijuna poruka poslano je u zadnjih sat vremena... a ti ne možeš smisliti jednu?</item>
+        <item>Daj nekome kompliment i gledaj što će se dogoditi.</item>
+        <item>Guglaj kako ne biti dosadan.</item>
+        <item>Guglaj neke dobre ulete.</item>
+        <item>Super pitanje! Pitaj i dobij odgovor.</item>
+        <item>Ništa ne brini, tu je Tinder!</item>
+        <item>Pokaži manire i reci &quot;ej!&quot;</item>
+        <item>&quot;Ej&quot; je za pse.</item>
+        <item>&quot;Bok&quot; se ne pamti.</item>
+        <item>Pokaži manire i reci nešto.</item>
+        <item>Koliko još treba proći prije nego pošalješ poruku?</item>
+        <item>Koliko prijatelja si upoznao na Tinderu?</item>
+        <item>Na koliko jezika možeš tipkati?</item>
+        <item>Kada bi bar postojao način za započeti razgovor. Čekaj...</item>
+        <item>Ako ne pitaš, odgovor je uvijek ne.</item>
+        <item>Ako ne pitaš, nikad nećeš saznati.</item>
+        <item>Nadam se da ne voziš u ovom trenutku.</item>
+        <item>U mnogim kulturama tišina se smatra nepristojnom.</item>
+        <item>Umetni kompliment ispod.</item>
+        <item>Umetni smiješnu poruku ispod.</item>
+        <item>Umetni pažljivu poruku ispod.</item>
+        <item>Na kraju samo žalimo za prilikama koje nismo iskoristili.</item>
+        <item>Je li ovo tvoj #TinderUtorak?</item>
+        <item>Sve počinje ovdje.</item>
+        <item>Dobro da nisi slučajno prelistao ulijevo.</item>
+        <item>Nisi na Tinderu dok ne pošalješ poruku.</item>
+        <item>Sve je počelo ovdje.</item>
+        <item>Počelo je na Tinderu.</item>
+        <item>Pitam se kakvu poruku ima.</item>
+        <item>Pokrenimo stvari.</item>
+        <item>Živi kao da ćeš umrijeti danas, sanjaj kao da ćeš živjeti vječno.</item>
+        <item>Napravi prvi korak.</item>
+        <item>Nasmij ih.</item>
+        <item>Dosegnuta nova razina!</item>
+        <item>Nitko ne voli dosadnjakoviće.</item>
+        <item>Preko 36%% tvojih Facebook prijatelja je na Tinderu.</item>
+        <item>Na preko 90%% komplimenata dobije se odgovor.</item>
+        <item>Spreman za Tinderizaciju?</item>
+        <item>Reci nešto!</item>
+        <item>Reci nešto smiješno!</item>
+        <item>Reci nešto lijepo za neku od njihovih fotografija.</item>
+        <item>Reci nešto pametno!</item>
+        <item>Zahvali na listanju udesno.</item>
+        <item>Zavedi...</item>
+        <item>Vidiš li onu kućicu ispod? Daj im kompliment.</item>
+        <item>Vidiš li onu kućicu ispod? Umetni osobnost.</item>
+        <item>Vidiš li onu kućicu ispod? Napiši nešto pametno u njoj.</item>
+        <item>Vidiš ovu kućicu? Upiši nešto u nju.</item>
+        <item>Pošalji poruku prije nego ostaneš bez baterije.</item>
+        <item>Sramiš se?</item>
+        <item>Iskoristi dan.</item>
+        <item>Netko bi trebao napraviti aplikaciju za upoznavanje cool ljudi. Čekaj...</item>
+        <item>Buljenje u ekran neće započeti razg...</item>
+        <item>Započinjanje razgovora može biti čudno, ali ne ovdje!</item>
+        <item>Prestani biti dosadan.</item>
+        <item>Ispričaj što ti se to ludo upravo dogodilo.</item>
+        <item>Reci zašto si listao udesno.</item>
+        <item>To su skoro 2 pseće godine.</item>
+        <item>Definicija FOMO: strah da ćeš nešto propustiti.</item>
+        <item>Onaj tko pošalje prvu poruku pobjeđuje.</item>
+        <item>Ok je prvi poslati poruku.</item>
+        <item>Sigurno uživo izgleda još bolje.</item>
+        <item>I s druge strane gledaju u ekran... napiši prvu poruku.</item>
+        <item>Neće znati dok im ne kažeš.</item>
+        <item>Ovaj ekran izgleda puno bolje kad je na njemu razgovor. Mig, mig.</item>
+        <item>Ovaj ekran bi izgledao puno bolje da je na njemu razgovor.</item>
+        <item>Tinder ne može tipkati umjesto tebe...</item>
+        <item>Tinder ne može tipkati umjesto tebe... barem ne još.</item>
+        <item>Tinder ne može tipkati umjesto tebe... zapravo može, ali neće.</item>
+        <item>Na Tinderu si jer želiš upoznati nove ljude... počni ovdje.</item>
+        <item>Tinder je zapalio novu vatru.</item>
+        <item>#ObojeSmoListaliUdesno</item>
+        <item>Kad si već tu, bio bi red da nešto i kažeš.</item>
+        <item>Što čekaš?</item>
+        <item>Zbog čega ti je prst otišao udesno?</item>
+        <item>Koja je tvoja najveća tajna?</item>
+        <item>Koja je tvoja omiljena Tinder priča?</item>
+        <item>Gdje ti je prst listao udesno?</item>
+        <item>Koja ti je omiljena fotografija?</item>
+        <item>Zašto ti je prst otišao udesno?</item>
+        <item>Zašto nije bilo pozdrava?</item>
+        <item>Čemu tako ozbiljno lice?</item>
+        <item>Pobjeda!</item>
+        <item>YOLO.</item>
+        <item>SJSL: samo jednom se lista.</item>
+        <item>Oboje volite stvari. Pričajte o njima.</item>
+        <item>Moći ćete pričati djeci da ste se upoznali na Tinderu.</item>
+        <item>S razlogom imaš dva palca.</item>
+        <item>Znaš da već želi razgovarati s tobom, je l&apos; tako? #ObojeSmoListaliUdesno</item>
+        <item>Nikad nećeš upoznati 100%% spojeva ako im ne pošalješ poruku.</item>
+        <item>Propuštaš 100%% trenutaka koje nikad ne doživiš.</item>
+        <item>Samo jednom se živi.</item>
+        <item>Tvoji samački dani su gotovi... nakon što kažeš &quot;bok&quot;.</item>
+        <item>Ti si na potezu.</item>
+        <item>Imate nešto zajedničko: oboje ste ovisni o Tinderu.</item>
+        <item>Nećeš se pomladiti.</item>
+        <item>Strah te pozdraviti? Kukavice.</item>
+    </array>
+    <array name="maps_compass_directions">
+        <item>S</item>
+        <item>SI</item>
+        <item>I</item>
+        <item>JI</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+    </array>
+    <array name="maps_full_compass_directions">
+        <item>sjever</item>
+        <item>sjeveroistok</item>
+        <item>istok</item>
+        <item>jugoistok</item>
+        <item>jug</item>
+        <item>jugozapad</item>
+        <item>zapad</item>
+        <item>sjeverozapad</item>
+    </array>
+    <array name="ordinals">
+        <item>nulta</item>
+        <item>prvi</item>
+        <item>drugi</item>
+        <item>treći</item>
+        <item>četvrti</item>
+        <item>peti</item>
+        <item>šesti</item>
+    </array>
+</resources>

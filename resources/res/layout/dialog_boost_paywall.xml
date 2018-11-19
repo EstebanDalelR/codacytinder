@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@c6248a/dialog_boost_paywall_container" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.tinder.paywall.views.PaywallBaseView android:layout_gravity="center" android:id="@c6248a/paywall_base_view" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <com.tinder.boost.view.BoostGaugeView android:layout_gravity="center_horizontal" android:id="@c6248a/boost_gauge_view" android:layout_width="@dimen/paywall_icon_size" android:layout_height="@dimen/paywall_icon_size" android:layout_marginTop="@dimen/space_s" android:layout_marginBottom="@dimen/space_s"/>
+</FrameLayout>

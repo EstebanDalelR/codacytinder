@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/social_stroke_button_corner_radius" />
+            <gradient android:startColor="@color/gradient_red" android:endColor="@color/gradient_orange" android:angle="45.0" />
+        </shape>
+    </item>
+    <item android:left="@dimen/tinder_social_stroke_inset" android:top="@dimen/tinder_social_stroke_inset" android:right="@dimen/tinder_social_stroke_inset" android:bottom="@dimen/tinder_social_stroke_inset">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/social_stroke_button_corner_radius" />
+            <solid android:color="#ffffffff" />
+        </shape>
+    </item>
+</layer-list>

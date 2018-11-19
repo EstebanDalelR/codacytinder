@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:id="@c6248a/new_match_row_container" android:clickable="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="@dimen/new_match_avatar_container_width" android:layout_height="match_parent" android:layout_marginLeft="@dimen/margin_xsmall" android:layout_marginRight="@dimen/margin_xsmall" android:foreground="?attr/selectableItemBackground" android:layout_centerVertical="true" android:layout_marginStart="@dimen/margin_xsmall" android:layout_marginEnd="@dimen/margin_xsmall">
+    <FrameLayout android:gravity="center_vertical" android:paddingLeft="1dp" android:paddingRight="1dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xxs" android:layout_below="@c6248a/matches_avatar_container" android:paddingStart="1dp" android:paddingEnd="1dp">
+        <com.tinder.views.CustomTextView android:textColor="@color/title_gray" android:ellipsize="end" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@c6248a/fast_match_likes_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" app:customFontStyle="4"/>
+    </FrameLayout>
+    <FrameLayout android:id="@c6248a/matches_avatar_container" android:layout_width="@dimen/new_match_avatar_size" android:layout_height="@dimen/new_match_avatar_size" android:layout_centerHorizontal="true">
+        <com.tinder.fastmatch.view.FastMatchPreviewView android:layout_gravity="top|center_vertical|center_horizontal|center" android:layout_width="80dp" android:layout_height="86dp"/>
+    </FrameLayout>
+</RelativeLayout>

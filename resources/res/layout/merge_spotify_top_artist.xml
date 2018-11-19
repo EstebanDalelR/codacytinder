@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@color/white">
+    <com.tinder.views.CustomTextView android:textColor="@color/text_very_dark" android:id="@c6248a/profile_spotify_anthem_header" android:text="@string/spotify_my_theme_song" android:layout_alignParentTop="true" android:paddingStart="@dimen/space_m" android:layout_alignParentStart="true" style="@style/spotify_text_header"/>
+    <LinearLayout android:orientation="vertical" android:id="@c6248a/spotify_anthem_container" android:paddingLeft="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@c6248a/profile_spotify_anthem_header" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+        <com.tinder.views.CustomTextView android:textSize="16sp" android:textColor="@c15472b/gray" android:ellipsize="end" android:id="@c6248a/spotify_top_artist_song_name" android:paddingRight="@dimen/margin_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xxs" android:maxLines="1"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/space_xxs">
+            <ImageView android:layout_width="15dp" android:layout_height="15dp" android:src="@drawable/ic_spotify"/>
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_xxs" android:textColor="@c15472b/gray" android:ellipsize="end" android:id="@c6248a/spotify_top_artist_name" android:paddingRight="@dimen/margin_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_marginStart="@dimen/space_xxs"/>
+        </LinearLayout>
+    </LinearLayout>
+    <com.tinder.spotify.views.ArtworkPlayerView android:id="@c6248a/spotify_top_artist_artwork_player" android:paddingTop="@dimen/space_xs" android:paddingBottom="@dimen/space_xs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:paddingStart="@dimen/space_xs" android:paddingEnd="@dimen/space_s" android:layout_alignParentEnd="true"/>
+</merge>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.views.CustomTextView android:id="@id/single_line_entry_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding_med" android:layout_marginStart="@dimen/padding_med" style="@style/EditProfile.SingleLineEntryHeader" />
+    <com.tinder.views.CustomEditText android:layout_gravity="center_horizontal" android:id="@id/single_line_entry" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_xsmall" style="@style/EditProfile.SingleLineEntryField" />
+</merge>

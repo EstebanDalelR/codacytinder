@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_API_OUTDATED_WARNING">這個應用程式使用的 Google 地圖版本過舊，可能無法正常運作。</string>
+    <string name="maps_CLOSE_SOFTKEY">關閉</string>
+    <string name="maps_COMPASS_ALT_TEXT">指南針</string>
+    <string name="maps_DIRECTIONS_ALT_TEXT">查询路线</string>
+    <string name="maps_GOOGLE_MAP">Google 地图</string>
+    <string name="maps_LEVEL_ALT_TEXT">{0}楼</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">我的位置</string>
+    <string name="maps_OPEN_GMM_ALT_TEXT">在 Google 地图中打开</string>
+    <string name="maps_YOUR_LOCATION">您当前所在的位置</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">放大</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">縮小</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - 圖像 ©%2$d %3$s，地圖資料 ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">&amp;copy;%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - 圖像 ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - 地圖資料 ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">全景数据无效。</string>
+    <string name="maps_network_unavailable">此程序需要使用数据连接，因此它会自动重试。请检查您的信号强度、是否处于飞行模式以及是否停用了数据漫游。</string>
+    <string name="maps_no_panorama_data">未设置全景数据集。</string>
+    <string name="maps_panorama_disabled">图片已不再可用</string>
+    <string name="maps_service_unavailable">街景视图服务无法使用。</string>
+    <string name="maps_street_range_name_format">%2$s %1$s</string>
+    <string name="maps_waiting_for_network">数据连接已断开，正在重试…</string>
+    <string name="snap_connect_bitmoji_connection_error">连接错误</string>
+    <string name="snap_connect_bitmoji_connection_error_desc">出错了。请再试一次。</string>
+    <string name="snap_connect_bitmoji_connection_lost">连接消失</string>
+    <string name="snap_connect_bitmoji_connection_lost_desc">检查你的网络连接，然后重试。</string>
+    <string name="snap_connect_bitmoji_create_avatar">创建 Bitmoji</string>
+    <string name="snap_connect_bitmoji_create_avatar_bottom_text">你将进入 Bitmoji 应用</string>
+    <string name="snap_connect_bitmoji_create_avatar_title">关联 Bitmoji 与 Snapchat 以使用 Bitmoji 贴纸</string>
+    <string name="snap_connect_bitmoji_login_bottom_text">你将前往 Snapchat</string>
+    <string name="snap_connect_bitmoji_login_title">连接以使用 Bitmoji 贴纸</string>
+    <string name="snap_connect_bitmoji_no_results">未找到结果</string>
+    <string name="snap_connect_bitmoji_retry">重试</string>
+    <string name="snap_connect_bitmoji_search_hint">搜索 Bitmoji...</string>
+    <string name="snap_connect_login_button_text">连接至 Snapchat</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"我的位置
+精確度誤差在 {0} 公尺內"</string>
+</resources>

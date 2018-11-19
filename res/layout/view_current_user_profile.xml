@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.tinder.profile.view.ProfileView android:id="@id/profile_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <android.support.design.widget.FloatingActionButton android:layout_gravity="end|bottom|center" android:id="@id/profile_fab_edit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/suggested_screen_margins" android:layout_marginBottom="@dimen/suggested_screen_margins" android:src="@drawable/myprofile_actionbar_editprofile_normal" android:tint="@color/white" android:layout_marginEnd="@dimen/suggested_screen_margins" app:backgroundTint="@color/tinder_accent" app:borderWidth="0.0dip" style="@style/FloatingActionButtonAppCompatElevationPaddingOffset" />
+</merge>

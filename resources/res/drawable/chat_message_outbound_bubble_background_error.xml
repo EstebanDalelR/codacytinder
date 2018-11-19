@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="rectangle">
+    <solid android:color="@color/chat_outbound_bubble_error_background"/>
+    <padding android:left="@dimen/chat_bubble_horizontal_padding" android:top="@dimen/chat_bubble_vertical_padding" android:right="@dimen/chat_bubble_horizontal_padding" android:bottom="@dimen/chat_bubble_vertical_padding"/>
+    <corners android:topLeftRadius="@dimen/message_outbound_bubble_left_radius" android:topRightRadius="@dimen/message_outbound_bubble_right_radius" android:bottomLeftRadius="@dimen/message_outbound_bubble_left_radius" android:bottomRightRadius="@dimen/message_outbound_bubble_right_radius"/>
+</shape>

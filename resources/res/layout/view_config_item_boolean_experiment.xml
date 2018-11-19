@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.tinder.views.CustomSwitch android:textSize="@dimen/text_m" android:gravity="left|center_vertical|center_horizontal|center" android:id="@c6248a/config_boolean_item_custom_switch" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/males" android:contentDescription="@string/checkBox_males" style="@c15477g/settings_group_item"/>
+</merge>

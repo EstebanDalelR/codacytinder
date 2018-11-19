@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:layout_gravity="center" android:layout_width="@dimen/grand_gestures_tab_icon_size" android:layout_height="@dimen/grand_gestures_tab_icon_size">
+    <FrameLayout android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/GestureTabCircleStyle">
+        <ImageView android:gravity="center" android:layout_gravity="center" android:id="@c6248a/gestureIcon" style="@style/GestureTabIconStyle"/>
+    </FrameLayout>
+</FrameLayout>

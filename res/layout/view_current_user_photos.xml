@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.tinder.account.photos.photogrid.PhotoGridView android:id="@id/photo_grid_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/photo_grid_view_side_margin" android:layout_marginEnd="@dimen/photo_grid_view_side_margin" />
+    <com.tinder.account.photos.smartphotos.view.SmartPhotosRowView android:id="@id/smart_photos_row_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</merge>

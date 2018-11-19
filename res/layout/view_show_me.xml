@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/gray_background_light" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/include_me_in_search" android:background="@color/gray_background_light" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_xsmall" style="@style/more_gender_selection">
+        <com.tinder.views.CustomCheckBox android:textSize="@dimen/text_s" android:textColor="@color/text_dark" android:gravity="center_vertical" android:id="@id/show_me_male" android:background="@color/white" android:paddingLeft="@dimen/item_indent_left" android:paddingRight="@dimen/item_indent_left" android:layout_width="fill_parent" android:layout_height="@dimen/space_xxl" android:button="@null" android:text="@string/males" />
+        <com.tinder.views.CustomCheckBox android:textSize="@dimen/text_s" android:textColor="@color/text_dark" android:gravity="center_vertical" android:id="@id/show_me_female" android:background="@color/white" android:paddingLeft="@dimen/item_indent_left" android:paddingRight="@dimen/item_indent_left" android:layout_width="fill_parent" android:layout_height="@dimen/space_xxl" android:layout_marginTop="@dimen/margin_xxsmall" android:button="@null" android:text="@string/females" />
+    </LinearLayout>
+    <com.tinder.views.CustomTextView android:textColor="@color/text_semi_dark" android:id="@id/learn_more" android:background="@color/gray_background_light" android:paddingLeft="@dimen/margin_med" android:paddingRight="@dimen/margin_med" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/lean_more_about_gender_show_me" />
+</LinearLayout>

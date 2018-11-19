@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/paywall_perk_background" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v4.widget.Space android:id="@id/dialog_title_space" android:layout_width="fill_parent" android:layout_height="16.0dip" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/paywall_perk_image" android:background="@color/transparent" android:layout_width="@dimen/paywall_perk_image_height" android:layout_height="@dimen/paywall_perk_image_height" android:layout_marginTop="@dimen/margin_xsmall" android:scaleType="fitCenter" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_m" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/paywall_perk_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lineSpacingExtra="@dimen/space_xxs" android:paddingStart="@dimen/space_s" android:paddingEnd="@dimen/space_s" app:customFontStyle="bold" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:gravity="center" android:id="@id/paywall_perk_timer_text" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" app:customFontStyle="bold" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@color/z_profile_body_text" android:gravity="center" android:id="@id/paywall_perk_byline" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/space_s" android:paddingEnd="@dimen/space_s" app:customFontStyle="light|light_italic" />
+    <android.support.v4.widget.Space android:id="@id/circle_indicator_space" android:layout_width="fill_parent" android:layout_height="32.0dip" />
+</LinearLayout>

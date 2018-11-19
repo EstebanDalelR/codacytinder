@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auth_fb_disclaimer_content">
+        <item>Na Facebooku ne objavljamo ničesar</item>
+        <item>Če še nimaš ujemanja, te drugi uporabniki ne morejo kontaktirati</item>
+    </string-array>
+    <string-array name="empty_message_suggestions">
+        <item>\#kopodrsavašnevozi</item>
+        <item>\#ogovorisvojeujemanje</item>
+        <item>Dosežek je odklenjen!</item>
+        <item>In ko pomisliš, da bi skoraj podrsnil/-a v levo…</item>
+        <item>Kaj, imaš zvezane roke?</item>
+        <item>Kako, čakaš ekstra povabilo!?</item>
+        <item>Povprašaj jih o skupnih prijateljih.</item>
+        <item>Pokaži malo družabnosti.</item>
+        <item>Prek Tinderja je bilo poslanih že na milijarde sporočil. Kakšno bo tvoje?</item>
+        <item>Carpe diem.</item>
+        <item>Mačke ali psi?</item>
+        <item>Pogovori se ne napišejo sami.</item>
+        <item>Črički…</item>
+        <item>Muca jezik popapala?</item>
+        <item>Veš, da prilizovanje ne vžge?</item>
+        <item>Akcija!</item>
+        <item>Ne puščaj tega praznega.</item>
+        <item>Ne podrsavaj med vožnjo.</item>
+        <item>Tinder se ne uporablja med vožnjo.</item>
+        <item>Sprejemamo tudi čustvene simbole.</item>
+        <item>Prijazno osebo imajo vsi radi.</item>
+        <item>Pet miljonov poslanih sporočil v zadnji uri ... tebi na pamet pa niti eno?</item>
+        <item>Daj komu kompliment in opazuj, kaj se bo zgodilo.</item>
+        <item>Napotke, kako biti manj dolgočasen/-na, najdeš na Googlu.</item>
+        <item>Poišči kakšen dober dovtip na Googlu.</item>
+        <item>Odlično vprašanje! Zastavi ga, da dobiš odgovor.</item>
+        <item>Brez strahu, Tinder je tu!</item>
+        <item>Pokaži malo olike in reci „zdravo“!</item>
+        <item>„Hoj“ rečeš konju.</item>
+        <item>„Hej“ se ne vtisne v spomin.</item>
+        <item>Pokaži malo olike ... in nekaj povej!</item>
+        <item>Koliko časa mora miniti, da pošlješ sporočilo?</item>
+        <item>Koliko prijateljstev si sklenil/-a na Tinderju?</item>
+        <item>V koliko jezikih znaš tipkati?</item>
+        <item>Če bi le obstajal način, da načneš pogovor. Počakaj malo …</item>
+        <item>Če ne vprašaš, je odgovor vedno ne.</item>
+        <item>Če ne vprašaš, nikoli ne izveš.</item>
+        <item>Upam, da zdajle ne voziš.</item>
+        <item>V številnih deželah je molčanje nevljudno.</item>
+        <item>Spodaj vstavi kompliment.</item>
+        <item>Spodaj vstavi smešno sporočilo.</item>
+        <item>Spodaj vstavi prijazno sporočilo.</item>
+        <item>Na koncu obžalujemo le neizkoriščene priložnosti.</item>
+        <item>Se greš #tindertorek?</item>
+        <item>Vse se začne tukaj.</item>
+        <item>Še dobro, da nisi ponesreči podrsnil/-a v levo.</item>
+        <item>Tinder je šele, ko pošlješ sporočilo.</item>
+        <item>Tukaj se je začelo.</item>
+        <item>Začelo se je na Tinderju.</item>
+        <item>Gredo tudi njim po glavi same neumnosti?</item>
+        <item>Spravimo zadeve v pogon.</item>
+        <item>Sanjaj, kot da boš živel večno, živi, kot da boš umrl danes.</item>
+        <item>Naredi prvo potezo.</item>
+        <item>Izvabi jim nasmeh.</item>
+        <item>Naslednja stopnja je dosežena!</item>
+        <item>Nihče ne mara dolgočasnežev.</item>
+        <item>Več kot 36 %% tvojih prijateljev s Facebooka je na Tinderju.</item>
+        <item>Več kot 90 %% komplimentov je deležnih odziva.</item>
+        <item>Pripravljen/-a na Tinderiziranje?</item>
+        <item>Nekaj povej!</item>
+        <item>Povej nekaj smešnega!</item>
+        <item>Povej nekaj lepega o eni od njihovih fotografij.</item>
+        <item>Povej nekaj zabavnega!</item>
+        <item>Zahvali se za podrsavanje v desno.</item>
+        <item>Zapeljuj brez obotavljanja…</item>
+        <item>Vidiš tisto polje spodaj? Podeli kompliment.</item>
+        <item>Vidiš tisto polje spodaj? Vstavi osebnost.</item>
+        <item>Vidiš tisto polje spodaj? Vanj vtipkaj nekaj zabavnega.</item>
+        <item>Vidiš tole polje? Vtipkaj nekaj vanj.</item>
+        <item>Pošlji sporočilo, preden se ti sprazni baterija.</item>
+        <item>Sramežljiv/-a?</item>
+        <item>Izkoristi dan.</item>
+        <item>Nekdo bi moral narediti aplikacijo za spoznavanje kul ljudi. Počakaj malo …</item>
+        <item>Buljenje v zaslon ne načne pogovora …</item>
+        <item>Načeti pogovor zna biti mučno, ampak ne tukaj!</item>
+        <item>Ne bodi dolgočasen/-na.</item>
+        <item>Povej, kaj te je norega doletelo pred kratkim.</item>
+        <item>Povej, zakaj si podrsnil/-a v desno.</item>
+        <item>To je približno dve pasji leti.</item>
+        <item>Razlaga kratice FOMO: Bojazen, da lahko kaj zamudiš. (Fear of missing out.)</item>
+        <item>Zmaga, kdor prvi pošlje sporočilo.</item>
+        <item>Nič ni narobe, če pošlješ prvo sporočilo.</item>
+        <item>Verjetno so v živo lepši.</item>
+        <item>Bulji v isto stvar … napiši prvo sporočilo.</item>
+        <item>Če jim ne poveš, ne morejo vedeti.</item>
+        <item>Ta zaslon je s pogovorom veliko privlačnejši. Namig, namig.</item>
+        <item>Ta zaslon je zapolnjen s pogovorom veliko privlačnejši.</item>
+        <item>Tinder ne more tipkati namesto tebe …</item>
+        <item>Tinder ne more tipkati namesto tebe … vsaj zaenkrat.</item>
+        <item>Tinder ne more tipkati namesto tebe … no, lahko bi, ampak noče.</item>
+        <item>Tinder je posvečen ljudem, ki jih želiš poznati … začni tukaj.</item>
+        <item>Tinder je zanetil še en ogenj.</item>
+        <item>\#obasvapodrsnilavdesno</item>
+        <item>Če ti je že uspelo priti do sem, lahko vsaj kaj poveš.</item>
+        <item>Kaj čakaš?</item>
+        <item>Kaj te je spodbudilo, da si podrsnil/-a v desno?</item>
+        <item>Tvoja največja skrivnost?</item>
+        <item>Tvoja najljubša zgodba, povezana s Tinderjem?</item>
+        <item>Od kod si podrsnil/-a v desno?</item>
+        <item>Tvoja najljubša fotografija?</item>
+        <item>Zakaj si podrsnil/-a v desno?</item>
+        <item>Zakaj nisi pozdravil/-a?</item>
+        <item>Zakaj smo pa tako resni?</item>
+        <item>Zmaguješ!</item>
+        <item>YOLO.</item>
+        <item>YOLO, naj se podrsavanje začne!</item>
+        <item>Obema so všeč stvari. Govori o njih.</item>
+        <item>Otrokom bosta lahko povedala, da sta se spoznala na Tinderju.</item>
+        <item>Z razlogom imaš dva palca.</item>
+        <item>Saj veš, da se že želi pogovarjati s tabo, ne? #obasvapodrsnilavdesno</item>
+        <item>Ujemanj, ki jim ne pošlješ sporočila, 100 %% ne boš spoznal/-a.</item>
+        <item>Prikrajšaš se za 100 %% spominov, ki jih ne ustvariš.</item>
+        <item>Samo enkrat se živi.</item>
+        <item>Dnevi osamljenosti so mimo … ko rečeš živjo.</item>
+        <item>Ti si na potezi.</item>
+        <item>Oba sta navlečena na Tinder … to je že nekaj, kar vama je skupnega.</item>
+        <item>Nisi vsak dan mlajši/-a.</item>
+        <item>Preveč te je strah reči živjo? Šleva.</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+    </string-array>
+    <string-array name="ordinals">
+        <item>ničta</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+    </string-array>
+</resources>

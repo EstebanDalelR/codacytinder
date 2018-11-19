@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/matches_search_no_results" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/space_xxl"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/search_no_matches" />
+    <com.tinder.views.CustomTextView android:textSize="@dimen/text_m" android:textColor="@color/gray_dark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin_med" android:text="@string/no_matches_found" app:customFontStyle="semi_bold" />
+</LinearLayout>

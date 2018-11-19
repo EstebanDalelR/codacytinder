@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="boost">
+        <item>בוסט</item>
+        <item>בוסטים</item>
+    </plurals>
+    <plurals name="boost_paywall_option_length">
+        <item>בוסט</item>
+        <item>בוסטים</item>
+    </plurals>
+    <plurals name="common_connections_plural">
+        <item>חבר/ה משותף/ת %1$d</item>
+        <item>%1$d חברים משותפים</item>
+    </plurals>
+    <plurals name="day">
+        <item>יום</item>
+        <item>ימים</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item>נשאר יום %1$d</item>
+        <item>נשארו %1$d ימים</item>
+    </plurals>
+    <plurals name="distance_units_away_km">
+        <item>במרחק ק&quot;מ %1$d</item>
+        <item>במרחק %1$d ק&quot;מ</item>
+    </plurals>
+    <plurals name="distance_units_away_mi">
+        <item>במרחק מייל %1$d</item>
+        <item>במרחק %1$d מיילים</item>
+    </plurals>
+    <plurals name="every_day">
+        <item>יום</item>
+        <item>%1$d ימים</item>
+    </plurals>
+    <plurals name="every_hour">
+        <item>שעה</item>
+        <item>%1$d שעות</item>
+    </plurals>
+    <plurals name="every_month">
+        <item>חודש</item>
+        <item>%1$d חודשים</item>
+    </plurals>
+    <plurals name="every_second">
+        <item>שניה</item>
+        <item>%1$d שניות</item>
+    </plurals>
+    <plurals name="every_week">
+        <item>שבוע</item>
+        <item>%1$d שבועות</item>
+    </plurals>
+    <plurals name="every_x_new_like">
+        <item>כל לייק חדש %1$d</item>
+        <item>כל %1$d לייקים חדשים</item>
+    </plurals>
+    <plurals name="friends_for_common_connections_plural">
+        <item>חבר %1$d עם אנשי קשר משותפים</item>
+        <item>%1$d חברים עם אנשי קשר משותפים</item>
+    </plurals>
+    <plurals name="instagram_photos_plural">
+        <item>תמונת אינסטגרם %1$d</item>
+        <item>%1$d תמונות אינטסגרם</item>
+    </plurals>
+    <plurals name="interests_plural">
+        <item>תחום עניין משותף %1$d</item>
+        <item>%1$d תחומי עניין משותפים</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_days">
+        <item>מחר</item>
+        <item>בעוד %d ימים</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_hours">
+        <item>תוך שעה אחת</item>
+        <item>תוך %d שעות</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_minutes">
+        <item>תוך דקה אחת</item>
+        <item>תוך %d דקות</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_in_num_seconds">
+        <item>תוך שנייה אחת</item>
+        <item>תוך %d שניות</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_days_ago">
+        <item>אתמול</item>
+        <item>לפני %d ימים</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_hours_ago">
+        <item>לפני שעה</item>
+        <item>לפני %d שעות</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_minutes_ago">
+        <item>לפני דקה</item>
+        <item>לפני %d דקות</item>
+    </plurals>
+    <plurals name="joda_time_android_abbrev_num_seconds_ago">
+        <item>לפני שנייה אחת</item>
+        <item>לפני %d שניות</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_hours">
+        <item>שעה אחת</item>
+        <item>%d שעות</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_minutes">
+        <item>דקה אחת</item>
+        <item>%d דקות</item>
+    </plurals>
+    <plurals name="joda_time_android_duration_seconds">
+        <item>שנייה אחת</item>
+        <item>%d שניות</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_days">
+        <item>מחר</item>
+        <item>בעוד %d ימים</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_hours">
+        <item>תוך שעה אחת</item>
+        <item>תוך %d שעות</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_minutes">
+        <item>בעוד דקה אחת</item>
+        <item>תוך %d דקות</item>
+    </plurals>
+    <plurals name="joda_time_android_in_num_seconds">
+        <item>בעוד שנייה אחת</item>
+        <item>תוך %d שניות</item>
+    </plurals>
+    <plurals name="joda_time_android_num_days_ago">
+        <item>אתמול</item>
+        <item>לפני %d ימים</item>
+    </plurals>
+    <plurals name="joda_time_android_num_hours_ago">
+        <item>לפני שעה</item>
+        <item>לפני %d שעות</item>
+    </plurals>
+    <plurals name="joda_time_android_num_minutes_ago">
+        <item>לפני דקה אחת</item>
+        <item>לפני %d דקות</item>
+    </plurals>
+    <plurals name="joda_time_android_num_seconds_ago">
+        <item>לפני שנייה אחת</item>
+        <item>לפני %d שניות</item>
+    </plurals>
+    <plurals name="month">
+        <item>חודש</item>
+        <item>חודשים</item>
+    </plurals>
+    <plurals name="photo_count_plural">
+        <item>תמונה %1$d</item>
+        <item>%1$d תמונות</item>
+    </plurals>
+    <plurals name="place_recent_visitors">
+        <item>%1$d ביקר לאחרונה</item>
+        <item>%1$d ביקרו לאחרונה</item>
+    </plurals>
+    <plurals name="place_visitors">
+        <item>מבקר %1$d</item>
+        <item>%1$d מבקרים</item>
+    </plurals>
+    <plurals name="places_new_visitors">
+        <item>%1$s חדש</item>
+        <item>%1$s חדשים</item>
+    </plurals>
+    <plurals name="plus_paywall_option_length">
+        <item>חודש</item>
+        <item>חודשים</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>שניה</item>
+        <item>שניות</item>
+    </plurals>
+    <plurals name="superlike_paywall_options">
+        <item>סופר לייק</item>
+        <item>סופר לייקים</item>
+    </plurals>
+    <plurals name="superlike_paywall_perk_title">
+        <item>%2$s %1$d בכל %3$s</item>
+        <item>%1$d %2$s בכל %3$s</item>
+    </plurals>
+    <plurals name="superlike_tinder_plus_upsell_button_description">
+        <item>( %2$s %1$d בחינם בכל %3$s)</item>
+        <item>(%1$d %2$s בחינם בכל %3$s)</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_feature_description">
+        <item>תנו לי %2$s %1$d בכל %3$s</item>
+        <item>תנו לי %1$d %2$s בכל %3$s</item>
+    </plurals>
+    <plurals name="superlike_upsell_merch_header_description">
+        <item>%2$s %1$d בכל %3$s וסיכוי גבוה פי 3 למצוא התאמה</item>
+        <item>%1$d %2$s בכל %3$s וסיכוי גבוה פי 3 למצוא התאמה</item>
+    </plurals>
+    <plurals name="tinder_gold_new_likes">
+        <item>%1$s חדש</item>
+        <item>%1$s חדשים</item>
+    </plurals>
+    <plurals name="top_pick_paywall_options">
+        <item>Picks</item>
+        <item>Picks</item>
+    </plurals>
+    <plurals name="top_picks_left_format">
+        <item>נותר Pick %1$d</item>
+        <item>נותרו %1$d Picks</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_hours">
+        <item>נותרה שעה %1$d</item>
+        <item>נותרו %1$d שעות</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_less_than_num_of_minute">
+        <item>&lt;נותרה דקה %1$d</item>
+        <item>&lt;נותרו %1$d דקות</item>
+    </plurals>
+    <plurals name="top_picks_rec_card_minutes">
+        <item>נותרה דקה %1$d</item>
+        <item>נותרו %1$d דקות</item>
+    </plurals>
+    <plurals name="upgrade_gold_paywall_option">
+        <item>שדרוג</item>
+        <item>שדרוג</item>
+    </plurals>
+    <plurals name="week">
+        <item>שבוע</item>
+        <item>שבועות</item>
+    </plurals>
+</resources>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auth_fb_disclaimer_content">
+        <item>We don’t post anything to Facebook</item>
+        <item>Other users cannot contact you unless you’ve already been matched.</item>
+    </string-array>
+    <string-array name="empty_message_suggestions">
+        <item>\#Don’tSwipeAndDrive</item>
+        <item>\#TalkToYourTinder</item>
+        <item>Achievement unlocked!</item>
+        <item>And to think, you almost swiped left…</item>
+        <item>Are your hands tied or something?</item>
+        <item>Are you waiting for an invitation?!</item>
+        <item>Ask them about your mutual friends.</item>
+        <item>Be social.</item>
+        <item>Billions of messages have been sent on Tinder. What will yours be?</item>
+        <item>Carpe diem.</item>
+        <item>Cats or dogs?</item>
+        <item>Conversations don’t write themselves.</item>
+        <item>Crickets…</item>
+        <item>Did the cat bite your tongue?</item>
+        <item>Did you know that cheesy lines don’t work?</item>
+        <item>Do it!</item>
+        <item>Don’t leave it blank.</item>
+        <item>Don’t swipe and drive.</item>
+        <item>Don’t Tinder and drive.</item>
+        <item>Emojis accepted.</item>
+        <item>Everyone likes a thoughtful person.</item>
+        <item>Five million messages sent in the last hour … you can’t even think of one?</item>
+        <item>Give them a compliment and watch what happens.</item>
+        <item>Google how not to be boring.</item>
+        <item>Google some good one liners.</item>
+        <item>Great question! Ask to get the answer.</item>
+        <item>Have no fear, Tinder is here!</item>
+        <item>Have some manners, say “hello!”</item>
+        <item>\"Hey\" is for horses.</item>
+        <item>‘Hi’ isn’t memorable.</item>
+        <item>Have some manners … say something!</item>
+        <item>How long before you send a message?</item>
+        <item>How many friends have you made on Tinder?</item>
+        <item>How many languages can you type in?</item>
+        <item>If only there was a way to start a conversation. Oh wait…</item>
+        <item>If you don’t ask, the answer is always no.</item>
+        <item>If you don’t ask, you won’t ever know.</item>
+        <item>I hope you’re not driving right now.</item>
+        <item>In many cultures silence is considered rude.</item>
+        <item>Insert compliment below.</item>
+        <item>Insert funny message below.</item>
+        <item>Insert thoughtful message below.</item>
+        <item>In the end, we only regret the chances we didn’t take.</item>
+        <item>Is this your #TinderTuesday?</item>
+        <item>It all starts here.</item>
+        <item>It’s good you didn’t accidentally swipe left.</item>
+        <item>It’s not Tinder until you send a message.</item>
+        <item>It started here.</item>
+        <item>It started on Tinder.</item>
+        <item>I wonder what tagline they have.</item>
+        <item>Let’s get things started.</item>
+        <item>Live as if you die today, dream as if you live forever.</item>
+        <item>Make the first move.</item>
+        <item>Make them smile.</item>
+        <item>Next level reached!</item>
+        <item>No one likes a bore.</item>
+        <item>More than 36%% of your Facebook friends are on Tinder.</item>
+        <item>More than 90%% of compliments get a response.</item>
+        <item>Ready to get Tinderized?</item>
+        <item>Say something!</item>
+        <item>Say something funny!</item>
+        <item>Say something nice about one of their photos.</item>
+        <item>Say something witty!</item>
+        <item>Say thanks for swiping right.</item>
+        <item>Seduce away…</item>
+        <item>See that box down there? Compliment them.</item>
+        <item>See that box down there? Insert personality.</item>
+        <item>See that box down there? Type something witty into it.</item>
+        <item>See this box? Type something into it.</item>
+        <item>Send a message before your battery dies.</item>
+        <item>Shy?</item>
+        <item>Seize the day.</item>
+        <item>Someone should create an app to meet cool people. Oh wait…</item>
+        <item>Staring at this screen won’t start a convo…</item>
+        <item>Starting conversations are awkward, but not here!</item>
+        <item>Stop being boring.</item>
+        <item>Tell them about a crazy experience you just had.</item>
+        <item>Tell them why you swiped right.</item>
+        <item>That’s like 2 dog years.</item>
+        <item>The definition of FOMO: Fear of missing out.</item>
+        <item>The one who sends the first message wins.</item>
+        <item>There’s nothing wrong with sending the first message.</item>
+        <item>They probably look better in person.</item>
+        <item>They’re staring at the same thing … write the first message.</item>
+        <item>They won’t know until you tell them.</item>
+        <item>This screen looks a lot better with a conversation. Hint, hint.</item>
+        <item>This screen would look a lot better with a conversation in it.</item>
+        <item>Tinder can’t type for you…</item>
+        <item>Tinder can’t type for you … at least not yet.</item>
+        <item>Tinder can’t type for you… actually, it could, but it won’t.</item>
+        <item>Tinder is about people you want to know … start here.</item>
+        <item>Tinder sparks another fire.</item>
+        <item>\#WeBothSwipedRight</item>
+        <item>Well you’ve come this far, might as well say something.</item>
+        <item>What are you waiting for?</item>
+        <item>What made you swipe right?</item>
+        <item>What’s your biggest secret?</item>
+        <item>What’s your favorite Tinder story?</item>
+        <item>Where did you swipe right?</item>
+        <item>Which photo is your favorite?</item>
+        <item>Why did you swipe right?</item>
+        <item>Why haven’t you said hello?</item>
+        <item>Why so serious?</item>
+        <item>Winning!</item>
+        <item>YOLO.</item>
+        <item>YOSO: you only swipe once.</item>
+        <item>You both like things. Talk about them.</item>
+        <item>You can tell your kids you met on Tinder.</item>
+        <item>You have two thumbs for a reason.</item>
+        <item>You know they already want to talk to you, right? #WeBothSwipedRight</item>
+        <item>You’ll never meet 100%% of the matches you don’t message.</item>
+        <item>You miss 100%% of the memories you never make.</item>
+        <item>You only live once.</item>
+        <item>Your lonely days are over … once you say hi.</item>
+        <item>Your move.</item>
+        <item>You’re both addicted to Tinder … that’s something you have in common.</item>
+        <item>You’re not getting any younger.</item>
+        <item>You’re too afraid to say hi? Wuss.</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>north</item>
+        <item>northeast</item>
+        <item>east</item>
+        <item>southeast</item>
+        <item>south</item>
+        <item>southwest</item>
+        <item>west</item>
+        <item>northwest</item>
+    </string-array>
+    <string-array name="ordinals">
+        <item>zeroth</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+    </string-array>
+</resources>

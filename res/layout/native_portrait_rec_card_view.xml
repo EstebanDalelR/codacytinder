@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/ads_video_container" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:layout_gravity="bottom" android:id="@id/portrait_ad_bottom_gradient" android:background="@drawable/gradient_dfp_portrait_ad" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/square_video_bottom_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="104.0dip">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/ads_card_logo_image" android:layout_width="200.0dip" android:layout_height="64.0dip" android:scaleType="centerInside" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.tinder.views.CustomTextView android:textSize="@dimen/text_s" android:textColor="@android:color/white" android:id="@id/ads_card_clickthrough_text" android:padding="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.tinder.recs.view.nativevideos.ArrowAnimationDrawableImageView android:layout_width="20.0dip" android:layout_height="11.0dip" android:layout_marginStart="10.0dip" android:layout_marginEnd="10.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView android:layout_gravity="start|bottom|center" android:id="@id/ads_card_ad_icon" android:padding="8.0dip" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@drawable/ic_ad" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/recs_card_stamps_include" />
+</FrameLayout>

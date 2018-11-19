@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/white" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/intro_carousel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/intro_indicator">
+        <android.support.v4.view.ViewPager android:layout_gravity="bottom" android:id="@id/viewPager_intro" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <com.viewpagerindicator.CirclePageIndicator android:id="@id/intro_indicator" android:paddingTop="@dimen/padding_med" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/button_group" android:layout_centerHorizontal="true" app:radius="@dimen/intro_indicator_radius" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/button_group" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin_large" android:layout_marginRight="@dimen/margin_large" android:layout_alignParentBottom="true">
+        <com.tinder.auth.view.LoginButtonGroupView android:orientation="vertical" android:id="@id/auth_v2_buttons" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/padding_med" />
+    </LinearLayout>
+    <ImageView android:id="@id/auth_disclaimer_dismiss" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_chevron_up" android:layout_centerHorizontal="true" />
+    <com.tinder.views.CustomTextView android:textColor="#ff878a8f" android:gravity="center" android:id="@id/disclaimer_text_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+</RelativeLayout>
